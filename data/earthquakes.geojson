@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T22:07:18.797591+00:00",
+  "generated_at": "2026-07-11T22:57:10.881428+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "06:25 AM",
+        "time_24": "06:25",
+        "latitude": 7.38,
+        "longitude": 126.29,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "019km N 69Â° E of Maragusan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          7.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
