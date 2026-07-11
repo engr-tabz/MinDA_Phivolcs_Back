@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T09:45:26.004958+00:00",
+  "generated_at": "2026-07-11T09:58:58.385108+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "05:46 PM",
+        "time_24": "17:46",
+        "latitude": 5.59,
+        "longitude": 125.37,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "017km N 39Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
