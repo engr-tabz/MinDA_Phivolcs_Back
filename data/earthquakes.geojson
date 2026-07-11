@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T10:46:02.991985+00:00",
+  "generated_at": "2026-07-11T11:11:26.120645+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "06:51 PM",
+        "time_24": "18:51",
+        "latitude": 4.45,
+        "longitude": 125.65,
+        "depth_km": 10.0,
+        "magnitude": 5.7,
+        "location": "109km S 13Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.65,
+          4.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "06:47 PM",
+        "time_24": "18:47",
+        "latitude": 5.82,
+        "longitude": 126.49,
+        "depth_km": 49.0,
+        "magnitude": 3.2,
+        "location": "095km S 84Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "06:44 PM",
+        "time_24": "18:44",
+        "latitude": 5.68,
+        "longitude": 125.41,
+        "depth_km": 77.0,
+        "magnitude": 2.1,
+        "location": "024km N 15Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.68
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -988,17 +1048,17 @@
         "date": "10 July 2026",
         "time": "07:38 PM",
         "time_24": "19:38",
-        "latitude": 9.77,
-        "longitude": 125.56,
+        "latitude": 9.75,
+        "longitude": 125.6,
         "depth_km": 2.0,
-        "magnitude": 2.6,
-        "location": "007km S 70Â° E of City Of Surigao (Surigao Del Norte)"
+        "magnitude": 2.9,
+        "location": "006km N 13Â° E of Taganaan (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.56,
-          9.77
+          125.6,
+          9.75
         ]
       }
     },
@@ -1008,17 +1068,17 @@
         "date": "10 July 2026",
         "time": "07:03 PM",
         "time_24": "19:03",
-        "latitude": 11.28,
+        "latitude": 11.29,
         "longitude": 124.58,
-        "depth_km": 10.0,
+        "depth_km": 7.0,
         "magnitude": 2.5,
-        "location": "007km S 81Â° W of Capoocan (Leyte)"
+        "location": "006km S 86Â° W of Capoocan (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           124.58,
-          11.28
+          11.29
         ]
       }
     },
