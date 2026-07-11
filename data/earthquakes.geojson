@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T19:21:15.973961+00:00",
+  "generated_at": "2026-07-11T20:06:11.185421+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "03:51 AM",
+        "time_24": "03:51",
+        "latitude": 9.96,
+        "longitude": 126.49,
+        "depth_km": 4.0,
+        "magnitude": 3.2,
+        "location": "041km N 61Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49,
+          9.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "03:45 AM",
+        "time_24": "03:45",
+        "latitude": 12.7,
+        "longitude": 124.87,
+        "depth_km": 10.0,
+        "magnitude": 2.2,
+        "location": "016km N 21Â° W of Pambujan (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.87,
+          12.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "03:39 AM",
+        "time_24": "03:39",
+        "latitude": 16.48,
+        "longitude": 122.13,
+        "depth_km": 20.0,
+        "magnitude": 2.0,
+        "location": "013km N 44Â° W of Dilasag (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13,
+          16.48
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
