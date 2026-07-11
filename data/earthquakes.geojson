@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T13:53:25.979744+00:00",
+  "generated_at": "2026-07-11T14:06:15.777833+00:00",
   "features": [
     {
       "type": "Feature",
@@ -448,17 +448,17 @@
         "date": "11 July 2026",
         "time": "09:32 AM",
         "time_24": "09:32",
-        "latitude": 5.02,
-        "longitude": 124.55,
-        "depth_km": 37.0,
-        "magnitude": 3.1,
-        "location": "106km S 66Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.94,
+        "longitude": 124.59,
+        "depth_km": 54.0,
+        "magnitude": 3.0,
+        "location": "106km S 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.55,
-          5.02
+          124.59,
+          4.94
         ]
       }
     },
@@ -528,17 +528,17 @@
         "date": "11 July 2026",
         "time": "08:30 AM",
         "time_24": "08:30",
-        "latitude": 5.79,
-        "longitude": 125.27,
-        "depth_km": 21.0,
-        "magnitude": 1.6,
-        "location": "008km S 68Â° E of Glan (Sarangani)"
+        "latitude": 5.74,
+        "longitude": 125.22,
+        "depth_km": 14.0,
+        "magnitude": 1.7,
+        "location": "009km S 09Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.27,
-          5.79
+          125.22,
+          5.74
         ]
       }
     },
@@ -688,17 +688,17 @@
         "date": "11 July 2026",
         "time": "04:09 AM",
         "time_24": "04:09",
-        "latitude": 6.34,
-        "longitude": 124.08,
-        "depth_km": 24.0,
-        "magnitude": 1.9,
-        "location": "019km N 39Â° W of Palimbang (Sultan Kudarat)"
+        "latitude": 6.23,
+        "longitude": 124.1,
+        "depth_km": 30.0,
+        "magnitude": 2.1,
+        "location": "010km N 77Â° W of Palimbang (Sultan Kudarat)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.08,
-          6.34
+          124.1,
+          6.23
         ]
       }
     },
