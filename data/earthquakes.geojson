@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T12:35:54.645156+00:00",
+  "generated_at": "2026-07-11T13:53:25.979744+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "09:33 PM",
+        "time_24": "21:33",
+        "latitude": 10.77,
+        "longitude": 122.94,
+        "depth_km": 5.0,
+        "magnitude": 2.8,
+        "location": "005km S 46Â° W of City Of Silay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.94,
+          10.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "09:01 PM",
+        "time_24": "21:01",
+        "latitude": 9.93,
+        "longitude": 123.11,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "007km N 86Â° W of Tayasan (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.11,
+          9.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -450,9 +490,9 @@
         "time_24": "08:47",
         "latitude": 7.8,
         "longitude": 126.12,
-        "depth_km": 12.0,
-        "magnitude": 4.6,
-        "location": "008km S 67Â° E of Monkayo (Davao De Oro)"
+        "depth_km": 11.0,
+        "magnitude": 4.5,
+        "location": "008km S 72Â° E of Monkayo (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
