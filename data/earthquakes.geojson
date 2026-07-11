@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T08:27:30.181633+00:00",
+  "generated_at": "2026-07-11T09:45:26.004958+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "05:07 PM",
+        "time_24": "17:07",
+        "latitude": 5.6,
+        "longitude": 125.43,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "015km N 19Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "04:57 PM",
+        "time_24": "16:57",
+        "latitude": 5.37,
+        "longitude": 125.27,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "017km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "04:51 PM",
+        "time_24": "16:51",
+        "latitude": 12.54,
+        "longitude": 124.98,
+        "depth_km": 24.0,
+        "magnitude": 1.7,
+        "location": "004km S 49Â° W of Laoang (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.98,
+          12.54
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -688,17 +748,17 @@
         "date": "10 July 2026",
         "time": "10:45 PM",
         "time_24": "22:45",
-        "latitude": 9.61,
-        "longitude": 126.65,
-        "depth_km": 12.0,
-        "magnitude": 2.4,
-        "location": "057km S 71Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.6,
+        "longitude": 126.77,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "070km S 73Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.65,
-          9.61
+          126.77,
+          9.6
         ]
       }
     },
@@ -808,17 +868,17 @@
         "date": "10 July 2026",
         "time": "08:21 PM",
         "time_24": "20:21",
-        "latitude": 5.38,
+        "latitude": 5.4,
         "longitude": 125.11,
-        "depth_km": 23.0,
+        "depth_km": 21.0,
         "magnitude": 2.1,
-        "location": "034km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "034km S 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.11,
-          5.38
+          5.4
         ]
       }
     },
@@ -828,17 +888,17 @@
         "date": "10 July 2026",
         "time": "08:10 PM",
         "time_24": "20:10",
-        "latitude": 5.61,
-        "longitude": 125.05,
-        "depth_km": 29.0,
-        "magnitude": 1.5,
-        "location": "028km S 36Â° W of Glan (Sarangani)"
+        "latitude": 5.76,
+        "longitude": 125.08,
+        "depth_km": 13.0,
+        "magnitude": 1.9,
+        "location": "014km S 39Â° E of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.05,
-          5.61
+          125.08,
+          5.76
         ]
       }
     },
