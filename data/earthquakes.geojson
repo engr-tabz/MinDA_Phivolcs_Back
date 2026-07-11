@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T09:58:58.385108+00:00",
+  "generated_at": "2026-07-11T10:46:02.991985+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "06:25 PM",
+        "time_24": "18:25",
+        "latitude": 7.83,
+        "longitude": 122.79,
+        "depth_km": 30.0,
+        "magnitude": 1.4,
+        "location": "005km N 47Â° E of Kabasalan (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.79,
+          7.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "06:11 PM",
+        "time_24": "18:11",
+        "latitude": 5.53,
+        "longitude": 125.38,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "012km N 57Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "05:56 PM",
+        "time_24": "17:56",
+        "latitude": 5.69,
+        "longitude": 124.82,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "028km S 46Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82,
+          5.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -808,17 +868,17 @@
         "date": "10 July 2026",
         "time": "09:29 PM",
         "time_24": "21:29",
-        "latitude": 5.9,
-        "longitude": 125.33,
+        "latitude": 5.84,
+        "longitude": 125.3,
         "depth_km": 25.0,
-        "magnitude": 1.5,
-        "location": "008km S 30Â° E of Malapatan (Sarangani)"
+        "magnitude": 2.0,
+        "location": "011km N 77Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.9
+          125.3,
+          5.84
         ]
       }
     },
@@ -829,15 +889,15 @@
         "time": "09:26 PM",
         "time_24": "21:26",
         "latitude": 5.63,
-        "longitude": 125.41,
-        "depth_km": 31.0,
-        "magnitude": 2.6,
-        "location": "019km N 23Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "longitude": 125.33,
+        "depth_km": 11.0,
+        "magnitude": 2.7,
+        "location": "023km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.41,
+          125.33,
           5.63
         ]
       }
@@ -868,17 +928,17 @@
         "date": "10 July 2026",
         "time": "08:25 PM",
         "time_24": "20:25",
-        "latitude": 5.94,
-        "longitude": 126.39,
-        "depth_km": 32.0,
+        "latitude": 5.67,
+        "longitude": 126.53,
+        "depth_km": 93.0,
         "magnitude": 2.4,
-        "location": "082km S 69Â° E of Don Marcelino (Davao Occidental)"
+        "location": "102km S 75Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.39,
-          5.94
+          126.53,
+          5.67
         ]
       }
     },
@@ -986,19 +1046,19 @@
       "type": "Feature",
       "properties": {
         "date": "10 July 2026",
-        "time": "06:47 PM",
-        "time_24": "18:47",
-        "latitude": 6.09,
-        "longitude": 125.85,
-        "depth_km": 30.0,
-        "magnitude": 1.7,
-        "location": "021km S 54Â° E of Don Marcelino (Davao Occidental)"
+        "time": "06:46 PM",
+        "time_24": "18:46",
+        "latitude": 5.84,
+        "longitude": 126.09,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "050km S 80Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.85,
-          6.09
+          126.09,
+          5.84
         ]
       }
     },
@@ -1008,17 +1068,17 @@
         "date": "10 July 2026",
         "time": "06:38 PM",
         "time_24": "18:38",
-        "latitude": 5.72,
-        "longitude": 125.3,
+        "latitude": 5.69,
+        "longitude": 125.24,
         "depth_km": 3.0,
-        "magnitude": 1.9,
-        "location": "016km S 44Â° E of Glan (Sarangani)"
+        "magnitude": 2.2,
+        "location": "015km S 15Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          5.72
+          125.24,
+          5.69
         ]
       }
     },
@@ -1030,9 +1090,9 @@
         "time_24": "18:24",
         "latitude": 12.86,
         "longitude": 122.92,
-        "depth_km": 18.0,
+        "depth_km": 19.0,
         "magnitude": 3.0,
-        "location": "030km S 12Â° W of San Pascual (Masbate)"
+        "location": "031km S 12Â° W of San Pascual (Masbate)"
       },
       "geometry": {
         "type": "Point",
