@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T18:57:12.484966+00:00",
+  "generated_at": "2026-07-11T19:21:15.973961+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "03:14 AM",
+        "time_24": "03:14",
+        "latitude": 10.15,
+        "longitude": 126.08,
+        "depth_km": 17.0,
+        "magnitude": 2.0,
+        "location": "015km N 03Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.08,
+          10.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "03:12 AM",
+        "time_24": "03:12",
+        "latitude": 5.31,
+        "longitude": 125.04,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "044km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.04,
+          5.31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +128,17 @@
         "date": "12 July 2026",
         "time": "02:40 AM",
         "time_24": "02:40",
-        "latitude": 16.62,
-        "longitude": 118.96,
-        "depth_km": 10.0,
+        "latitude": 16.65,
+        "longitude": 119.03,
+        "depth_km": 15.0,
         "magnitude": 3.6,
-        "location": "102km N 76Â° W of Bolinao (Pangasinan)"
+        "location": "096km N 72Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.96,
-          16.62
+          119.03,
+          16.65
         ]
       }
     },
