@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T16:53:23.567633+00:00",
+  "generated_at": "2026-07-11T17:11:44.290435+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "01:00 AM",
+        "time_24": "01:00",
+        "latitude": 8.92,
+        "longitude": 126.32,
+        "depth_km": 45.0,
+        "magnitude": 1.8,
+        "location": "002km S 79Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          8.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:51 AM",
+        "time_24": "00:51",
+        "latitude": 16.62,
+        "longitude": 119.03,
+        "depth_km": 11.0,
+        "magnitude": 3.0,
+        "location": "096km N 75Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.03,
+          16.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:47 AM",
+        "time_24": "00:47",
+        "latitude": 16.61,
+        "longitude": 119.07,
+        "depth_km": 14.0,
+        "magnitude": 2.5,
+        "location": "091km N 74Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.07,
+          16.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
