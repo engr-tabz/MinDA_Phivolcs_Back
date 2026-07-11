@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T14:49:22.535691+00:00",
+  "generated_at": "2026-07-11T15:10:04.059518+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "10:56 PM",
+        "time_24": "22:56",
+        "latitude": 5.92,
+        "longitude": 124.92,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "011km N 53Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.92,
+          5.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "10:55 PM",
+        "time_24": "22:55",
+        "latitude": 5.84,
+        "longitude": 125.49,
+        "depth_km": 22.0,
+        "magnitude": 1.8,
+        "location": "019km S 65Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "10:54 PM",
+        "time_24": "22:54",
+        "latitude": 10.22,
+        "longitude": 125.93,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "026km N 28Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          10.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
