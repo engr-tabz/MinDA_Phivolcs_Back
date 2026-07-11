@@ -62,10 +62,22 @@ def parse_table():
                 continue
 
             try:
-                date_time = cols[0].split()
 
-                date_part = date_time[0]
-                time_part = " ".join(date_time[1:])
+                date_time = cols[0]
+
+                try:
+                    # Expected format:
+                    # 11 July 2026 - 09:32 AM
+                    date_part, time_part = [s.strip() for s in date_time.split(" - ", 1)]
+                except ValueError:
+                    # Fallback if the separator is missing
+                    parts = date_time.rsplit(" ", 2)
+                    if len(parts) == 3:
+                        date_part = parts[0]
+                        time_part = f"{parts[1]} {parts[2]}"
+                    else:
+                        date_part = date_time
+                        time_part = ""
 
                 lat = float(cols[1])
                 lon = float(cols[2])
