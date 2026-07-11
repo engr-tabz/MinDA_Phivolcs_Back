@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T16:08:05.756054+00:00",
+  "generated_at": "2026-07-11T16:53:23.567633+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:29 AM",
+        "time_24": "00:29",
+        "latitude": 8.91,
+        "longitude": 126.3,
+        "depth_km": 44.0,
+        "magnitude": 3.6,
+        "location": "001km S 34Â° W of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          8.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:09 AM",
+        "time_24": "00:09",
+        "latitude": 9.58,
+        "longitude": 122.61,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "016km S 82Â° E of Hinoba-an (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.61,
+          9.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:07 AM",
+        "time_24": "00:07",
+        "latitude": 8.67,
+        "longitude": 126.9,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "068km S 78Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9,
+          8.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "12:05 AM",
+        "time_24": "00:05",
+        "latitude": 16.59,
+        "longitude": 119.02,
+        "depth_km": 12.0,
+        "magnitude": 3.2,
+        "location": "096km N 77Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.02,
+          16.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
