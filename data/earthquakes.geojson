@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T11:11:26.120645+00:00",
+  "generated_at": "2026-07-11T11:36:59.650532+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 July 2026",
+        "time": "07:10 PM",
+        "time_24": "19:10",
+        "latitude": 7.65,
+        "longitude": 126.08,
+        "depth_km": 35.0,
+        "magnitude": 1.4,
+        "location": "002km S 21Â° W of Compostela (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.08,
+          7.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -408,17 +428,17 @@
         "date": "11 July 2026",
         "time": "08:43 AM",
         "time_24": "08:43",
-        "latitude": 6.22,
-        "longitude": 125.8,
-        "depth_km": 4.0,
+        "latitude": 6.07,
+        "longitude": 125.92,
+        "depth_km": 14.0,
         "magnitude": 3.9,
-        "location": "013km N 81Â° E of Don Marcelino (Davao Occidental)"
+        "location": "028km S 61Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.8,
-          6.22
+          125.92,
+          6.07
         ]
       }
     },
@@ -548,17 +568,17 @@
         "date": "11 July 2026",
         "time": "04:45 AM",
         "time_24": "04:45",
-        "latitude": 10.91,
-        "longitude": 122.88,
-        "depth_km": 34.0,
-        "magnitude": 1.5,
-        "location": "011km N 75Â° W of Enrique B. Magalona (Negros Occidental)"
+        "latitude": 10.92,
+        "longitude": 122.9,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "010km N 66Â° W of Enrique B. Magalona (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.88,
-          10.91
+          122.9,
+          10.92
         ]
       }
     },
@@ -568,17 +588,17 @@
         "date": "11 July 2026",
         "time": "04:28 AM",
         "time_24": "04:28",
-        "latitude": 9.95,
-        "longitude": 126.31,
-        "depth_km": 13.0,
-        "magnitude": 3.2,
-        "location": "025km N 42Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.9,
+        "longitude": 126.25,
+        "depth_km": 1.0,
+        "magnitude": 3.3,
+        "location": "017km N 39Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.31,
-          9.95
+          126.25,
+          9.9
         ]
       }
     },
@@ -609,15 +629,15 @@
         "time": "03:45 AM",
         "time_24": "03:45",
         "latitude": 13.56,
-        "longitude": 121.43,
-        "depth_km": 5.0,
+        "longitude": 121.46,
+        "depth_km": 8.0,
         "magnitude": 3.2,
-        "location": "026km S 67Â° E of Lobo (Batangas)"
+        "location": "029km S 70Â° E of Lobo (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.43,
+          121.46,
           13.56
         ]
       }
@@ -728,17 +748,17 @@
         "date": "11 July 2026",
         "time": "02:29 AM",
         "time_24": "02:29",
-        "latitude": 4.82,
-        "longitude": 125.18,
-        "depth_km": 17.0,
-        "magnitude": 3.0,
-        "location": "071km S 22Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.89,
+        "longitude": 125.07,
+        "depth_km": 23.0,
+        "magnitude": 3.3,
+        "location": "070km S 34Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.18,
-          4.82
+          125.07,
+          4.89
         ]
       }
     },
@@ -768,17 +788,17 @@
         "date": "11 July 2026",
         "time": "01:21 AM",
         "time_24": "01:21",
-        "latitude": 11.98,
-        "longitude": 125.5,
-        "depth_km": 20.0,
+        "latitude": 11.9,
+        "longitude": 125.45,
+        "depth_km": 2.0,
         "magnitude": 3.1,
-        "location": "006km S 19Â° E of Dolores (Eastern Samar)"
+        "location": "003km S 88Â° E of Taft (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.5,
-          11.98
+          125.45,
+          11.9
         ]
       }
     },
@@ -868,17 +888,17 @@
         "date": "10 July 2026",
         "time": "11:09 PM",
         "time_24": "23:09",
-        "latitude": 5.7,
-        "longitude": 125.13,
-        "depth_km": 11.0,
-        "magnitude": 1.7,
-        "location": "015km S 33Â° W of Glan (Sarangani)"
+        "latitude": 5.72,
+        "longitude": 125.11,
+        "depth_km": 14.0,
+        "magnitude": 2.1,
+        "location": "015km S 43Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.13,
-          5.7
+          125.11,
+          5.72
         ]
       }
     },
