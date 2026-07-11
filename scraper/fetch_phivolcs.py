@@ -11,12 +11,13 @@ URL = "https://earthquake.phivolcs.dost.gov.ph/"
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-def build_feature(date_part, time_part, lat, lon, depth, mag, location):
+def build_feature(date_part, time_part, time_24, lat, lon, depth, mag, location):
     return {
         "type": "Feature",
         "properties": {
             "date": date_part,
             "time": time_part,
+            "time_24": time_24,
             "latitude": lat,
             "longitude": lon,
             "depth_km": depth,
@@ -69,6 +70,7 @@ def parse_table():
                     # Expected format:
                     # 11 July 2026 - 09:32 AM
                     date_part, time_part = [s.strip() for s in date_time.split(" - ", 1)]
+                    time_24 = datetime.strptime(time_part, "%I:%M %p").strftime("%H:%M")
                 except ValueError:
                     # Fallback if the separator is missing
                     parts = date_time.rsplit(" ", 2)
@@ -89,6 +91,7 @@ def parse_table():
                     build_feature(
                         date_part,
                         time_part,
+                        time_24,
                         lat,
                         lon,
                         depth,
