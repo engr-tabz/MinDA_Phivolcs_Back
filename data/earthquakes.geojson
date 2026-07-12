@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T19:29:29.775875+00:00",
+  "generated_at": "2026-07-12T19:49:56.936445+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "03:27 AM",
+        "time_24": "03:27",
+        "latitude": 20.7,
+        "longitude": 119.95,
+        "depth_km": 34.0,
+        "magnitude": 2.3,
+        "location": "197km S 87Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          20.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "03:25 AM",
+        "time_24": "03:25",
+        "latitude": 17.65,
+        "longitude": 120.57,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "008km N 39Â° W of Bangued (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57,
+          17.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1188,17 +1228,17 @@
         "date": "12 July 2026",
         "time": "08:35 AM",
         "time_24": "08:35",
-        "latitude": 5.58,
-        "longitude": 124.78,
-        "depth_km": 2.0,
+        "latitude": 5.67,
+        "longitude": 124.74,
+        "depth_km": 1.0,
         "magnitude": 3.0,
-        "location": "039km S 37Â° W of Maasim (Sarangani)"
+        "location": "035km S 53Â° W of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.78,
-          5.58
+          124.74,
+          5.67
         ]
       }
     },
