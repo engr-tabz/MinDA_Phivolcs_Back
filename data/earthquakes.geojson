@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T18:11:15.202274+00:00",
+  "generated_at": "2026-07-12T18:37:26.072512+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "02:12 AM",
+        "time_24": "02:12",
+        "latitude": 5.25,
+        "longitude": 126.47,
+        "depth_km": 107.0,
+        "magnitude": 3.0,
+        "location": "113km S 77Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          5.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "02:10 AM",
+        "time_24": "02:10",
+        "latitude": 10.98,
+        "longitude": 122.24,
+        "depth_km": 5.0,
+        "magnitude": 2.9,
+        "location": "013km S 77Â° E of Valderrama (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.24,
+          10.98
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
