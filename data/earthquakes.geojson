@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T00:09:50.919426+00:00",
+  "generated_at": "2026-07-12T01:14:54.626340+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "08:54 AM",
+        "time_24": "08:54",
+        "latitude": 5.89,
+        "longitude": 124.85,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "016km N 80Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.85,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "08:43 AM",
+        "time_24": "08:43",
+        "latitude": 2.94,
+        "longitude": 127.03,
+        "depth_km": 11.0,
+        "magnitude": 4.8,
+        "location": "327km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03,
+          2.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "08:35 AM",
+        "time_24": "08:35",
+        "latitude": 5.58,
+        "longitude": 124.78,
+        "depth_km": 2.0,
+        "magnitude": 3.0,
+        "location": "039km S 37Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "08:32 AM",
+        "time_24": "08:32",
+        "latitude": 5.09,
+        "longitude": 125.39,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "035km S 06Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.09
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
