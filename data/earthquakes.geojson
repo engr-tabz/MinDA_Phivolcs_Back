@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T22:05:08.981613+00:00",
+  "generated_at": "2026-07-12T22:31:31.466087+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "06:17 AM",
+        "time_24": "06:17",
+        "latitude": 10.14,
+        "longitude": 126.24,
+        "depth_km": 24.0,
+        "magnitude": 2.5,
+        "location": "023km N 53Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          10.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "06:10 AM",
+        "time_24": "06:10",
+        "latitude": 3.81,
+        "longitude": 125.93,
+        "depth_km": 71.0,
+        "magnitude": 3.7,
+        "location": "186km S 18Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          3.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
