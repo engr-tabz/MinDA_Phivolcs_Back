@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T16:13:38.994205+00:00",
+  "generated_at": "2026-07-12T16:26:57.983875+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "12:09 AM",
+        "time_24": "00:09",
+        "latitude": 18.05,
+        "longitude": 120.39,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "011km N 71Â° W of Currimao (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39,
+          18.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
