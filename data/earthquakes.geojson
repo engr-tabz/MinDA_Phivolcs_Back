@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T17:33:33.739597+00:00",
+  "generated_at": "2026-07-12T18:11:15.202274+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1628,17 +1628,17 @@
         "date": "12 July 2026",
         "time": "02:21 AM",
         "time_24": "02:21",
-        "latitude": 16.49,
-        "longitude": 119.13,
-        "depth_km": 15.0,
+        "latitude": 16.48,
+        "longitude": 119.0,
+        "depth_km": 22.0,
         "magnitude": 2.5,
-        "location": "083km N 82Â° W of Bolinao (Pangasinan)"
+        "location": "096km N 84Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.13,
-          16.49
+          119.0,
+          16.48
         ]
       }
     },
@@ -1648,17 +1648,17 @@
         "date": "12 July 2026",
         "time": "02:18 AM",
         "time_24": "02:18",
-        "latitude": 16.71,
-        "longitude": 119.19,
-        "depth_km": 11.0,
+        "latitude": 16.69,
+        "longitude": 119.07,
+        "depth_km": 33.0,
         "magnitude": 2.7,
-        "location": "083km N 65Â° W of Bolinao (Pangasinan)"
+        "location": "094km N 69Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.19,
-          16.71
+          119.07,
+          16.69
         ]
       }
     },
@@ -1669,15 +1669,15 @@
         "time": "02:16 AM",
         "time_24": "02:16",
         "latitude": 8.37,
-        "longitude": 125.86,
-        "depth_km": 21.0,
+        "longitude": 125.89,
+        "depth_km": 20.0,
         "magnitude": 2.2,
-        "location": "012km N 31Â° E of La Paz (Agusan Del Sur)"
+        "location": "013km N 42Â° E of La Paz (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.86,
+          125.89,
           8.37
         ]
       }
@@ -1988,17 +1988,17 @@
         "date": "12 July 2026",
         "time": "12:05 AM",
         "time_24": "00:05",
-        "latitude": 16.59,
-        "longitude": 119.02,
-        "depth_km": 12.0,
+        "latitude": 16.54,
+        "longitude": 119.06,
+        "depth_km": 24.0,
         "magnitude": 3.2,
-        "location": "096km N 77Â° W of Bolinao (Pangasinan)"
+        "location": "090km N 79Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.02,
-          16.59
+          119.06,
+          16.54
         ]
       }
     },
@@ -2008,17 +2008,17 @@
         "date": "11 July 2026",
         "time": "11:52 PM",
         "time_24": "23:52",
-        "latitude": 6.73,
-        "longitude": 125.83,
-        "depth_km": 26.0,
+        "latitude": 6.01,
+        "longitude": 125.57,
+        "depth_km": 67.0,
         "magnitude": 1.9,
-        "location": "027km S 47Â° W of Lupon (Davao Oriental)"
+        "location": "014km N 34Â° W of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.83,
-          6.73
+          125.57,
+          6.01
         ]
       }
     },
@@ -2028,17 +2028,17 @@
         "date": "11 July 2026",
         "time": "11:45 PM",
         "time_24": "23:45",
-        "latitude": 16.57,
-        "longitude": 119.06,
-        "depth_km": 33.0,
+        "latitude": 16.53,
+        "longitude": 119.19,
+        "depth_km": 15.0,
         "magnitude": 2.3,
-        "location": "091km N 77Â° W of Bolinao (Pangasinan)"
+        "location": "077km N 78Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.06,
-          16.57
+          119.19,
+          16.53
         ]
       }
     },
