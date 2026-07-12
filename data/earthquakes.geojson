@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T18:37:26.072512+00:00",
+  "generated_at": "2026-07-12T19:29:29.775875+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "02:55 AM",
+        "time_24": "02:55",
+        "latitude": 17.61,
+        "longitude": 120.7,
+        "depth_km": 19.0,
+        "magnitude": 2.2,
+        "location": "007km S 07Â° E of La Paz (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          17.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 5.56,
+        "longitude": 124.84,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "038km S 27Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.84,
+          5.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
