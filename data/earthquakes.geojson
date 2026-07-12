@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T12:39:33.112802+00:00",
+  "generated_at": "2026-07-12T14:11:55.694819+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "09:33 PM",
+        "time_24": "21:33",
+        "latitude": 10.86,
+        "longitude": 124.01,
+        "depth_km": 1.0,
+        "magnitude": 2.4,
+        "location": "003km N 46Â° W of Borbon (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.01,
+          10.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "09:20 PM",
+        "time_24": "21:20",
+        "latitude": 4.66,
+        "longitude": 124.54,
+        "depth_km": 10.0,
+        "magnitude": 2.7,
+        "location": "127km S 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.54,
+          4.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "09:03 PM",
+        "time_24": "21:03",
+        "latitude": 5.86,
+        "longitude": 125.38,
+        "depth_km": 23.0,
+        "magnitude": 2.1,
+        "location": "016km S 37Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "08:49 PM",
+        "time_24": "20:49",
+        "latitude": 6.11,
+        "longitude": 125.67,
+        "depth_km": 71.0,
+        "magnitude": 1.9,
+        "location": "010km S 12Â° W of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          6.11
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1608,17 +1688,17 @@
         "date": "12 July 2026",
         "time": "12:51 AM",
         "time_24": "00:51",
-        "latitude": 16.62,
-        "longitude": 119.03,
-        "depth_km": 11.0,
-        "magnitude": 3.0,
-        "location": "096km N 75Â° W of Bolinao (Pangasinan)"
+        "latitude": 16.64,
+        "longitude": 119.05,
+        "depth_km": 9.0,
+        "magnitude": 3.1,
+        "location": "090km N 73Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.03,
-          16.62
+          119.05,
+          16.64
         ]
       }
     },
@@ -1628,17 +1708,17 @@
         "date": "12 July 2026",
         "time": "12:47 AM",
         "time_24": "00:47",
-        "latitude": 16.61,
-        "longitude": 119.07,
-        "depth_km": 14.0,
-        "magnitude": 2.5,
-        "location": "091km N 74Â° W of Bolinao (Pangasinan)"
+        "latitude": 16.62,
+        "longitude": 119.06,
+        "depth_km": 15.0,
+        "magnitude": 2.6,
+        "location": "096km N 77Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.07,
-          16.61
+          119.06,
+          16.62
         ]
       }
     },
@@ -1648,17 +1728,17 @@
         "date": "12 July 2026",
         "time": "12:29 AM",
         "time_24": "00:29",
-        "latitude": 8.91,
-        "longitude": 126.3,
-        "depth_km": 44.0,
+        "latitude": 8.93,
+        "longitude": 126.27,
+        "depth_km": 43.0,
         "magnitude": 3.6,
-        "location": "001km S 34Â° W of Cagwait (Surigao Del Sur)"
+        "location": "003km N 71Â° W of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.3,
-          8.91
+          126.27,
+          8.93
         ]
       }
     },
