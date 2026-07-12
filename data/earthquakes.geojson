@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-11T23:52:09.705338+00:00",
+  "generated_at": "2026-07-12T00:09:50.919426+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "07:57 AM",
+        "time_24": "07:57",
+        "latitude": 5.84,
+        "longitude": 125.29,
+        "depth_km": 12.0,
+        "magnitude": 2.0,
+        "location": "009km N 78Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "07:45 AM",
+        "time_24": "07:45",
+        "latitude": 10.08,
+        "longitude": 126.15,
+        "depth_km": 29.0,
+        "magnitude": 2.9,
+        "location": "011km N 47Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          10.08
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
