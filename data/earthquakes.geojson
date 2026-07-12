@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T15:17:32.355222+00:00",
+  "generated_at": "2026-07-12T16:13:38.994205+00:00",
   "features": [
     {
       "type": "Feature",
@@ -968,17 +968,17 @@
         "date": "12 July 2026",
         "time": "09:17 AM",
         "time_24": "09:17",
-        "latitude": 5.35,
-        "longitude": 125.24,
-        "depth_km": 30.0,
-        "magnitude": 2.3,
-        "location": "021km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.37,
+        "longitude": 125.22,
+        "depth_km": 34.0,
+        "magnitude": 2.4,
+        "location": "023km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
-          5.35
+          125.22,
+          5.37
         ]
       }
     },
@@ -1609,15 +1609,15 @@
         "time": "02:15 AM",
         "time_24": "02:15",
         "latitude": 16.47,
-        "longitude": 119.24,
-        "depth_km": 15.0,
-        "magnitude": 2.2,
-        "location": "070km N 83Â° W of Bolinao (Pangasinan)"
+        "longitude": 119.18,
+        "depth_km": 14.0,
+        "magnitude": 2.3,
+        "location": "077km N 84Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.24,
+          119.18,
           16.47
         ]
       }
@@ -1629,15 +1629,15 @@
         "time": "02:10 AM",
         "time_24": "02:10",
         "latitude": 16.64,
-        "longitude": 118.96,
-        "depth_km": 15.0,
+        "longitude": 119.03,
+        "depth_km": 14.0,
         "magnitude": 2.9,
-        "location": "103km N 74Â° W of Bolinao (Pangasinan)"
+        "location": "096km N 73Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.96,
+          119.03,
           16.64
         ]
       }
@@ -1768,17 +1768,17 @@
         "date": "12 July 2026",
         "time": "01:22 AM",
         "time_24": "01:22",
-        "latitude": 8.97,
-        "longitude": 126.18,
-        "depth_km": 65.0,
-        "magnitude": 1.8,
-        "location": "008km S 46Â° W of Tago (Surigao Del Sur)"
+        "latitude": 8.95,
+        "longitude": 126.2,
+        "depth_km": 54.0,
+        "magnitude": 1.9,
+        "location": "009km S 29Â° W of Tago (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.18,
-          8.97
+          126.2,
+          8.95
         ]
       }
     },
@@ -1868,17 +1868,17 @@
         "date": "12 July 2026",
         "time": "12:09 AM",
         "time_24": "00:09",
-        "latitude": 9.58,
-        "longitude": 122.61,
-        "depth_km": 21.0,
+        "latitude": 9.47,
+        "longitude": 122.58,
+        "depth_km": 7.0,
         "magnitude": 2.2,
-        "location": "016km S 82Â° E of Hinoba-an (Negros Occidental)"
+        "location": "019km S 41Â° E of Hinoba-an (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.61,
-          9.58
+          122.58,
+          9.47
         ]
       }
     },
@@ -1888,17 +1888,17 @@
         "date": "12 July 2026",
         "time": "12:07 AM",
         "time_24": "00:07",
-        "latitude": 8.67,
-        "longitude": 126.9,
-        "depth_km": 5.0,
+        "latitude": 8.71,
+        "longitude": 126.92,
+        "depth_km": 16.0,
         "magnitude": 2.3,
-        "location": "068km S 78Â° E of Marihatag (Surigao Del Sur)"
+        "location": "069km S 82Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9,
-          8.67
+          126.92,
+          8.71
         ]
       }
     },
