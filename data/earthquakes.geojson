@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T21:10:03.166096+00:00",
+  "generated_at": "2026-07-12T21:32:45.367757+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "05:02 AM",
+        "time_24": "05:02",
+        "latitude": 6.74,
+        "longitude": 125.79,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "030km S 55Â° W of Lupon (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          6.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
