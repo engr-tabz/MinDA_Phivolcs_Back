@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T10:23:53.816366+00:00",
+  "generated_at": "2026-07-12T10:45:40.210327+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1348,17 +1348,17 @@
         "date": "12 July 2026",
         "time": "01:44 AM",
         "time_24": "01:44",
-        "latitude": 5.88,
-        "longitude": 125.31,
-        "depth_km": 3.0,
-        "magnitude": 2.7,
-        "location": "010km S 16Â° E of Malapatan (Sarangani)"
+        "latitude": 5.73,
+        "longitude": 125.27,
+        "depth_km": 11.0,
+        "magnitude": 2.9,
+        "location": "020km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          5.88
+          125.27,
+          5.73
         ]
       }
     },
@@ -1368,17 +1368,17 @@
         "date": "12 July 2026",
         "time": "01:44 AM",
         "time_24": "01:44",
-        "latitude": 5.88,
-        "longitude": 125.31,
-        "depth_km": 3.0,
-        "magnitude": 2.7,
-        "location": "010km S 16Â° E of Malapatan (Sarangani)"
+        "latitude": 5.73,
+        "longitude": 125.27,
+        "depth_km": 11.0,
+        "magnitude": 2.9,
+        "location": "020km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          5.88
+          125.27,
+          5.73
         ]
       }
     },
@@ -1628,17 +1628,17 @@
         "date": "11 July 2026",
         "time": "11:11 PM",
         "time_24": "23:11",
-        "latitude": 9.0,
-        "longitude": 122.1,
-        "depth_km": 28.0,
-        "magnitude": 2.5,
-        "location": "074km S 53Â° W of Basay (Negros Oriental)"
+        "latitude": 8.7,
+        "longitude": 121.99,
+        "depth_km": 15.0,
+        "magnitude": 2.6,
+        "location": "106km S 42Â° W of Basay (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.1,
-          9.0
+          121.99,
+          8.7
         ]
       }
     },
@@ -1688,17 +1688,17 @@
         "date": "11 July 2026",
         "time": "10:55 PM",
         "time_24": "22:55",
-        "latitude": 5.84,
-        "longitude": 125.49,
-        "depth_km": 22.0,
-        "magnitude": 1.8,
-        "location": "019km S 65Â° W of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.79,
+        "longitude": 125.39,
+        "depth_km": 13.0,
+        "magnitude": 2.1,
+        "location": "021km S 82Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.49,
-          5.84
+          125.39,
+          5.79
         ]
       }
     },
@@ -1708,17 +1708,17 @@
         "date": "11 July 2026",
         "time": "10:54 PM",
         "time_24": "22:54",
-        "latitude": 10.22,
-        "longitude": 125.93,
-        "depth_km": 27.0,
-        "magnitude": 1.6,
-        "location": "026km N 28Â° W of Santa Monica (Surigao Del Norte)"
+        "latitude": 10.29,
+        "longitude": 126.11,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "031km N 14Â° E of Santa Monica (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.93,
-          10.22
+          126.11,
+          10.29
         ]
       }
     },
@@ -1808,17 +1808,17 @@
         "date": "11 July 2026",
         "time": "07:10 PM",
         "time_24": "19:10",
-        "latitude": 7.65,
-        "longitude": 126.08,
-        "depth_km": 35.0,
+        "latitude": 7.67,
+        "longitude": 126.05,
+        "depth_km": 33.0,
         "magnitude": 1.4,
-        "location": "002km S 21Â° W of Compostela (Davao De Oro)"
+        "location": "004km N 80Â° W of Compostela (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.08,
-          7.65
+          126.05,
+          7.67
         ]
       }
     },
@@ -1848,17 +1848,17 @@
         "date": "11 July 2026",
         "time": "06:47 PM",
         "time_24": "18:47",
-        "latitude": 5.82,
-        "longitude": 126.49,
-        "depth_km": 49.0,
+        "latitude": 5.88,
+        "longitude": 126.44,
+        "depth_km": 54.0,
         "magnitude": 3.2,
-        "location": "095km S 84Â° E of Jose Abad Santos (Davao Occidental)"
+        "location": "088km S 88Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.49,
-          5.82
+          126.44,
+          5.88
         ]
       }
     },
