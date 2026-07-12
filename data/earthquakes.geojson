@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T14:13:35.721347+00:00",
+  "generated_at": "2026-07-12T15:15:08.003938+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "10:36 PM",
+        "time_24": "22:36",
+        "latitude": 6.53,
+        "longitude": 125.8,
+        "depth_km": 65.0,
+        "magnitude": 2.0,
+        "location": "024km N 59Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8,
+          6.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "10:34 PM",
+        "time_24": "22:34",
+        "latitude": 5.32,
+        "longitude": 125.36,
+        "depth_km": 10.0,
+        "magnitude": 2.3,
+        "location": "012km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "10:29 PM",
+        "time_24": "22:29",
+        "latitude": 5.74,
+        "longitude": 126.22,
+        "depth_km": 133.0,
+        "magnitude": 2.3,
+        "location": "067km S 73Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "10:21 PM",
+        "time_24": "22:21",
+        "latitude": 13.77,
+        "longitude": 124.04,
+        "depth_km": 14.0,
+        "magnitude": 2.6,
+        "location": "019km S 89Â° E of Caramoan (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.04,
+          13.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
