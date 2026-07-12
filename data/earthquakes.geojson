@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T08:53:18.073791+00:00",
+  "generated_at": "2026-07-12T09:17:40.917338+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "04:51 PM",
+        "time_24": "16:51",
+        "latitude": 8.83,
+        "longitude": 126.45,
+        "depth_km": 28.0,
+        "magnitude": 2.1,
+        "location": "017km N 80Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          8.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "04:45 PM",
+        "time_24": "16:45",
+        "latitude": 10.15,
+        "longitude": 122.12,
+        "depth_km": 33.0,
+        "magnitude": 3.0,
+        "location": "038km S 34Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.12,
+          10.15
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
