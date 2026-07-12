@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T06:31:33.533246+00:00",
+  "generated_at": "2026-07-12T07:15:29.573066+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 July 2026",
+        "time": "02:40 PM",
+        "time_24": "14:40",
+        "latitude": 10.01,
+        "longitude": 126.11,
+        "depth_km": 10.0,
+        "magnitude": 3.2,
+        "location": "004km S 73Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          10.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
