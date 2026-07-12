@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-12T19:49:56.936445+00:00",
+  "generated_at": "2026-07-12T20:21:57.266978+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "03:55 AM",
+        "time_24": "03:55",
+        "latitude": 6.55,
+        "longitude": 125.77,
+        "depth_km": 104.0,
+        "magnitude": 2.1,
+        "location": "023km N 50Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77,
+          6.55
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1228,17 @@
         "date": "12 July 2026",
         "time": "08:43 AM",
         "time_24": "08:43",
-        "latitude": 2.94,
-        "longitude": 127.03,
-        "depth_km": 11.0,
+        "latitude": 3.13,
+        "longitude": 126.96,
+        "depth_km": 84.0,
         "magnitude": 4.8,
-        "location": "327km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "305km S 34Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.03,
-          2.94
+          126.96,
+          3.13
         ]
       }
     },
