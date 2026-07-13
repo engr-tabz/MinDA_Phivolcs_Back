@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-13T01:13:28.598303+00:00",
+  "generated_at": "2026-07-13T02:01:40.233582+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "09:37 AM",
+        "time_24": "09:37",
+        "latitude": 19.73,
+        "longitude": 121.33,
+        "depth_km": 17.0,
+        "magnitude": 2.6,
+        "location": "055km N 16Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33,
+          19.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "09:06 AM",
+        "time_24": "09:06",
+        "latitude": 12.88,
+        "longitude": 123.17,
+        "depth_km": 20.0,
+        "magnitude": 2.2,
+        "location": "009km S 71Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17,
+          12.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "09:03 AM",
+        "time_24": "09:03",
+        "latitude": 12.84,
+        "longitude": 122.97,
+        "depth_km": 45.0,
+        "magnitude": 1.6,
+        "location": "031km S 77Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.97,
+          12.84
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,19 +86,19 @@
       "type": "Feature",
       "properties": {
         "date": "13 July 2026",
-        "time": "08:53 AM",
-        "time_24": "08:53",
-        "latitude": 12.55,
-        "longitude": 123.13,
-        "depth_km": 7.0,
-        "magnitude": 4.8,
-        "location": "040km S 18Â° W of Claveria (Masbate)"
+        "time": "08:54 AM",
+        "time_24": "08:54",
+        "latitude": 12.79,
+        "longitude": 123.03,
+        "depth_km": 6.0,
+        "magnitude": 5.4,
+        "location": "026km S 61Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          12.55
+          123.03,
+          12.79
         ]
       }
     },
@@ -219,6 +279,26 @@
         "coordinates": [
           125.93,
           3.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "05:39 AM",
+        "time_24": "05:39",
+        "latitude": 6.64,
+        "longitude": 125.79,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "031km S 88Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          6.64
         ]
       }
     },
