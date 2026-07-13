@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-13T20:58:55.417140+00:00",
+  "generated_at": "2026-07-13T22:03:28.627080+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:48 AM",
+        "time_24": "05:48",
+        "latitude": 12.8,
+        "longitude": 123.09,
+        "depth_km": 12.0,
+        "magnitude": 2.8,
+        "location": "020km S 57Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09,
+          12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:38 AM",
+        "time_24": "05:38",
+        "latitude": 18.23,
+        "longitude": 120.88,
+        "depth_km": 59.0,
+        "magnitude": 2.1,
+        "location": "011km N 31Â° E of Carasi (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88,
+          18.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:26 AM",
+        "time_24": "05:26",
+        "latitude": 6.62,
+        "longitude": 125.88,
+        "depth_km": 66.0,
+        "magnitude": 2.1,
+        "location": "022km S 81Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.88,
+          6.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:26 AM",
+        "time_24": "05:26",
+        "latitude": 14.76,
+        "longitude": 121.88,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "008km N 50Â° W of Polillo (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.88,
+          14.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:18 AM",
+        "time_24": "05:18",
+        "latitude": 5.65,
+        "longitude": 125.37,
+        "depth_km": 4.0,
+        "magnitude": 3.1,
+        "location": "023km N 31Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 5.79,
+        "longitude": 125.33,
+        "depth_km": 9.0,
+        "magnitude": 3.0,
+        "location": "015km S 78Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "04:57 AM",
+        "time_24": "04:57",
+        "latitude": 17.79,
+        "longitude": 120.5,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "005km S 87Â° E of Cabugao (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          17.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
