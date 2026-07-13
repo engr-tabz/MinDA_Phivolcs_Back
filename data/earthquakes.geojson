@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-13T00:02:57.437422+00:00",
+  "generated_at": "2026-07-13T01:13:28.598303+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "09:00 AM",
+        "time_24": "09:00",
+        "latitude": 12.85,
+        "longitude": 123.13,
+        "depth_km": 10.0,
+        "magnitude": 3.9,
+        "location": "013km S 66Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13,
+          12.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "08:53 AM",
+        "time_24": "08:53",
+        "latitude": 12.55,
+        "longitude": 123.13,
+        "depth_km": 7.0,
+        "magnitude": 4.8,
+        "location": "040km S 18Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13,
+          12.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "08:52 AM",
+        "time_24": "08:52",
+        "latitude": 12.81,
+        "longitude": 123.07,
+        "depth_km": 2.0,
+        "magnitude": 2.9,
+        "location": "022km S 62Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "08:50 AM",
+        "time_24": "08:50",
+        "latitude": 16.52,
+        "longitude": 119.12,
+        "depth_km": 15.0,
+        "magnitude": 3.4,
+        "location": "084km N 80Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.12,
+          16.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "08:41 AM",
+        "time_24": "08:41",
+        "latitude": 6.99,
+        "longitude": 126.76,
+        "depth_km": 158.0,
+        "magnitude": 3.1,
+        "location": "035km S 45Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.76,
+          6.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 July 2026",
+        "time": "07:52 AM",
+        "time_24": "07:52",
+        "latitude": 11.69,
+        "longitude": 125.67,
+        "depth_km": 37.0,
+        "magnitude": 2.4,
+        "location": "025km S 73Â° E of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          11.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
