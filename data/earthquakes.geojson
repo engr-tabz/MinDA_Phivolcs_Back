@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-13T23:09:10.034975+00:00",
+  "generated_at": "2026-07-14T00:07:27.093140+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "07:54 AM",
+        "time_24": "07:54",
+        "latitude": 12.26,
+        "longitude": 124.96,
+        "depth_km": 32.0,
+        "magnitude": 1.8,
+        "location": "012km S 40Â° W of Las Navas (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.96,
+          12.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "07:10 AM",
+        "time_24": "07:10",
+        "latitude": 5.91,
+        "longitude": 125.61,
+        "depth_km": 7.0,
+        "magnitude": 2.2,
+        "location": "004km S 83Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
