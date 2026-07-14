@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-14T18:48:41.469228+00:00",
+  "generated_at": "2026-07-14T20:02:05.168972+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "03:36 AM",
+        "time_24": "03:36",
+        "latitude": 6.99,
+        "longitude": 125.96,
+        "depth_km": 32.0,
+        "magnitude": 1.9,
+        "location": "007km N 64Â° W of Banaybanay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.96,
+          6.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "03:30 AM",
+        "time_24": "03:30",
+        "latitude": 7.72,
+        "longitude": 126.58,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "016km N 08Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          7.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "03:19 AM",
+        "time_24": "03:19",
+        "latitude": 13.36,
+        "longitude": 120.56,
+        "depth_km": 19.0,
+        "magnitude": 1.5,
+        "location": "012km S 61Â° E of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          13.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "03:18 AM",
+        "time_24": "03:18",
+        "latitude": 5.82,
+        "longitude": 125.45,
+        "depth_km": 15.0,
+        "magnitude": 3.9,
+        "location": "024km S 66Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "03:06 AM",
+        "time_24": "03:06",
+        "latitude": 8.26,
+        "longitude": 125.83,
+        "depth_km": 31.0,
+        "magnitude": 2.2,
+        "location": "003km S 60Â° E of La Paz (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.83,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "02:53 AM",
+        "time_24": "02:53",
+        "latitude": 5.78,
+        "longitude": 125.38,
+        "depth_km": 2.0,
+        "magnitude": 1.9,
+        "location": "020km S 76Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 July 2026",
+        "time": "02:48 AM",
+        "time_24": "02:48",
+        "latitude": 6.7,
+        "longitude": 125.76,
+        "depth_km": 72.0,
+        "magnitude": 2.1,
+        "location": "035km N 80Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          6.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -248,17 +388,17 @@
         "date": "14 July 2026",
         "time": "11:49 PM",
         "time_24": "23:49",
-        "latitude": 4.5,
-        "longitude": 125.21,
-        "depth_km": 10.0,
-        "magnitude": 6.5,
-        "location": "104km S 13Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.24,
+        "longitude": 124.98,
+        "depth_km": 33.0,
+        "magnitude": 6.3,
+        "location": "053km S 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.21,
-          4.5
+          124.98,
+          5.24
         ]
       }
     },
