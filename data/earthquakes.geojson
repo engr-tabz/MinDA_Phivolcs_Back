@@ -1,24 +1,164 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-14T05:55:04.776640+00:00",
+  "generated_at": "2026-07-14T08:12:52.374382+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "14 July 2026",
-        "time": "12:17 PM",
-        "time_24": "12:17",
-        "latitude": 12.78,
-        "longitude": 123.15,
-        "depth_km": 9.0,
+        "time": "03:35 PM",
+        "time_24": "15:35",
+        "latitude": 12.79,
+        "longitude": 123.08,
+        "depth_km": 19.0,
         "magnitude": 3.1,
-        "location": "017km S 39Â° W of Claveria (Masbate)"
+        "location": "022km S 55Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.15,
-          12.78
+          123.08,
+          12.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "03:18 PM",
+        "time_24": "15:18",
+        "latitude": 12.81,
+        "longitude": 123.04,
+        "depth_km": 10.0,
+        "magnitude": 4.8,
+        "location": "024km S 66Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04,
+          12.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "03:04 PM",
+        "time_24": "15:04",
+        "latitude": 12.83,
+        "longitude": 123.07,
+        "depth_km": 10.0,
+        "magnitude": 5.2,
+        "location": "020km S 67Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "03:02 PM",
+        "time_24": "15:02",
+        "latitude": 5.33,
+        "longitude": 125.0,
+        "depth_km": 15.0,
+        "magnitude": 3.9,
+        "location": "048km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "02:57 PM",
+        "time_24": "14:57",
+        "latitude": 5.78,
+        "longitude": 125.57,
+        "depth_km": 2.0,
+        "magnitude": 2.2,
+        "location": "017km S 29Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.57,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "02:40 PM",
+        "time_24": "14:40",
+        "latitude": 5.89,
+        "longitude": 125.41,
+        "depth_km": 24.0,
+        "magnitude": 1.4,
+        "location": "016km S 56Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "02:37 PM",
+        "time_24": "14:37",
+        "latitude": 3.54,
+        "longitude": 127.73,
+        "depth_km": 27.0,
+        "magnitude": 3.8,
+        "location": "329km S 51Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.73,
+          3.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "01:59 PM",
+        "time_24": "13:59",
+        "latitude": 4.83,
+        "longitude": 125.0,
+        "depth_km": 13.0,
+        "magnitude": 3.4,
+        "location": "080km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0,
+          4.83
         ]
       }
     },
@@ -988,17 +1128,17 @@
         "date": "14 July 2026",
         "time": "01:44 AM",
         "time_24": "01:44",
-        "latitude": 5.33,
-        "longitude": 125.49,
-        "depth_km": 10.0,
-        "magnitude": 5.0,
-        "location": "012km S 40Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.28,
+        "longitude": 125.45,
+        "depth_km": 4.0,
+        "magnitude": 4.4,
+        "location": "015km S 11Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.49,
-          5.33
+          125.45,
+          5.28
         ]
       }
     },
