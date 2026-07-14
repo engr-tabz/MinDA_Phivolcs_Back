@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-14T11:47:12.729921+00:00",
+  "generated_at": "2026-07-14T12:55:58.771976+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "08:39 PM",
+        "time_24": "20:39",
+        "latitude": 10.83,
+        "longitude": 122.87,
+        "depth_km": 18.0,
+        "magnitude": 2.2,
+        "location": "012km N 73Â° W of City Of Silay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.87,
+          10.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "08:27 PM",
+        "time_24": "20:27",
+        "latitude": 12.83,
+        "longitude": 123.04,
+        "depth_km": 5.0,
+        "magnitude": 3.6,
+        "location": "024km S 71Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "08:20 PM",
+        "time_24": "20:20",
+        "latitude": 12.77,
+        "longitude": 123.02,
+        "depth_km": 28.0,
+        "magnitude": 2.1,
+        "location": "028km S 59Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          12.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 July 2026",
+        "time": "08:11 PM",
+        "time_24": "20:11",
+        "latitude": 6.46,
+        "longitude": 125.64,
+        "depth_km": 47.0,
+        "magnitude": 1.6,
+        "location": "007km N 34Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64,
+          6.46
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1968,17 +2048,17 @@
         "date": "13 July 2026",
         "time": "08:55 PM",
         "time_24": "20:55",
-        "latitude": 5.39,
-        "longitude": 125.37,
-        "depth_km": 2.0,
+        "latitude": 5.53,
+        "longitude": 125.28,
+        "depth_km": 5.0,
         "magnitude": 4.4,
-        "location": "007km S 65Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "020km N 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
-          5.39
+          125.28,
+          5.53
         ]
       }
     },
@@ -2028,17 +2108,17 @@
         "date": "13 July 2026",
         "time": "07:54 PM",
         "time_24": "19:54",
-        "latitude": 5.7,
-        "longitude": 125.14,
-        "depth_km": 27.0,
-        "magnitude": 1.9,
-        "location": "016km S 28Â° W of Glan (Sarangani)"
+        "latitude": 5.78,
+        "longitude": 125.13,
+        "depth_km": 28.0,
+        "magnitude": 2.0,
+        "location": "015km S 38Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.14,
-          5.7
+          125.13,
+          5.78
         ]
       }
     },
