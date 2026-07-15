@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-15T22:42:25.023412+00:00",
+  "generated_at": "2026-07-15T23:43:00.740109+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:56 AM",
+        "time_24": "06:56",
+        "latitude": 12.57,
+        "longitude": 120.97,
+        "depth_km": 33.0,
+        "magnitude": 1.9,
+        "location": "003km East of Calintaan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          12.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:52 AM",
+        "time_24": "06:52",
+        "latitude": 5.64,
+        "longitude": 124.87,
+        "depth_km": 16.0,
+        "magnitude": 2.1,
+        "location": "029km S 31Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.87,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:39 AM",
+        "time_24": "06:39",
+        "latitude": 11.82,
+        "longitude": 125.4,
+        "depth_km": 44.0,
+        "magnitude": 1.6,
+        "location": "005km N 83Â° W of Sulat (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          11.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:37 AM",
+        "time_24": "06:37",
+        "latitude": 13.01,
+        "longitude": 124.74,
+        "depth_km": 4.0,
+        "magnitude": 2.3,
+        "location": "053km N 22Â° W of Pambujan (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74,
+          13.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
