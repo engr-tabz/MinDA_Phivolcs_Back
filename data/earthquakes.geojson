@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-15T18:15:43.037892+00:00",
+  "generated_at": "2026-07-15T19:41:13.790573+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "03:17 AM",
+        "time_24": "03:17",
+        "latitude": 4.96,
+        "longitude": 125.18,
+        "depth_km": 60.0,
+        "magnitude": 2.9,
+        "location": "056km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          4.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "03:16 AM",
+        "time_24": "03:16",
+        "latitude": 13.63,
+        "longitude": 120.55,
+        "depth_km": 91.0,
+        "magnitude": 2.0,
+        "location": "024km S 20Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55,
+          13.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "03:15 AM",
+        "time_24": "03:15",
+        "latitude": 5.88,
+        "longitude": 125.34,
+        "depth_km": 22.0,
+        "magnitude": 1.8,
+        "location": "012km S 30Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:58 AM",
+        "time_24": "02:58",
+        "latitude": 12.81,
+        "longitude": 123.07,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "022km S 61Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:46 AM",
+        "time_24": "02:46",
+        "latitude": 5.39,
+        "longitude": 125.38,
+        "depth_km": 40.0,
+        "magnitude": 1.5,
+        "location": "005km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:35 AM",
+        "time_24": "02:35",
+        "latitude": 6.23,
+        "longitude": 125.55,
+        "depth_km": 83.0,
+        "magnitude": 1.4,
+        "location": "016km N 77Â° W of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.55,
+          6.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:19 AM",
+        "time_24": "02:19",
+        "latitude": 10.38,
+        "longitude": 125.96,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "041km N 12Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.96,
+          10.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2328,17 +2468,17 @@
         "date": "14 July 2026",
         "time": "11:49 PM",
         "time_24": "23:49",
-        "latitude": 4.98,
-        "longitude": 125.08,
-        "depth_km": 55.0,
+        "latitude": 5.04,
+        "longitude": 125.14,
+        "depth_km": 37.0,
         "magnitude": 6.3,
-        "location": "061km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "051km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.08,
-          4.98
+          125.14,
+          5.04
         ]
       }
     },
