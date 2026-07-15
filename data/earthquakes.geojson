@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-15T21:42:00.223098+00:00",
+  "generated_at": "2026-07-15T22:42:25.023412+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:29 AM",
+        "time_24": "06:29",
+        "latitude": 5.96,
+        "longitude": 126.92,
+        "depth_km": 15.0,
+        "magnitude": 3.3,
+        "location": "121km S 51Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92,
+          5.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "06:12 AM",
+        "time_24": "06:12",
+        "latitude": 11.1,
+        "longitude": 123.99,
+        "depth_km": 8.0,
+        "magnitude": 2.1,
+        "location": "006km N 06Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.99,
+          11.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "05:52 AM",
+        "time_24": "05:52",
+        "latitude": 9.15,
+        "longitude": 122.26,
+        "depth_km": 28.0,
+        "magnitude": 2.2,
+        "location": "051km S 56Â° W of Basay (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.26,
+          9.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "05:33 AM",
+        "time_24": "05:33",
+        "latitude": 19.79,
+        "longitude": 121.35,
+        "depth_km": 24.0,
+        "magnitude": 4.1,
+        "location": "060km N 12Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35,
+          19.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
