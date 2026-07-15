@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-15T16:58:52.036043+00:00",
+  "generated_at": "2026-07-15T18:15:43.037892+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "01:50 AM",
+        "time_24": "01:50",
+        "latitude": 7.78,
+        "longitude": 126.51,
+        "depth_km": 26.0,
+        "magnitude": 1.4,
+        "location": "006km S 75Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.51,
+          7.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "01:20 AM",
+        "time_24": "01:20",
+        "latitude": 5.72,
+        "longitude": 125.35,
+        "depth_km": 9.0,
+        "magnitude": 2.9,
+        "location": "019km S 55Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "01:15 AM",
+        "time_24": "01:15",
+        "latitude": 10.9,
+        "longitude": 123.89,
+        "depth_km": 5.0,
+        "magnitude": 2.0,
+        "location": "009km N 09Â° E of Tabuelan (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.89,
+          10.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 12.79,
+        "longitude": 123.03,
+        "depth_km": 18.0,
+        "magnitude": 2.6,
+        "location": "027km S 62Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.03,
+          12.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "12:54 AM",
+        "time_24": "00:54",
+        "latitude": 6.91,
+        "longitude": 124.84,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "005km S 43Â° W of M'lang (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.84,
+          6.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1308,17 @@
         "date": "15 July 2026",
         "time": "10:37 AM",
         "time_24": "10:37",
-        "latitude": 18.6,
-        "longitude": 120.4,
-        "depth_km": 11.0,
+        "latitude": 18.63,
+        "longitude": 120.42,
+        "depth_km": 4.0,
         "magnitude": 3.4,
-        "location": "028km N 68Â° W of Burgos (Ilocos Norte)"
+        "location": "027km N 62Â° W of Burgos (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.4,
-          18.6
+          120.42,
+          18.63
         ]
       }
     },
@@ -1288,17 +1388,17 @@
         "date": "15 July 2026",
         "time": "09:45 AM",
         "time_24": "09:45",
-        "latitude": 5.35,
-        "longitude": 125.36,
-        "depth_km": 10.0,
+        "latitude": 5.28,
+        "longitude": 125.38,
+        "depth_km": 7.0,
         "magnitude": 4.0,
-        "location": "010km S 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "015km S 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.35
+          125.38,
+          5.28
         ]
       }
     },
@@ -2370,7 +2470,7 @@
         "time_24": "23:03",
         "latitude": 5.06,
         "longitude": 125.0,
-        "depth_km": 15.0,
+        "depth_km": 16.0,
         "magnitude": 4.1,
         "location": "061km S 50Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
