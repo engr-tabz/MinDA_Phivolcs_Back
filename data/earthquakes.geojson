@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-15T20:43:26.194103+00:00",
+  "generated_at": "2026-07-15T21:42:00.223098+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "05:14 AM",
+        "time_24": "05:14",
+        "latitude": 19.21,
+        "longitude": 121.27,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "013km N 32Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.27,
+          19.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "04:51 AM",
+        "time_24": "04:51",
+        "latitude": 10.27,
+        "longitude": 126.57,
+        "depth_km": 6.0,
+        "magnitude": 4.0,
+        "location": "061km N 63Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.57,
+          10.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 18.63,
+        "longitude": 121.13,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "006km N 59Â° E of Claveria (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.13,
+          18.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +128,17 @@
         "date": "16 July 2026",
         "time": "04:20 AM",
         "time_24": "04:20",
-        "latitude": 10.4,
-        "longitude": 123.13,
+        "latitude": 10.41,
+        "longitude": 123.17,
         "depth_km": 5.0,
-        "magnitude": 1.8,
-        "location": "010km N 79Â° W of City Of Canlaon (Negros Oriental)"
+        "magnitude": 2.2,
+        "location": "006km N 66Â° W of City Of Canlaon (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          10.4
+          123.17,
+          10.41
         ]
       }
     },
