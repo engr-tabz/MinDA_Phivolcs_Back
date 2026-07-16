@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T21:19:07.260369+00:00",
+  "generated_at": "2026-07-16T22:27:15.436806+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "05:16 AM",
+        "time_24": "05:16",
+        "latitude": 13.82,
+        "longitude": 120.58,
+        "depth_km": 183.0,
+        "magnitude": 1.9,
+        "location": "005km S 75Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          13.82
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -168,17 +188,17 @@
         "date": "17 July 2026",
         "time": "03:52 AM",
         "time_24": "03:52",
-        "latitude": 12.32,
-        "longitude": 123.86,
-        "depth_km": 10.0,
-        "magnitude": 4.6,
-        "location": "013km N 37Â° E of Uson (Masbate)"
+        "latitude": 12.8,
+        "longitude": 123.07,
+        "depth_km": 17.0,
+        "magnitude": 4.3,
+        "location": "022km S 59Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.86,
-          12.32
+          123.07,
+          12.8
         ]
       }
     },
@@ -1648,7 +1668,7 @@
         "date": "16 July 2026",
         "time": "05:33 AM",
         "time_24": "05:33",
-        "latitude": 19.79,
+        "latitude": 19.78,
         "longitude": 121.35,
         "depth_km": 24.0,
         "magnitude": 4.1,
@@ -1658,7 +1678,7 @@
         "type": "Point",
         "coordinates": [
           121.35,
-          19.79
+          19.78
         ]
       }
     },
@@ -1888,17 +1908,17 @@
         "date": "16 July 2026",
         "time": "03:35 AM",
         "time_24": "03:35",
-        "latitude": 12.84,
-        "longitude": 123.13,
-        "depth_km": 7.0,
+        "latitude": 12.83,
+        "longitude": 123.08,
+        "depth_km": 1.0,
         "magnitude": 2.4,
-        "location": "015km S 61Â° W of Claveria (Masbate)"
+        "location": "020km S 66Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          12.84
+          123.08,
+          12.83
         ]
       }
     },
