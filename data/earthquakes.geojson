@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T11:18:26.928991+00:00",
+  "generated_at": "2026-07-16T12:56:27.576630+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "08:44 PM",
+        "time_24": "20:44",
+        "latitude": 4.96,
+        "longitude": 125.4,
+        "depth_km": 29.0,
+        "magnitude": 2.8,
+        "location": "050km S 03Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          4.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "08:42 PM",
+        "time_24": "20:42",
+        "latitude": 8.19,
+        "longitude": 125.97,
+        "depth_km": 22.0,
+        "magnitude": 2.3,
+        "location": "003km N 70Â° W of Bunawan (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.97,
+          8.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "08:25 PM",
+        "time_24": "20:25",
+        "latitude": 11.19,
+        "longitude": 121.19,
+        "depth_km": 22.0,
+        "magnitude": 2.9,
+        "location": "028km N 80Â° E of Agutaya (Palawan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.19,
+          11.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "08:21 PM",
+        "time_24": "20:21",
+        "latitude": 8.33,
+        "longitude": 122.76,
+        "depth_km": 39.0,
+        "magnitude": 2.2,
+        "location": "025km N 23Â° E of Liloy (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.76,
+          8.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "07:27 PM",
+        "time_24": "19:27",
+        "latitude": 5.8,
+        "longitude": 124.78,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "025km S 74Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78,
+          5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "07:25 PM",
+        "time_24": "19:25",
+        "latitude": 12.77,
+        "longitude": 123.06,
+        "depth_km": 20.0,
+        "magnitude": 2.3,
+        "location": "025km S 54Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.06,
+          12.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1488,17 +1608,17 @@
         "date": "15 July 2026",
         "time": "11:30 PM",
         "time_24": "23:30",
-        "latitude": 5.82,
-        "longitude": 125.31,
-        "depth_km": 23.0,
-        "magnitude": 2.4,
-        "location": "012km N 89Â° E of Glan (Sarangani)"
+        "latitude": 5.69,
+        "longitude": 125.34,
+        "depth_km": 20.0,
+        "magnitude": 2.5,
+        "location": "021km S 47Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          5.82
+          125.34,
+          5.69
         ]
       }
     },
@@ -1508,17 +1628,17 @@
         "date": "15 July 2026",
         "time": "11:27 PM",
         "time_24": "23:27",
-        "latitude": 10.99,
-        "longitude": 123.93,
-        "depth_km": 2.0,
+        "latitude": 11.01,
+        "longitude": 123.91,
+        "depth_km": 3.0,
         "magnitude": 2.7,
-        "location": "008km S 37Â° W of City Of Bogo (Cebu)"
+        "location": "010km S 55Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.93,
-          10.99
+          123.91,
+          11.01
         ]
       }
     },
@@ -1528,17 +1648,17 @@
         "date": "15 July 2026",
         "time": "11:16 PM",
         "time_24": "23:16",
-        "latitude": 4.97,
-        "longitude": 125.29,
-        "depth_km": 4.0,
-        "magnitude": 2.5,
-        "location": "051km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.76,
+        "longitude": 125.19,
+        "depth_km": 33.0,
+        "magnitude": 2.7,
+        "location": "077km S 19Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          4.97
+          125.19,
+          4.76
         ]
       }
     },
@@ -1549,15 +1669,15 @@
         "time": "11:11 PM",
         "time_24": "23:11",
         "latitude": 11.74,
-        "longitude": 125.24,
-        "depth_km": 42.0,
+        "longitude": 125.22,
+        "depth_km": 28.0,
         "magnitude": 2.6,
-        "location": "020km N 77Â° E of Hinabangan (Samar)"
+        "location": "017km N 74Â° E of Hinabangan (Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
+          125.22,
           11.74
         ]
       }
@@ -1568,17 +1688,17 @@
         "date": "15 July 2026",
         "time": "11:04 PM",
         "time_24": "23:04",
-        "latitude": 10.93,
-        "longitude": 123.95,
-        "depth_km": 3.0,
-        "magnitude": 2.3,
-        "location": "014km S 15Â° W of City Of Bogo (Cebu)"
+        "latitude": 10.92,
+        "longitude": 123.92,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "015km S 27Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.95,
-          10.93
+          123.92,
+          10.92
         ]
       }
     },
