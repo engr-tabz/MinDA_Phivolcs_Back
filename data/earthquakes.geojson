@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T20:12:42.298461+00:00",
+  "generated_at": "2026-07-16T21:19:07.260369+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 8.81,
+        "longitude": 121.62,
+        "depth_km": 170.0,
+        "magnitude": 3.3,
+        "location": "096km S 28Â° E of Cagayancillo (Palawan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62,
+          8.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "05:03 AM",
+        "time_24": "05:03",
+        "latitude": 5.2,
+        "longitude": 125.12,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "040km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          5.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "04:29 AM",
+        "time_24": "04:29",
+        "latitude": 4.95,
+        "longitude": 125.25,
+        "depth_km": 4.0,
+        "magnitude": 2.7,
+        "location": "055km S 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          4.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 5.42,
+        "longitude": 124.9,
+        "depth_km": 15.0,
+        "magnitude": 3.2,
+        "location": "050km S 13Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 5.22,
+        "longitude": 125.06,
+        "depth_km": 32.0,
+        "magnitude": 2.6,
+        "location": "045km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.06,
+          5.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 5.71,
+        "longitude": 125.13,
+        "depth_km": 25.0,
+        "magnitude": 1.3,
+        "location": "014km S 34Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          5.71
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1788,17 +1908,17 @@
         "date": "16 July 2026",
         "time": "03:35 AM",
         "time_24": "03:35",
-        "latitude": 14.15,
-        "longitude": 120.36,
-        "depth_km": 74.0,
+        "latitude": 14.13,
+        "longitude": 120.38,
+        "depth_km": 78.0,
         "magnitude": 2.2,
-        "location": "031km N 74Â° W of Nasugbu (Batangas)"
+        "location": "028km N 76Â° W of Nasugbu (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.36,
-          14.15
+          120.38,
+          14.13
         ]
       }
     },
