@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T15:08:30.770914+00:00",
+  "generated_at": "2026-07-16T16:41:09.562231+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "12:17 AM",
+        "time_24": "00:17",
+        "latitude": 9.5,
+        "longitude": 122.04,
+        "depth_km": 11.0,
+        "magnitude": 3.0,
+        "location": "049km S 77Â° W of Hinoba-an (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.04,
+          9.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "11:58 PM",
+        "time_24": "23:58",
+        "latitude": 6.73,
+        "longitude": 123.74,
+        "depth_km": 9.0,
+        "magnitude": 3.0,
+        "location": "038km N 74Â° W of Lebak (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74,
+          6.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "11:25 PM",
+        "time_24": "23:25",
+        "latitude": 7.5,
+        "longitude": 126.84,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "031km S 75Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.84,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "11:05 PM",
+        "time_24": "23:05",
+        "latitude": 17.78,
+        "longitude": 119.47,
+        "depth_km": 9.0,
+        "magnitude": 2.3,
+        "location": "097km N 78Â° W of Santa Catalina (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.47,
+          17.78
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1148,17 +1228,17 @@
         "date": "16 July 2026",
         "time": "04:15 AM",
         "time_24": "04:15",
-        "latitude": 17.17,
-        "longitude": 120.68,
-        "depth_km": 14.0,
-        "magnitude": 2.3,
-        "location": "004km N 02Â° E of Quirino (Ilocos Sur)"
+        "latitude": 17.18,
+        "longitude": 120.67,
+        "depth_km": 16.0,
+        "magnitude": 2.6,
+        "location": "005km N 13Â° W of Quirino (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.68,
-          17.17
+          120.67,
+          17.18
         ]
       }
     },
@@ -1388,17 +1468,17 @@
         "date": "16 July 2026",
         "time": "02:19 AM",
         "time_24": "02:19",
-        "latitude": 10.38,
-        "longitude": 125.96,
-        "depth_km": 33.0,
-        "magnitude": 2.4,
-        "location": "041km N 12Â° W of Santa Monica (Surigao Del Norte)"
+        "latitude": 10.46,
+        "longitude": 125.9,
+        "depth_km": 27.0,
+        "magnitude": 2.5,
+        "location": "037km N 72Â° E of Loreto (Dinagat Islands)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.96,
-          10.38
+          125.9,
+          10.46
         ]
       }
     },
@@ -1488,17 +1568,17 @@
         "date": "16 July 2026",
         "time": "12:54 AM",
         "time_24": "00:54",
-        "latitude": 6.91,
-        "longitude": 124.84,
-        "depth_km": 25.0,
-        "magnitude": 1.8,
-        "location": "005km S 43Â° W of M'lang (Cotabato)"
+        "latitude": 6.93,
+        "longitude": 124.91,
+        "depth_km": 20.0,
+        "magnitude": 1.9,
+        "location": "005km S 63Â° E of M'lang (Cotabato)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.84,
-          6.91
+          124.91,
+          6.93
         ]
       }
     },
@@ -1508,17 +1588,17 @@
         "date": "16 July 2026",
         "time": "12:45 AM",
         "time_24": "00:45",
-        "latitude": 5.31,
-        "longitude": 125.25,
-        "depth_km": 31.0,
-        "magnitude": 3.0,
-        "location": "022km S 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.06,
+        "longitude": 125.28,
+        "depth_km": 33.0,
+        "magnitude": 3.1,
+        "location": "042km S 22Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.25,
-          5.31
+          125.28,
+          5.06
         ]
       }
     },
