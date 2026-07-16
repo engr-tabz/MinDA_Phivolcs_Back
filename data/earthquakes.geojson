@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T22:27:15.436806+00:00",
+  "generated_at": "2026-07-16T23:28:32.092073+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:02 AM",
+        "time_24": "07:02",
+        "latitude": 5.89,
+        "longitude": 125.36,
+        "depth_km": 19.0,
+        "magnitude": 1.7,
+        "location": "012km S 44Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "06:31 AM",
+        "time_24": "06:31",
+        "latitude": 5.28,
+        "longitude": 125.43,
+        "depth_km": 29.0,
+        "magnitude": 2.4,
+        "location": "015km S 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "06:31 AM",
+        "time_24": "06:31",
+        "latitude": 16.52,
+        "longitude": 118.99,
+        "depth_km": 22.0,
+        "magnitude": 3.0,
+        "location": "098km N 81Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.99,
+          16.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "06:29 AM",
+        "time_24": "06:29",
+        "latitude": 5.46,
+        "longitude": 125.18,
+        "depth_km": 25.0,
+        "magnitude": 1.9,
+        "location": "027km N 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          5.46
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
