@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-16T07:03:39.539426+00:00",
+  "generated_at": "2026-07-16T09:24:53.230327+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "04:43 PM",
+        "time_24": "16:43",
+        "latitude": 5.38,
+        "longitude": 125.24,
+        "depth_km": 46.0,
+        "magnitude": 1.7,
+        "location": "020km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "03:23 PM",
+        "time_24": "15:23",
+        "latitude": 5.64,
+        "longitude": 125.23,
+        "depth_km": 4.0,
+        "magnitude": 2.4,
+        "location": "021km S 09Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:59 PM",
+        "time_24": "14:59",
+        "latitude": 19.33,
+        "longitude": 121.27,
+        "depth_km": 40.0,
+        "magnitude": 2.4,
+        "location": "022km N 71Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.27,
+          19.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 July 2026",
+        "time": "02:54 PM",
+        "time_24": "14:54",
+        "latitude": 12.95,
+        "longitude": 124.61,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "040km N 42Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.61,
+          12.95
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
