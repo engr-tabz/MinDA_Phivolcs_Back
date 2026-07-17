@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T10:54:09.991731+00:00",
+  "generated_at": "2026-07-17T12:09:58.832772+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:55 PM",
+        "time_24": "19:55",
+        "latitude": 9.52,
+        "longitude": 126.47,
+        "depth_km": 1.0,
+        "magnitude": 1.6,
+        "location": "041km N 49Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          9.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:49 PM",
+        "time_24": "19:49",
+        "latitude": 16.42,
+        "longitude": 118.94,
+        "depth_km": 18.0,
+        "magnitude": 3.2,
+        "location": "098km N 70Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.94,
+          16.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:48 PM",
+        "time_24": "19:48",
+        "latitude": 16.44,
+        "longitude": 119.08,
+        "depth_km": 57.0,
+        "magnitude": 2.4,
+        "location": "085km N 65Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.08,
+          16.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:37 PM",
+        "time_24": "19:37",
+        "latitude": 5.48,
+        "longitude": 125.35,
+        "depth_km": 3.0,
+        "magnitude": 2.2,
+        "location": "011km N 48Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:14 PM",
+        "time_24": "19:14",
+        "latitude": 12.88,
+        "longitude": 123.09,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "017km S 81Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09,
+          12.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:11 PM",
+        "time_24": "19:11",
+        "latitude": 16.76,
+        "longitude": 122.37,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "029km N 24Â° E of Dinapigue (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.37,
+          16.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "07:07 PM",
+        "time_24": "19:07",
+        "latitude": 7.7,
+        "longitude": 127.33,
+        "depth_km": 23.0,
+        "magnitude": 2.2,
+        "location": "086km N 81Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.33,
+          7.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "06:55 PM",
+        "time_24": "18:55",
+        "latitude": 12.89,
+        "longitude": 123.13,
+        "depth_km": 10.0,
+        "magnitude": 2.2,
+        "location": "013km S 82Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13,
+          12.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
