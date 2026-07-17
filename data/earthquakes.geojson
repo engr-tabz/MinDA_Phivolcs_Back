@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T06:37:14.900272+00:00",
+  "generated_at": "2026-07-17T08:56:32.389529+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "04:33 PM",
+        "time_24": "16:33",
+        "latitude": 5.78,
+        "longitude": 125.4,
+        "depth_km": 10.0,
+        "magnitude": 2.1,
+        "location": "022km S 79Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "03:30 PM",
+        "time_24": "15:30",
+        "latitude": 11.15,
+        "longitude": 124.14,
+        "depth_km": 4.0,
+        "magnitude": 2.9,
+        "location": "020km N 57Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.14,
+          11.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "03:06 PM",
+        "time_24": "15:06",
+        "latitude": 5.21,
+        "longitude": 125.36,
+        "depth_km": 103.0,
+        "magnitude": 2.1,
+        "location": "024km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "02:29 PM",
+        "time_24": "14:29",
+        "latitude": 8.57,
+        "longitude": 122.35,
+        "depth_km": 49.0,
+        "magnitude": 1.6,
+        "location": "059km N 19Â° W of Labason (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.35,
+          8.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 July 2026",
+        "time": "02:25 PM",
+        "time_24": "14:25",
+        "latitude": 12.8,
+        "longitude": 123.07,
+        "depth_km": 1.0,
+        "magnitude": 2.2,
+        "location": "021km S 53Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
