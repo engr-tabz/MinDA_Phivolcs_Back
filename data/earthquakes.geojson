@@ -1,7 +1,307 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T17:51:17.775759+00:00",
+  "generated_at": "2026-07-17T18:57:18.676756+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:48 AM",
+        "time_24": "02:48",
+        "latitude": 5.7,
+        "longitude": 125.36,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "022km S 52Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:43 AM",
+        "time_24": "02:43",
+        "latitude": 5.52,
+        "longitude": 125.43,
+        "depth_km": 54.0,
+        "magnitude": 1.6,
+        "location": "007km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:37 AM",
+        "time_24": "02:37",
+        "latitude": 5.81,
+        "longitude": 125.35,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "016km S 84Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:34 AM",
+        "time_24": "02:34",
+        "latitude": 12.89,
+        "longitude": 123.22,
+        "depth_km": 6.0,
+        "magnitude": 1.4,
+        "location": "003km S 74Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.22,
+          12.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 16.43,
+        "longitude": 119.09,
+        "depth_km": 8.0,
+        "magnitude": 3.1,
+        "location": "081km N 64Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.09,
+          16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 5.36,
+        "longitude": 125.29,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "015km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:29 AM",
+        "time_24": "02:29",
+        "latitude": 11.8,
+        "longitude": 125.37,
+        "depth_km": 29.0,
+        "magnitude": 2.6,
+        "location": "009km S 79Â° W of Sulat (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          11.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:25 AM",
+        "time_24": "02:25",
+        "latitude": 12.83,
+        "longitude": 123.16,
+        "depth_km": 5.0,
+        "magnitude": 1.5,
+        "location": "012km S 50Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:22 AM",
+        "time_24": "02:22",
+        "latitude": 12.87,
+        "longitude": 123.06,
+        "depth_km": 6.0,
+        "magnitude": 1.7,
+        "location": "020km S 80Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.06,
+          12.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:10 AM",
+        "time_24": "02:10",
+        "latitude": 12.75,
+        "longitude": 122.99,
+        "depth_km": 2.0,
+        "magnitude": 4.2,
+        "location": "033km S 58Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.99,
+          12.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:08 AM",
+        "time_24": "02:08",
+        "latitude": 5.29,
+        "longitude": 125.37,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "014km S 25Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:03 AM",
+        "time_24": "02:03",
+        "latitude": 19.22,
+        "longitude": 121.26,
+        "depth_km": 28.0,
+        "magnitude": 2.4,
+        "location": "014km N 24Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.26,
+          19.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:02 AM",
+        "time_24": "02:02",
+        "latitude": 5.83,
+        "longitude": 125.35,
+        "depth_km": 22.0,
+        "magnitude": 1.8,
+        "location": "017km N 87Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 5.37,
+        "longitude": 125.31,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "013km S 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:54 AM",
+        "time_24": "01:54",
+        "latitude": 6.88,
+        "longitude": 125.76,
+        "depth_km": 9.0,
+        "magnitude": 1.5,
+        "location": "022km S 15Â° E of Island Garden City Of Samal (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          6.88
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
