@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T15:36:25.301073+00:00",
+  "generated_at": "2026-07-17T16:45:29.301041+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "12:32 AM",
+        "time_24": "00:32",
+        "latitude": 9.58,
+        "longitude": 126.11,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "017km S 76Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          9.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "12:12 AM",
+        "time_24": "00:12",
+        "latitude": 5.44,
+        "longitude": 125.35,
+        "depth_km": 10.0,
+        "magnitude": 5.6,
+        "location": "008km N 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1348,17 +1388,17 @@
         "date": "17 July 2026",
         "time": "02:55 AM",
         "time_24": "02:55",
-        "latitude": 11.08,
-        "longitude": 125.3,
-        "depth_km": 29.0,
+        "latitude": 11.12,
+        "longitude": 125.33,
+        "depth_km": 21.0,
         "magnitude": 2.2,
-        "location": "007km S 01Â° W of Lawaan (Eastern Samar)"
+        "location": "004km S 53Â° E of Lawaan (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          11.08
+          125.33,
+          11.12
         ]
       }
     },
@@ -1388,17 +1428,17 @@
         "date": "17 July 2026",
         "time": "02:02 AM",
         "time_24": "02:02",
-        "latitude": 18.3,
-        "longitude": 122.37,
-        "depth_km": 7.0,
+        "latitude": 18.36,
+        "longitude": 122.34,
+        "depth_km": 11.0,
         "magnitude": 2.2,
-        "location": "030km S 54Â° E of Santa Ana (Cagayan)"
+        "location": "023km S 62Â° E of Santa Ana (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.37,
-          18.3
+          122.34,
+          18.36
         ]
       }
     },
