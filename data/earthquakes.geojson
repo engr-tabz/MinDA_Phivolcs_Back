@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T16:45:29.301041+00:00",
+  "generated_at": "2026-07-17T17:51:17.775759+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:46 AM",
+        "time_24": "01:46",
+        "latitude": 7.72,
+        "longitude": 122.86,
+        "depth_km": 29.0,
+        "magnitude": 1.6,
+        "location": "001km N 55Â° W of Siay (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.86,
+          7.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:42 AM",
+        "time_24": "01:42",
+        "latitude": 12.86,
+        "longitude": 121.57,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "013km S 89Â° E of Bansud (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57,
+          12.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:38 AM",
+        "time_24": "01:38",
+        "latitude": 5.27,
+        "longitude": 126.62,
+        "depth_km": 36.0,
+        "magnitude": 2.0,
+        "location": "128km S 78Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.62,
+          5.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:36 AM",
+        "time_24": "01:36",
+        "latitude": 5.86,
+        "longitude": 125.4,
+        "depth_km": 23.0,
+        "magnitude": 1.9,
+        "location": "017km S 46Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:28 AM",
+        "time_24": "01:28",
+        "latitude": 5.95,
+        "longitude": 125.37,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "010km S 78Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:24 AM",
+        "time_24": "01:24",
+        "latitude": 6.63,
+        "longitude": 125.71,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "026km N 24Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71,
+          6.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 5.78,
+        "longitude": 125.34,
+        "depth_km": 20.0,
+        "magnitude": 1.5,
+        "location": "015km S 75Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "12:51 AM",
+        "time_24": "00:51",
+        "latitude": 5.69,
+        "longitude": 125.38,
+        "depth_km": 28.0,
+        "magnitude": 2.5,
+        "location": "025km S 53Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "12:46 AM",
+        "time_24": "00:46",
+        "latitude": 5.73,
+        "longitude": 125.32,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "016km S 53Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.73
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +208,17 @@
         "date": "18 July 2026",
         "time": "12:12 AM",
         "time_24": "00:12",
-        "latitude": 5.44,
-        "longitude": 125.35,
-        "depth_km": 10.0,
-        "magnitude": 5.6,
-        "location": "008km N 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.4,
+        "longitude": 125.33,
+        "depth_km": 14.0,
+        "magnitude": 5.5,
+        "location": "010km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.35,
-          5.44
+          125.33,
+          5.4
         ]
       }
     },
@@ -988,17 +1168,17 @@
         "date": "17 July 2026",
         "time": "06:31 AM",
         "time_24": "06:31",
-        "latitude": 5.28,
-        "longitude": 125.43,
-        "depth_km": 29.0,
+        "latitude": 5.35,
+        "longitude": 125.32,
+        "depth_km": 5.0,
         "magnitude": 2.4,
-        "location": "015km S 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "014km S 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.28
+          125.32,
+          5.35
         ]
       }
     },
@@ -1068,17 +1248,17 @@
         "date": "17 July 2026",
         "time": "05:07 AM",
         "time_24": "05:07",
-        "latitude": 8.81,
-        "longitude": 121.62,
-        "depth_km": 170.0,
+        "latitude": 9.85,
+        "longitude": 122.06,
+        "depth_km": 6.0,
         "magnitude": 3.3,
-        "location": "096km S 28Â° E of Cagayancillo (Palawan)"
+        "location": "042km N 78Â° W of City Of Sipalay (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.62,
-          8.81
+          122.06,
+          9.85
         ]
       }
     },
