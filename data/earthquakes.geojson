@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-17T20:12:04.885106+00:00",
+  "generated_at": "2026-07-17T21:09:48.768228+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "04:23 AM",
+        "time_24": "04:23",
+        "latitude": 15.51,
+        "longitude": 119.95,
+        "depth_km": 44.0,
+        "magnitude": 1.4,
+        "location": "003km S 28Â° W of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          15.51
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
