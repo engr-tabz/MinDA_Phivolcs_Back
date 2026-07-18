@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T15:15:08.962414+00:00",
+  "generated_at": "2026-07-18T16:14:16.057673+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:57 PM",
+        "time_24": "23:57",
+        "latitude": 4.21,
+        "longitude": 126.18,
+        "depth_km": 120.0,
+        "magnitude": 2.8,
+        "location": "157km S 32Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          4.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:53 PM",
+        "time_24": "23:53",
+        "latitude": 9.04,
+        "longitude": 125.7,
+        "depth_km": 9.0,
+        "magnitude": 2.5,
+        "location": "013km S 82Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          9.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:48 PM",
+        "time_24": "23:48",
+        "latitude": 5.51,
+        "longitude": 125.31,
+        "depth_km": 30.0,
+        "magnitude": 1.5,
+        "location": "016km N 48Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:47 PM",
+        "time_24": "23:47",
+        "latitude": 6.46,
+        "longitude": 125.5,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "011km S 14Â° E of Santa Maria (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          6.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:43 PM",
+        "time_24": "23:43",
+        "latitude": 4.74,
+        "longitude": 124.75,
+        "depth_km": 5.0,
+        "magnitude": 2.2,
+        "location": "105km S 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.75,
+          4.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:40 PM",
+        "time_24": "23:40",
+        "latitude": 14.78,
+        "longitude": 122.9,
+        "depth_km": 25.0,
+        "magnitude": 2.3,
+        "location": "034km N 09Â° W of Tinaga Island (Vinzons) (Camarines Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9,
+          14.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:20 PM",
+        "time_24": "23:20",
+        "latitude": 15.01,
+        "longitude": 122.49,
+        "depth_km": 7.0,
+        "magnitude": 1.7,
+        "location": "038km N 27Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.49,
+          15.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "11:11 PM",
+        "time_24": "23:11",
+        "latitude": 12.78,
+        "longitude": 123.05,
+        "depth_km": 3.0,
+        "magnitude": 3.2,
+        "location": "025km S 59Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.05,
+          12.78
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
