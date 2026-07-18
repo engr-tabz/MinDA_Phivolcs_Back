@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T05:49:56.600986+00:00",
+  "generated_at": "2026-07-18T07:26:25.852779+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "02:49 PM",
+        "time_24": "14:49",
+        "latitude": 8.99,
+        "longitude": 125.69,
+        "depth_km": 13.0,
+        "magnitude": 3.8,
+        "location": "014km S 61Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.69,
+          8.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "01:49 PM",
+        "time_24": "13:49",
+        "latitude": 19.1,
+        "longitude": 121.18,
+        "depth_km": 31.0,
+        "magnitude": 2.5,
+        "location": "003km S 65Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.18,
+          19.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -808,17 +848,17 @@
         "date": "18 July 2026",
         "time": "02:10 AM",
         "time_24": "02:10",
-        "latitude": 12.75,
-        "longitude": 122.99,
-        "depth_km": 2.0,
+        "latitude": 12.78,
+        "longitude": 122.97,
+        "depth_km": 3.0,
         "magnitude": 4.2,
-        "location": "033km S 58Â° W of Claveria (Masbate)"
+        "location": "032km S 66Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.99,
-          12.75
+          122.97,
+          12.78
         ]
       }
     },
@@ -1128,17 +1168,17 @@
         "date": "18 July 2026",
         "time": "12:12 AM",
         "time_24": "00:12",
-        "latitude": 5.4,
-        "longitude": 125.33,
-        "depth_km": 14.0,
+        "latitude": 5.37,
+        "longitude": 125.35,
+        "depth_km": 17.0,
         "magnitude": 5.5,
-        "location": "010km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "010km S 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.4
+          125.35,
+          5.37
         ]
       }
     },
@@ -1489,15 +1529,15 @@
         "time": "08:33 PM",
         "time_24": "20:33",
         "latitude": 13.52,
-        "longitude": 124.28,
-        "depth_km": 16.0,
+        "longitude": 124.26,
+        "depth_km": 14.0,
         "magnitude": 3.6,
         "location": "008km S 42Â° E of Virac (Catanduanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.28,
+          124.26,
           13.52
         ]
       }
@@ -1808,17 +1848,17 @@
         "date": "17 July 2026",
         "time": "03:30 PM",
         "time_24": "15:30",
-        "latitude": 11.15,
-        "longitude": 124.14,
-        "depth_km": 4.0,
-        "magnitude": 2.9,
-        "location": "020km N 57Â° E of City Of Bogo (Cebu)"
+        "latitude": 11.11,
+        "longitude": 124.12,
+        "depth_km": 9.0,
+        "magnitude": 3.0,
+        "location": "017km N 67Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.14,
-          11.15
+          124.12,
+          11.11
         ]
       }
     },
@@ -1828,17 +1868,17 @@
         "date": "17 July 2026",
         "time": "03:06 PM",
         "time_24": "15:06",
-        "latitude": 5.21,
-        "longitude": 125.36,
-        "depth_km": 103.0,
-        "magnitude": 2.1,
-        "location": "024km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.29,
+        "longitude": 125.22,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "026km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.21
+          125.22,
+          5.29
         ]
       }
     },
@@ -1848,17 +1888,17 @@
         "date": "17 July 2026",
         "time": "02:29 PM",
         "time_24": "14:29",
-        "latitude": 8.57,
-        "longitude": 122.35,
-        "depth_km": 49.0,
-        "magnitude": 1.6,
-        "location": "059km N 19Â° W of Labason (Zamboanga Del Norte)"
+        "latitude": 8.63,
+        "longitude": 122.43,
+        "depth_km": 46.0,
+        "magnitude": 2.2,
+        "location": "062km N 25Â° W of Liloy (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.35,
-          8.57
+          122.43,
+          8.63
         ]
       }
     },
