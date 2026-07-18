@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T20:26:33.608590+00:00",
+  "generated_at": "2026-07-18T21:26:41.238180+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "05:11 AM",
+        "time_24": "05:11",
+        "latitude": 5.26,
+        "longitude": 125.15,
+        "depth_km": 21.0,
+        "magnitude": 2.6,
+        "location": "035km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          5.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "05:04 AM",
+        "time_24": "05:04",
+        "latitude": 7.76,
+        "longitude": 127.3,
+        "depth_km": 29.0,
+        "magnitude": 2.9,
+        "location": "084km N 76Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3,
+          7.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:45 AM",
+        "time_24": "04:45",
+        "latitude": 8.98,
+        "longitude": 125.67,
+        "depth_km": 19.0,
+        "magnitude": 1.7,
+        "location": "012km S 48Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          8.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:38 AM",
+        "time_24": "04:38",
+        "latitude": 9.6,
+        "longitude": 126.29,
+        "depth_km": 35.0,
+        "magnitude": 1.3,
+        "location": "024km S 36Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          9.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 5.91,
+        "longitude": 125.35,
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "009km S 42Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -66,26 +166,6 @@
       "type": "Feature",
       "properties": {
         "date": "19 July 2026",
-        "time": "03:17 AM",
-        "time_24": "03:17",
-        "latitude": 5.74,
-        "longitude": 125.08,
-        "depth_km": 14.0,
-        "magnitude": 2.2,
-        "location": "016km S 59Â° W of Glan (Sarangani)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.08,
-          5.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "19 July 2026",
         "time": "03:25 AM",
         "time_24": "03:25",
         "latitude": 5.34,
@@ -119,6 +199,26 @@
         "coordinates": [
           125.19,
           9.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "03:17 AM",
+        "time_24": "03:17",
+        "latitude": 5.74,
+        "longitude": 125.08,
+        "depth_km": 14.0,
+        "magnitude": 2.2,
+        "location": "016km S 59Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08,
+          5.74
         ]
       }
     },
