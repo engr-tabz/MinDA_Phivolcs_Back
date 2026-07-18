@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T19:35:27.198103+00:00",
+  "generated_at": "2026-07-18T20:26:33.608590+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:07 AM",
+        "time_24": "04:07",
+        "latitude": 9.17,
+        "longitude": 126.81,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "063km N 69Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.81,
+          9.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 5.55,
+        "longitude": 125.06,
+        "depth_km": 22.0,
+        "magnitude": 1.9,
+        "location": "034km S 28Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.06,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "04:03 AM",
+        "time_24": "04:03",
+        "latitude": 8.92,
+        "longitude": 125.68,
+        "depth_km": 12.0,
+        "magnitude": 1.7,
+        "location": "012km N 05Â° W of Sibagat (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.68,
+          8.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "03:17 AM",
+        "time_24": "03:17",
+        "latitude": 5.74,
+        "longitude": 125.08,
+        "depth_km": 14.0,
+        "magnitude": 2.2,
+        "location": "016km S 59Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
