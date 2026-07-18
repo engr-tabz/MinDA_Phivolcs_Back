@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T10:41:41.991305+00:00",
+  "generated_at": "2026-07-18T11:38:34.893813+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "07:10 PM",
+        "time_24": "19:10",
+        "latitude": 15.96,
+        "longitude": 122.22,
+        "depth_km": 13.0,
+        "magnitude": 2.5,
+        "location": "034km S 54Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22,
+          15.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "07:03 PM",
+        "time_24": "19:03",
+        "latitude": 15.96,
+        "longitude": 122.16,
+        "depth_km": 7.0,
+        "magnitude": 3.0,
+        "location": "030km S 48Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16,
+          15.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "06:46 PM",
+        "time_24": "18:46",
+        "latitude": 6.57,
+        "longitude": 125.54,
+        "depth_km": 17.0,
+        "magnitude": 1.5,
+        "location": "008km N 78Â° E of Santa Maria (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54,
+          6.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 July 2026",
+        "time": "06:38 PM",
+        "time_24": "18:38",
+        "latitude": 5.05,
+        "longitude": 125.04,
+        "depth_km": 98.0,
+        "magnitude": 3.3,
+        "location": "058km S 46Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.04,
+          5.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
