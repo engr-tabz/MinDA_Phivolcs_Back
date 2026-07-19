@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T17:34:23.046039+00:00",
+  "generated_at": "2026-07-19T18:35:20.014910+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "02:14 AM",
+        "time_24": "02:14",
+        "latitude": 17.82,
+        "longitude": 120.76,
+        "depth_km": 2.0,
+        "magnitude": 2.5,
+        "location": "012km N 27Â° E of Lagayan (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76,
+          17.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "02:14 AM",
+        "time_24": "02:14",
+        "latitude": 5.81,
+        "longitude": 125.38,
+        "depth_km": 17.0,
+        "magnitude": 2.7,
+        "location": "019km S 87Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 13.77,
+        "longitude": 124.77,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "041km S 89Â° E of Gigmoto (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.77,
+          13.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "01:49 AM",
+        "time_24": "01:49",
+        "latitude": 16.35,
+        "longitude": 122.21,
+        "depth_km": 16.0,
+        "magnitude": 2.5,
+        "location": "004km S 01Â° E of Dilasag (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21,
+          16.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "01:43 AM",
+        "time_24": "01:43",
+        "latitude": 12.49,
+        "longitude": 124.66,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "002km S 69Â° E of Catarman (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.66,
+          12.49
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
