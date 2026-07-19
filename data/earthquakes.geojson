@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-18T23:29:34.653123+00:00",
+  "generated_at": "2026-07-19T01:05:48.815870+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:48 AM",
+        "time_24": "08:48",
+        "latitude": 7.46,
+        "longitude": 124.41,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "006km S 80Â° E of Barira (Maguindanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.41,
+          7.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:43 AM",
+        "time_24": "08:43",
+        "latitude": 7.79,
+        "longitude": 126.66,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "023km N 89Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66,
+          7.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:20 AM",
+        "time_24": "08:20",
+        "latitude": 10.36,
+        "longitude": 121.4,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "058km S 82Â° W of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4,
+          10.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:05 AM",
+        "time_24": "08:05",
+        "latitude": 9.49,
+        "longitude": 122.8,
+        "depth_km": 89.0,
+        "magnitude": 1.5,
+        "location": "012km N 08Â° E of City Of Bayawan (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8,
+          9.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:05 AM",
+        "time_24": "08:05",
+        "latitude": 5.77,
+        "longitude": 125.22,
+        "depth_km": 23.0,
+        "magnitude": 1.4,
+        "location": "006km S 21Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:00 AM",
+        "time_24": "08:00",
+        "latitude": 11.15,
+        "longitude": 124.71,
+        "depth_km": 2.0,
+        "magnitude": 1.6,
+        "location": "009km S 65Â° W of Jaro (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.71,
+          11.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "07:53 AM",
+        "time_24": "07:53",
+        "latitude": 5.12,
+        "longitude": 124.98,
+        "depth_km": 26.0,
+        "magnitude": 3.5,
+        "location": "058km S 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.98,
+          5.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "07:47 AM",
+        "time_24": "07:47",
+        "latitude": 5.68,
+        "longitude": 125.29,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "018km S 31Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "07:33 AM",
+        "time_24": "07:33",
+        "latitude": 19.21,
+        "longitude": 121.33,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "017km N 49Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33,
+          19.21
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
