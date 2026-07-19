@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T15:26:28.268518+00:00",
+  "generated_at": "2026-07-19T16:28:24.004186+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "12:17 AM",
+        "time_24": "00:17",
+        "latitude": 12.89,
+        "longitude": 123.21,
+        "depth_km": 15.0,
+        "magnitude": 1.6,
+        "location": "004km S 73Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.21,
+          12.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:50 PM",
+        "time_24": "23:50",
+        "latitude": 10.0,
+        "longitude": 126.26,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "020km S 84Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          10.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:40 PM",
+        "time_24": "23:40",
+        "latitude": 12.82,
+        "longitude": 122.94,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "034km S 75Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.94,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:40 PM",
+        "time_24": "23:40",
+        "latitude": 5.76,
+        "longitude": 125.38,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "021km S 72Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:35 PM",
+        "time_24": "23:35",
+        "latitude": 9.97,
+        "longitude": 122.8,
+        "depth_km": 76.0,
+        "magnitude": 2.2,
+        "location": "004km S 12Â° W of City Of Kabankalan (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8,
+          9.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:31 PM",
+        "time_24": "23:31",
+        "latitude": 15.73,
+        "longitude": 119.94,
+        "depth_km": 25.0,
+        "magnitude": 1.5,
+        "location": "005km S 35Â° E of Santa Cruz (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94,
+          15.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "11:22 PM",
+        "time_24": "23:22",
+        "latitude": 9.79,
+        "longitude": 122.33,
+        "depth_km": 16.0,
+        "magnitude": 1.7,
+        "location": "011km N 76Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.33,
+          9.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -466,26 +606,6 @@
       "type": "Feature",
       "properties": {
         "date": "19 July 2026",
-        "time": "05:09 PM",
-        "time_24": "17:09",
-        "latitude": 12.91,
-        "longitude": 124.19,
-        "depth_km": 31.0,
-        "magnitude": 2.4,
-        "location": "008km S 86Â° E of Gubat (Sorsogon)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          124.19,
-          12.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "19 July 2026",
         "time": "05:25 PM",
         "time_24": "17:25",
         "latitude": 5.96,
@@ -539,6 +659,26 @@
         "coordinates": [
           125.23,
           5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "05:09 PM",
+        "time_24": "17:09",
+        "latitude": 12.91,
+        "longitude": 124.19,
+        "depth_km": 31.0,
+        "magnitude": 2.4,
+        "location": "008km S 86Â° E of Gubat (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.19,
+          12.91
         ]
       }
     },
@@ -1368,17 +1508,17 @@
         "date": "19 July 2026",
         "time": "09:45 AM",
         "time_24": "09:45",
-        "latitude": 13.15,
-        "longitude": 122.55,
-        "depth_km": 5.0,
-        "magnitude": 2.1,
-        "location": "022km S 09Â° E of San Francisco (Quezon)"
+        "latitude": 13.08,
+        "longitude": 122.53,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "029km S 01Â° E of San Francisco (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.55,
-          13.15
+          122.53,
+          13.08
         ]
       }
     },
@@ -1488,17 +1628,17 @@
         "date": "19 July 2026",
         "time": "08:20 AM",
         "time_24": "08:20",
-        "latitude": 10.36,
-        "longitude": 121.4,
-        "depth_km": 27.0,
-        "magnitude": 2.0,
-        "location": "058km S 82Â° W of Anini-y (Antique)"
+        "latitude": 10.3,
+        "longitude": 121.45,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "054km S 74Â° W of Anini-y (Antique)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4,
-          10.36
+          121.45,
+          10.3
         ]
       }
     },
@@ -1548,17 +1688,17 @@
         "date": "19 July 2026",
         "time": "08:00 AM",
         "time_24": "08:00",
-        "latitude": 11.15,
-        "longitude": 124.71,
-        "depth_km": 2.0,
-        "magnitude": 1.6,
-        "location": "009km S 65Â° W of Jaro (Leyte)"
+        "latitude": 11.11,
+        "longitude": 124.67,
+        "depth_km": 12.0,
+        "magnitude": 1.7,
+        "location": "014km S 56Â° E of Kananga (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.71,
-          11.15
+          124.67,
+          11.11
         ]
       }
     },
