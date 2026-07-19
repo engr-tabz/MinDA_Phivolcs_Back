@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T21:34:59.109995+00:00",
+  "generated_at": "2026-07-19T22:32:02.538666+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "06:22 AM",
+        "time_24": "06:22",
+        "latitude": 5.88,
+        "longitude": 127.57,
+        "depth_km": 146.0,
+        "magnitude": 3.2,
+        "location": "179km S 44Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.57,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "05:31 AM",
+        "time_24": "05:31",
+        "latitude": 8.26,
+        "longitude": 126.91,
+        "depth_km": 6.0,
+        "magnitude": 2.8,
+        "location": "060km N 66Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.91,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "06:19 AM",
+        "time_24": "06:19",
+        "latitude": 13.76,
+        "longitude": 120.61,
+        "depth_km": 94.0,
+        "magnitude": 2.0,
+        "location": "009km S 15Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "06:08 AM",
+        "time_24": "06:08",
+        "latitude": 5.58,
+        "longitude": 125.39,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "015km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "05:31 AM",
+        "time_24": "05:31",
+        "latitude": 8.26,
+        "longitude": 126.91,
+        "depth_km": 6.0,
+        "magnitude": 2.8,
+        "location": "060km N 66Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.91,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "05:29 AM",
+        "time_24": "05:29",
+        "latitude": 11.79,
+        "longitude": 125.35,
+        "depth_km": 28.0,
+        "magnitude": 1.7,
+        "location": "012km N 73Â° W of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          11.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -3630,9 +3750,9 @@
         "time_24": "21:16",
         "latitude": 16.87,
         "longitude": 121.04,
-        "depth_km": 9.0,
+        "depth_km": 10.0,
         "magnitude": 2.4,
-        "location": "005km S 34Â° W of Banaue (Ifugao)"
+        "location": "005km S 28Â° W of Banaue (Ifugao)"
       },
       "geometry": {
         "type": "Point",
