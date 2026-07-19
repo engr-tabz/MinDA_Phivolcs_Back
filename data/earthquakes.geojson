@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T19:50:45.848944+00:00",
+  "generated_at": "2026-07-19T20:38:34.497366+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:20 AM",
+        "time_24": "04:20",
+        "latitude": 5.28,
+        "longitude": 125.07,
+        "depth_km": 47.0,
+        "magnitude": 2.4,
+        "location": "042km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.07,
+          5.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:18 AM",
+        "time_24": "04:18",
+        "latitude": 15.94,
+        "longitude": 122.21,
+        "depth_km": 6.0,
+        "magnitude": 2.2,
+        "location": "035km S 50Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21,
+          15.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:10 AM",
+        "time_24": "04:10",
+        "latitude": 5.45,
+        "longitude": 125.15,
+        "depth_km": 11.0,
+        "magnitude": 3.5,
+        "location": "031km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:59 AM",
+        "time_24": "03:59",
+        "latitude": 6.83,
+        "longitude": 125.41,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "001km S 51Â° W of Santa Cruz (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          6.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:51 AM",
+        "time_24": "03:51",
+        "latitude": 5.49,
+        "longitude": 125.36,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "011km N 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:47 AM",
+        "time_24": "03:47",
+        "latitude": 5.93,
+        "longitude": 125.46,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "020km N 84Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          5.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:43 AM",
+        "time_24": "03:43",
+        "latitude": 11.13,
+        "longitude": 124.12,
+        "depth_km": 5.0,
+        "magnitude": 3.1,
+        "location": "018km N 60Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          11.13
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
