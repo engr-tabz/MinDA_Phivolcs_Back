@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T22:32:02.538666+00:00",
+  "generated_at": "2026-07-19T23:34:58.479389+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "07:07 AM",
+        "time_24": "07:07",
+        "latitude": 9.71,
+        "longitude": 123.57,
+        "depth_km": 9.0,
+        "magnitude": 2.6,
+        "location": "006km N 86Â° E of Alcoy (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.57,
+          9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "07:04 AM",
+        "time_24": "07:04",
+        "latitude": 5.75,
+        "longitude": 125.38,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "021km S 67Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "06:52 AM",
+        "time_24": "06:52",
+        "latitude": 5.33,
+        "longitude": 125.11,
+        "depth_km": 54.0,
+        "magnitude": 1.7,
+        "location": "036km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.11,
+          5.33
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
