@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T20:38:34.497366+00:00",
+  "generated_at": "2026-07-19T21:34:59.109995+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:53 AM",
+        "time_24": "04:53",
+        "latitude": 17.24,
+        "longitude": 123.04,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "068km N 74Â° E of Palanan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04,
+          17.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:38 AM",
+        "time_24": "04:38",
+        "latitude": 5.43,
+        "longitude": 125.21,
+        "depth_km": 45.0,
+        "magnitude": 2.4,
+        "location": "023km N 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "04:33 AM",
+        "time_24": "04:33",
+        "latitude": 12.83,
+        "longitude": 122.99,
+        "depth_km": 15.0,
+        "magnitude": 1.9,
+        "location": "029km S 75Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.99,
+          12.83
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
