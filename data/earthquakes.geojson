@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T11:46:18.925243+00:00",
+  "generated_at": "2026-07-19T12:41:38.610127+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:06 PM",
+        "time_24": "20:06",
+        "latitude": 5.74,
+        "longitude": 125.31,
+        "depth_km": 4.0,
+        "magnitude": 2.8,
+        "location": "015km S 52Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 July 2026",
+        "time": "08:02 PM",
+        "time_24": "20:02",
+        "latitude": 8.99,
+        "longitude": 126.34,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "007km N 66Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          8.99
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2248,17 +2288,17 @@
         "date": "18 July 2026",
         "time": "11:40 PM",
         "time_24": "23:40",
-        "latitude": 14.78,
-        "longitude": 122.9,
-        "depth_km": 25.0,
+        "latitude": 14.74,
+        "longitude": 122.88,
+        "depth_km": 33.0,
         "magnitude": 2.3,
-        "location": "034km N 09Â° W of Tinaga Island (Vinzons) (Camarines Norte)"
+        "location": "030km N 13Â° W of Tinaga Island (Vinzons) (Camarines Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.9,
-          14.78
+          122.88,
+          14.74
         ]
       }
     },
@@ -2268,17 +2308,17 @@
         "date": "18 July 2026",
         "time": "11:20 PM",
         "time_24": "23:20",
-        "latitude": 15.01,
-        "longitude": 122.49,
-        "depth_km": 7.0,
-        "magnitude": 1.7,
-        "location": "038km N 27Â° E of Jomalig (Quezon)"
+        "latitude": 15.22,
+        "longitude": 122.59,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "064km N 26Â° E of Jomalig (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.49,
-          15.01
+          122.59,
+          15.22
         ]
       }
     },
@@ -2288,17 +2328,17 @@
         "date": "18 July 2026",
         "time": "11:11 PM",
         "time_24": "23:11",
-        "latitude": 12.78,
-        "longitude": 123.05,
-        "depth_km": 3.0,
+        "latitude": 12.83,
+        "longitude": 123.07,
+        "depth_km": 10.0,
         "magnitude": 3.2,
-        "location": "025km S 59Â° W of Claveria (Masbate)"
+        "location": "021km S 67Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.05,
-          12.78
+          123.07,
+          12.83
         ]
       }
     },
@@ -2308,17 +2348,17 @@
         "date": "18 July 2026",
         "time": "10:50 PM",
         "time_24": "22:50",
-        "latitude": 9.22,
-        "longitude": 126.39,
-        "depth_km": 15.0,
-        "magnitude": 2.1,
-        "location": "023km S 74Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.18,
+        "longitude": 126.59,
+        "depth_km": 19.0,
+        "magnitude": 2.2,
+        "location": "044km S 77Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.39,
-          9.22
+          126.59,
+          9.18
         ]
       }
     },
@@ -2408,17 +2448,17 @@
         "date": "18 July 2026",
         "time": "10:20 PM",
         "time_24": "22:20",
-        "latitude": 5.27,
-        "longitude": 125.07,
-        "depth_km": 34.0,
-        "magnitude": 3.1,
-        "location": "042km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.21,
+        "longitude": 125.02,
+        "depth_km": 37.0,
+        "magnitude": 3.2,
+        "location": "050km S 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.07,
-          5.27
+          125.02,
+          5.21
         ]
       }
     },
@@ -2428,17 +2468,17 @@
         "date": "18 July 2026",
         "time": "10:17 PM",
         "time_24": "22:17",
-        "latitude": 12.55,
-        "longitude": 125.54,
-        "depth_km": 15.0,
+        "latitude": 12.7,
+        "longitude": 125.7,
+        "depth_km": 23.0,
         "magnitude": 2.7,
-        "location": "032km N 55Â° E of Gamay (Northern Samar)"
+        "location": "056km N 51Â° E of Gamay (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.54,
-          12.55
+          125.7,
+          12.7
         ]
       }
     },
@@ -2448,17 +2488,17 @@
         "date": "18 July 2026",
         "time": "10:15 PM",
         "time_24": "22:15",
-        "latitude": 13.48,
-        "longitude": 123.06,
-        "depth_km": 2.0,
-        "magnitude": 2.4,
-        "location": "004km S 27Â° E of Pasacao (Camarines Sur)"
+        "latitude": 13.53,
+        "longitude": 123.08,
+        "depth_km": 7.0,
+        "magnitude": 2.8,
+        "location": "004km N 68Â° E of Pasacao (Camarines Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.06,
-          13.48
+          123.08,
+          13.53
         ]
       }
     },
@@ -2468,17 +2508,17 @@
         "date": "18 July 2026",
         "time": "09:59 PM",
         "time_24": "21:59",
-        "latitude": 5.45,
-        "longitude": 126.62,
-        "depth_km": 4.0,
-        "magnitude": 2.2,
-        "location": "119km S 65Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 6.03,
+        "longitude": 126.29,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "072km N 79Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.62,
-          5.45
+          126.29,
+          6.03
         ]
       }
     },
