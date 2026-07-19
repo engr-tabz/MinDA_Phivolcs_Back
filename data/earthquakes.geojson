@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-19T18:35:20.014910+00:00",
+  "generated_at": "2026-07-19T19:50:45.848944+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:25 AM",
+        "time_24": "03:25",
+        "latitude": 19.3,
+        "longitude": 120.95,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "035km N 52Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95,
+          19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:18 AM",
+        "time_24": "03:18",
+        "latitude": 13.01,
+        "longitude": 124.74,
+        "depth_km": 53.0,
+        "magnitude": 1.6,
+        "location": "053km N 22Â° W of Pambujan (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74,
+          13.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:07 AM",
+        "time_24": "03:07",
+        "latitude": 6.04,
+        "longitude": 125.34,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "009km S 35Â° E of Alabel (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          6.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "03:03 AM",
+        "time_24": "03:03",
+        "latitude": 13.65,
+        "longitude": 120.13,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "015km S 57Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13,
+          13.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "02:59 AM",
+        "time_24": "02:59",
+        "latitude": 13.77,
+        "longitude": 120.47,
+        "depth_km": 85.0,
+        "magnitude": 3.5,
+        "location": "018km S 68Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47,
+          13.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "02:49 AM",
+        "time_24": "02:49",
+        "latitude": 13.76,
+        "longitude": 120.56,
+        "depth_km": 98.0,
+        "magnitude": 2.1,
+        "location": "011km S 46Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          13.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "02:45 AM",
+        "time_24": "02:45",
+        "latitude": 5.56,
+        "longitude": 125.44,
+        "depth_km": 16.0,
+        "magnitude": 1.9,
+        "location": "010km N 19Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
