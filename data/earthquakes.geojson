@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-20T15:24:17.357429+00:00",
+  "generated_at": "2026-07-20T16:56:26.467597+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "12:07 AM",
+        "time_24": "00:07",
+        "latitude": 5.97,
+        "longitude": 125.5,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "017km N 69Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          5.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "11:47 PM",
+        "time_24": "23:47",
+        "latitude": 10.9,
+        "longitude": 123.94,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "017km S 16Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.94,
+          10.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "11:36 PM",
+        "time_24": "23:36",
+        "latitude": 5.61,
+        "longitude": 124.81,
+        "depth_km": 21.0,
+        "magnitude": 2.4,
+        "location": "035km S 37Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.81,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 July 2026",
+        "time": "11:15 PM",
+        "time_24": "23:15",
+        "latitude": 6.39,
+        "longitude": 125.77,
+        "depth_km": 79.0,
+        "magnitude": 1.9,
+        "location": "017km S 82Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77,
+          6.39
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1008,17 +1088,17 @@
         "date": "20 July 2026",
         "time": "06:08 AM",
         "time_24": "06:08",
-        "latitude": 5.58,
-        "longitude": 125.39,
-        "depth_km": 24.0,
-        "magnitude": 2.7,
-        "location": "015km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.29,
+        "longitude": 125.29,
+        "depth_km": 7.0,
+        "magnitude": 2.6,
+        "location": "020km S 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.39,
-          5.58
+          125.29,
+          5.29
         ]
       }
     },
@@ -1148,17 +1228,17 @@
         "date": "20 July 2026",
         "time": "04:18 AM",
         "time_24": "04:18",
-        "latitude": 15.94,
-        "longitude": 122.21,
-        "depth_km": 6.0,
-        "magnitude": 2.2,
-        "location": "035km S 50Â° E of Dinalungan (Aurora)"
+        "latitude": 15.95,
+        "longitude": 122.18,
+        "depth_km": 12.0,
+        "magnitude": 2.0,
+        "location": "032km S 49Â° E of Dinalungan (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.21,
-          15.94
+          122.18,
+          15.95
         ]
       }
     },
@@ -1168,17 +1248,17 @@
         "date": "20 July 2026",
         "time": "04:10 AM",
         "time_24": "04:10",
-        "latitude": 5.45,
-        "longitude": 125.15,
-        "depth_km": 11.0,
+        "latitude": 5.34,
+        "longitude": 125.36,
+        "depth_km": 32.0,
         "magnitude": 3.5,
-        "location": "031km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "007km N 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.15,
-          5.45
+          125.36,
+          5.34
         ]
       }
     },
@@ -1366,19 +1446,19 @@
       "type": "Feature",
       "properties": {
         "date": "20 July 2026",
-        "time": "02:49 AM",
-        "time_24": "02:49",
-        "latitude": 13.76,
-        "longitude": 120.56,
-        "depth_km": 98.0,
-        "magnitude": 2.1,
-        "location": "011km S 46Â° W of Calatagan (Batangas)"
+        "time": "02:48 AM",
+        "time_24": "02:48",
+        "latitude": 13.78,
+        "longitude": 120.5,
+        "depth_km": 105.0,
+        "magnitude": 2.6,
+        "location": "015km S 69Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.56,
-          13.76
+          120.5,
+          13.78
         ]
       }
     },
