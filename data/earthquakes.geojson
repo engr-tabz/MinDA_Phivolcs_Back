@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-20T18:58:43.747928+00:00",
+  "generated_at": "2026-07-20T20:35:51.123948+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "04:04 AM",
+        "time_24": "04:04",
+        "latitude": 13.84,
+        "longitude": 120.51,
+        "depth_km": 163.0,
+        "magnitude": 2.4,
+        "location": "013km N 88Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51,
+          13.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "03:53 AM",
+        "time_24": "03:53",
+        "latitude": 10.33,
+        "longitude": 125.15,
+        "depth_km": 15.0,
+        "magnitude": 2.2,
+        "location": "005km N 08Â° E of Saint Bernard (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          10.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "03:11 AM",
+        "time_24": "03:11",
+        "latitude": 5.86,
+        "longitude": 125.43,
+        "depth_km": 23.0,
+        "magnitude": 1.2,
+        "location": "019km S 52Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "03:10 AM",
+        "time_24": "03:10",
+        "latitude": 5.52,
+        "longitude": 125.28,
+        "depth_km": 23.0,
+        "magnitude": 1.3,
+        "location": "020km N 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:59 AM",
+        "time_24": "02:59",
+        "latitude": 5.47,
+        "longitude": 125.41,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "006km N 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:55 AM",
+        "time_24": "02:55",
+        "latitude": 9.43,
+        "longitude": 125.51,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "007km S 75Â° W of Kitcharao (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.51,
+          9.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:53 AM",
+        "time_24": "02:53",
+        "latitude": 5.24,
+        "longitude": 125.16,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "035km S 57Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          5.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:50 AM",
+        "time_24": "02:50",
+        "latitude": 15.38,
+        "longitude": 120.35,
+        "depth_km": 115.0,
+        "magnitude": 1.6,
+        "location": "016km S 48Â° W of San Jose (Tarlac)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35,
+          15.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
