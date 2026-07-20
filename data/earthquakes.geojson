@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-20T21:47:56.895418+00:00",
+  "generated_at": "2026-07-20T22:42:11.976752+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "06:26 AM",
+        "time_24": "06:26",
+        "latitude": 12.59,
+        "longitude": 122.99,
+        "depth_km": 57.0,
+        "magnitude": 1.6,
+        "location": "044km S 39Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.99,
+          12.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1329,15 +1349,15 @@
         "time": "09:37 AM",
         "time_24": "09:37",
         "latitude": 5.73,
-        "longitude": 125.37,
-        "depth_km": 4.0,
+        "longitude": 125.39,
+        "depth_km": 3.0,
         "magnitude": 3.1,
-        "location": "021km S 62Â° E of Glan (Sarangani)"
+        "location": "023km S 63Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
+          125.39,
           5.73
         ]
       }
@@ -1429,15 +1449,15 @@
         "time": "07:07 AM",
         "time_24": "07:07",
         "latitude": 9.71,
-        "longitude": 123.57,
-        "depth_km": 9.0,
+        "longitude": 123.56,
+        "depth_km": 8.0,
         "magnitude": 2.6,
-        "location": "006km N 86Â° E of Alcoy (Cebu)"
+        "location": "006km N 85Â° E of Alcoy (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.57,
+          123.56,
           9.71
         ]
       }
