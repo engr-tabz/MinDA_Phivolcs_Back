@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-21T19:48:26.370416+00:00",
+  "generated_at": "2026-07-21T20:55:01.782404+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "04:33 AM",
+        "time_24": "04:33",
+        "latitude": 8.7,
+        "longitude": 126.59,
+        "depth_km": 29.0,
+        "magnitude": 4.4,
+        "location": "033km S 71Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59,
+          8.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "04:16 AM",
+        "time_24": "04:16",
+        "latitude": 19.45,
+        "longitude": 121.1,
+        "depth_km": 42.0,
+        "magnitude": 1.5,
+        "location": "040km N 17Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1,
+          19.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "03:50 AM",
+        "time_24": "03:50",
+        "latitude": 7.64,
+        "longitude": 123.72,
+        "depth_km": 24.0,
+        "magnitude": 1.6,
+        "location": "017km S 01Â° E of Sultan Naga Dimaporo (Lanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.72,
+          7.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "03:43 AM",
+        "time_24": "03:43",
+        "latitude": 13.34,
+        "longitude": 120.3,
+        "depth_km": 28.0,
+        "magnitude": 1.6,
+        "location": "020km S 65Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3,
+          13.34
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
