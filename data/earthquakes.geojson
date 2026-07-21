@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-21T18:04:34.313990+00:00",
+  "generated_at": "2026-07-21T19:48:26.370416+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "03:08 AM",
+        "time_24": "03:08",
+        "latitude": 17.87,
+        "longitude": 120.3,
+        "depth_km": 24.0,
+        "magnitude": 1.5,
+        "location": "017km N 88Â° W of Sinait (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3,
+          17.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:33 AM",
+        "time_24": "02:33",
+        "latitude": 5.37,
+        "longitude": 125.43,
+        "depth_km": 17.0,
+        "magnitude": 4.8,
+        "location": "005km S 14Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:17 AM",
+        "time_24": "02:17",
+        "latitude": 13.84,
+        "longitude": 120.51,
+        "depth_km": 64.0,
+        "magnitude": 1.4,
+        "location": "014km N 89Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51,
+          13.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:16 AM",
+        "time_24": "02:16",
+        "latitude": 5.5,
+        "longitude": 126.11,
+        "depth_km": 60.0,
+        "magnitude": 2.5,
+        "location": "068km S 48Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:15 AM",
+        "time_24": "02:15",
+        "latitude": 16.54,
+        "longitude": 119.1,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "087km N 79Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.1,
+          16.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:13 AM",
+        "time_24": "02:13",
+        "latitude": 17.97,
+        "longitude": 120.62,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "004km S 80Â° W of Banna (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62,
+          17.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:12 AM",
+        "time_24": "02:12",
+        "latitude": 5.87,
+        "longitude": 125.55,
+        "depth_km": 96.0,
+        "magnitude": 2.2,
+        "location": "011km S 63Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.55,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:07 AM",
+        "time_24": "02:07",
+        "latitude": 16.37,
+        "longitude": 120.99,
+        "depth_km": 35.0,
+        "magnitude": 1.4,
+        "location": "009km N 28Â° W of Aritao (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99,
+          16.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 12.82,
+        "longitude": 123.06,
+        "depth_km": 4.0,
+        "magnitude": 1.6,
+        "location": "022km S 66Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.06,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "01:59 AM",
+        "time_24": "01:59",
+        "latitude": 17.52,
+        "longitude": 120.56,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "005km S 56Â° E of San Quintin (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          17.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "01:55 AM",
+        "time_24": "01:55",
+        "latitude": 9.2,
+        "longitude": 125.64,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "011km S 51Â° E of Santiago (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64,
+          9.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
