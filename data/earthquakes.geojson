@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-21T04:34:27.637534+00:00",
+  "generated_at": "2026-07-21T07:17:26.250376+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:43 PM",
+        "time_24": "14:43",
+        "latitude": 7.91,
+        "longitude": 125.98,
+        "depth_km": 36.0,
+        "magnitude": 2.3,
+        "location": "010km S 32Â° W of Santa Josefa (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.98,
+          7.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:22 PM",
+        "time_24": "14:22",
+        "latitude": 5.77,
+        "longitude": 125.01,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "011km S 11Â° E of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "02:09 PM",
+        "time_24": "14:09",
+        "latitude": 13.45,
+        "longitude": 123.86,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "017km N 54Â° E of City Of Tabaco (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.86,
+          13.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "01:37 PM",
+        "time_24": "13:37",
+        "latitude": 9.79,
+        "longitude": 124.72,
+        "depth_km": 2.0,
+        "magnitude": 2.2,
+        "location": "017km N 73Â° E of Anda (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72,
+          9.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "01:11 PM",
+        "time_24": "13:11",
+        "latitude": 15.79,
+        "longitude": 121.67,
+        "depth_km": 19.0,
+        "magnitude": 1.6,
+        "location": "012km N 75Â° E of Baler (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.67,
+          15.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 July 2026",
+        "time": "12:24 PM",
+        "time_24": "12:24",
+        "latitude": 5.6,
+        "longitude": 125.25,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "025km S 12Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -108,17 +228,17 @@
         "date": "21 July 2026",
         "time": "11:56 AM",
         "time_24": "11:56",
-        "latitude": 10.41,
-        "longitude": 125.18,
-        "depth_km": 10.0,
+        "latitude": 10.32,
+        "longitude": 125.19,
+        "depth_km": 4.0,
         "magnitude": 4.0,
-        "location": "002km N 49Â° W of Hinunangan (Southern Leyte)"
+        "location": "008km S 10Â° W of Hinunangan (Southern Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.18,
-          10.41
+          125.19,
+          10.32
         ]
       }
     },
