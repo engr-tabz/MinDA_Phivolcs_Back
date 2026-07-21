@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-21T16:48:33.473413+00:00",
+  "generated_at": "2026-07-21T18:04:34.313990+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "01:33 AM",
+        "time_24": "01:33",
+        "latitude": 15.08,
+        "longitude": 121.95,
+        "depth_km": 19.0,
+        "magnitude": 2.3,
+        "location": "027km N 04Â° W of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.95,
+          15.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "01:28 AM",
+        "time_24": "01:28",
+        "latitude": 11.68,
+        "longitude": 125.26,
+        "depth_km": 28.0,
+        "magnitude": 2.0,
+        "location": "020km N 68Â° W of City Of Borongan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          11.68
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
