@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-21T23:09:58.770147+00:00",
+  "generated_at": "2026-07-22T00:08:38.641550+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "07:25 AM",
+        "time_24": "07:25",
+        "latitude": 13.14,
+        "longitude": 120.57,
+        "depth_km": 22.0,
+        "magnitude": 1.4,
+        "location": "010km S 15Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "07:01 AM",
+        "time_24": "07:01",
+        "latitude": 5.78,
+        "longitude": 126.91,
+        "depth_km": 19.0,
+        "magnitude": 2.9,
+        "location": "134km S 44Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.91,
+          5.78
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
