@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-22T22:45:20.043010+00:00",
+  "generated_at": "2026-07-22T23:46:35.813083+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "07:12 AM",
+        "time_24": "07:12",
+        "latitude": 17.11,
+        "longitude": 119.87,
+        "depth_km": 14.0,
+        "magnitude": 3.5,
+        "location": "061km S 85Â° W of City Of Candon (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.87,
+          17.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "07:09 AM",
+        "time_24": "07:09",
+        "latitude": 12.8,
+        "longitude": 123.05,
+        "depth_km": 3.0,
+        "magnitude": 1.7,
+        "location": "024km S 64Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.05,
+          12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "06:47 AM",
+        "time_24": "06:47",
+        "latitude": 7.82,
+        "longitude": 126.46,
+        "depth_km": 8.0,
+        "magnitude": 1.8,
+        "location": "003km N 02Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.46,
+          7.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "06:45 AM",
+        "time_24": "06:45",
+        "latitude": 7.72,
+        "longitude": 127.06,
+        "depth_km": 3.0,
+        "magnitude": 2.6,
+        "location": "058km N 73Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06,
+          7.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "06:38 AM",
+        "time_24": "06:38",
+        "latitude": 5.19,
+        "longitude": 125.39,
+        "depth_km": 17.0,
+        "magnitude": 3.2,
+        "location": "025km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.19
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
