@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-22T21:44:43.064162+00:00",
+  "generated_at": "2026-07-22T22:45:20.043010+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "06:00 AM",
+        "time_24": "06:00",
+        "latitude": 5.62,
+        "longitude": 126.04,
+        "depth_km": 25.0,
+        "magnitude": 1.9,
+        "location": "054km S 53Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.04,
+          5.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:47 AM",
+        "time_24": "05:47",
+        "latitude": 13.54,
+        "longitude": 121.43,
+        "depth_km": 100.0,
+        "magnitude": 1.3,
+        "location": "027km S 63Â° E of Lobo (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43,
+          13.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:34 AM",
+        "time_24": "05:34",
+        "latitude": 6.09,
+        "longitude": 124.7,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "014km N 35Â° E of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7,
+          6.09
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
