@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-22T09:04:55.436529+00:00",
+  "generated_at": "2026-07-22T11:17:56.674027+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "06:51 PM",
+        "time_24": "18:51",
+        "latitude": 17.85,
+        "longitude": 121.75,
+        "depth_km": 19.0,
+        "magnitude": 1.9,
+        "location": "003km N 71Â° E of Amulung (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          17.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "06:51 PM",
+        "time_24": "18:51",
+        "latitude": 5.53,
+        "longitude": 125.42,
+        "depth_km": 11.0,
+        "magnitude": 3.5,
+        "location": "009km N 42Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "06:15 PM",
+        "time_24": "18:15",
+        "latitude": 5.85,
+        "longitude": 124.85,
+        "depth_km": 23.0,
+        "magnitude": 1.9,
+        "location": "016km S 86Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.85,
+          5.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "05:47 PM",
+        "time_24": "17:47",
+        "latitude": 5.21,
+        "longitude": 125.51,
+        "depth_km": 16.0,
+        "magnitude": 5.1,
+        "location": "024km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.51,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "05:02 PM",
+        "time_24": "17:02",
+        "latitude": 5.36,
+        "longitude": 125.28,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "017km S 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 July 2026",
+        "time": "05:01 PM",
+        "time_24": "17:01",
+        "latitude": 5.87,
+        "longitude": 125.63,
+        "depth_km": 74.0,
+        "magnitude": 1.7,
+        "location": "005km S 18Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63,
+          5.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1328,17 @@
         "date": "21 July 2026",
         "time": "11:03 PM",
         "time_24": "23:03",
-        "latitude": 7.2,
-        "longitude": 126.71,
-        "depth_km": 144.0,
-        "magnitude": 2.6,
-        "location": "019km S 87Â° E of Manay (Davao Oriental)"
+        "latitude": 7.25,
+        "longitude": 126.56,
+        "depth_km": 145.0,
+        "magnitude": 2.5,
+        "location": "005km N 30Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.71,
-          7.2
+          126.56,
+          7.25
         ]
       }
     },
@@ -1348,17 +1468,17 @@
         "date": "21 July 2026",
         "time": "09:31 PM",
         "time_24": "21:31",
-        "latitude": 7.68,
-        "longitude": 126.52,
-        "depth_km": 22.0,
-        "magnitude": 2.0,
-        "location": "012km N 19Â° W of Baganga (Davao Oriental)"
+        "latitude": 7.46,
+        "longitude": 126.65,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "016km S 35Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.52,
-          7.68
+          126.65,
+          7.46
         ]
       }
     },
@@ -1408,17 +1528,17 @@
         "date": "21 July 2026",
         "time": "08:31 PM",
         "time_24": "20:31",
-        "latitude": 6.94,
-        "longitude": 126.99,
+        "latitude": 7.36,
+        "longitude": 126.8,
         "depth_km": 25.0,
         "magnitude": 2.2,
-        "location": "058km S 59Â° E of Manay (Davao Oriental)"
+        "location": "033km N 61Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.99,
-          6.94
+          126.8,
+          7.36
         ]
       }
     },
@@ -1428,17 +1548,17 @@
         "date": "21 July 2026",
         "time": "07:54 PM",
         "time_24": "19:54",
-        "latitude": 15.75,
-        "longitude": 121.96,
-        "depth_km": 6.0,
-        "magnitude": 1.7,
-        "location": "043km S 89Â° E of Baler (Aurora)"
+        "latitude": 15.72,
+        "longitude": 122.01,
+        "depth_km": 8.0,
+        "magnitude": 2.0,
+        "location": "048km S 85Â° E of Baler (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.96,
-          15.75
+          122.01,
+          15.72
         ]
       }
     },
@@ -1449,15 +1569,15 @@
         "time": "07:53 PM",
         "time_24": "19:53",
         "latitude": 15.73,
-        "longitude": 121.96,
+        "longitude": 122.0,
         "depth_km": 3.0,
-        "magnitude": 2.1,
-        "location": "043km S 86Â° E of Baler (Aurora)"
+        "magnitude": 2.8,
+        "location": "046km S 06Â° E of Dinalungan (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.96,
+          122.0,
           15.73
         ]
       }
@@ -1488,17 +1608,17 @@
         "date": "21 July 2026",
         "time": "07:09 PM",
         "time_24": "19:09",
-        "latitude": 7.05,
-        "longitude": 126.92,
-        "depth_km": 4.0,
-        "magnitude": 2.9,
-        "location": "046km S 67Â° E of Manay (Davao Oriental)"
+        "latitude": 7.12,
+        "longitude": 126.8,
+        "depth_km": 17.0,
+        "magnitude": 3.1,
+        "location": "030km S 71Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.92,
-          7.05
+          126.8,
+          7.12
         ]
       }
     },
@@ -1508,17 +1628,17 @@
         "date": "21 July 2026",
         "time": "06:58 PM",
         "time_24": "18:58",
-        "latitude": 10.62,
-        "longitude": 125.8,
-        "depth_km": 29.0,
+        "latitude": 10.72,
+        "longitude": 125.82,
+        "depth_km": 6.0,
         "magnitude": 2.3,
-        "location": "016km S 33Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "location": "011km S 78Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.8,
-          10.62
+          125.82,
+          10.72
         ]
       }
     },
@@ -1548,17 +1668,17 @@
         "date": "21 July 2026",
         "time": "06:12 PM",
         "time_24": "18:12",
-        "latitude": 5.37,
-        "longitude": 125.29,
-        "depth_km": 29.0,
+        "latitude": 5.35,
+        "longitude": 125.35,
+        "depth_km": 23.0,
         "magnitude": 1.7,
-        "location": "015km S 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "010km S 48Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.37
+          125.35,
+          5.35
         ]
       }
     },
