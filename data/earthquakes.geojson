@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-22T20:38:43.823559+00:00",
+  "generated_at": "2026-07-22T21:44:43.064162+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:20 AM",
+        "time_24": "05:20",
+        "latitude": 7.84,
+        "longitude": 122.83,
+        "depth_km": 29.0,
+        "magnitude": 1.2,
+        "location": "009km N 61Â° E of Kabasalan (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.83,
+          7.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:14 AM",
+        "time_24": "05:14",
+        "latitude": 4.46,
+        "longitude": 124.47,
+        "depth_km": 71.0,
+        "magnitude": 2.7,
+        "location": "149km S 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.47,
+          4.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:13 AM",
+        "time_24": "05:13",
+        "latitude": 9.67,
+        "longitude": 122.31,
+        "depth_km": 37.0,
+        "magnitude": 1.3,
+        "location": "017km S 49Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:11 AM",
+        "time_24": "05:11",
+        "latitude": 16.2,
+        "longitude": 122.32,
+        "depth_km": 7.0,
+        "magnitude": 1.8,
+        "location": "023km S 69Â° E of Casiguran (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32,
+          16.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:08 AM",
+        "time_24": "05:08",
+        "latitude": 17.38,
+        "longitude": 120.16,
+        "depth_km": 2.0,
+        "magnitude": 2.0,
+        "location": "030km S 53Â° W of Caoayan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16,
+          17.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:01 AM",
+        "time_24": "05:01",
+        "latitude": 8.09,
+        "longitude": 127.14,
+        "depth_km": 29.0,
+        "magnitude": 2.2,
+        "location": "080km N 86Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14,
+          8.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "04:55 AM",
+        "time_24": "04:55",
+        "latitude": 13.14,
+        "longitude": 124.36,
+        "depth_km": 60.0,
+        "magnitude": 2.3,
+        "location": "021km N 59Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.36,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "04:31 AM",
+        "time_24": "04:31",
+        "latitude": 4.96,
+        "longitude": 124.54,
+        "depth_km": 29.0,
+        "magnitude": 2.6,
+        "location": "110km S 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.54,
+          4.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
