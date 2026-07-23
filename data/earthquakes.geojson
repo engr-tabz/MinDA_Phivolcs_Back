@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-23T20:08:57.851283+00:00",
+  "generated_at": "2026-07-23T21:28:28.349291+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "05:06 AM",
+        "time_24": "05:06",
+        "latitude": 9.02,
+        "longitude": 125.66,
+        "depth_km": 10.0,
+        "magnitude": 2.1,
+        "location": "009km S 66Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66,
+          9.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 5.89,
+        "longitude": 125.0,
+        "depth_km": 17.0,
+        "magnitude": 2.7,
+        "location": "004km N 04Â° E of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "04:17 AM",
+        "time_24": "04:17",
+        "latitude": 12.93,
+        "longitude": 121.01,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "027km N 69Â° E of Sablayan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01,
+          12.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 6.62,
+        "longitude": 126.94,
+        "depth_km": 33.0,
+        "magnitude": 3.0,
+        "location": "072km S 49Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.94,
+          6.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
