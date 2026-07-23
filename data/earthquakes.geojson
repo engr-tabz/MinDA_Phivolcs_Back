@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-23T07:22:19.688847+00:00",
+  "generated_at": "2026-07-23T09:55:46.223267+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "05:18 PM",
+        "time_24": "17:18",
+        "latitude": 17.98,
+        "longitude": 120.72,
+        "depth_km": 9.0,
+        "magnitude": 1.7,
+        "location": "007km S 87Â° E of Banna (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72,
+          17.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "04:25 PM",
+        "time_24": "16:25",
+        "latitude": 16.19,
+        "longitude": 120.61,
+        "depth_km": 1.0,
+        "magnitude": 1.4,
+        "location": "009km S 43Â° W of Cabarroguis (Quirino)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          16.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "04:21 PM",
+        "time_24": "16:21",
+        "latitude": 5.8,
+        "longitude": 125.35,
+        "depth_km": 14.0,
+        "magnitude": 2.3,
+        "location": "016km S 83Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "03:15 PM",
+        "time_24": "15:15",
+        "latitude": 12.82,
+        "longitude": 122.96,
+        "depth_km": 2.0,
+        "magnitude": 2.8,
+        "location": "032km S 74Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.96,
+          12.82
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
