@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-23T04:42:31.957259+00:00",
+  "generated_at": "2026-07-23T07:22:19.688847+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "02:56 PM",
+        "time_24": "14:56",
+        "latitude": 7.4,
+        "longitude": 124.92,
+        "depth_km": 5.0,
+        "magnitude": 1.9,
+        "location": "010km S 12Â° W of Damulog (Bukidnon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.92,
+          7.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "02:08 PM",
+        "time_24": "14:08",
+        "latitude": 5.73,
+        "longitude": 125.25,
+        "depth_km": 6.0,
+        "magnitude": 2.0,
+        "location": "012km S 27Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 July 2026",
+        "time": "01:58 PM",
+        "time_24": "13:58",
+        "latitude": 9.45,
+        "longitude": 125.39,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "017km S 56Â° W of Mainit (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          9.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1528,17 +1588,17 @@
         "date": "22 July 2026",
         "time": "06:51 PM",
         "time_24": "18:51",
-        "latitude": 5.53,
-        "longitude": 125.42,
-        "depth_km": 11.0,
-        "magnitude": 3.5,
-        "location": "009km N 42Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.4,
+        "longitude": 125.49,
+        "depth_km": 6.0,
+        "magnitude": 3.7,
+        "location": "008km S 78Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.42,
-          5.53
+          125.49,
+          5.4
         ]
       }
     },
@@ -1568,17 +1628,17 @@
         "date": "22 July 2026",
         "time": "05:47 PM",
         "time_24": "17:47",
-        "latitude": 5.21,
-        "longitude": 125.51,
-        "depth_km": 16.0,
+        "latitude": 5.38,
+        "longitude": 125.45,
+        "depth_km": 19.0,
         "magnitude": 5.1,
-        "location": "024km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "005km S 42Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.51,
-          5.21
+          125.45,
+          5.38
         ]
       }
     },
@@ -1729,15 +1789,15 @@
         "time": "03:34 PM",
         "time_24": "15:34",
         "latitude": 9.71,
-        "longitude": 124.35,
-        "depth_km": 33.0,
-        "magnitude": 2.0,
-        "location": "006km N 16Â° W of Jagna (Bohol)"
+        "longitude": 124.61,
+        "depth_km": 3.0,
+        "magnitude": 2.2,
+        "location": "005km S 48Â° E of Anda (Bohol)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.35,
+          124.61,
           9.71
         ]
       }
@@ -1908,17 +1968,17 @@
         "date": "22 July 2026",
         "time": "01:16 PM",
         "time_24": "13:16",
-        "latitude": 16.46,
-        "longitude": 119.05,
-        "depth_km": 17.0,
-        "magnitude": 3.1,
-        "location": "090km N 85Â° W of Bolinao (Pangasinan)"
+        "latitude": 16.51,
+        "longitude": 119.12,
+        "depth_km": 11.0,
+        "magnitude": 2.8,
+        "location": "084km N 81Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.05,
-          16.46
+          119.12,
+          16.51
         ]
       }
     },
@@ -1968,17 +2028,17 @@
         "date": "22 July 2026",
         "time": "12:42 PM",
         "time_24": "12:42",
-        "latitude": 8.64,
-        "longitude": 126.8,
-        "depth_km": 40.0,
+        "latitude": 8.73,
+        "longitude": 126.38,
+        "depth_km": 50.0,
         "magnitude": 1.5,
-        "location": "005km S 15Â° W of Cagwait (Surigao Del Sur)"
+        "location": "012km S 47Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.8,
-          8.64
+          126.38,
+          8.73
         ]
       }
     },
@@ -2368,17 +2428,17 @@
         "date": "22 July 2026",
         "time": "04:33 AM",
         "time_24": "04:33",
-        "latitude": 8.67,
-        "longitude": 126.48,
+        "latitude": 8.68,
+        "longitude": 126.47,
         "depth_km": 35.0,
         "magnitude": 4.0,
-        "location": "024km S 55Â° E of Marihatag (Surigao Del Sur)"
+        "location": "023km S 54Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.48,
-          8.67
+          126.47,
+          8.68
         ]
       }
     },
@@ -2468,17 +2528,17 @@
         "date": "22 July 2026",
         "time": "02:33 AM",
         "time_24": "02:33",
-        "latitude": 5.35,
-        "longitude": 125.43,
-        "depth_km": 15.0,
+        "latitude": 5.41,
+        "longitude": 125.42,
+        "depth_km": 16.0,
         "magnitude": 4.8,
-        "location": "007km S 12Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "000km S 27Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.35
+          125.42,
+          5.41
         ]
       }
     },
