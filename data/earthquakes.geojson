@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T07:11:45.397018+00:00",
+  "generated_at": "2026-07-24T09:36:16.120168+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "05:04 PM",
+        "time_24": "17:04",
+        "latitude": 9.84,
+        "longitude": 125.91,
+        "depth_km": 13.0,
+        "magnitude": 2.0,
+        "location": "008km S 66Â° W of Del Carmen (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.91,
+          9.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "04:40 PM",
+        "time_24": "16:40",
+        "latitude": 5.74,
+        "longitude": 127.29,
+        "depth_km": 14.0,
+        "magnitude": 2.8,
+        "location": "168km S 53Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.29,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "04:10 PM",
+        "time_24": "16:10",
+        "latitude": 6.82,
+        "longitude": 126.51,
+        "depth_km": 35.0,
+        "magnitude": 1.8,
+        "location": "026km S 15Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.51,
+          6.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "03:34 PM",
+        "time_24": "15:34",
+        "latitude": 5.3,
+        "longitude": 124.86,
+        "depth_km": 12.0,
+        "magnitude": 3.1,
+        "location": "063km S 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.86,
+          5.3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1068,17 +1148,17 @@
         "date": "23 July 2026",
         "time": "06:05 PM",
         "time_24": "18:05",
-        "latitude": 9.45,
-        "longitude": 122.53,
-        "depth_km": 21.0,
-        "magnitude": 2.4,
-        "location": "013km N 67Â° W of Basay (Negros Oriental)"
+        "latitude": 9.49,
+        "longitude": 122.55,
+        "depth_km": 14.0,
+        "magnitude": 2.5,
+        "location": "013km N 47Â° W of Basay (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.53,
-          9.45
+          122.55,
+          9.49
         ]
       }
     },
