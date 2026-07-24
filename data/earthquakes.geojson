@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T16:53:29.411575+00:00",
+  "generated_at": "2026-07-24T18:17:03.654438+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 18.58,
+        "longitude": 120.73,
+        "depth_km": 27.0,
+        "magnitude": 2.2,
+        "location": "006km N 40Â° W of Bangui (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73,
+          18.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "01:54 AM",
+        "time_24": "01:54",
+        "latitude": 8.66,
+        "longitude": 125.54,
+        "depth_km": 41.0,
+        "magnitude": 2.3,
+        "location": "011km S 39Â° W of Las Nieves (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54,
+          8.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "01:36 AM",
+        "time_24": "01:36",
+        "latitude": 5.33,
+        "longitude": 124.29,
+        "depth_km": 45.0,
+        "magnitude": 2.5,
+        "location": "082km S 27Â° W of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.29,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "01:33 AM",
+        "time_24": "01:33",
+        "latitude": 9.68,
+        "longitude": 126.1,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "010km S 34Â° E of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:59 AM",
+        "time_24": "00:59",
+        "latitude": 9.33,
+        "longitude": 125.48,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "004km S 73Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          9.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:56 AM",
+        "time_24": "00:56",
+        "latitude": 7.3,
+        "longitude": 126.65,
+        "depth_km": 130.0,
+        "magnitude": 2.4,
+        "location": "015km N 51Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.65,
+          7.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 5.91,
+        "longitude": 125.38,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "012km S 56Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -168,17 +308,17 @@
         "date": "24 July 2026",
         "time": "11:53 PM",
         "time_24": "23:53",
-        "latitude": 9.75,
-        "longitude": 126.49,
-        "depth_km": 10.0,
-        "magnitude": 3.4,
-        "location": "036km S 84Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.73,
+        "longitude": 126.34,
+        "depth_km": 17.0,
+        "magnitude": 3.2,
+        "location": "020km S 75Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.49,
-          9.75
+          126.34,
+          9.73
         ]
       }
     },
