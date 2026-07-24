@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T19:51:32.968315+00:00",
+  "generated_at": "2026-07-24T20:56:57.422085+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "04:45 AM",
+        "time_24": "04:45",
+        "latitude": 12.74,
+        "longitude": 122.92,
+        "depth_km": 2.0,
+        "magnitude": 2.2,
+        "location": "039km S 64Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.92,
+          12.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "04:31 AM",
+        "time_24": "04:31",
+        "latitude": 12.85,
+        "longitude": 123.07,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "020km S 72Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 10.58,
+        "longitude": 126.83,
+        "depth_km": 26.0,
+        "magnitude": 2.6,
+        "location": "104km N 53Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.83,
+          10.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "04:15 AM",
+        "time_24": "04:15",
+        "latitude": 10.54,
+        "longitude": 125.54,
+        "depth_km": 31.0,
+        "magnitude": 2.3,
+        "location": "021km N 11Â° W of Loreto (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54,
+          10.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "03:52 AM",
+        "time_24": "03:52",
+        "latitude": 8.75,
+        "longitude": 126.66,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "041km S 82Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66,
+          8.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "03:50 AM",
+        "time_24": "03:50",
+        "latitude": 12.49,
+        "longitude": 120.62,
+        "depth_km": 5.0,
+        "magnitude": 1.5,
+        "location": "036km S 74Â° W of Calintaan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62,
+          12.49
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +208,17 @@
         "date": "25 July 2026",
         "time": "03:20 AM",
         "time_24": "03:20",
-        "latitude": 8.66,
+        "latitude": 8.72,
         "longitude": 126.14,
-        "depth_km": 10.0,
-        "magnitude": 2.9,
-        "location": "005km N 59Â° E of Lianga (Surigao Del Sur)"
+        "depth_km": 4.0,
+        "magnitude": 3.0,
+        "location": "011km N 27Â° E of Lianga (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.14,
-          8.66
+          8.72
         ]
       }
     },
