@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T09:36:16.120168+00:00",
+  "generated_at": "2026-07-24T11:23:27.776374+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "07:07 PM",
+        "time_24": "19:07",
+        "latitude": 9.63,
+        "longitude": 126.16,
+        "depth_km": 22.0,
+        "magnitude": 1.7,
+        "location": "017km S 01Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "06:57 PM",
+        "time_24": "18:57",
+        "latitude": 5.5,
+        "longitude": 125.3,
+        "depth_km": 55.0,
+        "magnitude": 1.7,
+        "location": "017km N 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "06:43 PM",
+        "time_24": "18:43",
+        "latitude": 5.37,
+        "longitude": 125.3,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "014km S 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "06:01 PM",
+        "time_24": "18:01",
+        "latitude": 13.71,
+        "longitude": 120.61,
+        "depth_km": 140.0,
+        "magnitude": 2.4,
+        "location": "014km S 09Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.71
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -628,17 +708,17 @@
         "date": "24 July 2026",
         "time": "02:07 AM",
         "time_24": "02:07",
-        "latitude": 5.61,
-        "longitude": 125.02,
-        "depth_km": 22.0,
-        "magnitude": 1.4,
-        "location": "028km S 06Â° E of Maasim (Sarangani)"
+        "latitude": 5.52,
+        "longitude": 125.0,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "038km S 01Â° E of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.02,
-          5.61
+          125.0,
+          5.52
         ]
       }
     },
@@ -768,17 +848,17 @@
         "date": "24 July 2026",
         "time": "01:11 AM",
         "time_24": "01:11",
-        "latitude": 5.28,
-        "longitude": 125.33,
-        "depth_km": 23.0,
-        "magnitude": 2.0,
-        "location": "018km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.7,
+        "longitude": 125.29,
+        "depth_km": 18.0,
+        "magnitude": 2.3,
+        "location": "017km S 34Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.28
+          125.29,
+          5.7
         ]
       }
     },
@@ -808,17 +888,17 @@
         "date": "24 July 2026",
         "time": "12:55 AM",
         "time_24": "00:55",
-        "latitude": 6.45,
-        "longitude": 125.7,
-        "depth_km": 79.0,
+        "latitude": 5.85,
+        "longitude": 125.3,
+        "depth_km": 23.0,
         "magnitude": 1.7,
-        "location": "011km N 65Â° E of Malita (Davao Occidental)"
+        "location": "011km N 71Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.7,
-          6.45
+          125.3,
+          5.85
         ]
       }
     },
@@ -848,17 +928,17 @@
         "date": "24 July 2026",
         "time": "12:33 AM",
         "time_24": "00:33",
-        "latitude": 12.82,
-        "longitude": 123.12,
-        "depth_km": 7.0,
-        "magnitude": 2.3,
-        "location": "016km S 57Â° W of Claveria (Masbate)"
+        "latitude": 12.74,
+        "longitude": 123.09,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "025km S 44Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.12,
-          12.82
+          123.09,
+          12.74
         ]
       }
     },
@@ -868,17 +948,17 @@
         "date": "24 July 2026",
         "time": "12:12 AM",
         "time_24": "00:12",
-        "latitude": 9.62,
-        "longitude": 126.2,
-        "depth_km": 34.0,
-        "magnitude": 1.9,
-        "location": "018km S 14Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.65,
+        "longitude": 126.12,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "015km S 16Â° W of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.2,
-          9.62
+          126.12,
+          9.65
         ]
       }
     },
@@ -948,17 +1028,17 @@
         "date": "23 July 2026",
         "time": "10:53 PM",
         "time_24": "22:53",
-        "latitude": 12.94,
-        "longitude": 123.16,
-        "depth_km": 24.0,
+        "latitude": 12.72,
+        "longitude": 123.19,
+        "depth_km": 18.0,
         "magnitude": 2.1,
-        "location": "010km N 68Â° W of Claveria (Masbate)"
+        "location": "021km S 18Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.16,
-          12.94
+          123.19,
+          12.72
         ]
       }
     },
@@ -1008,17 +1088,17 @@
         "date": "23 July 2026",
         "time": "09:30 PM",
         "time_24": "21:30",
-        "latitude": 18.48,
-        "longitude": 120.85,
-        "depth_km": 11.0,
-        "magnitude": 2.2,
-        "location": "005km N 70Â° W of Adams (Ilocos Norte)"
+        "latitude": 18.77,
+        "longitude": 120.66,
+        "depth_km": 18.0,
+        "magnitude": 2.3,
+        "location": "027km N 30Â° W of Pagudpud (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.85,
-          18.48
+          120.66,
+          18.77
         ]
       }
     },
@@ -1028,17 +1108,17 @@
         "date": "23 July 2026",
         "time": "09:02 PM",
         "time_24": "21:02",
-        "latitude": 7.79,
-        "longitude": 124.35,
-        "depth_km": 10.0,
-        "magnitude": 1.7,
-        "location": "004km S 27Â° E of Masiu (Lanao Del Sur)"
+        "latitude": 7.97,
+        "longitude": 124.46,
+        "depth_km": 3.0,
+        "magnitude": 1.9,
+        "location": "010km N 75Â° E of Buadiposo-buntong (Lanao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.35,
-          7.79
+          124.46,
+          7.97
         ]
       }
     },
@@ -1049,15 +1129,15 @@
         "time": "08:17 PM",
         "time_24": "20:17",
         "latitude": 8.69,
-        "longitude": 126.56,
-        "depth_km": 28.0,
-        "magnitude": 2.6,
-        "location": "031km S 66Â° E of Marihatag (Surigao Del Sur)"
+        "longitude": 126.5,
+        "depth_km": 30.0,
+        "magnitude": 2.8,
+        "location": "025km S 61Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.56,
+          126.5,
           8.69
         ]
       }
@@ -1068,17 +1148,17 @@
         "date": "23 July 2026",
         "time": "08:15 PM",
         "time_24": "20:15",
-        "latitude": 16.48,
-        "longitude": 119.17,
-        "depth_km": 24.0,
+        "latitude": 16.44,
+        "longitude": 119.21,
+        "depth_km": 20.0,
         "magnitude": 3.5,
-        "location": "078km N 83Â° W of Bolinao (Pangasinan)"
+        "location": "073km N 86Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.17,
-          16.48
+          119.21,
+          16.44
         ]
       }
     },
@@ -1088,17 +1168,17 @@
         "date": "23 July 2026",
         "time": "07:55 PM",
         "time_24": "19:55",
-        "latitude": 9.71,
-        "longitude": 127.26,
-        "depth_km": 68.0,
-        "magnitude": 2.1,
-        "location": "122km S 86Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.67,
+        "longitude": 125.74,
+        "depth_km": 183.0,
+        "magnitude": 2.5,
+        "location": "009km N 30Â° E of Gigaquit (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.26,
-          9.71
+          125.74,
+          9.67
         ]
       }
     },
@@ -1108,17 +1188,17 @@
         "date": "23 July 2026",
         "time": "07:49 PM",
         "time_24": "19:49",
-        "latitude": 5.22,
-        "longitude": 125.24,
-        "depth_km": 19.0,
-        "magnitude": 2.8,
-        "location": "030km S 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.36,
+        "longitude": 125.14,
+        "depth_km": 22.0,
+        "magnitude": 2.9,
+        "location": "032km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
-          5.22
+          125.14,
+          5.36
         ]
       }
     },
