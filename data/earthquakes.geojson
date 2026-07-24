@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T11:23:27.776374+00:00",
+  "generated_at": "2026-07-24T12:57:24.510445+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "08:21 PM",
+        "time_24": "20:21",
+        "latitude": 5.78,
+        "longitude": 125.32,
+        "depth_km": 11.0,
+        "magnitude": 2.9,
+        "location": "014km S 69Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "07:46 PM",
+        "time_24": "19:46",
+        "latitude": 15.04,
+        "longitude": 119.94,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "014km S 79Â° W of San Felipe (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94,
+          15.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "07:42 PM",
+        "time_24": "19:42",
+        "latitude": 10.54,
+        "longitude": 125.44,
+        "depth_km": 7.0,
+        "magnitude": 3.0,
+        "location": "025km N 37Â° W of Loreto (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          10.54
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +628,17 @@
         "date": "24 July 2026",
         "time": "04:01 AM",
         "time_24": "04:01",
-        "latitude": 6.62,
-        "longitude": 126.94,
+        "latitude": 6.76,
+        "longitude": 126.81,
         "depth_km": 33.0,
-        "magnitude": 3.0,
-        "location": "072km S 49Â° E of Tarragona (Davao Oriental)"
+        "magnitude": 3.1,
+        "location": "051km S 51Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.94,
-          6.62
+          126.81,
+          6.76
         ]
       }
     },
@@ -968,17 +1028,17 @@
         "date": "23 July 2026",
         "time": "11:38 PM",
         "time_24": "23:38",
-        "latitude": 5.41,
-        "longitude": 125.46,
-        "depth_km": 70.0,
-        "magnitude": 2.5,
-        "location": "004km S 79Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.31,
+        "longitude": 125.25,
+        "depth_km": 30.0,
+        "magnitude": 3.0,
+        "location": "022km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.46,
-          5.41
+          125.25,
+          5.31
         ]
       }
     },
@@ -988,17 +1048,17 @@
         "date": "23 July 2026",
         "time": "11:26 PM",
         "time_24": "23:26",
-        "latitude": 16.42,
-        "longitude": 119.33,
-        "depth_km": 8.0,
-        "magnitude": 3.0,
-        "location": "059km N 56Â° W of Agno (Pangasinan)"
+        "latitude": 16.4,
+        "longitude": 119.04,
+        "depth_km": 19.0,
+        "magnitude": 3.3,
+        "location": "087km N 69Â° W of Agno (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.33,
-          16.42
+          119.04,
+          16.4
         ]
       }
     },
@@ -1008,17 +1068,17 @@
         "date": "23 July 2026",
         "time": "11:18 PM",
         "time_24": "23:18",
-        "latitude": 20.25,
-        "longitude": 120.62,
-        "depth_km": 38.0,
+        "latitude": 20.08,
+        "longitude": 120.63,
+        "depth_km": 8.0,
         "magnitude": 3.1,
-        "location": "131km S 86Â° W of Sabtang (Batanes)"
+        "location": "123km N 30Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.62,
-          20.25
+          120.63,
+          20.08
         ]
       }
     },
