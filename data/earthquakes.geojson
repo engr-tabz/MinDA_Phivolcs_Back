@@ -1,7 +1,287 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-24T15:01:37.962895+00:00",
+  "generated_at": "2026-07-24T16:53:29.411575+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:39 AM",
+        "time_24": "00:39",
+        "latitude": 9.37,
+        "longitude": 125.44,
+        "depth_km": 1.0,
+        "magnitude": 2.8,
+        "location": "009km N 69Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 9.77,
+        "longitude": 126.3,
+        "depth_km": 23.0,
+        "magnitude": 1.9,
+        "location": "016km S 85Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          9.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 8.19,
+        "longitude": 125.85,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "001km N 45Â° W of Loreto (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85,
+          8.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:22 AM",
+        "time_24": "00:22",
+        "latitude": 12.98,
+        "longitude": 124.51,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "035km S 79Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.51,
+          12.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:11 AM",
+        "time_24": "00:11",
+        "latitude": 13.0,
+        "longitude": 124.37,
+        "depth_km": 28.0,
+        "magnitude": 2.6,
+        "location": "020km S 77Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.37,
+          13.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:09 AM",
+        "time_24": "00:09",
+        "latitude": 12.97,
+        "longitude": 124.44,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "028km S 74Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.44,
+          12.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "12:03 AM",
+        "time_24": "00:03",
+        "latitude": 10.06,
+        "longitude": 126.25,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "019km N 78Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          10.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:59 PM",
+        "time_24": "23:59",
+        "latitude": 7.36,
+        "longitude": 126.8,
+        "depth_km": 33.0,
+        "magnitude": 2.7,
+        "location": "033km N 61Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8,
+          7.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:53 PM",
+        "time_24": "23:53",
+        "latitude": 9.75,
+        "longitude": 126.49,
+        "depth_km": 10.0,
+        "magnitude": 3.4,
+        "location": "036km S 84Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:49 PM",
+        "time_24": "23:49",
+        "latitude": 9.78,
+        "longitude": 126.39,
+        "depth_km": 11.0,
+        "magnitude": 3.6,
+        "location": "026km N 90Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.39,
+          9.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:26 PM",
+        "time_24": "23:26",
+        "latitude": 12.95,
+        "longitude": 124.5,
+        "depth_km": 37.0,
+        "magnitude": 2.2,
+        "location": "034km N 26Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5,
+          12.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:20 PM",
+        "time_24": "23:20",
+        "latitude": 5.27,
+        "longitude": 125.38,
+        "depth_km": 18.0,
+        "magnitude": 3.7,
+        "location": "017km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:16 PM",
+        "time_24": "23:16",
+        "latitude": 11.67,
+        "longitude": 124.49,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "006km N 74Â° W of Culaba (Biliran)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.49,
+          11.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 July 2026",
+        "time": "11:06 PM",
+        "time_24": "23:06",
+        "latitude": 11.46,
+        "longitude": 124.47,
+        "depth_km": 3.0,
+        "magnitude": 2.5,
+        "location": "001km S 33Â° W of Biliran (Biliran)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.47,
+          11.46
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
