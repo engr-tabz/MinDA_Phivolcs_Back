@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-25T11:38:21.944691+00:00",
+  "generated_at": "2026-07-25T12:44:37.433587+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "07:45 PM",
+        "time_24": "19:45",
+        "latitude": 13.28,
+        "longitude": 124.83,
+        "depth_km": 3.0,
+        "magnitude": 2.3,
+        "location": "065km S 50Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.83,
+          13.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -626,26 +646,6 @@
       "type": "Feature",
       "properties": {
         "date": "25 July 2026",
-        "time": "12:42 PM",
-        "time_24": "12:42",
-        "latitude": 9.61,
-        "longitude": 126.05,
-        "depth_km": 26.0,
-        "magnitude": 1.3,
-        "location": "009km S 87Â° E of Socorro (Surigao Del Norte)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.05,
-          9.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "25 July 2026",
         "time": "01:03 PM",
         "time_24": "13:03",
         "latitude": 13.65,
@@ -908,17 +908,17 @@
         "date": "25 July 2026",
         "time": "09:38 AM",
         "time_24": "09:38",
-        "latitude": 6.07,
-        "longitude": 124.57,
-        "depth_km": 2.0,
-        "magnitude": 2.5,
-        "location": "008km N 85Â° E of Maitum (Sarangani)"
+        "latitude": 6.15,
+        "longitude": 124.64,
+        "depth_km": 12.0,
+        "magnitude": 2.1,
+        "location": "011km S 43Â° W of Lake Sebu (South Cotabato)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.57,
-          6.07
+          124.64,
+          6.15
         ]
       }
     },
