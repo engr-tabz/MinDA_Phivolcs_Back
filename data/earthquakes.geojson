@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-25T14:21:33.804111+00:00",
+  "generated_at": "2026-07-25T15:37:04.384929+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "11:07 PM",
+        "time_24": "23:07",
+        "latitude": 9.31,
+        "longitude": 125.5,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "004km S 17Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          9.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 July 2026",
+        "time": "10:22 PM",
+        "time_24": "22:22",
+        "latitude": 13.84,
+        "longitude": 124.17,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "015km S 79Â° W of Viga (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.17,
+          13.84
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1348,17 +1388,17 @@
         "date": "25 July 2026",
         "time": "05:10 AM",
         "time_24": "05:10",
-        "latitude": 12.77,
-        "longitude": 123.04,
-        "depth_km": 15.0,
+        "latitude": 12.79,
+        "longitude": 123.06,
+        "depth_km": 2.0,
         "magnitude": 3.5,
-        "location": "027km S 56Â° W of Claveria (Masbate)"
+        "location": "024km S 59Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.04,
-          12.77
+          123.06,
+          12.79
         ]
       }
     },
@@ -1408,17 +1448,17 @@
         "date": "25 July 2026",
         "time": "05:03 AM",
         "time_24": "05:03",
-        "latitude": 16.5,
-        "longitude": 121.53,
-        "depth_km": 1.0,
-        "magnitude": 2.2,
-        "location": "001km S 11Â° W of Cabarroguis (Quirino)"
+        "latitude": 15.99,
+        "longitude": 122.16,
+        "depth_km": 23.0,
+        "magnitude": 2.1,
+        "location": "027km S 53Â° E of Dinalungan (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.53,
-          16.5
+          122.16,
+          15.99
         ]
       }
     },
@@ -1668,17 +1708,17 @@
         "date": "25 July 2026",
         "time": "03:20 AM",
         "time_24": "03:20",
-        "latitude": 8.72,
-        "longitude": 126.14,
-        "depth_km": 4.0,
+        "latitude": 8.73,
+        "longitude": 126.16,
+        "depth_km": 7.0,
         "magnitude": 3.0,
-        "location": "011km N 27Â° E of Lianga (Surigao Del Sur)"
+        "location": "013km N 36Â° E of Lianga (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.14,
-          8.72
+          126.16,
+          8.73
         ]
       }
     },
@@ -1748,17 +1788,17 @@
         "date": "25 July 2026",
         "time": "02:38 AM",
         "time_24": "02:38",
-        "latitude": 12.78,
-        "longitude": 124.49,
-        "depth_km": 3.0,
+        "latitude": 12.7,
+        "longitude": 124.94,
+        "depth_km": 18.0,
         "magnitude": 2.4,
-        "location": "018km N 51Â° E of Biri (Northern Samar)"
+        "location": "016km N 06Â° E of Pambujan (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.49,
-          12.78
+          124.94,
+          12.7
         ]
       }
     },
@@ -1888,17 +1928,17 @@
         "date": "25 July 2026",
         "time": "12:59 AM",
         "time_24": "00:59",
-        "latitude": 9.33,
-        "longitude": 125.48,
-        "depth_km": 5.0,
+        "latitude": 9.35,
+        "longitude": 125.45,
+        "depth_km": 2.0,
         "magnitude": 2.6,
-        "location": "004km S 73Â° W of Jabonga (Agusan Del Norte)"
+        "location": "007km N 84Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
-          9.33
+          125.45,
+          9.35
         ]
       }
     },
@@ -1950,9 +1990,9 @@
         "time_24": "00:39",
         "latitude": 9.37,
         "longitude": 125.44,
-        "depth_km": 1.0,
+        "depth_km": 2.0,
         "magnitude": 2.8,
-        "location": "009km N 69Â° W of Jabonga (Agusan Del Norte)"
+        "location": "008km N 70Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
@@ -2068,17 +2108,17 @@
         "date": "25 July 2026",
         "time": "12:03 AM",
         "time_24": "00:03",
-        "latitude": 10.06,
-        "longitude": 126.25,
-        "depth_km": 24.0,
+        "latitude": 10.09,
+        "longitude": 126.27,
+        "depth_km": 19.0,
         "magnitude": 2.4,
-        "location": "019km N 78Â° E of Burgos (Surigao Del Norte)"
+        "location": "023km N 69Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.25,
-          10.06
+          126.27,
+          10.09
         ]
       }
     },
@@ -2128,17 +2168,17 @@
         "date": "24 July 2026",
         "time": "11:49 PM",
         "time_24": "23:49",
-        "latitude": 9.78,
-        "longitude": 126.39,
-        "depth_km": 11.0,
+        "latitude": 9.8,
+        "longitude": 126.43,
+        "depth_km": 7.0,
         "magnitude": 3.6,
-        "location": "026km N 90Â° E of General Luna (Surigao Del Norte)"
+        "location": "030km N 86Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.39,
-          9.78
+          126.43,
+          9.8
         ]
       }
     },
