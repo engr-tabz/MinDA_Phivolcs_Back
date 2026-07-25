@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-25T18:39:24.410437+00:00",
+  "generated_at": "2026-07-25T19:57:29.949888+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "03:37 AM",
+        "time_24": "03:37",
+        "latitude": 9.35,
+        "longitude": 125.45,
+        "depth_km": 13.0,
+        "magnitude": 2.5,
+        "location": "007km N 80Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "03:26 AM",
+        "time_24": "03:26",
+        "latitude": 15.59,
+        "longitude": 119.77,
+        "depth_km": 18.0,
+        "magnitude": 3.8,
+        "location": "017km S 77Â° W of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.77,
+          15.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "02:30 AM",
+        "time_24": "02:30",
+        "latitude": 5.87,
+        "longitude": 125.34,
+        "depth_km": 8.0,
+        "magnitude": 2.3,
+        "location": "013km S 25Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
