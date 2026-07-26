@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T09:04:26.241354+00:00",
+  "generated_at": "2026-07-26T10:51:38.750812+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "06:32 PM",
+        "time_24": "18:32",
+        "latitude": 5.78,
+        "longitude": 125.31,
+        "depth_km": 16.0,
+        "magnitude": 2.6,
+        "location": "012km S 66Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "06:20 PM",
+        "time_24": "18:20",
+        "latitude": 10.15,
+        "longitude": 125.77,
+        "depth_km": 41.0,
+        "magnitude": 2.0,
+        "location": "021km N 63Â° E of Basilisa (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77,
+          10.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "06:15 PM",
+        "time_24": "18:15",
+        "latitude": 15.23,
+        "longitude": 120.3,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "027km N 74Â° E of Cabangan (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3,
+          15.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "05:52 PM",
+        "time_24": "17:52",
+        "latitude": 14.1,
+        "longitude": 120.15,
+        "depth_km": 46.0,
+        "magnitude": 2.5,
+        "location": "027km N 07Â° E of Lubang (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15,
+          14.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "05:41 PM",
+        "time_24": "17:41",
+        "latitude": 5.43,
+        "longitude": 125.31,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "012km N 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "05:38 PM",
+        "time_24": "17:38",
+        "latitude": 10.23,
+        "longitude": 125.19,
+        "depth_km": 13.0,
+        "magnitude": 2.2,
+        "location": "003km S 24Â° E of San Juan (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          10.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "05:04 PM",
+        "time_24": "17:04",
+        "latitude": 12.41,
+        "longitude": 123.49,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "007km S 10Â° W of Baleno (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.49,
+          12.41
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -499,26 +639,6 @@
         "coordinates": [
           122.07,
           9.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "26 July 2026",
-        "time": "08:43 AM",
-        "time_24": "08:43",
-        "latitude": 6.68,
-        "longitude": 123.37,
-        "depth_km": 36.0,
-        "magnitude": 2.9,
-        "location": "076km N 79Â° W of Kalamansig (Sultan Kudarat)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.37,
-          6.68
         ]
       }
     },
@@ -1308,17 +1428,17 @@
         "date": "25 July 2026",
         "time": "07:10 PM",
         "time_24": "19:10",
-        "latitude": 5.55,
-        "longitude": 124.63,
-        "depth_km": 129.0,
-        "magnitude": 1.9,
-        "location": "048km S 01Â° E of Kiamba (Sarangani)"
+        "latitude": 5.3,
+        "longitude": 124.5,
+        "depth_km": 96.0,
+        "magnitude": 2.4,
+        "location": "078km S 10Â° W of Kiamba (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.63,
-          5.55
+          124.5,
+          5.3
         ]
       }
     },
@@ -1328,17 +1448,17 @@
         "date": "25 July 2026",
         "time": "06:52 PM",
         "time_24": "18:52",
-        "latitude": 10.34,
+        "latitude": 10.31,
         "longitude": 126.13,
-        "depth_km": 24.0,
-        "magnitude": 1.8,
-        "location": "036km N 09Â° E of Burgos (Surigao Del Norte)"
+        "depth_km": 17.0,
+        "magnitude": 2.7,
+        "location": "033km N 11Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.13,
-          10.34
+          10.31
         ]
       }
     },
@@ -1368,17 +1488,17 @@
         "date": "25 July 2026",
         "time": "06:32 PM",
         "time_24": "18:32",
-        "latitude": 11.33,
-        "longitude": 121.2,
-        "depth_km": 49.0,
-        "magnitude": 2.8,
-        "location": "034km N 55Â° E of Agutaya (Palawan)"
+        "latitude": 11.28,
+        "longitude": 121.0,
+        "depth_km": 13.0,
+        "magnitude": 3.0,
+        "location": "015km N 28Â° E of Agutaya (Palawan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.2,
-          11.33
+          121.0,
+          11.28
         ]
       }
     },
@@ -1388,17 +1508,17 @@
         "date": "25 July 2026",
         "time": "06:20 PM",
         "time_24": "18:20",
-        "latitude": 14.82,
-        "longitude": 121.47,
-        "depth_km": 12.0,
-        "magnitude": 2.1,
-        "location": "018km N 66Â° W of General Nakar (Quezon)"
+        "latitude": 14.85,
+        "longitude": 121.49,
+        "depth_km": 10.0,
+        "magnitude": 2.0,
+        "location": "017km N 56Â° W of General Nakar (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.47,
-          14.82
+          121.49,
+          14.85
         ]
       }
     },
@@ -1408,17 +1528,17 @@
         "date": "25 July 2026",
         "time": "06:19 PM",
         "time_24": "18:19",
-        "latitude": 7.56,
-        "longitude": 125.94,
-        "depth_km": 16.0,
-        "magnitude": 2.0,
-        "location": "006km N 19Â° E of Mawab (Davao De Oro)"
+        "latitude": 7.57,
+        "longitude": 125.95,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "004km S 23Â° W of Nabunturan (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.94,
-          7.56
+          125.95,
+          7.57
         ]
       }
     },
@@ -1428,17 +1548,17 @@
         "date": "25 July 2026",
         "time": "06:15 PM",
         "time_24": "18:15",
-        "latitude": 10.89,
-        "longitude": 123.96,
-        "depth_km": 21.0,
+        "latitude": 10.91,
+        "longitude": 123.93,
+        "depth_km": 3.0,
         "magnitude": 2.5,
-        "location": "017km S 06Â° W of City Of Bogo (Cebu)"
+        "location": "016km S 18Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.96,
-          10.89
+          123.93,
+          10.91
         ]
       }
     },
@@ -1448,17 +1568,17 @@
         "date": "25 July 2026",
         "time": "06:02 PM",
         "time_24": "18:02",
-        "latitude": 10.87,
-        "longitude": 123.96,
-        "depth_km": 3.0,
+        "latitude": 10.91,
+        "longitude": 123.91,
+        "depth_km": 10.0,
         "magnitude": 3.0,
-        "location": "020km S 06Â° W of City Of Bogo (Cebu)"
+        "location": "016km S 26Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.96,
-          10.87
+          123.91,
+          10.91
         ]
       }
     },
