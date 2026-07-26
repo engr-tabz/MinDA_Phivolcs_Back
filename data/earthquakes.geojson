@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T17:12:32.810309+00:00",
+  "generated_at": "2026-07-26T18:13:56.774072+00:00",
   "features": [
     {
       "type": "Feature",
@@ -8,6 +8,226 @@
         "date": "27 July 2026",
         "time": "02:00 AM",
         "time_24": "02:00",
+        "latitude": 5.89,
+        "longitude": 125.4,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "015km S 54Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:58 AM",
+        "time_24": "01:58",
+        "latitude": 5.78,
+        "longitude": 125.3,
+        "depth_km": 12.0,
+        "magnitude": 2.1,
+        "location": "012km S 64Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:51 AM",
+        "time_24": "01:51",
+        "latitude": 7.42,
+        "longitude": 124.78,
+        "depth_km": 22.0,
+        "magnitude": 1.7,
+        "location": "013km S 45Â° E of Banisilan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78,
+          7.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:50 AM",
+        "time_24": "01:50",
+        "latitude": 13.5,
+        "longitude": 119.92,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "043km S 55Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92,
+          13.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:38 AM",
+        "time_24": "01:38",
+        "latitude": 13.67,
+        "longitude": 124.07,
+        "depth_km": 8.0,
+        "magnitude": 1.8,
+        "location": "009km N 20Â° W of San Andres (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.07,
+          13.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:25 AM",
+        "time_24": "01:25",
+        "latitude": 18.24,
+        "longitude": 120.98,
+        "depth_km": 69.0,
+        "magnitude": 2.2,
+        "location": "007km S 72Â° W of Calanasan (Apayao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          18.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:14 AM",
+        "time_24": "01:14",
+        "latitude": 2.49,
+        "longitude": 126.05,
+        "depth_km": 99.0,
+        "magnitude": 3.6,
+        "location": "331km S 12Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.05,
+          2.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:13 AM",
+        "time_24": "01:13",
+        "latitude": 13.78,
+        "longitude": 124.05,
+        "depth_km": 9.0,
+        "magnitude": 2.3,
+        "location": "024km S 22Â° W of Caramoran (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.05,
+          13.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 11.2,
+        "longitude": 122.27,
+        "depth_km": 12.0,
+        "magnitude": 2.3,
+        "location": "027km S 68Â° E of Tibiao (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27,
+          11.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:06 AM",
+        "time_24": "01:06",
+        "latitude": 13.86,
+        "longitude": 124.09,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "015km S 19Â° W of Caramoran (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          13.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:04 AM",
+        "time_24": "01:04",
+        "latitude": 7.86,
+        "longitude": 126.55,
+        "depth_km": 64.0,
+        "magnitude": 2.9,
+        "location": "019km S 85Â° E of Boston (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.55,
+          7.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:00 AM",
+        "time_24": "01:00",
         "latitude": 12.87,
         "longitude": 123.04,
         "depth_km": 21.0,
@@ -19,26 +239,6 @@
         "coordinates": [
           123.04,
           12.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "27 July 2026",
-        "time": "01:04 AM",
-        "time_24": "01:04",
-        "latitude": 7.84,
-        "longitude": 126.32,
-        "depth_km": 30.0,
-        "magnitude": 3.0,
-        "location": "007km S 61Â° W of Boston (Davao Oriental)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.32,
-          7.84
         ]
       }
     },
