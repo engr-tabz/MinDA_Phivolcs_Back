@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T06:45:07.799598+00:00",
+  "generated_at": "2026-07-26T09:04:26.241354+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "04:07 PM",
+        "time_24": "16:07",
+        "latitude": 5.37,
+        "longitude": 125.48,
+        "depth_km": 20.0,
+        "magnitude": 3.8,
+        "location": "008km S 54Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "03:52 PM",
+        "time_24": "15:52",
+        "latitude": 5.57,
+        "longitude": 125.66,
+        "depth_km": 4.0,
+        "magnitude": 3.0,
+        "location": "024km N 62Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66,
+          5.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "03:21 PM",
+        "time_24": "15:21",
+        "latitude": 5.55,
+        "longitude": 125.28,
+        "depth_km": 26.0,
+        "magnitude": 2.5,
+        "location": "022km N 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "02:54 PM",
+        "time_24": "14:54",
+        "latitude": 5.21,
+        "longitude": 125.34,
+        "depth_km": 31.0,
+        "magnitude": 2.3,
+        "location": "024km S 22Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "02:39 PM",
+        "time_24": "14:39",
+        "latitude": 4.95,
+        "longitude": 125.09,
+        "depth_km": 20.0,
+        "magnitude": 3.3,
+        "location": "063km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09,
+          4.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "02:39 PM",
+        "time_24": "14:39",
+        "latitude": 5.36,
+        "longitude": 125.26,
+        "depth_km": 29.0,
+        "magnitude": 1.5,
+        "location": "019km S 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +148,17 @@
         "date": "26 July 2026",
         "time": "02:06 PM",
         "time_24": "14:06",
-        "latitude": 15.6,
-        "longitude": 119.87,
-        "depth_km": 21.0,
-        "magnitude": 3.6,
-        "location": "007km S 66Â° W of Candelaria (Zambales)"
+        "latitude": 15.61,
+        "longitude": 119.9,
+        "depth_km": 23.0,
+        "magnitude": 3.3,
+        "location": "003km S 60Â° W of Candelaria (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.87,
-          15.6
+          119.9,
+          15.61
         ]
       }
     },
@@ -708,17 +828,17 @@
         "date": "26 July 2026",
         "time": "03:26 AM",
         "time_24": "03:26",
-        "latitude": 15.61,
-        "longitude": 119.83,
-        "depth_km": 21.0,
+        "latitude": 15.62,
+        "longitude": 119.74,
+        "depth_km": 14.0,
         "magnitude": 3.8,
-        "location": "011km S 80Â° W of Candelaria (Zambales)"
+        "location": "021km S 87Â° W of Candelaria (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.83,
-          15.61
+          119.74,
+          15.62
         ]
       }
     },
