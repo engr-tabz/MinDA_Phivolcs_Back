@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T20:37:18.810979+00:00",
+  "generated_at": "2026-07-26T21:38:32.769580+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "05:22 AM",
+        "time_24": "05:22",
+        "latitude": 14.91,
+        "longitude": 122.59,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "036km N 50Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59,
+          14.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "05:19 AM",
+        "time_24": "05:19",
+        "latitude": 14.95,
+        "longitude": 122.64,
+        "depth_km": 10.0,
+        "magnitude": 3.7,
+        "location": "043km N 50Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.64,
+          14.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "04:49 AM",
+        "time_24": "04:49",
+        "latitude": 2.1,
+        "longitude": 126.96,
+        "depth_km": 52.0,
+        "magnitude": 4.2,
+        "location": "404km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96,
+          2.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
