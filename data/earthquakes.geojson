@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T16:02:52.701905+00:00",
+  "generated_at": "2026-07-26T17:12:32.810309+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 12.87,
+        "longitude": 123.04,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "023km S 81Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04,
+          12.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "01:04 AM",
+        "time_24": "01:04",
+        "latitude": 7.84,
+        "longitude": 126.32,
+        "depth_km": 30.0,
+        "magnitude": 3.0,
+        "location": "007km S 61Â° W of Boston (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          7.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 13.58,
+        "longitude": 120.68,
+        "depth_km": 112.0,
+        "magnitude": 2.0,
+        "location": "016km N 19Â° W of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68,
+          13.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:46 AM",
+        "time_24": "00:46",
+        "latitude": 13.36,
+        "longitude": 123.86,
+        "depth_km": 69.0,
+        "magnitude": 3.0,
+        "location": "014km S 89Â° E of City Of Tabaco (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.86,
+          13.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:27 AM",
+        "time_24": "00:27",
+        "latitude": 12.76,
+        "longitude": 122.05,
+        "depth_km": 1.0,
+        "magnitude": 1.9,
+        "location": "003km S 14Â° E of Corcuera (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05,
+          12.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:25 AM",
+        "time_24": "00:25",
+        "latitude": 13.59,
+        "longitude": 124.07,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "004km S 86Â° W of San Andres (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.07,
+          13.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:22 AM",
+        "time_24": "00:22",
+        "latitude": 12.75,
+        "longitude": 122.07,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "004km S 36Â° E of Corcuera (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.07,
+          12.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:19 AM",
+        "time_24": "00:19",
+        "latitude": 13.71,
+        "longitude": 124.13,
+        "depth_km": 44.0,
+        "magnitude": 1.6,
+        "location": "013km N 16Â° E of San Andres (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.13,
+          13.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:19 AM",
+        "time_24": "00:19",
+        "latitude": 5.79,
+        "longitude": 125.28,
+        "depth_km": 25.0,
+        "magnitude": 1.4,
+        "location": "009km S 65Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "12:15 AM",
+        "time_24": "00:15",
+        "latitude": 13.78,
+        "longitude": 124.04,
+        "depth_km": 14.0,
+        "magnitude": 3.4,
+        "location": "019km N 90Â° E of Caramoan (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.04,
+          13.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "11:59 PM",
+        "time_24": "23:59",
+        "latitude": 4.89,
+        "longitude": 125.25,
+        "depth_km": 34.0,
+        "magnitude": 2.9,
+        "location": "061km S 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          4.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
