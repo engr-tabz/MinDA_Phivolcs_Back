@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T13:47:36.774234+00:00",
+  "generated_at": "2026-07-26T14:54:41.363550+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:41 PM",
+        "time_24": "22:41",
+        "latitude": 16.38,
+        "longitude": 119.17,
+        "depth_km": 63.0,
+        "magnitude": 2.9,
+        "location": "078km S 89Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.17,
+          16.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:25 PM",
+        "time_24": "22:25",
+        "latitude": 12.74,
+        "longitude": 123.63,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "011km N 18Â° W of Monreal (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.63,
+          12.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:26 PM",
+        "time_24": "22:26",
+        "latitude": 13.08,
+        "longitude": 123.8,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "009km S 55Â° W of Manito (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8,
+          13.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:23 PM",
+        "time_24": "22:23",
+        "latitude": 5.81,
+        "longitude": 125.43,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "024km S 41Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:22 PM",
+        "time_24": "22:22",
+        "latitude": 12.47,
+        "longitude": 123.87,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "011km N 63Â° E of Batuan (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.87,
+          12.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:11 PM",
+        "time_24": "22:11",
+        "latitude": 8.82,
+        "longitude": 122.52,
+        "depth_km": 32.0,
+        "magnitude": 2.3,
+        "location": "066km S 11Â° W of Basay (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.52,
+          8.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:07 PM",
+        "time_24": "22:07",
+        "latitude": 13.57,
+        "longitude": 120.61,
+        "depth_km": 119.0,
+        "magnitude": 2.8,
+        "location": "019km N 43Â° W of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:06 PM",
+        "time_24": "22:06",
+        "latitude": 5.31,
+        "longitude": 125.2,
+        "depth_km": 21.0,
+        "magnitude": 2.3,
+        "location": "028km S 65Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "10:04 PM",
+        "time_24": "22:04",
+        "latitude": 13.65,
+        "longitude": 120.59,
+        "depth_km": 71.0,
+        "magnitude": 2.0,
+        "location": "021km S 12Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59,
+          13.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "09:59 PM",
+        "time_24": "21:59",
+        "latitude": 9.91,
+        "longitude": 125.64,
+        "depth_km": 31.0,
+        "magnitude": 2.0,
+        "location": "004km S 62Â° W of Cagdianao (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64,
+          9.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 July 2026",
+        "time": "09:59 PM",
+        "time_24": "21:59",
+        "latitude": 5.64,
+        "longitude": 125.48,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "019km N 02Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          5.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
