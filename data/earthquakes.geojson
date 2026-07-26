@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-26T22:41:20.085631+00:00",
+  "generated_at": "2026-07-26T23:43:36.578876+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "07:20 AM",
+        "time_24": "07:20",
+        "latitude": 5.37,
+        "longitude": 125.25,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "020km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "07:15 AM",
+        "time_24": "07:15",
+        "latitude": 5.68,
+        "longitude": 125.34,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "022km S 43Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "07:07 AM",
+        "time_24": "07:07",
+        "latitude": 5.77,
+        "longitude": 125.33,
+        "depth_km": 17.0,
+        "magnitude": 1.5,
+        "location": "015km S 66Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 July 2026",
+        "time": "06:44 AM",
+        "time_24": "06:44",
+        "latitude": 5.7,
+        "longitude": 125.34,
+        "depth_km": 16.0,
+        "magnitude": 2.8,
+        "location": "021km S 48Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
