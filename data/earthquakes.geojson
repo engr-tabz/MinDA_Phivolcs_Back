@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-27T22:37:42.143325+00:00",
+  "generated_at": "2026-07-27T23:44:27.085284+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "07:28 AM",
+        "time_24": "07:28",
+        "latitude": 5.82,
+        "longitude": 125.39,
+        "depth_km": 20.0,
+        "magnitude": 2.2,
+        "location": "020km N 89Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "07:06 AM",
+        "time_24": "07:06",
+        "latitude": 7.52,
+        "longitude": 126.86,
+        "depth_km": 20.0,
+        "magnitude": 5.6,
+        "location": "033km S 79Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.86,
+          7.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "07:01 AM",
+        "time_24": "07:01",
+        "latitude": 5.63,
+        "longitude": 125.1,
+        "depth_km": 26.0,
+        "magnitude": 1.9,
+        "location": "024km S 27Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "06:44 AM",
+        "time_24": "06:44",
+        "latitude": 15.22,
+        "longitude": 120.16,
+        "depth_km": 27.0,
+        "magnitude": 1.9,
+        "location": "014km N 60Â° E of Cabangan (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16,
+          15.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
