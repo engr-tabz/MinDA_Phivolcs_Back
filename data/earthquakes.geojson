@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-27T20:10:46.487862+00:00",
+  "generated_at": "2026-07-27T21:30:41.211220+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "05:02 AM",
+        "time_24": "05:02",
+        "latitude": 15.2,
+        "longitude": 122.16,
+        "depth_km": 10.0,
+        "magnitude": 3.8,
+        "location": "044km N 28Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16,
+          15.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:50 AM",
+        "time_24": "04:50",
+        "latitude": 6.42,
+        "longitude": 126.28,
+        "depth_km": 47.0,
+        "magnitude": 3.0,
+        "location": "035km S 41Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          6.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 18.42,
+        "longitude": 120.67,
+        "depth_km": 30.0,
+        "magnitude": 1.4,
+        "location": "010km S 17Â° E of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67,
+          18.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:17 AM",
+        "time_24": "04:17",
+        "latitude": 17.47,
+        "longitude": 120.82,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "005km N 59Â° W of Bucloc (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          17.47
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +108,17 @@
         "date": "28 July 2026",
         "time": "03:50 AM",
         "time_24": "03:50",
-        "latitude": 10.41,
-        "longitude": 123.13,
+        "latitude": 10.42,
+        "longitude": 123.18,
         "depth_km": 6.0,
-        "magnitude": 1.9,
+        "magnitude": 2.6,
         "location": "010km N 76Â° W of City Of Canlaon (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          10.41
+          123.18,
+          10.42
         ]
       }
     },
@@ -1268,17 +1348,17 @@
         "date": "27 July 2026",
         "time": "09:29 AM",
         "time_24": "09:29",
-        "latitude": 5.6,
-        "longitude": 124.9,
+        "latitude": 5.7,
+        "longitude": 124.77,
         "depth_km": 7.0,
         "magnitude": 3.5,
-        "location": "031km S 20Â° W of Maasim (Sarangani)"
+        "location": "031km S 54Â° W of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.9,
-          5.6
+          124.77,
+          5.7
         ]
       }
     },
