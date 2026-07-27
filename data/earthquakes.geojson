@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-27T18:46:40.116839+00:00",
+  "generated_at": "2026-07-27T20:10:46.487862+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:59 AM",
+        "time_24": "03:59",
+        "latitude": 5.89,
+        "longitude": 125.42,
+        "depth_km": 17.0,
+        "magnitude": 1.5,
+        "location": "017km S 58Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:50 AM",
+        "time_24": "03:50",
+        "latitude": 10.41,
+        "longitude": 123.13,
+        "depth_km": 6.0,
+        "magnitude": 1.9,
+        "location": "010km N 76Â° W of City Of Canlaon (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13,
+          10.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:41 AM",
+        "time_24": "03:41",
+        "latitude": 18.14,
+        "longitude": 120.85,
+        "depth_km": 11.0,
+        "magnitude": 1.4,
+        "location": "003km N 86Â° E of Carasi (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85,
+          18.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:22 AM",
+        "time_24": "03:22",
+        "latitude": 5.93,
+        "longitude": 125.4,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "013km S 68Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:15 AM",
+        "time_24": "03:15",
+        "latitude": 17.84,
+        "longitude": 120.54,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "009km S 72Â° E of Sinait (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54,
+          17.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 5.82,
+        "longitude": 125.35,
+        "depth_km": 24.0,
+        "magnitude": 1.7,
+        "location": "017km N 89Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 7.19,
+        "longitude": 126.83,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "032km S 87Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.83,
+          7.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "02:56 AM",
+        "time_24": "02:56",
+        "latitude": 5.07,
+        "longitude": 124.64,
+        "depth_km": 11.0,
+        "magnitude": 2.6,
+        "location": "095km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64,
+          5.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "02:50 AM",
+        "time_24": "02:50",
+        "latitude": 9.73,
+        "longitude": 126.06,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "003km S 15Â° E of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.06,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "02:38 AM",
+        "time_24": "02:38",
+        "latitude": 9.46,
+        "longitude": 125.55,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "003km N 74Â° W of Kitcharao (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.55,
+          9.46
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1428,17 +1628,17 @@
         "date": "27 July 2026",
         "time": "05:34 AM",
         "time_24": "05:34",
-        "latitude": 5.82,
-        "longitude": 125.0,
-        "depth_km": 9.0,
+        "latitude": 5.47,
+        "longitude": 124.88,
+        "depth_km": 1.0,
         "magnitude": 3.3,
-        "location": "005km S 01Â° W of Maasim (Sarangani)"
+        "location": "046km S 17Â° W of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.0,
-          5.82
+          124.88,
+          5.47
         ]
       }
     },
@@ -1448,17 +1648,17 @@
         "date": "27 July 2026",
         "time": "05:22 AM",
         "time_24": "05:22",
-        "latitude": 14.91,
-        "longitude": 122.59,
-        "depth_km": 5.0,
+        "latitude": 15.0,
+        "longitude": 122.6,
+        "depth_km": 1.0,
         "magnitude": 2.7,
-        "location": "036km N 50Â° E of Jomalig (Quezon)"
+        "location": "044km N 41Â° E of Jomalig (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.59,
-          14.91
+          122.6,
+          15.0
         ]
       }
     },
