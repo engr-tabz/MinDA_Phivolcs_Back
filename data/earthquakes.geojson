@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T07:19:22.899835+00:00",
+  "generated_at": "2026-07-28T10:01:33.378830+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "05:07 PM",
+        "time_24": "17:07",
+        "latitude": 12.82,
+        "longitude": 123.02,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "026km S 70Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:53 PM",
+        "time_24": "16:53",
+        "latitude": 15.01,
+        "longitude": 119.79,
+        "depth_km": 34.0,
+        "magnitude": 1.3,
+        "location": "030km S 79Â° W of San Felipe (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.79,
+          15.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:53 PM",
+        "time_24": "16:53",
+        "latitude": 17.8,
+        "longitude": 120.24,
+        "depth_km": 42.0,
+        "magnitude": 1.4,
+        "location": "022km N 90Â° W of Cabugao (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24,
+          17.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:50 PM",
+        "time_24": "16:50",
+        "latitude": 5.83,
+        "longitude": 125.64,
+        "depth_km": 31.0,
+        "magnitude": 2.4,
+        "location": "009km S 06Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64,
+          5.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "04:14 PM",
+        "time_24": "16:14",
+        "latitude": 5.52,
+        "longitude": 125.29,
+        "depth_km": 28.0,
+        "magnitude": 3.0,
+        "location": "019km N 52Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.52
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
