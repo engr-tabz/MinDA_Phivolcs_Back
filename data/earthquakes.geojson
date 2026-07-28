@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T21:45:32.045471+00:00",
+  "generated_at": "2026-07-28T22:45:00.926776+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "06:25 AM",
+        "time_24": "06:25",
+        "latitude": 5.9,
+        "longitude": 126.63,
+        "depth_km": 34.0,
+        "magnitude": 2.8,
+        "location": "103km S 36Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63,
+          5.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "06:18 AM",
+        "time_24": "06:18",
+        "latitude": 15.56,
+        "longitude": 119.98,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "004km N 45Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          15.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
