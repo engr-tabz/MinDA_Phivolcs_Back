@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T22:45:00.926776+00:00",
+  "generated_at": "2026-07-28T23:44:52.707807+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "07:26 AM",
+        "time_24": "07:26",
+        "latitude": 13.77,
+        "longitude": 120.65,
+        "depth_km": 117.0,
+        "magnitude": 2.1,
+        "location": "007km S 12Â° E of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65,
+          13.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "06:55 AM",
+        "time_24": "06:55",
+        "latitude": 5.98,
+        "longitude": 125.39,
+        "depth_km": 3.0,
+        "magnitude": 1.7,
+        "location": "011km N 87Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "06:51 AM",
+        "time_24": "06:51",
+        "latitude": 11.24,
+        "longitude": 121.21,
+        "depth_km": 33.0,
+        "magnitude": 2.5,
+        "location": "031km N 73Â° E of Agutaya (Palawan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21,
+          11.24
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
