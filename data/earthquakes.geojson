@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T20:36:40.813632+00:00",
+  "generated_at": "2026-07-28T21:45:32.045471+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 9.75,
+        "longitude": 126.15,
+        "depth_km": 26.0,
+        "magnitude": 2.7,
+        "location": "004km S 03Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          9.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
