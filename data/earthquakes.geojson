@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T19:15:52.767185+00:00",
+  "generated_at": "2026-07-28T20:36:40.813632+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:57 AM",
+        "time_24": "03:57",
+        "latitude": 12.99,
+        "longitude": 123.41,
+        "depth_km": 26.0,
+        "magnitude": 1.6,
+        "location": "008km S 42Â° W of Pio Duran (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41,
+          12.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:41 AM",
+        "time_24": "03:41",
+        "latitude": 10.84,
+        "longitude": 126.45,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "080km N 82Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          10.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:54 AM",
+        "time_24": "03:54",
+        "latitude": 5.67,
+        "longitude": 125.25,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "018km S 16Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:41 AM",
+        "time_24": "03:41",
+        "latitude": 10.84,
+        "longitude": 126.45,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "080km N 82Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          10.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:22 AM",
+        "time_24": "03:22",
+        "latitude": 18.49,
+        "longitude": 120.88,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "004km N 34Â° W of Adams (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88,
+          18.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:22 AM",
+        "time_24": "03:22",
+        "latitude": 12.35,
+        "longitude": 125.43,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "012km N 36Â° E of Arteche (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          12.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:18 AM",
+        "time_24": "03:18",
+        "latitude": 5.35,
+        "longitude": 125.33,
+        "depth_km": 26.0,
+        "magnitude": 2.1,
+        "location": "012km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
