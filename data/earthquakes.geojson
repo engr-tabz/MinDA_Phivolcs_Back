@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-27T23:44:27.085284+00:00",
+  "generated_at": "2026-07-28T01:09:13.028716+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "08:45 AM",
+        "time_24": "08:45",
+        "latitude": 7.5,
+        "longitude": 126.61,
+        "depth_km": 25.0,
+        "magnitude": 2.7,
+        "location": "010km S 35Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "08:29 AM",
+        "time_24": "08:29",
+        "latitude": 9.62,
+        "longitude": 126.21,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "019km S 17Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.21,
+          9.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "08:08 AM",
+        "time_24": "08:08",
+        "latitude": 8.36,
+        "longitude": 127.23,
+        "depth_km": 30.0,
+        "magnitude": 2.6,
+        "location": "097km N 69Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.23,
+          8.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +88,17 @@
         "date": "28 July 2026",
         "time": "07:06 AM",
         "time_24": "07:06",
-        "latitude": 7.52,
-        "longitude": 126.86,
-        "depth_km": 20.0,
-        "magnitude": 5.6,
-        "location": "033km S 79Â° E of Baganga (Davao Oriental)"
+        "latitude": 7.51,
+        "longitude": 126.68,
+        "depth_km": 28.0,
+        "magnitude": 5.1,
+        "location": "015km S 61Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.86,
-          7.52
+          126.68,
+          7.51
         ]
       }
     },
