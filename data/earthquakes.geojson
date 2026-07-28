@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T04:28:32.000501+00:00",
+  "generated_at": "2026-07-28T07:19:22.899835+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "01:09 PM",
+        "time_24": "13:09",
+        "latitude": 13.5,
+        "longitude": 120.53,
+        "depth_km": 37.0,
+        "magnitude": 3.0,
+        "location": "012km N 38Â° E of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53,
+          13.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "12:56 PM",
+        "time_24": "12:56",
+        "latitude": 5.34,
+        "longitude": 125.05,
+        "depth_km": 29.0,
+        "magnitude": 3.5,
+        "location": "042km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "12:49 PM",
+        "time_24": "12:49",
+        "latitude": 7.54,
+        "longitude": 126.59,
+        "depth_km": 26.0,
+        "magnitude": 2.4,
+        "location": "005km S 44Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59,
+          7.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "12:22 PM",
+        "time_24": "12:22",
+        "latitude": 19.31,
+        "longitude": 121.15,
+        "depth_km": 33.0,
+        "magnitude": 3.0,
+        "location": "023km N 14Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15,
+          19.31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1248,17 +1328,17 @@
         "date": "27 July 2026",
         "time": "04:48 PM",
         "time_24": "16:48",
-        "latitude": 5.81,
-        "longitude": 125.34,
+        "latitude": 5.72,
+        "longitude": 125.32,
         "depth_km": 17.0,
-        "magnitude": 2.7,
-        "location": "015km S 87Â° E of Glan (Sarangani)"
+        "magnitude": 2.8,
+        "location": "017km S 48Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.34,
-          5.81
+          125.32,
+          5.72
         ]
       }
     },
