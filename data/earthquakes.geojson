@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T14:35:50.240851+00:00",
+  "generated_at": "2026-07-28T16:22:19.449092+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "11:38 PM",
+        "time_24": "23:38",
+        "latitude": 8.05,
+        "longitude": 126.74,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "036km N 89Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74,
+          8.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "11:25 PM",
+        "time_24": "23:25",
+        "latitude": 14.33,
+        "longitude": 122.64,
+        "depth_km": 86.0,
+        "magnitude": 1.4,
+        "location": "007km N 48Â° W of Jose Panganiban (Camarines Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.64,
+          14.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "11:23 PM",
+        "time_24": "23:23",
+        "latitude": 5.85,
+        "longitude": 125.31,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "012km N 73Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "11:03 PM",
+        "time_24": "23:03",
+        "latitude": 5.83,
+        "longitude": 126.01,
+        "depth_km": 42.0,
+        "magnitude": 2.2,
+        "location": "041km S 77Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.01,
+          5.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 July 2026",
+        "time": "10:48 PM",
+        "time_24": "22:48",
+        "latitude": 16.29,
+        "longitude": 121.99,
+        "depth_km": 30.0,
+        "magnitude": 1.8,
+        "location": "014km N 82Â° W of Casiguran (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.99,
+          16.29
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -328,17 +428,17 @@
         "date": "28 July 2026",
         "time": "12:56 PM",
         "time_24": "12:56",
-        "latitude": 5.34,
-        "longitude": 125.05,
-        "depth_km": 29.0,
+        "latitude": 5.28,
+        "longitude": 125.04,
+        "depth_km": 28.0,
         "magnitude": 3.5,
-        "location": "042km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "045km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.05,
-          5.34
+          125.04,
+          5.28
         ]
       }
     },
@@ -688,17 +788,17 @@
         "date": "28 July 2026",
         "time": "06:44 AM",
         "time_24": "06:44",
-        "latitude": 15.22,
+        "latitude": 15.23,
         "longitude": 120.16,
-        "depth_km": 27.0,
+        "depth_km": 29.0,
         "magnitude": 1.9,
-        "location": "014km N 60Â° E of Cabangan (Zambales)"
+        "location": "013km N 54Â° E of Cabangan (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.16,
-          15.22
+          15.23
         ]
       }
     },
@@ -708,17 +808,17 @@
         "date": "28 July 2026",
         "time": "05:36 AM",
         "time_24": "05:36",
-        "latitude": 10.3,
-        "longitude": 122.23,
-        "depth_km": 18.0,
+        "latitude": 10.29,
+        "longitude": 122.32,
+        "depth_km": 8.0,
         "magnitude": 1.8,
-        "location": "033km S 16Â° E of San Joaquin (Iloilo)"
+        "location": "036km S 43Â° W of Nueva Valencia (Guimaras)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.23,
-          10.3
+          122.32,
+          10.29
         ]
       }
     },
@@ -728,17 +828,17 @@
         "date": "28 July 2026",
         "time": "05:02 AM",
         "time_24": "05:02",
-        "latitude": 15.21,
-        "longitude": 122.29,
-        "depth_km": 1.0,
+        "latitude": 15.17,
+        "longitude": 122.18,
+        "depth_km": 9.0,
         "magnitude": 3.8,
-        "location": "053km N 40Â° E of Burdeos (Quezon)"
+        "location": "043km N 33Â° E of Burdeos (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.29,
-          15.21
+          122.18,
+          15.17
         ]
       }
     },
@@ -748,17 +848,17 @@
         "date": "28 July 2026",
         "time": "04:50 AM",
         "time_24": "04:50",
-        "latitude": 6.42,
+        "latitude": 6.43,
         "longitude": 126.28,
-        "depth_km": 47.0,
+        "depth_km": 40.0,
         "magnitude": 3.0,
-        "location": "035km S 41Â° E of Governor Generoso (Davao Oriental)"
+        "location": "034km S 43Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.28,
-          6.42
+          6.43
         ]
       }
     },
@@ -768,17 +868,17 @@
         "date": "28 July 2026",
         "time": "04:25 AM",
         "time_24": "04:25",
-        "latitude": 18.42,
-        "longitude": 120.67,
-        "depth_km": 30.0,
-        "magnitude": 1.4,
-        "location": "010km S 17Â° E of Burgos (Ilocos Norte)"
+        "latitude": 18.56,
+        "longitude": 120.64,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "005km N 03Â° W of Burgos (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.67,
-          18.42
+          120.64,
+          18.56
         ]
       }
     },
