@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-29T07:28:02.472753+00:00",
+  "generated_at": "2026-07-29T10:12:48.992196+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "05:31 PM",
+        "time_24": "17:31",
+        "latitude": 18.6,
+        "longitude": 121.74,
+        "depth_km": 3.0,
+        "magnitude": 3.6,
+        "location": "028km N 24Â° E of Aparri (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74,
+          18.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "05:25 PM",
+        "time_24": "17:25",
+        "latitude": 5.73,
+        "longitude": 125.42,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "026km S 66Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "05:21 PM",
+        "time_24": "17:21",
+        "latitude": 5.58,
+        "longitude": 125.36,
+        "depth_km": 2.0,
+        "magnitude": 3.4,
+        "location": "020km N 42Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "04:50 PM",
+        "time_24": "16:50",
+        "latitude": 18.46,
+        "longitude": 120.4,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "027km S 78Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4,
+          18.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "03:21 PM",
+        "time_24": "15:21",
+        "latitude": 12.53,
+        "longitude": 123.51,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "007km N 16Â° E of Baleno (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.51,
+          12.53
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
