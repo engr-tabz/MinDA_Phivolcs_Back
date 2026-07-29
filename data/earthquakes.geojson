@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-29T20:03:33.425065+00:00",
+  "generated_at": "2026-07-29T21:10:10.473477+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "04:41 AM",
+        "time_24": "04:41",
+        "latitude": 9.63,
+        "longitude": 125.93,
+        "depth_km": 7.0,
+        "magnitude": 3.2,
+        "location": "004km N 73Â° W of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          9.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "04:33 AM",
+        "time_24": "04:33",
+        "latitude": 8.52,
+        "longitude": 126.55,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "029km N 55Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.55,
+          8.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "04:07 AM",
+        "time_24": "04:07",
+        "latitude": 9.27,
+        "longitude": 126.29,
+        "depth_km": 15.0,
+        "magnitude": 1.7,
+        "location": "011km S 89Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          9.27
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
