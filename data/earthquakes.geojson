@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-28T23:44:52.707807+00:00",
+  "generated_at": "2026-07-29T01:13:00.759476+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "08:50 AM",
+        "time_24": "08:50",
+        "latitude": 5.59,
+        "longitude": 125.33,
+        "depth_km": 9.0,
+        "magnitude": 2.6,
+        "location": "020km N 52Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "08:43 AM",
+        "time_24": "08:43",
+        "latitude": 10.1,
+        "longitude": 125.98,
+        "depth_km": 21.0,
+        "magnitude": 2.8,
+        "location": "011km N 36Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.98,
+          10.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "08:39 AM",
+        "time_24": "08:39",
+        "latitude": 10.24,
+        "longitude": 126.3,
+        "depth_km": 10.0,
+        "magnitude": 5.0,
+        "location": "034km N 45Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          10.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "08:23 AM",
+        "time_24": "08:23",
+        "latitude": 13.82,
+        "longitude": 120.46,
+        "depth_km": 176.0,
+        "magnitude": 3.1,
+        "location": "019km S 87Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46,
+          13.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "07:44 AM",
+        "time_24": "07:44",
+        "latitude": 12.85,
+        "longitude": 123.63,
+        "depth_km": 10.0,
+        "magnitude": 2.0,
+        "location": "002km N 80Â° E of Donsol (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.63,
+          12.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -139,26 +239,6 @@
         "coordinates": [
           123.41,
           12.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 July 2026",
-        "time": "03:41 AM",
-        "time_24": "03:41",
-        "latitude": 10.84,
-        "longitude": 126.45,
-        "depth_km": 19.0,
-        "magnitude": 2.5,
-        "location": "080km N 82Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.45,
-          10.84
         ]
       }
     },
@@ -888,17 +968,17 @@
         "date": "28 July 2026",
         "time": "01:09 PM",
         "time_24": "13:09",
-        "latitude": 13.5,
-        "longitude": 120.53,
-        "depth_km": 37.0,
+        "latitude": 13.55,
+        "longitude": 120.58,
+        "depth_km": 42.0,
         "magnitude": 3.0,
-        "location": "012km N 38Â° E of Paluan (Occidental Mindoro)"
+        "location": "019km N 39Â° E of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.53,
-          13.5
+          120.58,
+          13.55
         ]
       }
     },
