@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-29T14:41:13.450081+00:00",
+  "generated_at": "2026-07-29T16:11:05.722024+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "12:00 AM",
+        "time_24": "00:00",
+        "latitude": 10.31,
+        "longitude": 122.68,
+        "depth_km": 30.0,
+        "magnitude": 2.2,
+        "location": "019km N 75Â° W of Hinigaran (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.68,
+          10.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "11:23 PM",
+        "time_24": "23:23",
+        "latitude": 12.36,
+        "longitude": 124.68,
+        "depth_km": 19.0,
+        "magnitude": 2.4,
+        "location": "009km N 42Â° E of Lope De Vega (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.68,
+          12.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "11:10 PM",
+        "time_24": "23:10",
+        "latitude": 13.35,
+        "longitude": 124.95,
+        "depth_km": 10.0,
+        "magnitude": 5.5,
+        "location": "071km S 61Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.95,
+          13.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 July 2026",
+        "time": "10:55 PM",
+        "time_24": "22:55",
+        "latitude": 5.9,
+        "longitude": 125.43,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "018km S 65Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +108,17 @@
         "date": "29 July 2026",
         "time": "10:11 PM",
         "time_24": "22:11",
-        "latitude": 15.38,
-        "longitude": 122.83,
-        "depth_km": 10.0,
-        "magnitude": 5.6,
-        "location": "093km N 36Â° E of Jomalig (Quezon)"
+        "latitude": 15.4,
+        "longitude": 122.76,
+        "depth_km": 17.0,
+        "magnitude": 5.0,
+        "location": "090km N 31Â° E of Jomalig (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.83,
-          15.38
+          122.76,
+          15.4
         ]
       }
     },
@@ -128,17 +208,17 @@
         "date": "29 July 2026",
         "time": "09:23 PM",
         "time_24": "21:23",
-        "latitude": 4.7,
-        "longitude": 125.16,
-        "depth_km": 10.0,
-        "magnitude": 5.3,
-        "location": "084km S 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.08,
+        "longitude": 125.03,
+        "depth_km": 33.0,
+        "magnitude": 4.9,
+        "location": "057km S 50Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.16,
-          4.7
+          125.03,
+          5.08
         ]
       }
     },
@@ -148,17 +228,17 @@
         "date": "29 July 2026",
         "time": "09:16 PM",
         "time_24": "21:16",
-        "latitude": 5.16,
-        "longitude": 125.41,
-        "depth_km": 10.0,
-        "magnitude": 5.5,
-        "location": "028km S 2Â° W of Sarangani (Davao Occidental)"
+        "latitude": 5.55,
+        "longitude": 125.3,
+        "depth_km": 27.0,
+        "magnitude": 4.8,
+        "location": "020km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.41,
-          5.16
+          125.3,
+          5.55
         ]
       }
     },
@@ -1088,17 +1168,17 @@
         "date": "29 July 2026",
         "time": "03:54 AM",
         "time_24": "03:54",
-        "latitude": 5.67,
-        "longitude": 125.25,
-        "depth_km": 21.0,
+        "latitude": 5.4,
+        "longitude": 125.14,
+        "depth_km": 15.0,
         "magnitude": 2.5,
-        "location": "018km S 16Â° E of Glan (Sarangani)"
+        "location": "048km S 09Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.25,
-          5.67
+          125.14,
+          5.4
         ]
       }
     },
@@ -1108,17 +1188,17 @@
         "date": "29 July 2026",
         "time": "03:41 AM",
         "time_24": "03:41",
-        "latitude": 10.84,
-        "longitude": 126.45,
-        "depth_km": 19.0,
-        "magnitude": 2.5,
-        "location": "080km N 82Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "latitude": 10.86,
+        "longitude": 126.39,
+        "depth_km": 6.0,
+        "magnitude": 2.6,
+        "location": "074km N 80Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.45,
-          10.84
+          126.39,
+          10.86
         ]
       }
     },
