@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-30T15:19:51.824627+00:00",
+  "generated_at": "2026-07-30T16:57:08.036241+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "12:41 AM",
+        "time_24": "00:41",
+        "latitude": 15.18,
+        "longitude": 122.19,
+        "depth_km": 10.0,
+        "magnitude": 3.7,
+        "location": "044km N 33Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19,
+          15.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 6.89,
+        "longitude": 123.57,
+        "depth_km": 13.0,
+        "magnitude": 1.4,
+        "location": "047km S 56Â° W of Datu Blah T. Sinsuat (Maguindanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.57,
+          6.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "12:21 AM",
+        "time_24": "00:21",
+        "latitude": 9.95,
+        "longitude": 124.12,
+        "depth_km": 3.0,
+        "magnitude": 2.9,
+        "location": "005km N 36Â° E of Sagbayan (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          9.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "12:03 AM",
+        "time_24": "00:03",
+        "latitude": 17.4,
+        "longitude": 121.89,
+        "depth_km": 30.0,
+        "magnitude": 1.8,
+        "location": "012km S 61Â° E of San Pablo (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.89,
+          17.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "11:49 PM",
+        "time_24": "23:49",
+        "latitude": 17.43,
+        "longitude": 121.97,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "019km S 82Â° E of San Pablo (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97,
+          17.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -628,17 +728,17 @@
         "date": "30 July 2026",
         "time": "09:34 AM",
         "time_24": "09:34",
-        "latitude": 20.73,
-        "longitude": 120.94,
-        "depth_km": 14.0,
+        "latitude": 20.69,
+        "longitude": 120.99,
+        "depth_km": 21.0,
         "magnitude": 3.0,
-        "location": "094km S 86Â° W of Itbayat (Batanes)"
+        "location": "089km S 83Â° W of Itbayat (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.94,
-          20.73
+          120.99,
+          20.69
         ]
       }
     },
@@ -768,17 +868,17 @@
         "date": "30 July 2026",
         "time": "07:51 AM",
         "time_24": "07:51",
-        "latitude": 9.81,
+        "latitude": 9.8,
         "longitude": 125.92,
         "depth_km": 8.0,
-        "magnitude": 2.6,
-        "location": "009km S 42Â° W of Del Carmen (Surigao Del Norte)"
+        "magnitude": 3.1,
+        "location": "010km S 34Â° W of Del Carmen (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.92,
-          9.81
+          9.8
         ]
       }
     },
@@ -1228,17 +1328,17 @@
         "date": "30 July 2026",
         "time": "01:46 AM",
         "time_24": "01:46",
-        "latitude": 13.51,
-        "longitude": 124.65,
-        "depth_km": 19.0,
+        "latitude": 13.49,
+        "longitude": 124.63,
+        "depth_km": 20.0,
         "magnitude": 3.7,
-        "location": "034km S 62Â° E of Baras (Catanduanes)"
+        "location": "034km S 57Â° E of Baras (Catanduanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.65,
-          13.51
+          124.63,
+          13.49
         ]
       }
     },
@@ -1268,17 +1368,17 @@
         "date": "30 July 2026",
         "time": "01:39 AM",
         "time_24": "01:39",
-        "latitude": 5.03,
-        "longitude": 125.06,
-        "depth_km": 38.0,
-        "magnitude": 2.6,
-        "location": "058km S 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.97,
+        "longitude": 125.0,
+        "depth_km": 39.0,
+        "magnitude": 2.3,
+        "location": "073km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.06,
-          5.03
+          125.0,
+          4.97
         ]
       }
     },
@@ -1309,15 +1409,15 @@
         "time": "01:30 AM",
         "time_24": "01:30",
         "latitude": 17.41,
-        "longitude": 120.01,
+        "longitude": 120.12,
         "depth_km": 8.0,
         "magnitude": 3.2,
-        "location": "042km S 69Â° W of Caoayan (Ilocos Sur)"
+        "location": "032km S 62Â° W of Caoayan (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.01,
+          120.12,
           17.41
         ]
       }
@@ -1448,17 +1548,17 @@
         "date": "30 July 2026",
         "time": "12:00 AM",
         "time_24": "00:00",
-        "latitude": 10.31,
-        "longitude": 122.68,
-        "depth_km": 30.0,
-        "magnitude": 2.2,
-        "location": "019km N 75Â° W of Hinigaran (Negros Occidental)"
+        "latitude": 10.19,
+        "longitude": 122.26,
+        "depth_km": 23.0,
+        "magnitude": 2.3,
+        "location": "045km S 54Â° E of Anini-y (Antique)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.68,
-          10.31
+          122.26,
+          10.19
         ]
       }
     },
