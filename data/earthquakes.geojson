@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-30T22:33:07.725878+00:00",
+  "generated_at": "2026-07-30T23:37:45.537776+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "07:29 AM",
+        "time_24": "07:29",
+        "latitude": 16.67,
+        "longitude": 120.2,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "013km N 66Â° W of City Of San Fernando (La Union)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2,
+          16.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "07:16 AM",
+        "time_24": "07:16",
+        "latitude": 5.2,
+        "longitude": 127.04,
+        "depth_km": 9.0,
+        "magnitude": 3.0,
+        "location": "173km S 63Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04,
+          5.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "07:09 AM",
+        "time_24": "07:09",
+        "latitude": 7.67,
+        "longitude": 125.06,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "007km S 82Â° E of Don Carlos (Bukidnon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.06,
+          7.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
