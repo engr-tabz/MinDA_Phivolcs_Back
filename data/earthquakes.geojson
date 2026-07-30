@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-30T00:15:46.954468+00:00",
+  "generated_at": "2026-07-30T03:37:52.287580+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "11:21 AM",
+        "time_24": "11:21",
+        "latitude": 9.94,
+        "longitude": 124.12,
+        "depth_km": 10.0,
+        "magnitude": 3.9,
+        "location": "004km N 44Â° E of Sagbayan (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          9.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "10:59 AM",
+        "time_24": "10:59",
+        "latitude": 13.29,
+        "longitude": 124.43,
+        "depth_km": 10.0,
+        "magnitude": 2.2,
+        "location": "035km N 70Â° E of Rapu-rapu (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.43,
+          13.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "10:50 AM",
+        "time_24": "10:50",
+        "latitude": 4.86,
+        "longitude": 127.83,
+        "depth_km": 118.0,
+        "magnitude": 3.3,
+        "location": "269km S 64Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.83,
+          4.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "09:34 AM",
+        "time_24": "09:34",
+        "latitude": 20.73,
+        "longitude": 120.94,
+        "depth_km": 14.0,
+        "magnitude": 3.0,
+        "location": "094km S 86Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94,
+          20.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "09:26 AM",
+        "time_24": "09:26",
+        "latitude": 5.54,
+        "longitude": 126.6,
+        "depth_km": 38.0,
+        "magnitude": 2.9,
+        "location": "113km S 69Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "09:15 AM",
+        "time_24": "09:15",
+        "latitude": 5.1,
+        "longitude": 125.25,
+        "depth_km": 74.0,
+        "magnitude": 2.8,
+        "location": "040km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "09:17 AM",
+        "time_24": "09:17",
+        "latitude": 19.34,
+        "longitude": 120.98,
+        "depth_km": 33.0,
+        "magnitude": 2.7,
+        "location": "035km N 43Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          19.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "08:15 AM",
+        "time_24": "08:15",
+        "latitude": 18.12,
+        "longitude": 121.71,
+        "depth_km": 14.0,
+        "magnitude": 1.8,
+        "location": "010km N 48Â° E of Gattaran (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.71,
+          18.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 July 2026",
+        "time": "08:12 AM",
+        "time_24": "08:12",
+        "latitude": 20.1,
+        "longitude": 121.1,
+        "depth_km": 2.0,
+        "magnitude": 3.5,
+        "location": "085km S 72Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1,
+          20.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1368,17 +1548,17 @@
         "date": "29 July 2026",
         "time": "01:50 PM",
         "time_24": "13:50",
-        "latitude": 7.03,
-        "longitude": 127.39,
-        "depth_km": 81.0,
+        "latitude": 6.96,
+        "longitude": 127.51,
+        "depth_km": 28.0,
         "magnitude": 2.7,
-        "location": "096km S 78Â° E of Manay (Davao Oriental)"
+        "location": "111km S 75Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.39,
-          7.03
+          127.51,
+          6.96
         ]
       }
     },
@@ -1428,17 +1608,17 @@
         "date": "29 July 2026",
         "time": "01:05 PM",
         "time_24": "13:05",
-        "latitude": 19.84,
-        "longitude": 121.25,
-        "depth_km": 9.0,
-        "magnitude": 2.4,
-        "location": "068km N 20Â° W of Calayan (Cagayan)"
+        "latitude": 19.66,
+        "longitude": 121.39,
+        "depth_km": 14.0,
+        "magnitude": 2.6,
+        "location": "044km N 11Â° W of Calayan (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.25,
-          19.84
+          121.39,
+          19.66
         ]
       }
     },
@@ -1468,17 +1648,17 @@
         "date": "29 July 2026",
         "time": "12:14 PM",
         "time_24": "12:14",
-        "latitude": 17.76,
-        "longitude": 120.18,
-        "depth_km": 45.0,
+        "latitude": 17.73,
+        "longitude": 120.14,
+        "depth_km": 37.0,
         "magnitude": 2.3,
-        "location": "027km N 72Â° W of Magsingal (Ilocos Sur)"
+        "location": "031km N 81Â° W of Magsingal (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.18,
-          17.76
+          120.14,
+          17.73
         ]
       }
     },
@@ -1528,17 +1708,17 @@
         "date": "29 July 2026",
         "time": "10:27 AM",
         "time_24": "10:27",
-        "latitude": 8.71,
-        "longitude": 126.22,
+        "latitude": 8.7,
+        "longitude": 126.41,
         "depth_km": 31.0,
-        "magnitude": 2.1,
-        "location": "004km South of San Agustin (Surigao Del Sur)"
+        "magnitude": 2.0,
+        "location": "016km S 49Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.22,
-          8.71
+          126.41,
+          8.7
         ]
       }
     },
