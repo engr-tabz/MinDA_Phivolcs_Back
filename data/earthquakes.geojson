@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T21:15:05.794803+00:00",
+  "generated_at": "2026-07-31T22:26:43.193230+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "06:07 AM",
+        "time_24": "06:07",
+        "latitude": 10.76,
+        "longitude": 126.32,
+        "depth_km": 10.0,
+        "magnitude": 3.9,
+        "location": "065km N 88Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          10.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "06:04 AM",
+        "time_24": "06:04",
+        "latitude": 13.22,
+        "longitude": 124.09,
+        "depth_km": 35.0,
+        "magnitude": 1.7,
+        "location": "006km N 48Â° W of Rapu-rapu (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          13.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "05:48 AM",
+        "time_24": "05:48",
+        "latitude": 5.52,
+        "longitude": 125.3,
+        "depth_km": 8.0,
+        "magnitude": 3.2,
+        "location": "018km N 46Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "05:23 AM",
+        "time_24": "05:23",
+        "latitude": 4.49,
+        "longitude": 126.57,
+        "depth_km": 33.0,
+        "magnitude": 4.1,
+        "location": "164km S 51Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.57,
+          4.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "05:10 AM",
+        "time_24": "05:10",
+        "latitude": 7.47,
+        "longitude": 121.95,
+        "depth_km": 25.0,
+        "magnitude": 1.4,
+        "location": "024km N 33Â° W of Sibuco (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.95,
+          7.47
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
