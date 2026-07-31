@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T16:50:01.322759+00:00",
+  "generated_at": "2026-07-31T18:14:50.125074+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "02:06 AM",
+        "time_24": "02:06",
+        "latitude": 6.56,
+        "longitude": 125.67,
+        "depth_km": 23.0,
+        "magnitude": 1.8,
+        "location": "017km N 21Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          6.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "02:02 AM",
+        "time_24": "02:02",
+        "latitude": 10.74,
+        "longitude": 126.26,
+        "depth_km": 7.0,
+        "magnitude": 3.3,
+        "location": "059km S 90Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          10.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:52 AM",
+        "time_24": "01:52",
+        "latitude": 10.75,
+        "longitude": 126.26,
+        "depth_km": 8.0,
+        "magnitude": 2.8,
+        "location": "059km N 89Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          10.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:44 AM",
+        "time_24": "01:44",
+        "latitude": 3.43,
+        "longitude": 127.31,
+        "depth_km": 127.0,
+        "magnitude": 3.9,
+        "location": "303km S 44Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31,
+          3.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:42 AM",
+        "time_24": "01:42",
+        "latitude": 17.33,
+        "longitude": 122.92,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "060km N 61Â° E of Palanan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.92,
+          17.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:22 AM",
+        "time_24": "01:22",
+        "latitude": 6.05,
+        "longitude": 126.49,
+        "depth_km": 120.0,
+        "magnitude": 2.8,
+        "location": "082km S 34Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49,
+          6.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:16 AM",
+        "time_24": "01:16",
+        "latitude": 19.35,
+        "longitude": 121.55,
+        "depth_km": 18.0,
+        "magnitude": 1.9,
+        "location": "013km N 36Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55,
+          19.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 13.64,
+        "longitude": 125.05,
+        "depth_km": 1.0,
+        "magnitude": 2.1,
+        "location": "073km S 78Â° E of Gigmoto (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          13.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:06 AM",
+        "time_24": "01:06",
+        "latitude": 9.63,
+        "longitude": 123.07,
+        "depth_km": 4.0,
+        "magnitude": 2.2,
+        "location": "007km N 55Â° W of City Of Bais (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          9.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
