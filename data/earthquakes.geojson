@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T18:14:50.125074+00:00",
+  "generated_at": "2026-07-31T19:57:21.689651+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "03:47 AM",
+        "time_24": "03:47",
+        "latitude": 6.78,
+        "longitude": 125.87,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "020km S 50Â° W of Lupon (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          6.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "03:35 AM",
+        "time_24": "03:35",
+        "latitude": 12.84,
+        "longitude": 123.0,
+        "depth_km": 22.0,
+        "magnitude": 3.6,
+        "location": "028km S 75Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0,
+          12.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "03:32 AM",
+        "time_24": "03:32",
+        "latitude": 5.45,
+        "longitude": 125.24,
+        "depth_km": 11.0,
+        "magnitude": 2.6,
+        "location": "021km N 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "03:14 AM",
+        "time_24": "03:14",
+        "latitude": 4.64,
+        "longitude": 125.2,
+        "depth_km": 24.0,
+        "magnitude": 3.2,
+        "location": "089km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          4.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "02:39 AM",
+        "time_24": "02:39",
+        "latitude": 9.31,
+        "longitude": 124.96,
+        "depth_km": 35.0,
+        "magnitude": 1.5,
+        "location": "025km N 47Â° E of Mahinog (Camiguin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.96,
+          9.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "02:12 AM",
+        "time_24": "02:12",
+        "latitude": 13.37,
+        "longitude": 124.51,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "035km S 25Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.51,
+          13.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "02:09 AM",
+        "time_24": "02:09",
+        "latitude": 11.26,
+        "longitude": 122.05,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "004km S 30Â° E of Tibiao (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05,
+          11.26
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
