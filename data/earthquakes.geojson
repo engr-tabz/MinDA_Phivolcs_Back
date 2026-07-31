@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-30T23:37:45.537776+00:00",
+  "generated_at": "2026-07-31T01:13:24.378443+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "08:33 AM",
+        "time_24": "08:33",
+        "latitude": 7.36,
+        "longitude": 126.62,
+        "depth_km": 139.0,
+        "magnitude": 2.6,
+        "location": "006km N 61Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.62,
+          7.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "08:10 AM",
+        "time_24": "08:10",
+        "latitude": 5.9,
+        "longitude": 126.35,
+        "depth_km": 135.0,
+        "magnitude": 2.2,
+        "location": "078km S 89Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.35,
+          5.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "07:56 AM",
+        "time_24": "07:56",
+        "latitude": 5.62,
+        "longitude": 125.25,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "023km S 12Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
