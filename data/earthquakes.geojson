@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T07:40:00.754807+00:00",
+  "generated_at": "2026-07-31T10:17:32.975903+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "05:15 PM",
+        "time_24": "17:15",
+        "latitude": 4.98,
+        "longitude": 125.6,
+        "depth_km": 22.0,
+        "magnitude": 2.2,
+        "location": "051km S 23Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6,
+          4.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "04:51 PM",
+        "time_24": "16:51",
+        "latitude": 5.61,
+        "longitude": 125.38,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "018km N 35Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 July 2026",
+        "time": "04:11 PM",
+        "time_24": "16:11",
+        "latitude": 20.61,
+        "longitude": 120.39,
+        "depth_km": 18.0,
+        "magnitude": 3.6,
+        "location": "152km S 82Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39,
+          20.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1068,17 +1128,17 @@
         "date": "30 July 2026",
         "time": "09:04 PM",
         "time_24": "21:04",
-        "latitude": 16.52,
-        "longitude": 120.36,
-        "depth_km": 82.0,
+        "latitude": 16.5,
+        "longitude": 120.4,
+        "depth_km": 81.0,
         "magnitude": 2.4,
-        "location": "004km S 75Â° E of Bauang (La Union)"
+        "location": "003km S 14Â° E of Naguilian (La Union)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.36,
-          16.52
+          120.4,
+          16.5
         ]
       }
     },
@@ -1108,17 +1168,17 @@
         "date": "30 July 2026",
         "time": "08:43 PM",
         "time_24": "20:43",
-        "latitude": 13.68,
-        "longitude": 120.64,
-        "depth_km": 118.0,
-        "magnitude": 2.2,
-        "location": "017km S 01Â° E of Calatagan (Batangas)"
+        "latitude": 13.65,
+        "longitude": 120.55,
+        "depth_km": 117.0,
+        "magnitude": 2.4,
+        "location": "022km S 24Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.64,
-          13.68
+          120.55,
+          13.65
         ]
       }
     },
