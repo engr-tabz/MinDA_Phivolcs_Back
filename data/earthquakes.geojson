@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T19:57:21.689651+00:00",
+  "generated_at": "2026-07-31T21:15:05.794803+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:41 AM",
+        "time_24": "04:41",
+        "latitude": 5.84,
+        "longitude": 125.46,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "022km S 70Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:41 AM",
+        "time_24": "04:41",
+        "latitude": 9.58,
+        "longitude": 126.02,
+        "depth_km": 8.0,
+        "magnitude": 3.0,
+        "location": "007km S 56Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.02,
+          9.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:37 AM",
+        "time_24": "04:37",
+        "latitude": 18.6,
+        "longitude": 119.88,
+        "depth_km": 6.0,
+        "magnitude": 3.0,
+        "location": "081km N 83Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88,
+          18.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:33 AM",
+        "time_24": "04:33",
+        "latitude": 5.38,
+        "longitude": 125.39,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "005km S 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:24 AM",
+        "time_24": "04:24",
+        "latitude": 10.71,
+        "longitude": 126.27,
+        "depth_km": 22.0,
+        "magnitude": 2.4,
+        "location": "060km S 87Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          10.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "04:14 AM",
+        "time_24": "04:14",
+        "latitude": 5.59,
+        "longitude": 125.07,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "029km S 30Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.07,
+          5.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +208,17 @@
         "date": "01 August 2026",
         "time": "02:39 AM",
         "time_24": "02:39",
-        "latitude": 9.31,
-        "longitude": 124.96,
-        "depth_km": 35.0,
-        "magnitude": 1.5,
-        "location": "025km N 47Â° E of Mahinog (Camiguin)"
+        "latitude": 9.46,
+        "longitude": 125.69,
+        "depth_km": 140.0,
+        "magnitude": 2.4,
+        "location": "012km N 85Â° E of Kitcharao (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.96,
-          9.31
+          125.69,
+          9.46
         ]
       }
     },
