@@ -1,24 +1,104 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T22:26:43.193230+00:00",
+  "generated_at": "2026-07-31T23:32:29.831145+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "07:11 AM",
+        "time_24": "07:11",
+        "latitude": 5.55,
+        "longitude": 125.3,
+        "depth_km": 26.0,
+        "magnitude": 2.1,
+        "location": "021km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "06:40 AM",
+        "time_24": "06:40",
+        "latitude": 12.84,
+        "longitude": 123.14,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "014km S 59Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.14,
+          12.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "06:39 AM",
+        "time_24": "06:39",
+        "latitude": 6.59,
+        "longitude": 125.79,
+        "depth_km": 43.0,
+        "magnitude": 2.1,
+        "location": "028km N 45Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          6.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "06:37 AM",
+        "time_24": "06:37",
+        "latitude": 5.75,
+        "longitude": 125.32,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "015km S 56Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "01 August 2026",
         "time": "06:07 AM",
         "time_24": "06:07",
-        "latitude": 10.76,
-        "longitude": 126.32,
-        "depth_km": 10.0,
-        "magnitude": 3.9,
-        "location": "065km N 88Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "latitude": 10.72,
+        "longitude": 126.3,
+        "depth_km": 4.0,
+        "magnitude": 3.7,
+        "location": "063km S 88Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.32,
-          10.76
+          126.3,
+          10.72
         ]
       }
     },
