@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T21:31:30.542287+00:00",
+  "generated_at": "2026-08-01T22:32:20.352408+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "06:16 AM",
+        "time_24": "06:16",
+        "latitude": 11.11,
+        "longitude": 124.69,
+        "depth_km": 5.0,
+        "magnitude": 2.8,
+        "location": "013km S 49Â° W of Jaro (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69,
+          11.11
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1139,26 +1159,6 @@
         "coordinates": [
           125.42,
           4.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "01 August 2026",
-        "time": "10:04 AM",
-        "time_24": "10:04",
-        "latitude": 9.59,
-        "longitude": 126.09,
-        "depth_km": 24.0,
-        "magnitude": 2.2,
-        "location": "014km S 78Â° E of Socorro (Surigao Del Norte)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.09,
-          9.59
         ]
       }
     },
