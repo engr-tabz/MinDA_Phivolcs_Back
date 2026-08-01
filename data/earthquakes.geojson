@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T19:38:13.366427+00:00",
+  "generated_at": "2026-08-01T20:32:35.682219+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:08 AM",
+        "time_24": "04:08",
+        "latitude": 2.79,
+        "longitude": 126.25,
+        "depth_km": 179.0,
+        "magnitude": 3.7,
+        "location": "304km S 18Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          2.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 5.48,
+        "longitude": 125.39,
+        "depth_km": 7.0,
+        "magnitude": 2.1,
+        "location": "009km N 25Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.48
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +108,17 @@
         "date": "02 August 2026",
         "time": "02:59 AM",
         "time_24": "02:59",
-        "latitude": 10.8,
-        "longitude": 126.42,
-        "depth_km": 10.0,
-        "magnitude": 4.2,
-        "location": "076km N 85Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "latitude": 10.75,
+        "longitude": 126.31,
+        "depth_km": 8.0,
+        "magnitude": 4.0,
+        "location": "065km N 90Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.42,
-          10.8
+          126.31,
+          10.75
         ]
       }
     },
@@ -108,17 +148,17 @@
         "date": "02 August 2026",
         "time": "02:52 AM",
         "time_24": "02:52",
-        "latitude": 6.4,
-        "longitude": 126.73,
-        "depth_km": 10.0,
-        "magnitude": 3.4,
-        "location": "077km S 68Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.57,
+        "longitude": 126.51,
+        "depth_km": 38.0,
+        "magnitude": 3.0,
+        "location": "050km S 79Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.73,
-          6.4
+          126.51,
+          6.57
         ]
       }
     },
