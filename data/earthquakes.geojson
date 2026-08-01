@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T14:59:16.884198+00:00",
+  "generated_at": "2026-08-01T16:09:33.373343+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "11:30 PM",
+        "time_24": "23:30",
+        "latitude": 5.34,
+        "longitude": 125.0,
+        "depth_km": 10.0,
+        "magnitude": 2.9,
+        "location": "047km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "11:17 PM",
+        "time_24": "23:17",
+        "latitude": 5.62,
+        "longitude": 125.32,
+        "depth_km": 26.0,
+        "magnitude": 2.4,
+        "location": "024km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "11:13 PM",
+        "time_24": "23:13",
+        "latitude": 6.64,
+        "longitude": 126.41,
+        "depth_km": 24.0,
+        "magnitude": 4.0,
+        "location": "038km S 88Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          6.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "11:09 PM",
+        "time_24": "23:09",
+        "latitude": 10.79,
+        "longitude": 126.29,
+        "depth_km": 28.0,
+        "magnitude": 3.1,
+        "location": "062km N 85Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          10.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "11:06 PM",
+        "time_24": "23:06",
+        "latitude": 10.15,
+        "longitude": 125.75,
+        "depth_km": 6.0,
+        "magnitude": 2.1,
+        "location": "019km N 60Â° E of Basilisa (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          10.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "10:53 PM",
+        "time_24": "22:53",
+        "latitude": 10.24,
+        "longitude": 122.21,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "038km S 56Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21,
+          10.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "10:45 PM",
+        "time_24": "22:45",
+        "latitude": 13.5,
+        "longitude": 120.94,
+        "depth_km": 20.0,
+        "magnitude": 2.4,
+        "location": "002km S 75Â° W of Puerto Galera (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94,
+          13.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -988,17 +1128,17 @@
         "date": "01 August 2026",
         "time": "03:14 AM",
         "time_24": "03:14",
-        "latitude": 4.64,
-        "longitude": 125.2,
-        "depth_km": 24.0,
+        "latitude": 4.6,
+        "longitude": 125.19,
+        "depth_km": 28.0,
         "magnitude": 3.2,
-        "location": "089km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "093km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.2,
-          4.64
+          125.19,
+          4.6
         ]
       }
     },
@@ -1108,17 +1248,17 @@
         "date": "01 August 2026",
         "time": "01:52 AM",
         "time_24": "01:52",
-        "latitude": 10.75,
-        "longitude": 126.26,
-        "depth_km": 8.0,
+        "latitude": 10.78,
+        "longitude": 126.29,
+        "depth_km": 1.0,
         "magnitude": 2.8,
-        "location": "059km N 89Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "location": "062km N 87Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.26,
-          10.75
+          126.29,
+          10.78
         ]
       }
     },
