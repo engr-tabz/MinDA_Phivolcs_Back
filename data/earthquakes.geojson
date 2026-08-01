@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T09:24:07.305355+00:00",
+  "generated_at": "2026-08-01T10:57:55.753726+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "05:54 PM",
+        "time_24": "17:54",
+        "latitude": 5.57,
+        "longitude": 125.07,
+        "depth_km": 16.0,
+        "magnitude": 3.2,
+        "location": "031km S 28Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.07,
+          5.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "05:51 PM",
+        "time_24": "17:51",
+        "latitude": 10.33,
+        "longitude": 125.68,
+        "depth_km": 59.0,
+        "magnitude": 3.0,
+        "location": "011km S 74Â° E of Loreto (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.68,
+          10.33
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1388,17 +1428,17 @@
         "date": "31 July 2026",
         "time": "07:23 PM",
         "time_24": "19:23",
-        "latitude": 7.35,
-        "longitude": 127.12,
-        "depth_km": 22.0,
-        "magnitude": 1.7,
-        "location": "061km N 88Â° E of Caraga (Davao Oriental)"
+        "latitude": 7.34,
+        "longitude": 127.11,
+        "depth_km": 18.0,
+        "magnitude": 2.9,
+        "location": "061km N 89Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.12,
-          7.35
+          127.11,
+          7.34
         ]
       }
     },
@@ -1408,17 +1448,17 @@
         "date": "31 July 2026",
         "time": "06:58 PM",
         "time_24": "18:58",
-        "latitude": 14.77,
-        "longitude": 121.38,
-        "depth_km": 11.0,
-        "magnitude": 2.4,
-        "location": "025km N 81Â° E of Rodriguez (Rizal)"
+        "latitude": 14.78,
+        "longitude": 121.37,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "025km N 78Â° E of Rodriguez (Rizal)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.38,
-          14.77
+          121.37,
+          14.78
         ]
       }
     },
@@ -1448,17 +1488,17 @@
         "date": "31 July 2026",
         "time": "06:09 PM",
         "time_24": "18:09",
-        "latitude": 10.61,
-        "longitude": 126.11,
-        "depth_km": 28.0,
-        "magnitude": 2.6,
-        "location": "045km S 71Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "latitude": 10.74,
+        "longitude": 126.41,
+        "depth_km": 20.0,
+        "magnitude": 3.0,
+        "location": "075km S 90Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.11,
-          10.61
+          126.41,
+          10.74
         ]
       }
     },
