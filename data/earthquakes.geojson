@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T20:32:35.682219+00:00",
+  "generated_at": "2026-08-01T21:31:30.542287+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:39 AM",
+        "time_24": "04:39",
+        "latitude": 10.71,
+        "longitude": 124.18,
+        "depth_km": 20.0,
+        "magnitude": 2.1,
+        "location": "018km S 84Â° E of Catmon (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.18,
+          10.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:35 AM",
+        "time_24": "04:35",
+        "latitude": 5.41,
+        "longitude": 125.1,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "036km S 90Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.41
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
