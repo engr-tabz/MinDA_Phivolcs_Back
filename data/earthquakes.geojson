@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T16:09:33.373343+00:00",
+  "generated_at": "2026-08-01T17:15:13.341337+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 8.43,
+        "longitude": 125.9,
+        "depth_km": 9.0,
+        "magnitude": 3.2,
+        "location": "011km S 45Â° W of San Francisco (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9,
+          8.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "12:40 AM",
+        "time_24": "00:40",
+        "latitude": 10.71,
+        "longitude": 126.34,
+        "depth_km": 7.0,
+        "magnitude": 2.9,
+        "location": "067km S 87Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          10.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "12:34 AM",
+        "time_24": "00:34",
+        "latitude": 9.65,
+        "longitude": 121.98,
+        "depth_km": 29.0,
+        "magnitude": 2.4,
+        "location": "051km S 75Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.98,
+          9.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -628,17 +688,17 @@
         "date": "01 August 2026",
         "time": "10:42 AM",
         "time_24": "10:42",
-        "latitude": 5.05,
-        "longitude": 125.3,
-        "depth_km": 34.0,
+        "latitude": 4.94,
+        "longitude": 125.42,
+        "depth_km": 55.0,
         "magnitude": 4.5,
-        "location": "042km S 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "046km S 04Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          5.05
+          125.42,
+          4.94
         ]
       }
     },
@@ -1448,17 +1508,17 @@
         "date": "01 August 2026",
         "time": "12:07 AM",
         "time_24": "00:07",
-        "latitude": 18.0,
+        "latitude": 17.99,
         "longitude": 120.64,
-        "depth_km": 12.0,
+        "depth_km": 6.0,
         "magnitude": 2.2,
-        "location": "003km N 28Â° W of Banna (Ilocos Norte)"
+        "location": "002km N 74Â° W of Banna (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.64,
-          18.0
+          17.99
         ]
       }
     },
