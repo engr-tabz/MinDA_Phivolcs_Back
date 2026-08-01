@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-01T04:35:13.112418+00:00",
+  "generated_at": "2026-08-01T07:12:45.074042+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "01:22 PM",
+        "time_24": "13:22",
+        "latitude": 5.75,
+        "longitude": 125.33,
+        "depth_km": 18.0,
+        "magnitude": 1.7,
+        "location": "016km S 61Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "12:39 PM",
+        "time_24": "12:39",
+        "latitude": 8.68,
+        "longitude": 125.99,
+        "depth_km": 6.0,
+        "magnitude": 2.0,
+        "location": "012km N 43Â° E of Prosperidad (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.99,
+          8.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "12:34 PM",
+        "time_24": "12:34",
+        "latitude": 8.54,
+        "longitude": 122.8,
+        "depth_km": 30.0,
+        "magnitude": 2.1,
+        "location": "027km N 66Â° W of Jose Dalman (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8,
+          8.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "12:29 PM",
+        "time_24": "12:29",
+        "latitude": 15.09,
+        "longitude": 122.11,
+        "depth_km": 2.0,
+        "magnitude": 3.1,
+        "location": "032km N 29Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11,
+          15.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "12:25 PM",
+        "time_24": "12:25",
+        "latitude": 6.41,
+        "longitude": 126.19,
+        "depth_km": 133.0,
+        "magnitude": 2.2,
+        "location": "030km S 25Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.19,
+          6.41
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +168,17 @@
         "date": "01 August 2026",
         "time": "10:42 AM",
         "time_24": "10:42",
-        "latitude": 4.64,
-        "longitude": 125.53,
-        "depth_km": 10.0,
-        "magnitude": 5.0,
-        "location": "086km S 8Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.05,
+        "longitude": 125.3,
+        "depth_km": 34.0,
+        "magnitude": 4.5,
+        "location": "042km S 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.53,
-          4.64
+          125.3,
+          5.05
         ]
       }
     },
@@ -1488,17 +1588,17 @@
         "date": "31 July 2026",
         "time": "10:43 AM",
         "time_24": "10:43",
-        "latitude": 13.13,
-        "longitude": 122.95,
-        "depth_km": 27.0,
-        "magnitude": 2.2,
-        "location": "036km S 54Â° E of San Andres (Quezon)"
+        "latitude": 13.1,
+        "longitude": 122.9,
+        "depth_km": 19.0,
+        "magnitude": 2.6,
+        "location": "009km S 70Â° W of San Pascual (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.95,
-          13.13
+          122.9,
+          13.1
         ]
       }
     },
