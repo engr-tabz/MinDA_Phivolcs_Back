@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-07-31T23:32:29.831145+00:00",
+  "generated_at": "2026-08-01T01:09:24.944843+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "08:40 AM",
+        "time_24": "08:40",
+        "latitude": 9.56,
+        "longitude": 125.9,
+        "depth_km": 141.0,
+        "magnitude": 2.0,
+        "location": "010km S 47Â° W of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9,
+          9.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "08:11 AM",
+        "time_24": "08:11",
+        "latitude": 5.81,
+        "longitude": 125.31,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "012km S 82Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "01 August 2026",
+        "time": "07:36 AM",
+        "time_24": "07:36",
+        "latitude": 10.77,
+        "longitude": 126.36,
+        "depth_km": 6.0,
+        "magnitude": 4.0,
+        "location": "069km N 88Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          10.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
