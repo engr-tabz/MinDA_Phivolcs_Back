@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T04:42:06.059891+00:00",
+  "generated_at": "2026-08-02T07:20:16.079661+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "02:53 PM",
+        "time_24": "14:53",
+        "latitude": 5.54,
+        "longitude": 125.43,
+        "depth_km": 18.0,
+        "magnitude": 3.3,
+        "location": "009km N 30Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "01:57 PM",
+        "time_24": "13:57",
+        "latitude": 8.36,
+        "longitude": 122.53,
+        "depth_km": 33.0,
+        "magnitude": 3.6,
+        "location": "031km N 32Â° W of Liloy (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.53,
+          8.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "01:51 PM",
+        "time_24": "13:51",
+        "latitude": 17.67,
+        "longitude": 122.54,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "045km N 46Â° E of Maconacon (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.54,
+          17.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "12:54 PM",
+        "time_24": "12:54",
+        "latitude": 12.75,
+        "longitude": 123.08,
+        "depth_km": 25.0,
+        "magnitude": 2.4,
+        "location": "025km S 46Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08,
+          12.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "12:48 PM",
+        "time_24": "12:48",
+        "latitude": 7.79,
+        "longitude": 124.63,
+        "depth_km": 1.0,
+        "magnitude": 1.8,
+        "location": "004km N 56Â° W of Kalilangan (Bukidnon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63,
+          7.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
