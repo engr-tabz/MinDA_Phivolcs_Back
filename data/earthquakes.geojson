@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T20:39:45.683133+00:00",
+  "generated_at": "2026-08-02T21:38:21.352527+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "05:22 AM",
+        "time_24": "05:22",
+        "latitude": 5.76,
+        "longitude": 126.99,
+        "depth_km": 15.0,
+        "magnitude": 2.6,
+        "location": "150km S 83Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99,
+          5.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:31 AM",
+        "time_24": "04:31",
+        "latitude": 6.7,
+        "longitude": 126.58,
+        "depth_km": 109.0,
+        "magnitude": 3.6,
+        "location": "042km S 21Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          6.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:30 AM",
+        "time_24": "04:30",
+        "latitude": 10.8,
+        "longitude": 126.24,
+        "depth_km": 43.0,
+        "magnitude": 2.1,
+        "location": "057km N 84Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          10.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
