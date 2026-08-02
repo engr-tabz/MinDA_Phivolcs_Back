@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T09:29:02.527661+00:00",
+  "generated_at": "2026-08-02T11:03:48.492794+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "06:32 PM",
+        "time_24": "18:32",
+        "latitude": 5.48,
+        "longitude": 125.47,
+        "depth_km": 27.0,
+        "magnitude": 1.9,
+        "location": "001km N 23Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          5.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "06:31 PM",
+        "time_24": "18:31",
+        "latitude": 9.48,
+        "longitude": 126.76,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "067km N 70Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.76,
+          9.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "05:47 PM",
+        "time_24": "17:47",
+        "latitude": 11.06,
+        "longitude": 122.88,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "004km N 65Â° E of Barotac Viejo (Iloilo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.88,
+          11.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "05:45 PM",
+        "time_24": "17:45",
+        "latitude": 14.01,
+        "longitude": 120.18,
+        "depth_km": 2.0,
+        "magnitude": 2.5,
+        "location": "018km N 22Â° E of Lubang (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18,
+          14.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "05:18 PM",
+        "time_24": "17:18",
+        "latitude": 16.88,
+        "longitude": 119.72,
+        "depth_km": 19.0,
+        "magnitude": 3.0,
+        "location": "058km N 18Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.72,
+          16.88
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1228,17 +1328,17 @@
         "date": "01 August 2026",
         "time": "08:59 PM",
         "time_24": "20:59",
-        "latitude": 18.48,
-        "longitude": 120.71,
-        "depth_km": 32.0,
-        "magnitude": 1.8,
-        "location": "008km S 61Â° E of Burgos (Ilocos Norte)"
+        "latitude": 18.57,
+        "longitude": 120.72,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "007km N 52Â° W of Bangui (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.71,
-          18.48
+          120.72,
+          18.57
         ]
       }
     },
@@ -1248,17 +1348,17 @@
         "date": "01 August 2026",
         "time": "08:37 PM",
         "time_24": "20:37",
-        "latitude": 8.86,
-        "longitude": 121.85,
-        "depth_km": 33.0,
-        "magnitude": 2.5,
-        "location": "107km S 42Â° E of Cagayancillo (Palawan)"
+        "latitude": 8.91,
+        "longitude": 121.84,
+        "depth_km": 31.0,
+        "magnitude": 2.8,
+        "location": "102km S 43Â° E of Cagayancillo (Palawan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.85,
-          8.86
+          121.84,
+          8.91
         ]
       }
     },
@@ -1268,17 +1368,17 @@
         "date": "01 August 2026",
         "time": "08:02 PM",
         "time_24": "20:02",
-        "latitude": 5.86,
-        "longitude": 125.36,
-        "depth_km": 8.0,
-        "magnitude": 1.9,
-        "location": "014km S 32Â° E of Malapatan (Sarangani)"
+        "latitude": 5.89,
+        "longitude": 125.33,
+        "depth_km": 18.0,
+        "magnitude": 2.4,
+        "location": "010km S 25Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.86
+          125.33,
+          5.89
         ]
       }
     },
@@ -1288,17 +1388,17 @@
         "date": "01 August 2026",
         "time": "07:51 PM",
         "time_24": "19:51",
-        "latitude": 5.64,
-        "longitude": 125.32,
-        "depth_km": 3.0,
-        "magnitude": 2.7,
-        "location": "020km S 32Â° E of Glan (Sarangani)"
+        "latitude": 5.59,
+        "longitude": 125.18,
+        "depth_km": 7.0,
+        "magnitude": 3.3,
+        "location": "026km S 06Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          5.64
+          125.18,
+          5.59
         ]
       }
     },
@@ -1328,17 +1428,17 @@
         "date": "01 August 2026",
         "time": "07:24 PM",
         "time_24": "19:24",
-        "latitude": 5.71,
-        "longitude": 125.2,
-        "depth_km": 3.0,
-        "magnitude": 2.1,
-        "location": "012km S 01Â° W of Glan (Sarangani)"
+        "latitude": 5.61,
+        "longitude": 125.21,
+        "depth_km": 18.0,
+        "magnitude": 2.5,
+        "location": "023km S 02Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.2,
-          5.71
+          125.21,
+          5.61
         ]
       }
     },
@@ -1348,17 +1448,17 @@
         "date": "01 August 2026",
         "time": "07:06 PM",
         "time_24": "19:06",
-        "latitude": 11.89,
-        "longitude": 125.92,
-        "depth_km": 13.0,
-        "magnitude": 3.0,
-        "location": "050km S 70Â° E of Dolores (Eastern Samar)"
+        "latitude": 11.85,
+        "longitude": 125.89,
+        "depth_km": 12.0,
+        "magnitude": 3.5,
+        "location": "049km S 65Â° E of Dolores (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.92,
-          11.89
+          125.89,
+          11.85
         ]
       }
     },
