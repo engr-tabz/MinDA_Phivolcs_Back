@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T19:48:56.489966+00:00",
+  "generated_at": "2026-08-02T20:39:45.683133+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 8.36,
+        "longitude": 126.58,
+        "depth_km": 29.0,
+        "magnitude": 3.3,
+        "location": "027km S 90Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          8.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:20 AM",
+        "time_24": "04:20",
+        "latitude": 8.37,
+        "longitude": 126.59,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "028km East of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59,
+          8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:14 AM",
+        "time_24": "04:14",
+        "latitude": 8.22,
+        "longitude": 122.0,
+        "depth_km": 40.0,
+        "magnitude": 1.8,
+        "location": "048km N 19Â° W of Baliguian (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0,
+          8.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
