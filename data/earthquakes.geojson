@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T07:20:16.079661+00:00",
+  "generated_at": "2026-08-02T09:29:02.527661+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:48 PM",
+        "time_24": "16:48",
+        "latitude": 6.06,
+        "longitude": 126.34,
+        "depth_km": 49.0,
+        "magnitude": 2.7,
+        "location": "073km S 78Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          6.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:41 PM",
+        "time_24": "16:41",
+        "latitude": 5.56,
+        "longitude": 125.3,
+        "depth_km": 16.0,
+        "magnitude": 2.2,
+        "location": "021km N 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "04:38 PM",
+        "time_24": "16:38",
+        "latitude": 6.14,
+        "longitude": 125.56,
+        "depth_km": 88.0,
+        "magnitude": 1.9,
+        "location": "016km S 68Â° W of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.56,
+          6.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "03:47 PM",
+        "time_24": "15:47",
+        "latitude": 8.8,
+        "longitude": 127.31,
+        "depth_km": 20.0,
+        "magnitude": 2.2,
+        "location": "111km N 90Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31,
+          8.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "03:43 PM",
+        "time_24": "15:43",
+        "latitude": 6.54,
+        "longitude": 126.31,
+        "depth_km": 31.0,
+        "magnitude": 1.8,
+        "location": "030km S 64Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.31,
+          6.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "03:35 PM",
+        "time_24": "15:35",
+        "latitude": 10.94,
+        "longitude": 124.05,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "014km S 31Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.05,
+          10.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "03:24 PM",
+        "time_24": "15:24",
+        "latitude": 8.54,
+        "longitude": 125.7,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "006km N 41Â° W of San Luis (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          8.54
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
