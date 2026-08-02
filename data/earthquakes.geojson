@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T11:03:48.492794+00:00",
+  "generated_at": "2026-08-02T12:12:05.127356+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "07:39 PM",
+        "time_24": "19:39",
+        "latitude": 12.79,
+        "longitude": 123.09,
+        "depth_km": 8.0,
+        "magnitude": 2.0,
+        "location": "021km S 55Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09,
+          12.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 August 2026",
+        "time": "06:59 PM",
+        "time_24": "18:59",
+        "latitude": 5.48,
+        "longitude": 125.24,
+        "depth_km": 2.0,
+        "magnitude": 3.2,
+        "location": "021km N 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.48
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1248,17 +1288,17 @@
         "date": "01 August 2026",
         "time": "10:40 PM",
         "time_24": "22:40",
-        "latitude": 10.11,
-        "longitude": 126.02,
-        "depth_km": 20.0,
-        "magnitude": 2.1,
-        "location": "010km N 11Â° W of Santa Monica (Surigao Del Norte)"
+        "latitude": 10.15,
+        "longitude": 126.15,
+        "depth_km": 17.0,
+        "magnitude": 2.6,
+        "location": "019km N 42Â° E of Santa Monica (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.02,
-          10.11
+          126.15,
+          10.15
         ]
       }
     },
@@ -1288,17 +1328,17 @@
         "date": "01 August 2026",
         "time": "10:09 PM",
         "time_24": "22:09",
-        "latitude": 13.55,
-        "longitude": 120.97,
-        "depth_km": 11.0,
-        "magnitude": 1.8,
-        "location": "005km N 14Â° E of Puerto Galera (Oriental Mindoro)"
+        "latitude": 13.52,
+        "longitude": 120.94,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "002km N 33Â° W of Puerto Galera (Oriental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.97,
-          13.55
+          120.94,
+          13.52
         ]
       }
     },
@@ -1308,17 +1348,17 @@
         "date": "01 August 2026",
         "time": "09:17 PM",
         "time_24": "21:17",
-        "latitude": 5.01,
-        "longitude": 125.44,
-        "depth_km": 26.0,
-        "magnitude": 3.7,
-        "location": "044km S 02Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.76,
+        "longitude": 125.48,
+        "depth_km": 27.0,
+        "magnitude": 3.9,
+        "location": "073km S 06Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.44,
-          5.01
+          125.48,
+          4.76
         ]
       }
     },
