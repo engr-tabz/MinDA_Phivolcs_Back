@@ -1,24 +1,144 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T16:15:03.831470+00:00",
+  "generated_at": "2026-08-02T17:27:23.773210+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 11.14,
+        "longitude": 124.13,
+        "depth_km": 7.0,
+        "magnitude": 1.8,
+        "location": "019km N 58Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.13,
+          11.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "01:07 AM",
+        "time_24": "01:07",
+        "latitude": 4.02,
+        "longitude": 125.97,
+        "depth_km": 77.0,
+        "magnitude": 3.4,
+        "location": "166km S 22Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.97,
+          4.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "01:02 AM",
+        "time_24": "01:02",
+        "latitude": 8.26,
+        "longitude": 127.16,
+        "depth_km": 2.0,
+        "magnitude": 2.4,
+        "location": "086km N 73Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.16,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "01:01 AM",
+        "time_24": "01:01",
+        "latitude": 8.72,
+        "longitude": 126.24,
+        "depth_km": 161.0,
+        "magnitude": 1.8,
+        "location": "003km S 23Â° E of San Agustin (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          8.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "12:43 AM",
+        "time_24": "00:43",
+        "latitude": 5.79,
+        "longitude": 125.29,
+        "depth_km": 22.0,
+        "magnitude": 1.7,
+        "location": "010km S 68Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "12:26 AM",
+        "time_24": "00:26",
+        "latitude": 3.48,
+        "longitude": 126.78,
+        "depth_km": 53.0,
+        "magnitude": 4.7,
+        "location": "262km S 35Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.78,
+          3.48
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "02 August 2026",
         "time": "11:38 PM",
         "time_24": "23:38",
-        "latitude": 15.18,
-        "longitude": 122.21,
-        "depth_km": 10.0,
-        "magnitude": 3.8,
-        "location": "045km N 35Â° E of Burdeos (Quezon)"
+        "latitude": 15.2,
+        "longitude": 122.18,
+        "depth_km": 8.0,
+        "magnitude": 3.9,
+        "location": "046km N 29Â° E of Burdeos (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.21,
-          15.18
+          122.18,
+          15.2
         ]
       }
     },
