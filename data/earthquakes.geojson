@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T18:33:10.335758+00:00",
+  "generated_at": "2026-08-02T19:48:56.489966+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "03:18 AM",
+        "time_24": "03:18",
+        "latitude": 12.95,
+        "longitude": 124.64,
+        "depth_km": 9.0,
+        "magnitude": 2.0,
+        "location": "042km N 45Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64,
+          12.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 16.46,
+        "longitude": 120.39,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "005km N 58Â° E of Caba (La Union)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39,
+          16.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "02:52 AM",
+        "time_24": "02:52",
+        "latitude": 5.64,
+        "longitude": 125.38,
+        "depth_km": 15.0,
+        "magnitude": 2.8,
+        "location": "021km N 28Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
