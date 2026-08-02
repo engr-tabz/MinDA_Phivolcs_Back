@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T21:38:21.352527+00:00",
+  "generated_at": "2026-08-02T22:39:13.572693+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "06:30 AM",
+        "time_24": "06:30",
+        "latitude": 5.54,
+        "longitude": 125.04,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "036km S 30Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.04,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "06:27 AM",
+        "time_24": "06:27",
+        "latitude": 13.33,
+        "longitude": 120.34,
+        "depth_km": 7.0,
+        "magnitude": 2.4,
+        "location": "016km S 53Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.34,
+          13.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "06:22 AM",
+        "time_24": "06:22",
+        "latitude": 10.35,
+        "longitude": 125.11,
+        "depth_km": 10.0,
+        "magnitude": 4.0,
+        "location": "014km S 74Â° E of Sogod (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.11,
+          10.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "06:19 AM",
+        "time_24": "06:19",
+        "latitude": 15.51,
+        "longitude": 119.3,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "066km N 83Â° W of Palauig (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.3,
+          15.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "06:12 AM",
+        "time_24": "06:12",
+        "latitude": 5.34,
+        "longitude": 125.39,
+        "depth_km": 16.0,
+        "magnitude": 2.1,
+        "location": "009km S 26Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "05:59 AM",
+        "time_24": "05:59",
+        "latitude": 5.43,
+        "longitude": 125.15,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "030km N 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          5.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
