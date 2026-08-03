@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-02T23:42:54.995579+00:00",
+  "generated_at": "2026-08-03T01:17:08.311783+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "08:49 AM",
+        "time_24": "08:49",
+        "latitude": 5.81,
+        "longitude": 125.47,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "022km S 60Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "08:47 AM",
+        "time_24": "08:47",
+        "latitude": 8.63,
+        "longitude": 123.33,
+        "depth_km": 22.0,
+        "magnitude": 2.4,
+        "location": "005km N 14Â° W of City Of Dipolog (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.33,
+          8.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "07:45 AM",
+        "time_24": "07:45",
+        "latitude": 17.21,
+        "longitude": 120.36,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "009km N 62Â° W of City Of Candon (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36,
+          17.21
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
