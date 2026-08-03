@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T21:47:21.313951+00:00",
+  "generated_at": "2026-08-03T22:44:43.022153+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "06:31 AM",
+        "time_24": "06:31",
+        "latitude": 10.61,
+        "longitude": 125.61,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "019km S 40Â° W of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61,
+          10.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "06:06 AM",
+        "time_24": "06:06",
+        "latitude": 12.4,
+        "longitude": 125.3,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "001km N 09Â° E of Gamay (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          12.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1008,17 +1048,17 @@
         "date": "03 August 2026",
         "time": "09:51 AM",
         "time_24": "09:51",
-        "latitude": 9.46,
-        "longitude": 126.32,
-        "depth_km": 17.0,
+        "latitude": 9.47,
+        "longitude": 126.42,
+        "depth_km": 21.0,
         "magnitude": 3.7,
-        "location": "024km N 34Â° E of Cortes (Surigao Del Sur)"
+        "location": "033km N 49Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.32,
-          9.46
+          126.42,
+          9.47
         ]
       }
     },
