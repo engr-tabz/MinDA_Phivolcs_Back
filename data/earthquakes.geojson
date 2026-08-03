@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T15:09:15.940998+00:00",
+  "generated_at": "2026-08-03T17:19:16.598809+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "01:09 AM",
+        "time_24": "01:09",
+        "latitude": 15.29,
+        "longitude": 120.1,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "008km N 88Â° E of Botolan (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1,
+          15.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "01:04 AM",
+        "time_24": "01:04",
+        "latitude": 5.48,
+        "longitude": 127.28,
+        "depth_km": 41.0,
+        "magnitude": 3.0,
+        "location": "186km S 46Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.28,
+          5.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "12:40 AM",
+        "time_24": "00:40",
+        "latitude": 5.05,
+        "longitude": 125.49,
+        "depth_km": 193.0,
+        "magnitude": 2.6,
+        "location": "041km S 11Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          5.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "11:53 PM",
+        "time_24": "23:53",
+        "latitude": 5.34,
+        "longitude": 125.14,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "034km S 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "11:12 PM",
+        "time_24": "23:12",
+        "latitude": 6.8,
+        "longitude": 126.41,
+        "depth_km": 24.0,
+        "magnitude": 2.6,
+        "location": "027km S 52Â° E of City Of Mati (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          6.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
