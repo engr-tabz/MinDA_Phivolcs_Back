@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T22:44:43.022153+00:00",
+  "generated_at": "2026-08-03T23:53:54.227655+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "06:45 AM",
+        "time_24": "06:45",
+        "latitude": 12.18,
+        "longitude": 121.41,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "018km S 25Â° E of Bulalacao (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41,
+          12.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "06:44 AM",
+        "time_24": "06:44",
+        "latitude": 6.06,
+        "longitude": 124.62,
+        "depth_km": 14.0,
+        "magnitude": 2.4,
+        "location": "007km North of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62,
+          6.06
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
