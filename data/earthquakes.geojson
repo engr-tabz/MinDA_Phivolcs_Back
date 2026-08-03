@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T04:52:45.617338+00:00",
+  "generated_at": "2026-08-03T08:26:12.905916+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "04:08 PM",
+        "time_24": "16:08",
+        "latitude": 5.71,
+        "longitude": 125.46,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "026km N 04Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          5.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "03:34 PM",
+        "time_24": "15:34",
+        "latitude": 12.83,
+        "longitude": 123.11,
+        "depth_km": 9.0,
+        "magnitude": 3.1,
+        "location": "017km S 62Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.11,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "03:07 PM",
+        "time_24": "15:07",
+        "latitude": 5.86,
+        "longitude": 126.54,
+        "depth_km": 35.0,
+        "magnitude": 2.7,
+        "location": "099km S 87Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "12:59 PM",
+        "time_24": "12:59",
+        "latitude": 5.88,
+        "longitude": 125.31,
+        "depth_km": 22.0,
+        "magnitude": 1.4,
+        "location": "010km S 16Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 August 2026",
+        "time": "12:47 PM",
+        "time_24": "12:47",
+        "latitude": 15.09,
+        "longitude": 122.23,
+        "depth_km": 5.0,
+        "magnitude": 3.2,
+        "location": "037km N 02Â° E of Patnanungan (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23,
+          15.09
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -108,17 +208,17 @@
         "date": "03 August 2026",
         "time": "10:27 AM",
         "time_24": "10:27",
-        "latitude": 13.27,
-        "longitude": 123.88,
-        "depth_km": 9.0,
-        "magnitude": 2.4,
-        "location": "010km S 75Â° E of Bacacay (Albay)"
+        "latitude": 13.25,
+        "longitude": 123.81,
+        "depth_km": 10.0,
+        "magnitude": 3.7,
+        "location": "004km N 75Â° E of Santo Domingo (Albay)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.88,
-          13.27
+          123.81,
+          13.25
         ]
       }
     },
@@ -308,17 +408,17 @@
         "date": "03 August 2026",
         "time": "06:48 AM",
         "time_24": "06:48",
-        "latitude": 5.02,
-        "longitude": 125.37,
-        "depth_km": 10.0,
-        "magnitude": 4.9,
-        "location": "043km S 7Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.14,
+        "longitude": 125.38,
+        "depth_km": 33.0,
+        "magnitude": 4.7,
+        "location": "031km S 09Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
-          5.02
+          125.38,
+          5.14
         ]
       }
     },
@@ -369,15 +469,15 @@
         "time": "06:22 AM",
         "time_24": "06:22",
         "latitude": 10.35,
-        "longitude": 125.11,
-        "depth_km": 10.0,
-        "magnitude": 4.0,
-        "location": "014km S 74Â° E of Sogod (Southern Leyte)"
+        "longitude": 125.14,
+        "depth_km": 2.0,
+        "magnitude": 3.9,
+        "location": "007km N 03Â° E of Saint Bernard (Southern Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.11,
+          125.14,
           10.35
         ]
       }
@@ -1128,17 +1228,17 @@
         "date": "02 August 2026",
         "time": "05:45 PM",
         "time_24": "17:45",
-        "latitude": 14.01,
-        "longitude": 120.18,
+        "latitude": 14.02,
+        "longitude": 120.19,
         "depth_km": 2.0,
         "magnitude": 2.5,
-        "location": "018km N 22Â° E of Lubang (Occidental Mindoro)"
+        "location": "019km N 22Â° E of Lubang (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.18,
-          14.01
+          120.19,
+          14.02
         ]
       }
     },
@@ -1208,17 +1308,17 @@
         "date": "02 August 2026",
         "time": "04:38 PM",
         "time_24": "16:38",
-        "latitude": 6.14,
-        "longitude": 125.56,
-        "depth_km": 88.0,
+        "latitude": 5.46,
+        "longitude": 126.01,
+        "depth_km": 165.0,
         "magnitude": 1.9,
-        "location": "016km S 68Â° W of Don Marcelino (Davao Occidental)"
+        "location": "065km S 39Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.56,
-          6.14
+          126.01,
+          5.46
         ]
       }
     },
@@ -1328,17 +1428,17 @@
         "date": "02 August 2026",
         "time": "01:57 PM",
         "time_24": "13:57",
-        "latitude": 8.36,
-        "longitude": 122.53,
-        "depth_km": 33.0,
+        "latitude": 8.48,
+        "longitude": 122.63,
+        "depth_km": 3.0,
         "magnitude": 3.6,
-        "location": "031km N 32Â° W of Liloy (Zamboanga Del Norte)"
+        "location": "040km N 06Â° W of Liloy (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.53,
-          8.36
+          122.63,
+          8.48
         ]
       }
     },
