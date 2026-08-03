@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T20:37:07.918924+00:00",
+  "generated_at": "2026-08-03T21:47:21.313951+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "05:31 AM",
+        "time_24": "05:31",
+        "latitude": 5.74,
+        "longitude": 125.12,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "013km S 46Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "05:14 AM",
+        "time_24": "05:14",
+        "latitude": 5.46,
+        "longitude": 125.21,
+        "depth_km": 27.0,
+        "magnitude": 2.3,
+        "location": "024km N 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "04:46 AM",
+        "time_24": "04:46",
+        "latitude": 7.12,
+        "longitude": 122.13,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "020km S 20Â° E of Sibuco (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13,
+          7.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "04:45 AM",
+        "time_24": "04:45",
+        "latitude": 5.68,
+        "longitude": 125.31,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "019km S 37Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.68
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
