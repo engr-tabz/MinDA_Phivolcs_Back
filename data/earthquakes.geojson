@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T17:19:16.598809+00:00",
+  "generated_at": "2026-08-03T19:00:37.991333+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "02:47 AM",
+        "time_24": "02:47",
+        "latitude": 5.3,
+        "longitude": 125.22,
+        "depth_km": 33.0,
+        "magnitude": 3.3,
+        "location": "026km S 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "02:41 AM",
+        "time_24": "02:41",
+        "latitude": 4.97,
+        "longitude": 125.33,
+        "depth_km": 17.0,
+        "magnitude": 3.6,
+        "location": "050km S 11Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          4.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 5.5,
+        "longitude": 125.31,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "013km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "01:14 AM",
+        "time_24": "01:14",
+        "latitude": 13.53,
+        "longitude": 124.08,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "007km S 16Â° W of San Andres (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.08,
+          13.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "01:13 AM",
+        "time_24": "01:13",
+        "latitude": 13.62,
+        "longitude": 124.08,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "003km N 42Â° W of San Andres (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.08,
+          13.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
