@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-04T02:31:00.645306+00:00",
+  "generated_at": "2026-08-04T05:33:02.494867+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "01:09 PM",
+        "time_24": "13:09",
+        "latitude": 21.27,
+        "longitude": 121.23,
+        "depth_km": 22.0,
+        "magnitude": 2.8,
+        "location": "083km N 50Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.23,
+          21.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "12:48 PM",
+        "time_24": "12:48",
+        "latitude": 6.25,
+        "longitude": 126.47,
+        "depth_km": 48.0,
+        "magnitude": 2.3,
+        "location": "063km S 45Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          6.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "12:24 PM",
+        "time_24": "12:24",
+        "latitude": 5.65,
+        "longitude": 125.29,
+        "depth_km": 11.0,
+        "magnitude": 1.6,
+        "location": "021km S 25Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "12:14 PM",
+        "time_24": "12:14",
+        "latitude": 13.28,
+        "longitude": 123.83,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "005km S 67Â° E of Bacacay (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.83,
+          13.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:31 AM",
+        "time_24": "11:31",
+        "latitude": 9.7,
+        "longitude": 126.26,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "015km S 51Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "10:34 AM",
+        "time_24": "10:34",
+        "latitude": 5.74,
+        "longitude": 125.22,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "010km S 11Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -888,17 +1008,17 @@
         "date": "03 August 2026",
         "time": "06:57 PM",
         "time_24": "18:57",
-        "latitude": 7.18,
-        "longitude": 122.18,
-        "depth_km": 6.0,
-        "magnitude": 2.2,
-        "location": "017km S 45Â° E of Sibuco (Zamboanga Del Norte)"
+        "latitude": 7.13,
+        "longitude": 121.89,
+        "depth_km": 32.0,
+        "magnitude": 2.3,
+        "location": "027km S 48Â° W of Sibuco (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.18,
-          7.18
+          121.89,
+          7.13
         ]
       }
     },
@@ -1068,17 +1188,17 @@
         "date": "03 August 2026",
         "time": "12:47 PM",
         "time_24": "12:47",
-        "latitude": 15.09,
-        "longitude": 122.23,
-        "depth_km": 5.0,
+        "latitude": 15.21,
+        "longitude": 122.26,
+        "depth_km": 2.0,
         "magnitude": 3.2,
-        "location": "037km N 02Â° E of Patnanungan (Quezon)"
+        "location": "051km N 05Â° E of Patnanungan (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.23,
-          15.09
+          122.26,
+          15.21
         ]
       }
     },
@@ -1088,17 +1208,17 @@
         "date": "03 August 2026",
         "time": "12:09 PM",
         "time_24": "12:09",
-        "latitude": 10.07,
-        "longitude": 126.29,
-        "depth_km": 12.0,
-        "magnitude": 2.6,
-        "location": "025km N 76Â° E of Burgos (Surigao Del Norte)"
+        "latitude": 9.98,
+        "longitude": 126.2,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "013km N 70Â° E of San Isidro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.29,
-          10.07
+          126.2,
+          9.98
         ]
       }
     },
@@ -1148,17 +1268,17 @@
         "date": "03 August 2026",
         "time": "10:40 AM",
         "time_24": "10:40",
-        "latitude": 5.73,
+        "latitude": 5.74,
         "longitude": 125.22,
-        "depth_km": 15.0,
+        "depth_km": 13.0,
         "magnitude": 1.9,
-        "location": "010km S 12Â° E of Glan (Sarangani)"
+        "location": "009km S 14Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.22,
-          5.73
+          5.74
         ]
       }
     },
@@ -1208,17 +1328,17 @@
         "date": "03 August 2026",
         "time": "10:11 AM",
         "time_24": "10:11",
-        "latitude": 10.77,
-        "longitude": 127.05,
-        "depth_km": 96.0,
+        "latitude": 10.71,
+        "longitude": 126.91,
+        "depth_km": 23.0,
         "magnitude": 3.3,
-        "location": "136km N 52Â° E of Burgos (Surigao Del Norte)"
+        "location": "119km N 50Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          10.77
+          126.91,
+          10.71
         ]
       }
     },
@@ -1452,7 +1572,7 @@
         "longitude": 125.14,
         "depth_km": 2.0,
         "magnitude": 3.9,
-        "location": "007km N 03Â° E of Saint Bernard (Southern Leyte)"
+        "location": "007km N 01Â° E of Saint Bernard (Southern Leyte)"
       },
       "geometry": {
         "type": "Point",
