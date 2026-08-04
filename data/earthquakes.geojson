@@ -1,24 +1,244 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-04T15:15:32.015864+00:00",
+  "generated_at": "2026-08-04T17:08:36.062171+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:39 AM",
+        "time_24": "00:39",
+        "latitude": 5.77,
+        "longitude": 125.33,
+        "depth_km": 15.0,
+        "magnitude": 3.0,
+        "location": "019km N 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:52 AM",
+        "time_24": "00:52",
+        "latitude": 5.88,
+        "longitude": 125.27,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "010km N 48Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 8.67,
+        "longitude": 126.52,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "028km S 61Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.52,
+          8.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:24 AM",
+        "time_24": "00:24",
+        "latitude": 14.25,
+        "longitude": 124.6,
+        "depth_km": 5.0,
+        "magnitude": 2.2,
+        "location": "048km N 45Â° E of Bagamanoc (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6,
+          14.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:20 AM",
+        "time_24": "00:20",
+        "latitude": 17.63,
+        "longitude": 120.51,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "008km N 43Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51,
+          17.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:05 AM",
+        "time_24": "00:05",
+        "latitude": 5.08,
+        "longitude": 125.73,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "050km S 43Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.73,
+          5.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:37 PM",
+        "time_24": "23:37",
+        "latitude": 5.4,
+        "longitude": 125.24,
+        "depth_km": 24.0,
+        "magnitude": 1.5,
+        "location": "020km S 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:30 PM",
+        "time_24": "23:30",
+        "latitude": 5.88,
+        "longitude": 125.25,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "008km N 34Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:22 PM",
+        "time_24": "23:22",
+        "latitude": 15.07,
+        "longitude": 122.14,
+        "depth_km": 8.0,
+        "magnitude": 2.2,
+        "location": "031km N 36Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.14,
+          15.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:18 PM",
+        "time_24": "23:18",
+        "latitude": 19.3,
+        "longitude": 121.16,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "021km N 14Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16,
+          19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "11:14 PM",
+        "time_24": "23:14",
+        "latitude": 5.5,
+        "longitude": 125.29,
+        "depth_km": 27.0,
+        "magnitude": 1.5,
+        "location": "018km N 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "04 August 2026",
         "time": "10:39 PM",
         "time_24": "22:39",
-        "latitude": 12.58,
-        "longitude": 126.61,
-        "depth_km": 10.0,
-        "magnitude": 3.4,
-        "location": "127km N 70Â° E of San Policarpo (Eastern Samar)"
+        "latitude": 12.31,
+        "longitude": 126.26,
+        "depth_km": 19.0,
+        "magnitude": 3.1,
+        "location": "084km N 80Â° E of San Policarpo (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.61,
-          12.58
+          126.26,
+          12.31
         ]
       }
     },
@@ -768,17 +988,17 @@
         "date": "04 August 2026",
         "time": "06:44 AM",
         "time_24": "06:44",
-        "latitude": 6.06,
-        "longitude": 124.62,
-        "depth_km": 14.0,
-        "magnitude": 2.4,
-        "location": "007km North of Kiamba (Sarangani)"
+        "latitude": 5.77,
+        "longitude": 124.39,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "034km S 20Â° W of Maitum (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.62,
-          6.06
+          124.39,
+          5.77
         ]
       }
     },
@@ -788,17 +1008,17 @@
         "date": "04 August 2026",
         "time": "06:31 AM",
         "time_24": "06:31",
-        "latitude": 10.61,
-        "longitude": 125.61,
-        "depth_km": 3.0,
+        "latitude": 10.72,
+        "longitude": 125.49,
+        "depth_km": 9.0,
         "magnitude": 2.4,
-        "location": "019km S 40Â° W of Homonhon Island (Guiuan) (Eastern Samar)"
+        "location": "025km S 84Â° W of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.61,
-          10.61
+          125.49,
+          10.72
         ]
       }
     },
@@ -948,17 +1168,17 @@
         "date": "04 August 2026",
         "time": "04:02 AM",
         "time_24": "04:02",
-        "latitude": 6.62,
-        "longitude": 123.4,
-        "depth_km": 33.0,
-        "magnitude": 2.2,
-        "location": "072km N 85Â° W of Kalamansig (Sultan Kudarat)"
+        "latitude": 6.64,
+        "longitude": 123.41,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "071km N 83Â° W of Kalamansig (Sultan Kudarat)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.4,
-          6.62
+          123.41,
+          6.64
         ]
       }
     },
