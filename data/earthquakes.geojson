@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-03T23:53:54.227655+00:00",
+  "generated_at": "2026-08-04T02:31:00.645306+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "10:06 AM",
+        "time_24": "10:06",
+        "latitude": 5.77,
+        "longitude": 125.24,
+        "depth_km": 9.0,
+        "magnitude": 1.7,
+        "location": "007km S 30Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "10:05 AM",
+        "time_24": "10:05",
+        "latitude": 5.78,
+        "longitude": 125.23,
+        "depth_km": 10.0,
+        "magnitude": 1.8,
+        "location": "005km S 34Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "10:02 AM",
+        "time_24": "10:02",
+        "latitude": 5.77,
+        "longitude": 125.23,
+        "depth_km": 8.0,
+        "magnitude": 1.7,
+        "location": "007km S 27Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "10:00 AM",
+        "time_24": "10:00",
+        "latitude": 5.72,
+        "longitude": 125.24,
+        "depth_km": 13.0,
+        "magnitude": 1.7,
+        "location": "012km S 20Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "09:32 AM",
+        "time_24": "09:32",
+        "latitude": 3.57,
+        "longitude": 123.8,
+        "depth_km": 422.0,
+        "magnitude": 3.8,
+        "location": "272km S 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8,
+          3.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "08:54 AM",
+        "time_24": "08:54",
+        "latitude": 10.77,
+        "longitude": 126.28,
+        "depth_km": 6.0,
+        "magnitude": 3.0,
+        "location": "061km N 87Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          10.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 August 2026",
+        "time": "07:50 AM",
+        "time_24": "07:50",
+        "latitude": 13.64,
+        "longitude": 121.5,
+        "depth_km": 6.0,
+        "magnitude": 2.4,
+        "location": "023km S 28Â° E of San Juan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5,
+          13.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1028,17 +1168,17 @@
         "date": "03 August 2026",
         "time": "10:28 AM",
         "time_24": "10:28",
-        "latitude": 5.55,
-        "longitude": 125.38,
-        "depth_km": 22.0,
-        "magnitude": 2.0,
-        "location": "013km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.52,
+        "longitude": 125.32,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "016km N 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.38,
-          5.55
+          125.32,
+          5.52
         ]
       }
     },
