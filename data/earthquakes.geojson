@@ -1,24 +1,144 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-04T17:08:36.062171+00:00",
+  "generated_at": "2026-08-04T18:52:01.326922+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "05 August 2026",
-        "time": "12:39 AM",
-        "time_24": "00:39",
-        "latitude": 5.77,
-        "longitude": 125.33,
-        "depth_km": 15.0,
-        "magnitude": 3.0,
-        "location": "019km N 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "time": "02:20 AM",
+        "time_24": "02:20",
+        "latitude": 19.28,
+        "longitude": 121.2,
+        "depth_km": 28.0,
+        "magnitude": 2.9,
+        "location": "019km N 02Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.77
+          121.2,
+          19.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:59 AM",
+        "time_24": "01:59",
+        "latitude": 5.79,
+        "longitude": 125.37,
+        "depth_km": 17.0,
+        "magnitude": 2.0,
+        "location": "019km S 80Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:56 AM",
+        "time_24": "01:56",
+        "latitude": 5.7,
+        "longitude": 125.34,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "021km S 48Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:53 AM",
+        "time_24": "01:53",
+        "latitude": 5.61,
+        "longitude": 125.17,
+        "depth_km": 8.0,
+        "magnitude": 2.5,
+        "location": "024km S 09Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:14 AM",
+        "time_24": "01:14",
+        "latitude": 5.82,
+        "longitude": 125.28,
+        "depth_km": 21.0,
+        "magnitude": 2.7,
+        "location": "008km S 86Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:13 AM",
+        "time_24": "01:13",
+        "latitude": 7.64,
+        "longitude": 126.77,
+        "depth_km": 31.0,
+        "magnitude": 1.7,
+        "location": "024km N 71Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.77,
+          7.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 12.98,
+        "longitude": 123.25,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "009km N 01Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.25,
+          12.98
         ]
       }
     },
@@ -39,6 +159,26 @@
         "coordinates": [
           125.27,
           5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "12:39 AM",
+        "time_24": "00:39",
+        "latitude": 5.77,
+        "longitude": 125.33,
+        "depth_km": 15.0,
+        "magnitude": 3.0,
+        "location": "019km N 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.77
         ]
       }
     },
@@ -548,17 +688,17 @@
         "date": "04 August 2026",
         "time": "04:47 PM",
         "time_24": "16:47",
-        "latitude": 12.79,
-        "longitude": 123.03,
-        "depth_km": 68.0,
+        "latitude": 12.76,
+        "longitude": 123.06,
+        "depth_km": 21.0,
         "magnitude": 1.8,
-        "location": "027km S 63Â° W of Claveria (Masbate)"
+        "location": "025km S 52Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.03,
-          12.79
+          123.06,
+          12.76
         ]
       }
     },
@@ -949,15 +1089,15 @@
         "time": "07:50 AM",
         "time_24": "07:50",
         "latitude": 13.64,
-        "longitude": 121.5,
-        "depth_km": 6.0,
-        "magnitude": 2.4,
-        "location": "023km S 28Â° E of San Juan (Batangas)"
+        "longitude": 121.49,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "023km S 26Â° E of San Juan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5,
+          121.49,
           13.64
         ]
       }
@@ -968,17 +1108,17 @@
         "date": "04 August 2026",
         "time": "06:45 AM",
         "time_24": "06:45",
-        "latitude": 12.18,
-        "longitude": 121.41,
-        "depth_km": 5.0,
-        "magnitude": 2.3,
-        "location": "018km S 25Â° E of Bulalacao (Oriental Mindoro)"
+        "latitude": 12.2,
+        "longitude": 121.42,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "016km S 29Â° E of Bulalacao (Oriental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.41,
-          12.18
+          121.42,
+          12.2
         ]
       }
     },
@@ -1028,17 +1168,17 @@
         "date": "04 August 2026",
         "time": "06:06 AM",
         "time_24": "06:06",
-        "latitude": 12.4,
-        "longitude": 125.3,
-        "depth_km": 25.0,
+        "latitude": 12.37,
+        "longitude": 125.23,
+        "depth_km": 17.0,
         "magnitude": 2.0,
-        "location": "001km N 09Â° E of Gamay (Northern Samar)"
+        "location": "008km S 78Â° W of Gamay (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          12.4
+          125.23,
+          12.37
         ]
       }
     },
