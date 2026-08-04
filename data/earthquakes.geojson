@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-04T21:45:46.676371+00:00",
+  "generated_at": "2026-08-04T22:47:47.935771+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "06:08 AM",
+        "time_24": "06:08",
+        "latitude": 12.81,
+        "longitude": 123.02,
+        "depth_km": 7.0,
+        "magnitude": 2.7,
+        "location": "026km S 67Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          12.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "06:02 AM",
+        "time_24": "06:02",
+        "latitude": 11.32,
+        "longitude": 125.37,
+        "depth_km": 11.0,
+        "magnitude": 2.5,
+        "location": "020km N 65Â° W of General Macarthur (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          11.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "05:50 AM",
+        "time_24": "05:50",
+        "latitude": 12.52,
+        "longitude": 124.59,
+        "depth_km": 32.0,
+        "magnitude": 2.3,
+        "location": "006km N 68Â° W of Catarman (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.59,
+          12.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 10.38,
+        "longitude": 126.41,
+        "depth_km": 29.0,
+        "magnitude": 2.5,
+        "location": "054km N 43Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          10.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
