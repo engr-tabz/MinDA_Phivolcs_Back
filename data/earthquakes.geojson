@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-04T23:48:40.146507+00:00",
+  "generated_at": "2026-08-05T01:11:11.387467+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "08:59 AM",
+        "time_24": "08:59",
+        "latitude": 12.36,
+        "longitude": 124.45,
+        "depth_km": 23.0,
+        "magnitude": 1.4,
+        "location": "013km S 79Â° E of San Isidro (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.45,
+          12.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "08:27 AM",
+        "time_24": "08:27",
+        "latitude": 5.52,
+        "longitude": 125.42,
+        "depth_km": 28.0,
+        "magnitude": 2.6,
+        "location": "008km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "08:24 AM",
+        "time_24": "08:24",
+        "latitude": 6.59,
+        "longitude": 127.05,
+        "depth_km": 163.0,
+        "magnitude": 2.3,
+        "location": "084km S 53Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          6.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 August 2026",
+        "time": "08:01 AM",
+        "time_24": "08:01",
+        "latitude": 6.67,
+        "longitude": 125.77,
+        "depth_km": 81.0,
+        "magnitude": 2.6,
+        "location": "034km N 31Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77,
+          6.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1266,19 +1346,19 @@
       "type": "Feature",
       "properties": {
         "date": "04 August 2026",
-        "time": "10:05 AM",
-        "time_24": "10:05",
-        "latitude": 5.78,
-        "longitude": 125.23,
-        "depth_km": 10.0,
+        "time": "10:02 AM",
+        "time_24": "10:02",
+        "latitude": 5.69,
+        "longitude": 125.24,
+        "depth_km": 15.0,
         "magnitude": 1.8,
-        "location": "005km S 34Â° E of Glan (Sarangani)"
+        "location": "015km S 14Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.23,
-          5.78
+          125.24,
+          5.69
         ]
       }
     },
@@ -1288,17 +1368,17 @@
         "date": "04 August 2026",
         "time": "10:02 AM",
         "time_24": "10:02",
-        "latitude": 5.77,
-        "longitude": 125.23,
-        "depth_km": 8.0,
-        "magnitude": 1.7,
-        "location": "007km S 27Â° E of Glan (Sarangani)"
+        "latitude": 5.69,
+        "longitude": 125.24,
+        "depth_km": 15.0,
+        "magnitude": 1.8,
+        "location": "015km S 14Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.23,
-          5.77
+          125.24,
+          5.69
         ]
       }
     },
