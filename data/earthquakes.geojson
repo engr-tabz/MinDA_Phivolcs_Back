@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-05T23:18:18.741109+00:00",
+  "generated_at": "2026-08-06T00:14:17.157533+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 August 2026",
+        "time": "07:48 AM",
+        "time_24": "07:48",
+        "latitude": 5.11,
+        "longitude": 125.24,
+        "depth_km": 22.0,
+        "magnitude": 3.4,
+        "location": "038km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 August 2026",
+        "time": "07:43 AM",
+        "time_24": "07:43",
+        "latitude": 7.57,
+        "longitude": 124.5,
+        "depth_km": 6.0,
+        "magnitude": 2.1,
+        "location": "015km N 69Â° E of Buldon (Maguindanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5,
+          7.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 August 2026",
+        "time": "07:34 AM",
+        "time_24": "07:34",
+        "latitude": 5.27,
+        "longitude": 125.17,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "032km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17,
+          5.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 August 2026",
+        "time": "07:21 AM",
+        "time_24": "07:21",
+        "latitude": 5.06,
+        "longitude": 125.21,
+        "depth_km": 51.0,
+        "magnitude": 2.7,
+        "location": "046km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.06
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
