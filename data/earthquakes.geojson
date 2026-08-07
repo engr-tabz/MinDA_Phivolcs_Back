@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T20:17:16.094282+00:00",
+  "generated_at": "2026-08-07T21:04:19.936885+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "04:37 AM",
+        "time_24": "04:37",
+        "latitude": 8.96,
+        "longitude": 122.88,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "020km S 58Â° W of Siaton (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.88,
+          8.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "04:31 AM",
+        "time_24": "04:31",
+        "latitude": 13.23,
+        "longitude": 120.4,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "021km N 89Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4,
+          13.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 13.64,
+        "longitude": 121.66,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "028km N 51Â° W of Mogpog (Marinduque)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.66,
+          13.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "04:11 AM",
+        "time_24": "04:11",
+        "latitude": 12.16,
+        "longitude": 123.93,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "001km N 36Â° E of Palanas (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.93,
+          12.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "04:11 AM",
+        "time_24": "04:11",
+        "latitude": 19.23,
+        "longitude": 121.02,
+        "depth_km": 31.0,
+        "magnitude": 2.4,
+        "location": "024km N 57Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02,
+          19.23
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
