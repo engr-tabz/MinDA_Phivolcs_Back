@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T22:30:23.593955+00:00",
+  "generated_at": "2026-08-07T23:08:37.703348+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "06:55 AM",
+        "time_24": "06:55",
+        "latitude": 5.84,
+        "longitude": 125.69,
+        "depth_km": 131.0,
+        "magnitude": 2.8,
+        "location": "009km S 32Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.69,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "06:53 AM",
+        "time_24": "06:53",
+        "latitude": 5.82,
+        "longitude": 125.67,
+        "depth_km": 132.0,
+        "magnitude": 3.3,
+        "location": "011km S 18Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "06:43 AM",
+        "time_24": "06:43",
+        "latitude": 5.58,
+        "longitude": 125.13,
+        "depth_km": 19.0,
+        "magnitude": 1.6,
+        "location": "028km S 17Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "06:24 AM",
+        "time_24": "06:24",
+        "latitude": 15.0,
+        "longitude": 122.71,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "052km N 51Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.71,
+          15.0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
