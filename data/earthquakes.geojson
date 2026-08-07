@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T08:01:40.658883+00:00",
+  "generated_at": "2026-08-07T09:12:40.490184+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "04:59 PM",
+        "time_24": "16:59",
+        "latitude": 12.96,
+        "longitude": 120.87,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "016km N 36Â° E of Sablayan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87,
+          12.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "04:52 PM",
+        "time_24": "16:52",
+        "latitude": 4.93,
+        "longitude": 125.18,
+        "depth_km": 27.0,
+        "magnitude": 3.0,
+        "location": "059km S 27Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          4.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "04:43 PM",
+        "time_24": "16:43",
+        "latitude": 5.36,
+        "longitude": 125.35,
+        "depth_km": 3.0,
+        "magnitude": 4.2,
+        "location": "011km N 87Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "04:33 PM",
+        "time_24": "16:33",
+        "latitude": 7.88,
+        "longitude": 126.83,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "043km N 77Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.83,
+          7.88
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
