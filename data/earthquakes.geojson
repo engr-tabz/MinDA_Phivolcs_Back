@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T10:13:28.307068+00:00",
+  "generated_at": "2026-08-07T11:10:12.498417+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "06:57 PM",
+        "time_24": "18:57",
+        "latitude": 15.05,
+        "longitude": 122.06,
+        "depth_km": 19.0,
+        "magnitude": 1.5,
+        "location": "025km N 22Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06,
+          15.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "06:35 PM",
+        "time_24": "18:35",
+        "latitude": 9.65,
+        "longitude": 126.22,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "016km S 28Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "06:34 PM",
+        "time_24": "18:34",
+        "latitude": 5.14,
+        "longitude": 125.23,
+        "depth_km": 3.0,
+        "magnitude": 1.9,
+        "location": "037km S 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "06:32 PM",
+        "time_24": "18:32",
+        "latitude": 5.23,
+        "longitude": 125.24,
+        "depth_km": 6.0,
+        "magnitude": 1.8,
+        "location": "029km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "06:29 PM",
+        "time_24": "18:29",
+        "latitude": 5.49,
+        "longitude": 125.05,
+        "depth_km": 3.0,
+        "magnitude": 2.0,
+        "location": "041km S 25Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          5.49
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -808,17 +908,17 @@
         "date": "07 August 2026",
         "time": "04:36 AM",
         "time_24": "04:36",
-        "latitude": 15.16,
-        "longitude": 122.19,
-        "depth_km": 6.0,
+        "latitude": 15.21,
+        "longitude": 122.26,
+        "depth_km": 2.0,
         "magnitude": 2.9,
-        "location": "042km N 35Â° E of Burdeos (Quezon)"
+        "location": "052km N 38Â° E of Burdeos (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.19,
-          15.16
+          122.26,
+          15.21
         ]
       }
     },
@@ -1509,15 +1609,15 @@
         "time": "08:56 PM",
         "time_24": "20:56",
         "latitude": 5.78,
-        "longitude": 125.34,
-        "depth_km": 21.0,
-        "magnitude": 2.3,
-        "location": "015km S 74Â° E of Glan (Sarangani)"
+        "longitude": 125.33,
+        "depth_km": 20.0,
+        "magnitude": 2.7,
+        "location": "014km S 70Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.34,
+          125.33,
           5.78
         ]
       }
@@ -1568,17 +1668,17 @@
         "date": "06 August 2026",
         "time": "08:16 PM",
         "time_24": "20:16",
-        "latitude": 5.04,
-        "longitude": 125.22,
+        "latitude": 5.0,
+        "longitude": 125.25,
         "depth_km": 24.0,
         "magnitude": 1.7,
-        "location": "047km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "049km S 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.22,
-          5.04
+          125.25,
+          5.0
         ]
       }
     },
@@ -1628,17 +1728,17 @@
         "date": "06 August 2026",
         "time": "06:38 PM",
         "time_24": "18:38",
-        "latitude": 4.4,
-        "longitude": 125.56,
-        "depth_km": 1.0,
-        "magnitude": 2.6,
-        "location": "113km S 08Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.93,
+        "longitude": 125.2,
+        "depth_km": 26.0,
+        "magnitude": 3.7,
+        "location": "059km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.56,
-          4.4
+          125.2,
+          4.93
         ]
       }
     },
@@ -1688,17 +1788,17 @@
         "date": "06 August 2026",
         "time": "06:19 PM",
         "time_24": "18:19",
-        "latitude": 4.77,
-        "longitude": 125.17,
-        "depth_km": 33.0,
+        "latitude": 5.08,
+        "longitude": 125.15,
+        "depth_km": 17.0,
         "magnitude": 2.8,
-        "location": "077km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "048km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.17,
-          4.77
+          125.15,
+          5.08
         ]
       }
     },
@@ -1708,17 +1808,17 @@
         "date": "06 August 2026",
         "time": "06:16 PM",
         "time_24": "18:16",
-        "latitude": 8.9,
-        "longitude": 126.49,
-        "depth_km": 17.0,
+        "latitude": 8.91,
+        "longitude": 126.65,
+        "depth_km": 21.0,
         "magnitude": 2.5,
-        "location": "021km S 86Â° E of Cagwait (Surigao Del Sur)"
+        "location": "038km S 88Â° E of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.49,
-          8.9
+          126.65,
+          8.91
         ]
       }
     },
