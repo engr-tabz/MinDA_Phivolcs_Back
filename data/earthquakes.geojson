@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T21:04:19.936885+00:00",
+  "generated_at": "2026-08-07T21:52:18.162473+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "05:32 AM",
+        "time_24": "05:32",
+        "latitude": 7.22,
+        "longitude": 125.46,
+        "depth_km": 6.0,
+        "magnitude": 3.4,
+        "location": "025km S 74Â° W of City Of Panabo (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          7.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "05:20 AM",
+        "time_24": "05:20",
+        "latitude": 10.33,
+        "longitude": 124.04,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "009km S 29Â° E of Liloan (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.04,
+          10.33
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
