@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T03:36:43.566362+00:00",
+  "generated_at": "2026-08-07T05:22:48.007918+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "01:08 PM",
+        "time_24": "13:08",
+        "latitude": 5.21,
+        "longitude": 125.27,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "027km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "12:39 PM",
+        "time_24": "12:39",
+        "latitude": 5.61,
+        "longitude": 125.16,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "024km S 13Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "12:09 PM",
+        "time_24": "12:09",
+        "latitude": 9.85,
+        "longitude": 124.62,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "011km S 81Â° E of Mabini (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62,
+          9.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:59 AM",
+        "time_24": "11:59",
+        "latitude": 9.98,
+        "longitude": 126.09,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "005km S 19Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.09,
+          9.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:59 AM",
+        "time_24": "11:59",
+        "latitude": 13.25,
+        "longitude": 120.48,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "013km N 80Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48,
+          13.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:57 AM",
+        "time_24": "11:57",
+        "latitude": 9.98,
+        "longitude": 124.35,
+        "depth_km": 26.0,
+        "magnitude": 1.4,
+        "location": "002km S 54Â° E of San Miguel (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.35,
+          9.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:55 AM",
+        "time_24": "11:55",
+        "latitude": 9.87,
+        "longitude": 124.55,
+        "depth_km": 2.0,
+        "magnitude": 2.2,
+        "location": "003km N 79Â° E of Mabini (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.55,
+          9.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:42 AM",
+        "time_24": "11:42",
+        "latitude": 5.32,
+        "longitude": 124.93,
+        "depth_km": 10.0,
+        "magnitude": 3.1,
+        "location": "055km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.93,
+          5.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "11:27 AM",
+        "time_24": "11:27",
+        "latitude": 13.19,
+        "longitude": 120.82,
+        "depth_km": 29.0,
+        "magnitude": 2.3,
+        "location": "024km S 81Â° E of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          13.19
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
