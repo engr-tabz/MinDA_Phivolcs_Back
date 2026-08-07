@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T16:28:04.927057+00:00",
+  "generated_at": "2026-08-07T17:27:03.125142+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "01:02 AM",
+        "time_24": "01:02",
+        "latitude": 17.34,
+        "longitude": 120.38,
+        "depth_km": 25.0,
+        "magnitude": 1.9,
+        "location": "007km N 77Â° W of San Esteban (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38,
+          17.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "12:46 AM",
+        "time_24": "00:46",
+        "latitude": 5.02,
+        "longitude": 125.37,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "044km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "12:40 AM",
+        "time_24": "00:40",
+        "latitude": 5.88,
+        "longitude": 125.37,
+        "depth_km": 19.0,
+        "magnitude": 1.6,
+        "location": "013km S 40Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "12:36 AM",
+        "time_24": "00:36",
+        "latitude": 5.75,
+        "longitude": 125.34,
+        "depth_km": 20.0,
+        "magnitude": 1.4,
+        "location": "017km S 61Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
