@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T18:25:08.395972+00:00",
+  "generated_at": "2026-08-07T19:30:58.364839+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "03:06 AM",
+        "time_24": "03:06",
+        "latitude": 5.87,
+        "longitude": 125.35,
+        "depth_km": 19.0,
+        "magnitude": 1.5,
+        "location": "013km S 30Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "02:48 AM",
+        "time_24": "02:48",
+        "latitude": 4.68,
+        "longitude": 125.41,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "081km S 01Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          4.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "02:45 AM",
+        "time_24": "02:45",
+        "latitude": 5.46,
+        "longitude": 125.44,
+        "depth_km": 20.0,
+        "magnitude": 1.5,
+        "location": "004km S 66Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "02:40 AM",
+        "time_24": "02:40",
+        "latitude": 9.23,
+        "longitude": 126.42,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "026km S 78Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          9.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "02:29 AM",
+        "time_24": "02:29",
+        "latitude": 6.67,
+        "longitude": 125.76,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "033km N 31Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          6.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
