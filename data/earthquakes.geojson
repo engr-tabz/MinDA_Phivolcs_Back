@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T13:22:35.165671+00:00",
+  "generated_at": "2026-08-07T14:31:09.549047+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "10:18 PM",
+        "time_24": "22:18",
+        "latitude": 5.16,
+        "longitude": 125.27,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "032km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "09:40 PM",
+        "time_24": "21:40",
+        "latitude": 5.18,
+        "longitude": 125.53,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "029km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53,
+          5.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "09:13 PM",
+        "time_24": "21:13",
+        "latitude": 5.39,
+        "longitude": 125.3,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "014km S 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 August 2026",
+        "time": "09:13 PM",
+        "time_24": "21:13",
+        "latitude": 4.97,
+        "longitude": 125.71,
+        "depth_km": 35.0,
+        "magnitude": 1.5,
+        "location": "059km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71,
+          4.97
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
