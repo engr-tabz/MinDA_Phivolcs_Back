@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T09:12:40.490184+00:00",
+  "generated_at": "2026-08-07T10:13:28.307068+00:00",
   "features": [
     {
       "type": "Feature",
@@ -828,17 +828,17 @@
         "date": "07 August 2026",
         "time": "04:34 AM",
         "time_24": "04:34",
-        "latitude": 5.18,
-        "longitude": 125.21,
-        "depth_km": 21.0,
-        "magnitude": 3.0,
-        "location": "035km S 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.95,
+        "longitude": 125.19,
+        "depth_km": 29.0,
+        "magnitude": 3.3,
+        "location": "057km S 27Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.21,
-          5.18
+          125.19,
+          4.95
         ]
       }
     },
@@ -1608,17 +1608,17 @@
         "date": "06 August 2026",
         "time": "06:48 PM",
         "time_24": "18:48",
-        "latitude": 5.29,
-        "longitude": 125.29,
-        "depth_km": 34.0,
+        "latitude": 5.33,
+        "longitude": 125.35,
+        "depth_km": 40.0,
         "magnitude": 1.8,
-        "location": "021km S 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "012km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.29
+          125.35,
+          5.33
         ]
       }
     },
@@ -1668,17 +1668,17 @@
         "date": "06 August 2026",
         "time": "06:21 PM",
         "time_24": "18:21",
-        "latitude": 11.07,
-        "longitude": 124.71,
+        "latitude": 11.03,
+        "longitude": 124.74,
         "depth_km": 6.0,
-        "magnitude": 2.8,
-        "location": "017km N 07Â° E of Albuera (Leyte)"
+        "magnitude": 2.9,
+        "location": "014km N 21Â° E of Albuera (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.71,
-          11.07
+          124.74,
+          11.03
         ]
       }
     },
@@ -1728,17 +1728,17 @@
         "date": "06 August 2026",
         "time": "06:12 PM",
         "time_24": "18:12",
-        "latitude": 11.06,
-        "longitude": 124.72,
-        "depth_km": 4.0,
-        "magnitude": 2.1,
-        "location": "016km N 08Â° E of Albuera (Leyte)"
+        "latitude": 11.07,
+        "longitude": 124.74,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "017km N 17Â° E of Albuera (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.72,
-          11.06
+          124.74,
+          11.07
         ]
       }
     },
@@ -1808,17 +1808,17 @@
         "date": "06 August 2026",
         "time": "06:00 PM",
         "time_24": "18:00",
-        "latitude": 10.14,
-        "longitude": 125.48,
-        "depth_km": 90.0,
-        "magnitude": 2.3,
-        "location": "009km S 47Â° W of Libjo (Dinagat Islands)"
+        "latitude": 10.13,
+        "longitude": 125.69,
+        "depth_km": 73.0,
+        "magnitude": 2.4,
+        "location": "014km N 63Â° E of Basilisa (Dinagat Islands)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
-          10.14
+          125.69,
+          10.13
         ]
       }
     },
@@ -1828,17 +1828,17 @@
         "date": "06 August 2026",
         "time": "06:00 PM",
         "time_24": "18:00",
-        "latitude": 4.98,
-        "longitude": 125.23,
-        "depth_km": 33.0,
-        "magnitude": 1.5,
-        "location": "052km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.11,
+        "longitude": 125.21,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "041km S 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.23,
-          4.98
+          125.21,
+          5.11
         ]
       }
     },
