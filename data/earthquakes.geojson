@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-07T23:08:37.703348+00:00",
+  "generated_at": "2026-08-07T23:48:09.519221+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "07:06 AM",
+        "time_24": "07:06",
+        "latitude": 5.89,
+        "longitude": 125.35,
+        "depth_km": 15.0,
+        "magnitude": 1.5,
+        "location": "011km S 36Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "07:04 AM",
+        "time_24": "07:04",
+        "latitude": 6.35,
+        "longitude": 127.17,
+        "depth_km": 182.0,
+        "magnitude": 2.7,
+        "location": "111km S 46Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.17,
+          6.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
