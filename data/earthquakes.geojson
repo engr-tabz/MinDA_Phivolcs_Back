@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T09:54:42.206245+00:00",
+  "generated_at": "2026-08-08T10:35:36.664903+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1326,39 +1326,19 @@
       "type": "Feature",
       "properties": {
         "date": "07 August 2026",
-        "time": "08:17 PM",
-        "time_24": "20:17",
-        "latitude": 5.34,
-        "longitude": 125.09,
-        "depth_km": 8.0,
-        "magnitude": 1.5,
-        "location": "037km S 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.09,
-          5.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "07 August 2026",
         "time": "08:16 PM",
         "time_24": "20:16",
-        "latitude": 9.6,
-        "longitude": 126.24,
-        "depth_km": 30.0,
-        "magnitude": 1.5,
-        "location": "022km S 24Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 4.85,
+        "longitude": 125.48,
+        "depth_km": 39.0,
+        "magnitude": 2.1,
+        "location": "062km S 06Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.24,
-          9.6
+          125.48,
+          4.85
         ]
       }
     },
@@ -1428,17 +1408,17 @@
         "date": "07 August 2026",
         "time": "07:36 PM",
         "time_24": "19:36",
-        "latitude": 5.48,
-        "longitude": 125.32,
-        "depth_km": 20.0,
-        "magnitude": 1.8,
-        "location": "014km N 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.52,
+        "longitude": 125.26,
+        "depth_km": 6.0,
+        "magnitude": 1.7,
+        "location": "022km N 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          5.48
+          125.26,
+          5.52
         ]
       }
     },
@@ -1548,17 +1528,17 @@
         "date": "07 August 2026",
         "time": "06:32 PM",
         "time_24": "18:32",
-        "latitude": 5.23,
-        "longitude": 125.24,
-        "depth_km": 6.0,
-        "magnitude": 1.8,
-        "location": "029km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.38,
+        "longitude": 125.21,
+        "depth_km": 2.0,
+        "magnitude": 1.9,
+        "location": "024km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
-          5.23
+          125.21,
+          5.38
         ]
       }
     },
