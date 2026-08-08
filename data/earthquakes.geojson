@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T17:31:06.060557+00:00",
+  "generated_at": "2026-08-08T18:00:51.597522+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "01:37 AM",
+        "time_24": "01:37",
+        "latitude": 9.38,
+        "longitude": 126.09,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "013km N 69Â° E of Cantilan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.09,
+          9.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "01:34 AM",
+        "time_24": "01:34",
+        "latitude": 5.3,
+        "longitude": 125.2,
+        "depth_km": 32.0,
+        "magnitude": 3.0,
+        "location": "027km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
