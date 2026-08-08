@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T21:04:54.616831+00:00",
+  "generated_at": "2026-08-08T21:43:23.786527+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 16.32,
+        "longitude": 122.1,
+        "depth_km": 7.0,
+        "magnitude": 1.7,
+        "location": "005km N 28Â° W of Casiguran (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1,
+          16.32
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
