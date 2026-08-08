@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T05:03:37.925419+00:00",
+  "generated_at": "2026-08-08T05:53:17.209078+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "01:33 PM",
+        "time_24": "13:33",
+        "latitude": 13.2,
+        "longitude": 120.39,
+        "depth_km": 21.0,
+        "magnitude": 2.6,
+        "location": "022km S 84Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39,
+          13.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "01:16 PM",
+        "time_24": "13:16",
+        "latitude": 12.84,
+        "longitude": 123.03,
+        "depth_km": 20.0,
+        "magnitude": 1.8,
+        "location": "024km S 74Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.03,
+          12.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "01:14 PM",
+        "time_24": "13:14",
+        "latitude": 9.68,
+        "longitude": 122.44,
+        "depth_km": 6.0,
+        "magnitude": 2.6,
+        "location": "009km N 16Â° W of Hinoba-an (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.44,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "01:10 PM",
+        "time_24": "13:10",
+        "latitude": 8.0,
+        "longitude": 126.83,
+        "depth_km": 15.0,
+        "magnitude": 3.1,
+        "location": "046km S 85Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.83,
+          8.0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
