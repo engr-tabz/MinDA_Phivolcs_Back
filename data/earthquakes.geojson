@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T18:00:51.597522+00:00",
+  "generated_at": "2026-08-08T18:53:01.967221+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "02:24 AM",
+        "time_24": "02:24",
+        "latitude": 6.18,
+        "longitude": 125.48,
+        "depth_km": 17.0,
+        "magnitude": 1.8,
+        "location": "022km N 67Â° E of Alabel (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          6.18
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
