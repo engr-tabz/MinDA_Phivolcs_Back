@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T15:04:56.058884+00:00",
+  "generated_at": "2026-08-08T15:42:52.798520+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "11:01 PM",
+        "time_24": "23:01",
+        "latitude": 13.23,
+        "longitude": 120.58,
+        "depth_km": 35.0,
+        "magnitude": 1.8,
+        "location": "002km N 83Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          13.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "10:57 PM",
+        "time_24": "22:57",
+        "latitude": 5.76,
+        "longitude": 125.58,
+        "depth_km": 77.0,
+        "magnitude": 1.4,
+        "location": "019km S 24Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.58,
+          5.76
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
