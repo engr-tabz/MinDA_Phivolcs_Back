@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T14:39:04.624139+00:00",
+  "generated_at": "2026-08-08T15:04:56.058884+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "10:33 PM",
+        "time_24": "22:33",
+        "latitude": 8.57,
+        "longitude": 126.54,
+        "depth_km": 20.0,
+        "magnitude": 1.5,
+        "location": "032km N 44Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          8.57
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -608,17 +628,17 @@
         "date": "08 August 2026",
         "time": "09:44 AM",
         "time_24": "09:44",
-        "latitude": 9.93,
-        "longitude": 122.69,
-        "depth_km": 82.0,
-        "magnitude": 1.6,
-        "location": "009km S 58Â° E of Cauayan (Negros Occidental)"
+        "latitude": 9.89,
+        "longitude": 122.61,
+        "depth_km": 88.0,
+        "magnitude": 1.8,
+        "location": "007km N 26Â° W of Candoni (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.69,
-          9.93
+          122.61,
+          9.89
         ]
       }
     },
@@ -628,17 +648,17 @@
         "date": "08 August 2026",
         "time": "08:24 AM",
         "time_24": "08:24",
-        "latitude": 5.44,
-        "longitude": 126.06,
-        "depth_km": 44.0,
-        "magnitude": 1.8,
-        "location": "065km S 87Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.32,
+        "longitude": 125.69,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "030km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.06,
-          5.44
+          125.69,
+          5.32
         ]
       }
     },
