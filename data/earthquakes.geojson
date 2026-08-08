@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T00:35:47.731256+00:00",
+  "generated_at": "2026-08-08T02:34:17.880463+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "09:44 AM",
+        "time_24": "09:44",
+        "latitude": 9.93,
+        "longitude": 122.69,
+        "depth_km": 82.0,
+        "magnitude": 1.6,
+        "location": "009km S 58Â° E of Cauayan (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.69,
+          9.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1228,17 +1248,17 @@
         "date": "07 August 2026",
         "time": "04:59 PM",
         "time_24": "16:59",
-        "latitude": 12.96,
-        "longitude": 120.87,
-        "depth_km": 32.0,
+        "latitude": 13.08,
+        "longitude": 120.9,
+        "depth_km": 16.0,
         "magnitude": 1.7,
-        "location": "016km N 36Â° E of Sablayan (Occidental Mindoro)"
+        "location": "020km S 89Â° E of Santa Cruz (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.87,
-          12.96
+          120.9,
+          13.08
         ]
       }
     },
@@ -1328,17 +1348,17 @@
         "date": "07 August 2026",
         "time": "02:49 PM",
         "time_24": "14:49",
-        "latitude": 5.27,
-        "longitude": 125.44,
-        "depth_km": 6.0,
+        "latitude": 5.5,
+        "longitude": 125.36,
+        "depth_km": 2.0,
         "magnitude": 2.7,
-        "location": "016km S 09Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "012km N 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.44,
-          5.27
+          125.36,
+          5.5
         ]
       }
     },
@@ -1528,17 +1548,17 @@
         "date": "07 August 2026",
         "time": "01:08 PM",
         "time_24": "13:08",
-        "latitude": 5.21,
+        "latitude": 5.35,
         "longitude": 125.27,
-        "depth_km": 5.0,
-        "magnitude": 2.6,
-        "location": "027km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "depth_km": 8.0,
+        "magnitude": 2.8,
+        "location": "018km S 66Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.27,
-          5.21
+          5.35
         ]
       }
     },
@@ -1548,17 +1568,17 @@
         "date": "07 August 2026",
         "time": "12:39 PM",
         "time_24": "12:39",
-        "latitude": 5.61,
-        "longitude": 125.16,
-        "depth_km": 25.0,
+        "latitude": 5.44,
+        "longitude": 125.12,
+        "depth_km": 31.0,
         "magnitude": 1.6,
-        "location": "024km S 13Â° W of Glan (Sarangani)"
+        "location": "034km N 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.16,
-          5.61
+          125.12,
+          5.44
         ]
       }
     },
@@ -1608,17 +1628,17 @@
         "date": "07 August 2026",
         "time": "11:59 AM",
         "time_24": "11:59",
-        "latitude": 13.25,
-        "longitude": 120.48,
-        "depth_km": 19.0,
+        "latitude": 13.16,
+        "longitude": 120.55,
+        "depth_km": 26.0,
         "magnitude": 2.0,
-        "location": "013km N 80Â° W of Mamburao (Occidental Mindoro)"
+        "location": "009km S 33Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.48,
-          13.25
+          120.55,
+          13.16
         ]
       }
     },
@@ -1648,17 +1668,17 @@
         "date": "07 August 2026",
         "time": "11:55 AM",
         "time_24": "11:55",
-        "latitude": 9.87,
-        "longitude": 124.55,
-        "depth_km": 2.0,
+        "latitude": 9.79,
+        "longitude": 124.62,
+        "depth_km": 8.0,
         "magnitude": 2.2,
-        "location": "003km N 79Â° E of Mabini (Bohol)"
+        "location": "007km N 39Â° E of Anda (Bohol)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.55,
-          9.87
+          124.62,
+          9.79
         ]
       }
     },
@@ -1668,17 +1688,17 @@
         "date": "07 August 2026",
         "time": "11:42 AM",
         "time_24": "11:42",
-        "latitude": 5.32,
-        "longitude": 124.93,
-        "depth_km": 10.0,
-        "magnitude": 3.1,
-        "location": "055km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.09,
+        "longitude": 125.0,
+        "depth_km": 11.0,
+        "magnitude": 3.3,
+        "location": "059km S 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.93,
-          5.32
+          125.0,
+          5.09
         ]
       }
     },
@@ -1688,17 +1708,17 @@
         "date": "07 August 2026",
         "time": "11:27 AM",
         "time_24": "11:27",
-        "latitude": 13.19,
-        "longitude": 120.82,
-        "depth_km": 29.0,
+        "latitude": 13.25,
+        "longitude": 120.65,
+        "depth_km": 20.0,
         "magnitude": 2.3,
-        "location": "024km S 81Â° E of Mamburao (Occidental Mindoro)"
+        "location": "007km N 67Â° E of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.82,
-          13.19
+          120.65,
+          13.25
         ]
       }
     },
@@ -1708,17 +1728,17 @@
         "date": "07 August 2026",
         "time": "11:18 AM",
         "time_24": "11:18",
-        "latitude": 13.3,
-        "longitude": 120.66,
-        "depth_km": 15.0,
+        "latitude": 13.2,
+        "longitude": 120.81,
+        "depth_km": 30.0,
         "magnitude": 2.0,
-        "location": "011km N 41Â° E of Mamburao (Occidental Mindoro)"
+        "location": "023km S 84Â° E of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.66,
-          13.3
+          120.81,
+          13.2
         ]
       }
     },
@@ -1728,17 +1748,17 @@
         "date": "07 August 2026",
         "time": "11:03 AM",
         "time_24": "11:03",
-        "latitude": 9.23,
-        "longitude": 123.24,
-        "depth_km": 28.0,
-        "magnitude": 1.4,
-        "location": "006km N 35Â° W of Dauin (Negros Oriental)"
+        "latitude": 9.12,
+        "longitude": 123.09,
+        "depth_km": 9.0,
+        "magnitude": 1.6,
+        "location": "021km S 68Â° W of Dauin (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.24,
-          9.23
+          123.09,
+          9.12
         ]
       }
     },
@@ -1768,17 +1788,17 @@
         "date": "07 August 2026",
         "time": "10:04 AM",
         "time_24": "10:04",
-        "latitude": 5.75,
-        "longitude": 125.34,
-        "depth_km": 11.0,
-        "magnitude": 2.0,
-        "location": "017km S 63Â° E of Glan (Sarangani)"
+        "latitude": 5.67,
+        "longitude": 125.39,
+        "depth_km": 17.0,
+        "magnitude": 2.1,
+        "location": "027km S 49Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.34,
-          5.75
+          125.39,
+          5.67
         ]
       }
     },
