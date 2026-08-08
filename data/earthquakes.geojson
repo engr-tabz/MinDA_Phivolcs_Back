@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T13:08:51.960400+00:00",
+  "generated_at": "2026-08-08T13:56:49.291243+00:00",
   "features": [
     {
       "type": "Feature",
@@ -648,17 +648,17 @@
         "date": "08 August 2026",
         "time": "07:06 AM",
         "time_24": "07:06",
-        "latitude": 5.89,
-        "longitude": 125.35,
+        "latitude": 5.91,
+        "longitude": 125.33,
         "depth_km": 15.0,
-        "magnitude": 1.5,
-        "location": "011km S 36Â° E of Malapatan (Sarangani)"
+        "magnitude": 1.6,
+        "location": "009km S 35Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.35,
-          5.89
+          125.33,
+          5.91
         ]
       }
     },
@@ -668,17 +668,17 @@
         "date": "08 August 2026",
         "time": "07:04 AM",
         "time_24": "07:04",
-        "latitude": 6.35,
-        "longitude": 127.17,
-        "depth_km": 182.0,
-        "magnitude": 2.7,
-        "location": "111km S 46Â° E of Tarragona (Davao Oriental)"
+        "latitude": 6.41,
+        "longitude": 126.99,
+        "depth_km": 180.0,
+        "magnitude": 2.8,
+        "location": "092km S 40Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.17,
-          6.35
+          126.99,
+          6.41
         ]
       }
     },
@@ -808,17 +808,17 @@
         "date": "08 August 2026",
         "time": "05:20 AM",
         "time_24": "05:20",
-        "latitude": 10.33,
-        "longitude": 124.04,
+        "latitude": 10.3,
+        "longitude": 124.06,
         "depth_km": 7.0,
-        "magnitude": 2.0,
-        "location": "009km S 29Â° E of Liloan (Cebu)"
+        "magnitude": 2.3,
+        "location": "013km S 31Â° E of Liloan (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.04,
-          10.33
+          124.06,
+          10.3
         ]
       }
     },
@@ -828,17 +828,17 @@
         "date": "08 August 2026",
         "time": "04:37 AM",
         "time_24": "04:37",
-        "latitude": 8.96,
-        "longitude": 122.88,
-        "depth_km": 27.0,
+        "latitude": 8.97,
+        "longitude": 122.84,
+        "depth_km": 16.0,
         "magnitude": 1.6,
-        "location": "020km S 58Â° W of Siaton (Negros Oriental)"
+        "location": "023km S 64Â° W of Siaton (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.88,
-          8.96
+          122.84,
+          8.97
         ]
       }
     },
@@ -848,17 +848,17 @@
         "date": "08 August 2026",
         "time": "04:31 AM",
         "time_24": "04:31",
-        "latitude": 13.23,
-        "longitude": 120.4,
-        "depth_km": 24.0,
-        "magnitude": 1.9,
-        "location": "021km N 89Â° W of Mamburao (Occidental Mindoro)"
+        "latitude": 13.2,
+        "longitude": 120.44,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "017km S 80Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.4,
-          13.23
+          120.44,
+          13.2
         ]
       }
     },
@@ -869,15 +869,15 @@
         "time": "04:25 AM",
         "time_24": "04:25",
         "latitude": 13.64,
-        "longitude": 121.66,
-        "depth_km": 31.0,
-        "magnitude": 1.5,
-        "location": "028km N 51Â° W of Mogpog (Marinduque)"
+        "longitude": 121.55,
+        "depth_km": 6.0,
+        "magnitude": 1.6,
+        "location": "027km S 39Â° E of San Juan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.66,
+          121.55,
           13.64
         ]
       }
@@ -1028,17 +1028,17 @@
         "date": "08 August 2026",
         "time": "02:40 AM",
         "time_24": "02:40",
-        "latitude": 9.23,
-        "longitude": 126.42,
-        "depth_km": 25.0,
-        "magnitude": 1.8,
-        "location": "026km S 78Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.29,
+        "longitude": 126.66,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "051km N 88Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.42,
-          9.23
+          126.66,
+          9.29
         ]
       }
     },
@@ -1148,17 +1148,17 @@
         "date": "08 August 2026",
         "time": "12:46 AM",
         "time_24": "00:46",
-        "latitude": 5.02,
-        "longitude": 125.37,
-        "depth_km": 30.0,
-        "magnitude": 1.9,
-        "location": "044km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.26,
+        "longitude": 125.31,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "020km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
-          5.02
+          125.31,
+          5.26
         ]
       }
     },
@@ -1168,17 +1168,17 @@
         "date": "08 August 2026",
         "time": "12:40 AM",
         "time_24": "00:40",
-        "latitude": 5.88,
+        "latitude": 5.87,
         "longitude": 125.37,
-        "depth_km": 19.0,
-        "magnitude": 1.6,
-        "location": "013km S 40Â° E of Malapatan (Sarangani)"
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "014km S 37Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.37,
-          5.88
+          5.87
         ]
       }
     },
