@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T15:42:52.798520+00:00",
+  "generated_at": "2026-08-08T16:12:06.681899+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "11:56 PM",
+        "time_24": "23:56",
+        "latitude": 13.43,
+        "longitude": 120.4,
+        "depth_km": 25.0,
+        "magnitude": 2.0,
+        "location": "031km N 44Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4,
+          13.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "11:38 PM",
+        "time_24": "23:38",
+        "latitude": 5.39,
+        "longitude": 124.4,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "070km S 21Â° W of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4,
+          5.39
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -708,17 +748,17 @@
         "date": "08 August 2026",
         "time": "08:11 AM",
         "time_24": "08:11",
-        "latitude": 5.91,
-        "longitude": 125.36,
-        "depth_km": 15.0,
-        "magnitude": 1.4,
-        "location": "010km S 49Â° E of Malapatan (Sarangani)"
+        "latitude": 5.9,
+        "longitude": 125.35,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "010km S 39Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.91
+          125.35,
+          5.9
         ]
       }
     },
@@ -728,17 +768,17 @@
         "date": "08 August 2026",
         "time": "08:10 AM",
         "time_24": "08:10",
-        "latitude": 5.28,
+        "latitude": 5.36,
         "longitude": 125.2,
-        "depth_km": 34.0,
-        "magnitude": 1.6,
-        "location": "028km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "depth_km": 43.0,
+        "magnitude": 2.0,
+        "location": "025km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.2,
-          5.28
+          5.36
         ]
       }
     },
@@ -888,17 +928,17 @@
         "date": "08 August 2026",
         "time": "06:24 AM",
         "time_24": "06:24",
-        "latitude": 15.0,
-        "longitude": 122.71,
+        "latitude": 14.97,
+        "longitude": 122.63,
         "depth_km": 5.0,
         "magnitude": 2.6,
-        "location": "052km N 51Â° E of Jomalig (Quezon)"
+        "location": "045km N 47Â° E of Jomalig (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.71,
-          15.0
+          122.63,
+          14.97
         ]
       }
     },
