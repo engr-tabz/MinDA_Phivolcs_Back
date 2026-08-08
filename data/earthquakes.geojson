@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T03:56:05.969695+00:00",
+  "generated_at": "2026-08-08T05:03:37.925419+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "12:26 PM",
+        "time_24": "12:26",
+        "latitude": 5.13,
+        "longitude": 125.27,
+        "depth_km": 15.0,
+        "magnitude": 3.6,
+        "location": "035km S 29Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.13
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -148,17 +168,17 @@
         "date": "08 August 2026",
         "time": "08:03 AM",
         "time_24": "08:03",
-        "latitude": 4.97,
-        "longitude": 125.22,
-        "depth_km": 2.0,
-        "magnitude": 3.6,
-        "location": "054km S 25Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.89,
+        "longitude": 125.27,
+        "depth_km": 15.0,
+        "magnitude": 3.8,
+        "location": "060km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.22,
-          4.97
+          125.27,
+          4.89
         ]
       }
     },
@@ -248,17 +268,17 @@
         "date": "08 August 2026",
         "time": "06:53 AM",
         "time_24": "06:53",
-        "latitude": 5.82,
-        "longitude": 125.67,
-        "depth_km": 132.0,
-        "magnitude": 3.3,
-        "location": "011km S 18Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.86,
+        "longitude": 125.63,
+        "depth_km": 131.0,
+        "magnitude": 3.8,
+        "location": "006km S 18Â° W of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.67,
-          5.82
+          125.63,
+          5.86
         ]
       }
     },
@@ -328,17 +348,17 @@
         "date": "08 August 2026",
         "time": "05:32 AM",
         "time_24": "05:32",
-        "latitude": 7.22,
-        "longitude": 125.46,
-        "depth_km": 6.0,
+        "latitude": 7.23,
+        "longitude": 125.45,
+        "depth_km": 13.0,
         "magnitude": 3.4,
-        "location": "025km S 74Â° W of City Of Panabo (Davao Del Norte)"
+        "location": "025km S 77Â° W of City Of Panabo (Davao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.46,
-          7.22
+          125.45,
+          7.23
         ]
       }
     },
