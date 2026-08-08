@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-08T05:53:17.209078+00:00",
+  "generated_at": "2026-08-08T06:50:06.682865+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 August 2026",
+        "time": "02:29 PM",
+        "time_24": "14:29",
+        "latitude": 7.98,
+        "longitude": 126.96,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "059km N 70Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96,
+          7.98
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
