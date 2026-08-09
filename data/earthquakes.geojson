@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T14:01:16.318110+00:00",
+  "generated_at": "2026-08-09T14:47:04.950043+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "10:31 PM",
+        "time_24": "22:31",
+        "latitude": 13.27,
+        "longitude": 120.63,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "006km N 41Â° E of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63,
+          13.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "10:24 PM",
+        "time_24": "22:24",
+        "latitude": 5.34,
+        "longitude": 125.27,
+        "depth_km": 30.0,
+        "magnitude": 1.8,
+        "location": "019km S 65Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "10:15 PM",
+        "time_24": "22:15",
+        "latitude": 5.07,
+        "longitude": 125.24,
+        "depth_km": 51.0,
+        "magnitude": 3.7,
+        "location": "044km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "10:03 PM",
+        "time_24": "22:03",
+        "latitude": 9.83,
+        "longitude": 124.7,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "017km N 53Â° E of Anda (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7,
+          9.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:56 PM",
+        "time_24": "21:56",
+        "latitude": 10.72,
+        "longitude": 124.92,
+        "depth_km": 6.0,
+        "magnitude": 3.5,
+        "location": "010km S 77Â° W of Abuyog (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.92,
+          10.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
