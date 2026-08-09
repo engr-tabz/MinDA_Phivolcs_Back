@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T15:52:54.710839+00:00",
+  "generated_at": "2026-08-09T16:31:40.955455+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:11 AM",
+        "time_24": "00:11",
+        "latitude": 12.99,
+        "longitude": 121.22,
+        "depth_km": 35.0,
+        "magnitude": 1.6,
+        "location": "021km S 70Â° W of Socorro (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22,
+          12.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:10 AM",
+        "time_24": "00:10",
+        "latitude": 5.96,
+        "longitude": 125.45,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "018km S 86Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          5.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:05 AM",
+        "time_24": "00:05",
+        "latitude": 5.33,
+        "longitude": 125.28,
+        "depth_km": 38.0,
+        "magnitude": 2.0,
+        "location": "018km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:02 AM",
+        "time_24": "00:02",
+        "latitude": 11.29,
+        "longitude": 124.6,
+        "depth_km": 6.0,
+        "magnitude": 2.0,
+        "location": "005km S 82Â° W of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6,
+          11.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "11:51 PM",
+        "time_24": "23:51",
+        "latitude": 5.94,
+        "longitude": 125.43,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "016km S 77Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "11:46 PM",
+        "time_24": "23:46",
+        "latitude": 5.88,
+        "longitude": 125.38,
+        "depth_km": 19.0,
+        "magnitude": 1.5,
+        "location": "014km S 43Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.88
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
