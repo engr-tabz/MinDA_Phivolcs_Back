@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T22:04:02.184686+00:00",
+  "generated_at": "2026-08-09T22:46:20.960182+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "06:06 AM",
+        "time_24": "06:06",
+        "latitude": 20.4,
+        "longitude": 121.85,
+        "depth_km": 10.0,
+        "magnitude": 3.5,
+        "location": "008km N 23Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
