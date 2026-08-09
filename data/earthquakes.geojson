@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T17:46:17.580316+00:00",
+  "generated_at": "2026-08-09T18:18:04.902264+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "02:07 AM",
+        "time_24": "02:07",
+        "latitude": 6.28,
+        "longitude": 126.93,
+        "depth_km": 176.0,
+        "magnitude": 2.7,
+        "location": "100km S 32Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93,
+          6.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "01:41 AM",
+        "time_24": "01:41",
+        "latitude": 11.35,
+        "longitude": 126.43,
+        "depth_km": 25.0,
+        "magnitude": 2.9,
+        "location": "084km N 70Â° E of Mercedes (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.43,
+          11.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +68,17 @@
         "date": "10 August 2026",
         "time": "01:05 AM",
         "time_24": "01:05",
-        "latitude": 11.5,
-        "longitude": 125.48,
-        "depth_km": 34.0,
-        "magnitude": 4.9,
-        "location": "002km S 87Â° W of Maydolong (Eastern Samar)"
+        "latitude": 11.46,
+        "longitude": 125.41,
+        "depth_km": 28.0,
+        "magnitude": 4.6,
+        "location": "011km S 68Â° W of Maydolong (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
-          11.5
+          125.41,
+          11.46
         ]
       }
     },
@@ -406,19 +446,19 @@
       "type": "Feature",
       "properties": {
         "date": "09 August 2026",
-        "time": "09:46 PM",
-        "time_24": "21:46",
-        "latitude": 4.3,
-        "longitude": 125.72,
-        "depth_km": 151.0,
-        "magnitude": 4.9,
-        "location": "128km S 15Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "time": "09:47 PM",
+        "time_24": "21:47",
+        "latitude": 4.93,
+        "longitude": 125.64,
+        "depth_km": 143.0,
+        "magnitude": 4.5,
+        "location": "059km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.72,
-          4.3
+          125.64,
+          4.93
         ]
       }
     },
