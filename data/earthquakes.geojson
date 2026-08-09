@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T13:12:10.251268+00:00",
+  "generated_at": "2026-08-09T14:01:16.318110+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:46 PM",
+        "time_24": "21:46",
+        "latitude": 4.3,
+        "longitude": 125.72,
+        "depth_km": 151.0,
+        "magnitude": 4.9,
+        "location": "128km S 15Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.72,
+          4.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:44 PM",
+        "time_24": "21:44",
+        "latitude": 13.29,
+        "longitude": 120.64,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "008km N 36Â° E of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64,
+          13.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:19 PM",
+        "time_24": "21:19",
+        "latitude": 12.63,
+        "longitude": 122.05,
+        "depth_km": 36.0,
+        "magnitude": 1.7,
+        "location": "003km N 53Â° W of Calatrava (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05,
+          12.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:12 PM",
+        "time_24": "21:12",
+        "latitude": 5.51,
+        "longitude": 125.31,
+        "depth_km": 26.0,
+        "magnitude": 1.6,
+        "location": "016km N 48Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "09:12 PM",
+        "time_24": "21:12",
+        "latitude": 5.94,
+        "longitude": 125.23,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "013km N 11Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.94
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
