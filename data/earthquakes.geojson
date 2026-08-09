@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T10:24:41.917513+00:00",
+  "generated_at": "2026-08-09T11:02:25.426501+00:00",
   "features": [
     {
       "type": "Feature",
@@ -589,15 +589,15 @@
         "time": "05:07 AM",
         "time_24": "05:07",
         "latitude": 16.32,
-        "longitude": 122.1,
-        "depth_km": 7.0,
+        "longitude": 122.21,
+        "depth_km": 12.0,
         "magnitude": 1.7,
-        "location": "005km N 28Â° W of Casiguran (Aurora)"
+        "location": "010km N 60Â° E of Casiguran (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.1,
+          122.21,
           16.32
         ]
       }
@@ -828,17 +828,17 @@
         "date": "08 August 2026",
         "time": "11:38 PM",
         "time_24": "23:38",
-        "latitude": 5.39,
-        "longitude": 124.4,
-        "depth_km": 3.0,
-        "magnitude": 2.4,
-        "location": "070km S 21Â° W of Kiamba (Sarangani)"
+        "latitude": 5.27,
+        "longitude": 124.28,
+        "depth_km": 45.0,
+        "magnitude": 2.5,
+        "location": "088km S 25Â° W of Kiamba (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.4,
-          5.39
+          124.28,
+          5.27
         ]
       }
     },
@@ -1008,17 +1008,17 @@
         "date": "08 August 2026",
         "time": "07:27 PM",
         "time_24": "19:27",
-        "latitude": 5.88,
-        "longitude": 125.29,
-        "depth_km": 18.0,
-        "magnitude": 2.0,
-        "location": "010km S 01Â° E of Malapatan (Sarangani)"
+        "latitude": 5.9,
+        "longitude": 125.28,
+        "depth_km": 12.0,
+        "magnitude": 2.1,
+        "location": "008km S 09Â° W of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.88
+          125.28,
+          5.9
         ]
       }
     },
@@ -1028,17 +1028,17 @@
         "date": "08 August 2026",
         "time": "07:20 PM",
         "time_24": "19:20",
-        "latitude": 5.01,
-        "longitude": 125.28,
-        "depth_km": 23.0,
-        "magnitude": 2.9,
-        "location": "047km S 19Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.91,
+        "longitude": 125.42,
+        "depth_km": 33.0,
+        "magnitude": 3.0,
+        "location": "055km S 01Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.28,
-          5.01
+          125.42,
+          4.91
         ]
       }
     },
@@ -1048,17 +1048,17 @@
         "date": "08 August 2026",
         "time": "07:16 PM",
         "time_24": "19:16",
-        "latitude": 5.17,
-        "longitude": 125.38,
-        "depth_km": 7.0,
+        "latitude": 5.39,
+        "longitude": 125.34,
+        "depth_km": 11.0,
         "magnitude": 3.2,
-        "location": "027km S 11Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "010km S 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.38,
-          5.17
+          125.34,
+          5.39
         ]
       }
     },
