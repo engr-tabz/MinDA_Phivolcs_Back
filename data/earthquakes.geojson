@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T16:31:40.955455+00:00",
+  "generated_at": "2026-08-09T17:46:17.580316+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 5.88,
+        "longitude": 126.05,
+        "depth_km": 116.0,
+        "magnitude": 2.6,
+        "location": "045km S 85Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.05,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "01:05 AM",
+        "time_24": "01:05",
+        "latitude": 11.5,
+        "longitude": 125.48,
+        "depth_km": 34.0,
+        "magnitude": 4.9,
+        "location": "002km S 87Â° W of Maydolong (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          11.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:48 AM",
+        "time_24": "00:48",
+        "latitude": 5.78,
+        "longitude": 125.45,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "026km S 55Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:41 AM",
+        "time_24": "00:41",
+        "latitude": 8.99,
+        "longitude": 125.63,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "009km S 37Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63,
+          8.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:41 AM",
+        "time_24": "00:41",
+        "latitude": 15.7,
+        "longitude": 121.91,
+        "depth_km": 13.0,
+        "magnitude": 1.7,
+        "location": "038km S 80Â° E of Baler (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.91,
+          15.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:30 AM",
+        "time_24": "00:30",
+        "latitude": 10.44,
+        "longitude": 126.54,
+        "depth_km": 10.0,
+        "magnitude": 3.1,
+        "location": "069km N 48Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          10.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:22 AM",
+        "time_24": "00:22",
+        "latitude": 5.74,
+        "longitude": 125.13,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "012km S 44Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
