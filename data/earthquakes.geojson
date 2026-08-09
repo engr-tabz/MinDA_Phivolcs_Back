@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T06:09:54.086473+00:00",
+  "generated_at": "2026-08-09T07:17:03.824758+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "02:37 PM",
+        "time_24": "14:37",
+        "latitude": 18.84,
+        "longitude": 120.75,
+        "depth_km": 72.0,
+        "magnitude": 2.1,
+        "location": "031km N 07Â° W of Pagudpud (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75,
+          18.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "02:30 PM",
+        "time_24": "14:30",
+        "latitude": 16.19,
+        "longitude": 121.96,
+        "depth_km": 27.0,
+        "magnitude": 1.4,
+        "location": "006km N 02Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96,
+          16.19
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
