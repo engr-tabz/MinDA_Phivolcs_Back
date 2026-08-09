@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T08:59:31.922131+00:00",
+  "generated_at": "2026-08-09T09:51:00.130029+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "05:37 PM",
+        "time_24": "17:37",
+        "latitude": 13.6,
+        "longitude": 121.1,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "008km N 24Â° E of Verde Island (Batangas City) (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1,
+          13.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "05:30 PM",
+        "time_24": "17:30",
+        "latitude": 5.36,
+        "longitude": 125.21,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "024km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
