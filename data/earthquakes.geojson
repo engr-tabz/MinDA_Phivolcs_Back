@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T08:05:11.652044+00:00",
+  "generated_at": "2026-08-09T08:59:31.922131+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "04:25 PM",
+        "time_24": "16:25",
+        "latitude": 13.14,
+        "longitude": 121.32,
+        "depth_km": 6.0,
+        "magnitude": 2.7,
+        "location": "006km S 46Â° E of Victoria (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.32,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "04:05 PM",
+        "time_24": "16:05",
+        "latitude": 13.13,
+        "longitude": 120.5,
+        "depth_km": 48.0,
+        "magnitude": 3.8,
+        "location": "015km S 44Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          13.13
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
