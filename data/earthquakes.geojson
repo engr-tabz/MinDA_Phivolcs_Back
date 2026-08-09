@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-09T15:16:59.963001+00:00",
+  "generated_at": "2026-08-09T15:52:54.710839+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "11:23 PM",
+        "time_24": "23:23",
+        "latitude": 5.91,
+        "longitude": 125.38,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "012km S 58Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 August 2026",
+        "time": "11:18 PM",
+        "time_24": "23:18",
+        "latitude": 5.91,
+        "longitude": 125.43,
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "017km S 67Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
