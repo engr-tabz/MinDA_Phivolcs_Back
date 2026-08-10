@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T21:09:26.435901+00:00",
+  "generated_at": "2026-08-10T21:58:22.056865+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "05:38 AM",
+        "time_24": "05:38",
+        "latitude": 7.04,
+        "longitude": 125.51,
+        "depth_km": 129.0,
+        "magnitude": 1.6,
+        "location": "022km S 78Â° W of Island Garden City Of Samal (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.51,
+          7.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "05:34 AM",
+        "time_24": "05:34",
+        "latitude": 14.45,
+        "longitude": 122.78,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "018km S 80Â° W of Tinaga Island (Vinzons) (Camarines Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.78,
+          14.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "05:05 AM",
+        "time_24": "05:05",
+        "latitude": 5.22,
+        "longitude": 125.18,
+        "depth_km": 11.0,
+        "magnitude": 2.4,
+        "location": "034km S 50Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          5.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "05:04 AM",
+        "time_24": "05:04",
+        "latitude": 13.76,
+        "longitude": 123.45,
+        "depth_km": 33.0,
+        "magnitude": 1.9,
+        "location": "008km N 73Â° W of Lagonoy (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.45,
+          13.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "05:00 AM",
+        "time_24": "05:00",
+        "latitude": 13.89,
+        "longitude": 123.47,
+        "depth_km": 15.0,
+        "magnitude": 1.8,
+        "location": "017km N 17Â° W of Lagonoy (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.47,
+          13.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
