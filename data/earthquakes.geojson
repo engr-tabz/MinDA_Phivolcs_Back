@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T13:12:28.798981+00:00",
+  "generated_at": "2026-08-10T14:32:39.988655+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "10:20 PM",
+        "time_24": "22:20",
+        "latitude": 8.67,
+        "longitude": 126.23,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "009km S 01Â° E of San Agustin (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          8.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "10:17 PM",
+        "time_24": "22:17",
+        "latitude": 14.36,
+        "longitude": 124.1,
+        "depth_km": 4.0,
+        "magnitude": 3.1,
+        "location": "036km N 12Â° W of Pandan (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1,
+          14.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "10:11 PM",
+        "time_24": "22:11",
+        "latitude": 5.11,
+        "longitude": 125.28,
+        "depth_km": 4.0,
+        "magnitude": 3.2,
+        "location": "037km S 26Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "08:53 PM",
+        "time_24": "20:53",
+        "latitude": 7.37,
+        "longitude": 125.13,
+        "depth_km": 1.0,
+        "magnitude": 1.4,
+        "location": "002km N 03Â° W of Arakan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          7.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "08:53 PM",
+        "time_24": "20:53",
+        "latitude": 7.77,
+        "longitude": 125.47,
+        "depth_km": 21.0,
+        "magnitude": 1.4,
+        "location": "019km N 36Â° W of Talaingod (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          7.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +668,17 @@
         "date": "10 August 2026",
         "time": "06:44 AM",
         "time_24": "06:44",
-        "latitude": 3.97,
-        "longitude": 126.83,
-        "depth_km": 15.0,
-        "magnitude": 3.8,
-        "location": "223km S 44Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 3.27,
+        "longitude": 127.27,
+        "depth_km": 2.0,
+        "magnitude": 3.9,
+        "location": "313km S 41Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.83,
-          3.97
+          127.27,
+          3.27
         ]
       }
     },
@@ -788,17 +888,17 @@
         "date": "10 August 2026",
         "time": "01:10 AM",
         "time_24": "01:10",
-        "latitude": 5.88,
-        "longitude": 126.05,
-        "depth_km": 116.0,
+        "latitude": 5.84,
+        "longitude": 125.85,
+        "depth_km": 163.0,
         "magnitude": 2.6,
-        "location": "045km S 85Â° E of Jose Abad Santos (Davao Occidental)"
+        "location": "024km S 72Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.05,
-          5.88
+          125.85,
+          5.84
         ]
       }
     },
@@ -848,17 +948,17 @@
         "date": "10 August 2026",
         "time": "12:41 AM",
         "time_24": "00:41",
-        "latitude": 8.99,
-        "longitude": 125.63,
-        "depth_km": 33.0,
+        "latitude": 9.02,
+        "longitude": 125.67,
+        "depth_km": 29.0,
         "magnitude": 2.0,
-        "location": "009km S 37Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+        "location": "010km S 70Â° E of Remedios T. Romualdez (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.63,
-          8.99
+          125.67,
+          9.02
         ]
       }
     },
@@ -1068,17 +1168,17 @@
         "date": "09 August 2026",
         "time": "11:18 PM",
         "time_24": "23:18",
-        "latitude": 5.91,
-        "longitude": 125.43,
-        "depth_km": 21.0,
-        "magnitude": 1.6,
-        "location": "017km S 67Â° E of Malapatan (Sarangani)"
+        "latitude": 5.83,
+        "longitude": 125.3,
+        "depth_km": 6.0,
+        "magnitude": 1.7,
+        "location": "011km N 85Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.91
+          125.3,
+          5.83
         ]
       }
     },
@@ -1088,17 +1188,17 @@
         "date": "09 August 2026",
         "time": "10:31 PM",
         "time_24": "22:31",
-        "latitude": 13.27,
-        "longitude": 120.63,
-        "depth_km": 33.0,
-        "magnitude": 1.6,
-        "location": "006km N 41Â° E of Mamburao (Occidental Mindoro)"
+        "latitude": 13.23,
+        "longitude": 120.54,
+        "depth_km": 29.0,
+        "magnitude": 1.7,
+        "location": "006km N 81Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.63,
-          13.27
+          120.54,
+          13.23
         ]
       }
     },
@@ -1148,17 +1248,17 @@
         "date": "09 August 2026",
         "time": "10:03 PM",
         "time_24": "22:03",
-        "latitude": 9.83,
-        "longitude": 124.7,
-        "depth_km": 2.0,
+        "latitude": 9.74,
+        "longitude": 124.85,
+        "depth_km": 3.0,
         "magnitude": 2.3,
-        "location": "017km N 53Â° E of Anda (Bohol)"
+        "location": "030km S 90Â° E of Anda (Bohol)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.7,
-          9.83
+          124.85,
+          9.74
         ]
       }
     },
