@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T14:32:39.988655+00:00",
+  "generated_at": "2026-08-10T15:33:31.091380+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "11:20 PM",
+        "time_24": "23:20",
+        "latitude": 17.78,
+        "longitude": 120.36,
+        "depth_km": 46.0,
+        "magnitude": 1.7,
+        "location": "010km S 80Â° W of Cabugao (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36,
+          17.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "10:43 PM",
+        "time_24": "22:43",
+        "latitude": 10.57,
+        "longitude": 126.16,
+        "depth_km": 146.0,
+        "magnitude": 1.9,
+        "location": "052km S 68Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          10.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "10:28 PM",
+        "time_24": "22:28",
+        "latitude": 7.5,
+        "longitude": 126.99,
+        "depth_km": 30.0,
+        "magnitude": 2.3,
+        "location": "048km S 80Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99,
+          7.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1108,17 +1168,17 @@
         "date": "09 August 2026",
         "time": "11:51 PM",
         "time_24": "23:51",
-        "latitude": 5.94,
-        "longitude": 125.43,
-        "depth_km": 21.0,
-        "magnitude": 2.5,
-        "location": "016km S 77Â° E of Malapatan (Sarangani)"
+        "latitude": 5.82,
+        "longitude": 125.39,
+        "depth_km": 13.0,
+        "magnitude": 2.6,
+        "location": "020km East of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.94
+          125.39,
+          5.82
         ]
       }
     },
