@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T06:19:56.190602+00:00",
+  "generated_at": "2026-08-10T08:11:39.489739+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "02:10 PM",
+        "time_24": "14:10",
+        "latitude": 5.83,
+        "longitude": 125.32,
+        "depth_km": 18.0,
+        "magnitude": 3.0,
+        "location": "013km N 84Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.83
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +48,17 @@
         "date": "10 August 2026",
         "time": "01:35 PM",
         "time_24": "13:35",
-        "latitude": 8.89,
-        "longitude": 126.59,
-        "depth_km": 10.0,
-        "magnitude": 4.6,
-        "location": "031km S 84Â° E of Cagwait (Surigao Del Sur)"
+        "latitude": 8.91,
+        "longitude": 126.56,
+        "depth_km": 18.0,
+        "magnitude": 4.5,
+        "location": "028km S 88Â° E of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.59,
-          8.89
+          126.56,
+          8.91
         ]
       }
     },
@@ -528,17 +548,17 @@
         "date": "10 August 2026",
         "time": "01:05 AM",
         "time_24": "01:05",
-        "latitude": 11.46,
-        "longitude": 125.41,
-        "depth_km": 28.0,
+        "latitude": 11.49,
+        "longitude": 125.5,
+        "depth_km": 35.0,
         "magnitude": 4.6,
-        "location": "011km S 68Â° W of Maydolong (Eastern Samar)"
+        "location": "001km S 13Â° E of Maydolong (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.41,
-          11.46
+          125.5,
+          11.49
         ]
       }
     },
