@@ -1,24 +1,44 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T20:20:25.590964+00:00",
+  "generated_at": "2026-08-10T21:09:26.435901+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "11 August 2026",
-        "time": "04:07 AM",
-        "time_24": "04:07",
-        "latitude": 5.62,
-        "longitude": 125.33,
-        "depth_km": 13.0,
-        "magnitude": 3.1,
-        "location": "022km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "time": "04:50 AM",
+        "time_24": "04:50",
+        "latitude": 5.68,
+        "longitude": 125.1,
+        "depth_km": 24.0,
+        "magnitude": 2.2,
+        "location": "019km S 35Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.62
+          125.1,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "04:19 AM",
+        "time_24": "04:19",
+        "latitude": 20.4,
+        "longitude": 121.93,
+        "depth_km": 7.0,
+        "magnitude": 2.8,
+        "location": "003km S 43Â° W of Mahatao (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.93,
+          20.4
         ]
       }
     },
