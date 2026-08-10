@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T03:20:40.388855+00:00",
+  "generated_at": "2026-08-10T05:02:51.083459+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:46 PM",
+        "time_24": "12:46",
+        "latitude": 8.61,
+        "longitude": 122.7,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "040km N 63Â° W of Jose Dalman (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7,
+          8.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "12:42 PM",
+        "time_24": "12:42",
+        "latitude": 8.15,
+        "longitude": 127.2,
+        "depth_km": 11.0,
+        "magnitude": 2.6,
+        "location": "088km N 82Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2,
+          8.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 August 2026",
+        "time": "11:59 AM",
+        "time_24": "11:59",
+        "latitude": 9.14,
+        "longitude": 126.8,
+        "depth_km": 13.0,
+        "magnitude": 2.7,
+        "location": "060km N 72Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8,
+          9.14
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -768,17 +828,17 @@
         "date": "09 August 2026",
         "time": "09:56 PM",
         "time_24": "21:56",
-        "latitude": 10.72,
-        "longitude": 124.92,
-        "depth_km": 6.0,
+        "latitude": 10.66,
+        "longitude": 124.93,
+        "depth_km": 4.0,
         "magnitude": 3.5,
-        "location": "010km S 77Â° W of Abuyog (Leyte)"
+        "location": "007km N 33Â° W of Mahaplag (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.92,
-          10.72
+          124.93,
+          10.66
         ]
       }
     },
