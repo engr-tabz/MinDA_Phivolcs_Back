@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-11T17:11:12.231398+00:00",
+  "generated_at": "2026-08-11T18:08:17.195682+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "01:47 AM",
+        "time_24": "01:47",
+        "latitude": 12.71,
+        "longitude": 124.96,
+        "depth_km": 16.0,
+        "magnitude": 1.7,
+        "location": "017km N 19Â° W of Laoang (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.96,
+          12.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "01:44 AM",
+        "time_24": "01:44",
+        "latitude": 5.72,
+        "longitude": 125.2,
+        "depth_km": 5.0,
+        "magnitude": 2.5,
+        "location": "011km S 02Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "12:59 AM",
+        "time_24": "00:59",
+        "latitude": 10.26,
+        "longitude": 126.56,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "060km N 63Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.56,
+          10.26
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
