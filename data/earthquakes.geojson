@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-10T23:22:54.104410+00:00",
+  "generated_at": "2026-08-11T00:00:26.537715+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:49 AM",
+        "time_24": "07:49",
+        "latitude": 5.0,
+        "longitude": 125.21,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "051km S 27Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:31 AM",
+        "time_24": "07:31",
+        "latitude": 19.57,
+        "longitude": 121.63,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "030km N 77Â° W of Babuyan Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63,
+          19.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:17 AM",
+        "time_24": "07:17",
+        "latitude": 5.43,
+        "longitude": 125.5,
+        "depth_km": 9.0,
+        "magnitude": 2.5,
+        "location": "006km S 34Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:16 AM",
+        "time_24": "07:16",
+        "latitude": 5.12,
+        "longitude": 125.76,
+        "depth_km": 64.0,
+        "magnitude": 1.9,
+        "location": "049km S 49Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          5.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:13 AM",
+        "time_24": "07:13",
+        "latitude": 9.85,
+        "longitude": 126.14,
+        "depth_km": 17.0,
+        "magnitude": 1.6,
+        "location": "005km S 75Â° E of Pilar (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          9.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "07:12 AM",
+        "time_24": "07:12",
+        "latitude": 8.75,
+        "longitude": 125.63,
+        "depth_km": 27.0,
+        "magnitude": 2.1,
+        "location": "004km N 64Â° E of Las Nieves (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63,
+          8.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
