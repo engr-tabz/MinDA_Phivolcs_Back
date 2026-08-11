@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-11T06:10:19.921496+00:00",
+  "generated_at": "2026-08-11T07:38:14.065430+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "03:16 PM",
+        "time_24": "15:16",
+        "latitude": 8.85,
+        "longitude": 126.47,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "020km S 68Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          8.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "03:16 PM",
+        "time_24": "15:16",
+        "latitude": 8.93,
+        "longitude": 126.49,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "021km N 86Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49,
+          8.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "02:46 PM",
+        "time_24": "14:46",
+        "latitude": 9.57,
+        "longitude": 126.09,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "015km S 67Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.09,
+          9.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11 August 2026",
+        "time": "02:35 PM",
+        "time_24": "14:35",
+        "latitude": 5.6,
+        "longitude": 125.48,
+        "depth_km": 2.0,
+        "magnitude": 2.0,
+        "location": "014km N 03Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          5.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
