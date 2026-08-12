@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T08:06:06.764568+00:00",
+  "generated_at": "2026-08-12T09:30:38.495463+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "05:18 PM",
+        "time_24": "17:18",
+        "latitude": 5.72,
+        "longitude": 125.1,
+        "depth_km": 2.0,
+        "magnitude": 2.5,
+        "location": "016km S 44Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "04:22 PM",
+        "time_24": "16:22",
+        "latitude": 9.7,
+        "longitude": 126.37,
+        "depth_km": 35.0,
+        "magnitude": 1.9,
+        "location": "025km S 69Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.37,
+          9.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
