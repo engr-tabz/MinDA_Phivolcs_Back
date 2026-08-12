@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T09:30:38.495463+00:00",
+  "generated_at": "2026-08-12T10:39:06.228590+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "06:12 PM",
+        "time_24": "18:12",
+        "latitude": 15.18,
+        "longitude": 122.13,
+        "depth_km": 16.0,
+        "magnitude": 1.9,
+        "location": "041km N 25Â° E of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13,
+          15.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "05:35 PM",
+        "time_24": "17:35",
+        "latitude": 8.02,
+        "longitude": 126.39,
+        "depth_km": 27.0,
+        "magnitude": 2.1,
+        "location": "003km S 54Â° W of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.39,
+          8.02
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
