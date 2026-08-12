@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T05:12:52.230383+00:00",
+  "generated_at": "2026-08-12T06:45:03.733197+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "02:28 PM",
+        "time_24": "14:28",
+        "latitude": 15.99,
+        "longitude": 119.01,
+        "depth_km": 28.0,
+        "magnitude": 2.0,
+        "location": "085km S 80Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.01,
+          15.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "02:20 PM",
+        "time_24": "14:20",
+        "latitude": 6.36,
+        "longitude": 126.77,
+        "depth_km": 101.0,
+        "magnitude": 2.5,
+        "location": "084km S 67Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.77,
+          6.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -48,17 +88,17 @@
         "date": "12 August 2026",
         "time": "11:38 AM",
         "time_24": "11:38",
-        "latitude": 5.73,
-        "longitude": 126.31,
-        "depth_km": 164.0,
-        "magnitude": 4.7,
-        "location": "076km S 74Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.97,
+        "longitude": 126.17,
+        "depth_km": 156.0,
+        "magnitude": 4.4,
+        "location": "058km S 65Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.31,
-          5.73
+          126.17,
+          5.97
         ]
       }
     },
@@ -1168,17 +1208,17 @@
         "date": "11 August 2026",
         "time": "04:58 PM",
         "time_24": "16:58",
-        "latitude": 9.61,
-        "longitude": 126.23,
-        "depth_km": 4.0,
+        "latitude": 9.63,
+        "longitude": 126.21,
+        "depth_km": 7.0,
         "magnitude": 2.2,
-        "location": "020km S 23Â° E of General Luna (Surigao Del Norte)"
+        "location": "018km S 20Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.23,
-          9.61
+          126.21,
+          9.63
         ]
       }
     },
@@ -1188,17 +1228,17 @@
         "date": "11 August 2026",
         "time": "04:29 PM",
         "time_24": "16:29",
-        "latitude": 13.23,
-        "longitude": 120.42,
-        "depth_km": 24.0,
-        "magnitude": 2.4,
-        "location": "019km N 88Â° W of Mamburao (Occidental Mindoro)"
+        "latitude": 13.18,
+        "longitude": 120.57,
+        "depth_km": 35.0,
+        "magnitude": 2.3,
+        "location": "006km S 32Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.42,
-          13.23
+          120.57,
+          13.18
         ]
       }
     },
@@ -1248,17 +1288,17 @@
         "date": "11 August 2026",
         "time": "02:46 PM",
         "time_24": "14:46",
-        "latitude": 9.57,
-        "longitude": 126.09,
-        "depth_km": 31.0,
-        "magnitude": 1.6,
-        "location": "015km S 67Â° E of Socorro (Surigao Del Norte)"
+        "latitude": 9.62,
+        "longitude": 126.15,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "017km East of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.09,
-          9.57
+          126.15,
+          9.62
         ]
       }
     },
@@ -1288,17 +1328,17 @@
         "date": "11 August 2026",
         "time": "01:58 PM",
         "time_24": "13:58",
-        "latitude": 5.76,
-        "longitude": 125.36,
+        "latitude": 5.77,
+        "longitude": 125.31,
         "depth_km": 8.0,
-        "magnitude": 2.4,
-        "location": "019km S 67Â° E of Glan (Sarangani)"
+        "magnitude": 2.7,
+        "location": "013km S 64Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.76
+          125.31,
+          5.77
         ]
       }
     },
