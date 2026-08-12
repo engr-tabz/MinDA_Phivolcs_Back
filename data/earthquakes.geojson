@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T11:30:27.232188+00:00",
+  "generated_at": "2026-08-12T12:27:29.173007+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "07:52 PM",
+        "time_24": "19:52",
+        "latitude": 5.84,
+        "longitude": 125.27,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "008km N 74Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "07:35 PM",
+        "time_24": "19:35",
+        "latitude": 15.78,
+        "longitude": 121.68,
+        "depth_km": 19.0,
+        "magnitude": 1.6,
+        "location": "013km N 79Â° E of Baler (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68,
+          15.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "07:33 PM",
+        "time_24": "19:33",
+        "latitude": 5.44,
+        "longitude": 125.24,
+        "depth_km": 21.0,
+        "magnitude": 2.7,
+        "location": "021km N 81Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "07:21 PM",
+        "time_24": "19:21",
+        "latitude": 8.82,
+        "longitude": 126.35,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "006km N 62Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.35,
+          8.82
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1128,17 +1208,17 @@
         "date": "11 August 2026",
         "time": "08:33 PM",
         "time_24": "20:33",
-        "latitude": 9.88,
-        "longitude": 125.92,
-        "depth_km": 33.0,
-        "magnitude": 1.5,
-        "location": "006km N 80Â° W of Del Carmen (Surigao Del Norte)"
+        "latitude": 9.89,
+        "longitude": 125.99,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "003km N 52Â° E of Del Carmen (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.92,
-          9.88
+          125.99,
+          9.89
         ]
       }
     },
@@ -1149,15 +1229,15 @@
         "time": "08:18 PM",
         "time_24": "20:18",
         "latitude": 16.04,
-        "longitude": 119.78,
-        "depth_km": 6.0,
-        "magnitude": 1.6,
-        "location": "009km S 13Â° W of Agno (Pangasinan)"
+        "longitude": 119.77,
+        "depth_km": 10.0,
+        "magnitude": 1.8,
+        "location": "009km S 19Â° W of Agno (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.78,
+          119.77,
           16.04
         ]
       }
