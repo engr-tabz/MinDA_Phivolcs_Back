@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T06:45:03.733197+00:00",
+  "generated_at": "2026-08-12T08:06:06.764568+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "03:45 PM",
+        "time_24": "15:45",
+        "latitude": 5.39,
+        "longitude": 125.25,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "019km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "03:19 PM",
+        "time_24": "15:19",
+        "latitude": 9.78,
+        "longitude": 126.45,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "032km N 90Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          9.78
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1148,17 +1188,17 @@
         "date": "11 August 2026",
         "time": "05:24 PM",
         "time_24": "17:24",
-        "latitude": 5.31,
-        "longitude": 125.52,
-        "depth_km": 33.0,
-        "magnitude": 1.7,
-        "location": "016km S 42Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.48,
+        "longitude": 125.36,
+        "depth_km": 13.0,
+        "magnitude": 2.1,
+        "location": "010km N 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.52,
-          5.31
+          125.36,
+          5.48
         ]
       }
     },
@@ -1269,15 +1309,15 @@
         "time": "03:16 PM",
         "time_24": "15:16",
         "latitude": 8.93,
-        "longitude": 126.49,
-        "depth_km": 24.0,
-        "magnitude": 2.4,
-        "location": "021km N 86Â° E of Cagwait (Surigao Del Sur)"
+        "longitude": 126.52,
+        "depth_km": 22.0,
+        "magnitude": 3.3,
+        "location": "024km N 86Â° E of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.49,
+          126.52,
           8.93
         ]
       }
