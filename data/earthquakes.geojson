@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T20:08:10.415154+00:00",
+  "generated_at": "2026-08-12T21:02:45.043696+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "04:44 AM",
+        "time_24": "04:44",
+        "latitude": 13.17,
+        "longitude": 120.45,
+        "depth_km": 10.0,
+        "magnitude": 3.7,
+        "location": "016km S 68Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45,
+          13.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 4.3,
+        "longitude": 126.26,
+        "depth_km": 154.0,
+        "magnitude": 3.4,
+        "location": "154km S 37Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          4.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "03:57 AM",
+        "time_24": "03:57",
+        "latitude": 17.44,
+        "longitude": 121.46,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "004km S 16Â° W of City Of Tabuk (Kalinga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46,
+          17.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
