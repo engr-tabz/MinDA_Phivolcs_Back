@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T10:39:06.228590+00:00",
+  "generated_at": "2026-08-12T11:30:27.232188+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1188,17 +1188,17 @@
         "date": "11 August 2026",
         "time": "07:29 PM",
         "time_24": "19:29",
-        "latitude": 4.93,
-        "longitude": 125.2,
-        "depth_km": 31.0,
+        "latitude": 5.05,
+        "longitude": 125.06,
+        "depth_km": 11.0,
         "magnitude": 3.5,
-        "location": "058km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "057km S 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.2,
-          4.93
+          125.06,
+          5.05
         ]
       }
     },
@@ -1208,17 +1208,17 @@
         "date": "11 August 2026",
         "time": "07:17 PM",
         "time_24": "19:17",
-        "latitude": 5.65,
-        "longitude": 125.45,
-        "depth_km": 30.0,
-        "magnitude": 1.9,
-        "location": "020km N 08Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.83,
+        "longitude": 125.31,
+        "depth_km": 10.0,
+        "magnitude": 2.0,
+        "location": "012km N 86Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.45,
-          5.65
+          125.31,
+          5.83
         ]
       }
     },
@@ -1228,17 +1228,17 @@
         "date": "11 August 2026",
         "time": "07:05 PM",
         "time_24": "19:05",
-        "latitude": 15.54,
-        "longitude": 120.01,
+        "latitude": 15.52,
+        "longitude": 119.95,
         "depth_km": 28.0,
-        "magnitude": 1.7,
-        "location": "005km N 81Â° E of Masinloc (Zambales)"
+        "magnitude": 2.0,
+        "location": "001km S 41Â° W of Masinloc (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.01,
-          15.54
+          119.95,
+          15.52
         ]
       }
     },
