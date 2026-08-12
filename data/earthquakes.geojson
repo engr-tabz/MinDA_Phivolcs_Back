@@ -1,24 +1,104 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T16:08:39.104515+00:00",
+  "generated_at": "2026-08-12T17:11:52.604645+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "date": "12 August 2026",
-        "time": "11:53 PM",
-        "time_24": "23:53",
-        "latitude": 17.74,
-        "longitude": 120.31,
-        "depth_km": 10.0,
-        "magnitude": 3.4,
-        "location": "013km N 64Â° W of Magsingal (Ilocos Sur)"
+        "date": "13 August 2026",
+        "time": "12:48 AM",
+        "time_24": "00:48",
+        "latitude": 5.7,
+        "longitude": 125.13,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "015km S 31Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.31,
-          17.74
+          125.13,
+          5.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "12:33 AM",
+        "time_24": "00:33",
+        "latitude": 9.65,
+        "longitude": 126.14,
+        "depth_km": 4.0,
+        "magnitude": 1.8,
+        "location": "015km S 40Â° E of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "12:09 AM",
+        "time_24": "00:09",
+        "latitude": 10.46,
+        "longitude": 123.12,
+        "depth_km": 1.0,
+        "magnitude": 1.8,
+        "location": "014km N 50Â° W of City Of Canlaon (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.12,
+          10.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "11:56 PM",
+        "time_24": "23:56",
+        "latitude": 17.54,
+        "longitude": 120.59,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "003km S 02Â° E of Pidigan (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59,
+          17.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "11:54 PM",
+        "time_24": "23:54",
+        "latitude": 17.66,
+        "longitude": 120.5,
+        "depth_km": 17.0,
+        "magnitude": 3.4,
+        "location": "008km S 68Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          17.66
         ]
       }
     },
@@ -1168,17 +1248,17 @@
         "date": "12 August 2026",
         "time": "02:08 AM",
         "time_24": "02:08",
-        "latitude": 12.3,
-        "longitude": 125.41,
-        "depth_km": 17.0,
-        "magnitude": 2.0,
-        "location": "006km N 50Â° E of Arteche (Eastern Samar)"
+        "latitude": 12.28,
+        "longitude": 125.33,
+        "depth_km": 4.0,
+        "magnitude": 2.1,
+        "location": "005km N 82Â° W of Arteche (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.41,
-          12.3
+          125.33,
+          12.28
         ]
       }
     },
@@ -1188,17 +1268,17 @@
         "date": "12 August 2026",
         "time": "02:04 AM",
         "time_24": "02:04",
-        "latitude": 7.54,
-        "longitude": 126.97,
-        "depth_km": 28.0,
+        "latitude": 7.55,
+        "longitude": 127.02,
+        "depth_km": 32.0,
         "magnitude": 3.7,
-        "location": "046km S 85Â° E of Baganga (Davao Oriental)"
+        "location": "050km S 87Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.97,
-          7.54
+          127.02,
+          7.55
         ]
       }
     },
