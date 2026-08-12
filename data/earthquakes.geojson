@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T19:20:12.882361+00:00",
+  "generated_at": "2026-08-12T20:08:10.415154+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "03:54 AM",
+        "time_24": "03:54",
+        "latitude": 21.4,
+        "longitude": 120.82,
+        "depth_km": 2.0,
+        "magnitude": 3.4,
+        "location": "126km N 57Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          21.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "03:34 AM",
+        "time_24": "03:34",
+        "latitude": 7.32,
+        "longitude": 126.43,
+        "depth_km": 50.0,
+        "magnitude": 1.7,
+        "location": "015km S 88Â° W of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.43,
+          7.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "03:25 AM",
+        "time_24": "03:25",
+        "latitude": 5.97,
+        "longitude": 126.42,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "084km S 73Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          5.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "03:15 AM",
+        "time_24": "03:15",
+        "latitude": 6.11,
+        "longitude": 125.38,
+        "depth_km": 21.0,
+        "magnitude": 1.2,
+        "location": "010km N 89Â° E of Alabel (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          6.11
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +108,17 @@
         "date": "13 August 2026",
         "time": "02:04 AM",
         "time_24": "02:04",
-        "latitude": 16.28,
-        "longitude": 118.14,
-        "depth_km": 10.0,
-        "magnitude": 4.1,
-        "location": "131km N 18Â° E of Bajo De Masinloc (Masinloc) (Zambales)"
+        "latitude": 16.66,
+        "longitude": 119.73,
+        "depth_km": 9.0,
+        "magnitude": 3.5,
+        "location": "034km N 31Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.14,
-          16.28
+          119.73,
+          16.66
         ]
       }
     },
