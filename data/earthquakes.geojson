@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T13:59:50.396691+00:00",
+  "generated_at": "2026-08-12T15:08:21.107780+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "10:55 PM",
+        "time_24": "22:55",
+        "latitude": 5.68,
+        "longitude": 125.35,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "022km S 46Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "10:43 PM",
+        "time_24": "22:43",
+        "latitude": 17.83,
+        "longitude": 120.75,
+        "depth_km": 7.0,
+        "magnitude": 2.2,
+        "location": "013km N 23Â° E of Lagayan (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75,
+          17.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 August 2026",
+        "time": "10:01 PM",
+        "time_24": "22:01",
+        "latitude": 5.5,
+        "longitude": 125.39,
+        "depth_km": 35.0,
+        "magnitude": 1.6,
+        "location": "009km N 70Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
