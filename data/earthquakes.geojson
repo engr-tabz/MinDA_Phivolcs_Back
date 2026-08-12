@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T21:02:45.043696+00:00",
+  "generated_at": "2026-08-12T21:58:22.332941+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "05:42 AM",
+        "time_24": "05:42",
+        "latitude": 5.81,
+        "longitude": 126.26,
+        "depth_km": 27.0,
+        "magnitude": 2.6,
+        "location": "069km S 80Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "05:25 AM",
+        "time_24": "05:25",
+        "latitude": 20.33,
+        "longitude": 121.96,
+        "depth_km": 10.0,
+        "magnitude": 4.3,
+        "location": "004km S 48Â° E of Uyugan (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96,
+          20.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "05:17 AM",
+        "time_24": "05:17",
+        "latitude": 11.27,
+        "longitude": 125.34,
+        "depth_km": 18.0,
+        "magnitude": 1.9,
+        "location": "015km N 15Â° E of Lawaan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          11.27
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
