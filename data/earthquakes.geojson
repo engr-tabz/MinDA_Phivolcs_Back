@@ -1,18 +1,78 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T18:09:01.132656+00:00",
+  "generated_at": "2026-08-12T19:20:12.882361+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "13 August 2026",
-        "time": "02:59 AM",
-        "time_24": "02:59",
+        "time": "02:29 AM",
+        "time_24": "02:29",
+        "latitude": 5.13,
+        "longitude": 125.07,
+        "depth_km": 16.0,
+        "magnitude": 3.1,
+        "location": "050km S 50Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.07,
+          5.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "02:04 AM",
+        "time_24": "02:04",
+        "latitude": 16.28,
+        "longitude": 118.14,
+        "depth_km": 10.0,
+        "magnitude": 4.1,
+        "location": "131km N 18Â° E of Bajo De Masinloc (Masinloc) (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14,
+          16.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "02:01 AM",
+        "time_24": "02:01",
+        "latitude": 9.99,
+        "longitude": 125.5,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "008km S 69Â° W of San Jose (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          9.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "01:59 AM",
+        "time_24": "01:59",
         "latitude": 11.84,
         "longitude": 125.33,
         "depth_km": 37.0,
         "magnitude": 1.7,
-        "location": "012km S 52Â° W of Taft (Eastern Samar)"
+        "location": "012km S 53Â° W of Taft (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
@@ -1008,17 +1068,17 @@
         "date": "12 August 2026",
         "time": "07:14 AM",
         "time_24": "07:14",
-        "latitude": 7.42,
-        "longitude": 127.39,
-        "depth_km": 27.0,
+        "latitude": 7.39,
+        "longitude": 127.43,
+        "depth_km": 15.0,
         "magnitude": 3.8,
-        "location": "092km N 84Â° E of Caraga (Davao Oriental)"
+        "location": "096km N 86Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.39,
-          7.42
+          127.43,
+          7.39
         ]
       }
     },
@@ -1128,17 +1188,17 @@
         "date": "12 August 2026",
         "time": "05:34 AM",
         "time_24": "05:34",
-        "latitude": 5.6,
-        "longitude": 125.25,
-        "depth_km": 5.0,
-        "magnitude": 2.4,
-        "location": "025km S 11Â° E of Glan (Sarangani)"
+        "latitude": 5.67,
+        "longitude": 125.28,
+        "depth_km": 13.0,
+        "magnitude": 2.6,
+        "location": "019km S 26Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.25,
-          5.6
+          125.28,
+          5.67
         ]
       }
     },
