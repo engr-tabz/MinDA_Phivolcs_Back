@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T22:52:59.743090+00:00",
+  "generated_at": "2026-08-12T23:37:35.139660+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1108,17 +1108,17 @@
         "date": "12 August 2026",
         "time": "11:38 AM",
         "time_24": "11:38",
-        "latitude": 5.97,
-        "longitude": 126.17,
-        "depth_km": 156.0,
+        "latitude": 5.98,
+        "longitude": 126.24,
+        "depth_km": 152.0,
         "magnitude": 4.4,
-        "location": "058km S 65Â° E of Don Marcelino (Davao Occidental)"
+        "location": "065km S 68Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.17,
-          5.97
+          126.24,
+          5.98
         ]
       }
     },
