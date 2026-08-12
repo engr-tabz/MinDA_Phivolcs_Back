@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-12T21:58:22.332941+00:00",
+  "generated_at": "2026-08-12T22:52:59.743090+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "06:21 AM",
+        "time_24": "06:21",
+        "latitude": 8.31,
+        "longitude": 128.6,
+        "depth_km": 546.0,
+        "magnitude": 4.5,
+        "location": "238km N 70Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6,
+          8.31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +88,17 @@
         "date": "13 August 2026",
         "time": "04:44 AM",
         "time_24": "04:44",
-        "latitude": 13.17,
-        "longitude": 120.45,
-        "depth_km": 10.0,
-        "magnitude": 3.7,
-        "location": "016km S 68Â° W of Mamburao (Occidental Mindoro)"
+        "latitude": 13.13,
+        "longitude": 120.55,
+        "depth_km": 35.0,
+        "magnitude": 3.3,
+        "location": "012km S 25Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.45,
-          13.17
+          120.55,
+          13.13
         ]
       }
     },
