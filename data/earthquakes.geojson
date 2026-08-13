@@ -1,24 +1,44 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T10:42:04.668981+00:00",
+  "generated_at": "2026-08-13T11:32:57.397630+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "13 August 2026",
-        "time": "06:22 PM",
-        "time_24": "18:22",
-        "latitude": 5.59,
-        "longitude": 125.33,
-        "depth_km": 33.0,
+        "time": "07:22 PM",
+        "time_24": "19:22",
+        "latitude": 5.79,
+        "longitude": 125.3,
+        "depth_km": 23.0,
         "magnitude": 1.6,
-        "location": "021km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "011km S 72Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.59
+          125.3,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "07:02 PM",
+        "time_24": "19:02",
+        "latitude": 8.67,
+        "longitude": 125.66,
+        "depth_km": 54.0,
+        "magnitude": 2.3,
+        "location": "002km S 69Â° E of Esperanza (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66,
+          8.67
         ]
       }
     },
