@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T08:10:17.232394+00:00",
+  "generated_at": "2026-08-13T09:33:57.266178+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "05:22 PM",
+        "time_24": "17:22",
+        "latitude": 6.18,
+        "longitude": 125.94,
+        "depth_km": 49.0,
+        "magnitude": 5.2,
+        "location": "027km S 85Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.94,
+          6.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "04:17 PM",
+        "time_24": "16:17",
+        "latitude": 5.53,
+        "longitude": 125.29,
+        "depth_km": 26.0,
+        "magnitude": 2.1,
+        "location": "019km N 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.53
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
