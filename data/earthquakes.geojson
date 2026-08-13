@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T06:49:53.747822+00:00",
+  "generated_at": "2026-08-13T08:10:17.232394+00:00",
   "features": [
     {
       "type": "Feature",
@@ -208,17 +208,17 @@
         "date": "13 August 2026",
         "time": "05:25 AM",
         "time_24": "05:25",
-        "latitude": 20.46,
-        "longitude": 121.94,
-        "depth_km": 8.0,
+        "latitude": 20.4,
+        "longitude": 121.78,
+        "depth_km": 13.0,
         "magnitude": 4.6,
-        "location": "003km N 68Â° W of Basco (Batanes)"
+        "location": "013km N 54Â° W of Sabtang (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.94,
-          20.46
+          121.78,
+          20.4
         ]
       }
     },
@@ -708,17 +708,17 @@
         "date": "12 August 2026",
         "time": "11:54 PM",
         "time_24": "23:54",
-        "latitude": 17.66,
-        "longitude": 120.5,
-        "depth_km": 17.0,
+        "latitude": 17.65,
+        "longitude": 120.46,
+        "depth_km": 18.0,
         "magnitude": 3.4,
-        "location": "008km S 68Â° E of Magsingal (Ilocos Sur)"
+        "location": "005km S 45Â° E of Magsingal (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.5,
-          17.66
+          120.46,
+          17.65
         ]
       }
     },
