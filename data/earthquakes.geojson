@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T18:10:35.577989+00:00",
+  "generated_at": "2026-08-13T19:26:38.697854+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:50 AM",
+        "time_24": "02:50",
+        "latitude": 5.91,
+        "longitude": 125.32,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "007km S 26Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:48 AM",
+        "time_24": "02:48",
+        "latitude": 7.11,
+        "longitude": 125.52,
+        "depth_km": 20.0,
+        "magnitude": 2.0,
+        "location": "021km N 82Â° W of Island Garden City Of Samal (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          7.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:39 AM",
+        "time_24": "02:39",
+        "latitude": 4.7,
+        "longitude": 125.67,
+        "depth_km": 10.0,
+        "magnitude": 5.9,
+        "location": "083km S 19Â° E of Sarangani (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          4.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:16 AM",
+        "time_24": "02:16",
+        "latitude": 5.24,
+        "longitude": 125.23,
+        "depth_km": 30.0,
+        "magnitude": 1.8,
+        "location": "029km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:10 AM",
+        "time_24": "02:10",
+        "latitude": 11.4,
+        "longitude": 125.67,
+        "depth_km": 10.0,
+        "magnitude": 2.9,
+        "location": "008km N 47Â° E of Hernani (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          11.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "02:05 AM",
+        "time_24": "02:05",
+        "latitude": 11.8,
+        "longitude": 124.21,
+        "depth_km": 7.0,
+        "magnitude": 2.8,
+        "location": "015km S 35Â° W of Almagro (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.21,
+          11.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
