@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T14:03:09.111489+00:00",
+  "generated_at": "2026-08-13T15:11:09.229324+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "11:03 PM",
+        "time_24": "23:03",
+        "latitude": 8.83,
+        "longitude": 122.71,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "045km S 54Â° W of Siaton (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.71,
+          8.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "10:56 PM",
+        "time_24": "22:56",
+        "latitude": 4.9,
+        "longitude": 125.41,
+        "depth_km": 10.0,
+        "magnitude": 4.3,
+        "location": "056km S 1Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          4.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "10:26 PM",
+        "time_24": "22:26",
+        "latitude": 5.39,
+        "longitude": 125.32,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "012km S 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "10:24 PM",
+        "time_24": "22:24",
+        "latitude": 5.71,
+        "longitude": 125.42,
+        "depth_km": 17.0,
+        "magnitude": 2.4,
+        "location": "027km N 12Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "10:18 PM",
+        "time_24": "22:18",
+        "latitude": 5.35,
+        "longitude": 125.27,
+        "depth_km": 3.0,
+        "magnitude": 2.6,
+        "location": "018km S 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "10:08 PM",
+        "time_24": "22:08",
+        "latitude": 5.69,
+        "longitude": 125.76,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "027km S 27Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          5.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +208,17 @@
         "date": "13 August 2026",
         "time": "09:13 PM",
         "time_24": "21:13",
-        "latitude": 12.0,
-        "longitude": 125.72,
-        "depth_km": 10.0,
+        "latitude": 11.88,
+        "longitude": 125.67,
+        "depth_km": 6.0,
         "magnitude": 3.8,
-        "location": "026km S 80Â° E of Dolores (Eastern Samar)"
+        "location": "026km S 50Â° E of Dolores (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.72,
-          12.0
+          125.67,
+          11.88
         ]
       }
     },
@@ -428,17 +548,17 @@
         "date": "13 August 2026",
         "time": "07:53 AM",
         "time_24": "07:53",
-        "latitude": 7.86,
-        "longitude": 125.12,
-        "depth_km": 28.0,
+        "latitude": 7.8,
+        "longitude": 125.2,
+        "depth_km": 12.0,
         "magnitude": 3.2,
-        "location": "016km N 02Â° E of Quezon (Bukidnon)"
+        "location": "014km N 48Â° E of Quezon (Bukidnon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.12,
-          7.86
+          125.2,
+          7.8
         ]
       }
     },
@@ -628,17 +748,17 @@
         "date": "13 August 2026",
         "time": "03:54 AM",
         "time_24": "03:54",
-        "latitude": 21.4,
-        "longitude": 120.82,
-        "depth_km": 2.0,
+        "latitude": 20.77,
+        "longitude": 121.11,
+        "depth_km": 15.0,
         "magnitude": 3.4,
-        "location": "126km N 57Â° W of Itbayat (Batanes)"
+        "location": "077km S 88Â° W of Itbayat (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.82,
-          21.4
+          121.11,
+          20.77
         ]
       }
     },
@@ -648,17 +768,17 @@
         "date": "13 August 2026",
         "time": "03:34 AM",
         "time_24": "03:34",
-        "latitude": 7.32,
-        "longitude": 126.43,
-        "depth_km": 50.0,
-        "magnitude": 1.7,
-        "location": "015km S 88Â° W of Caraga (Davao Oriental)"
+        "latitude": 7.25,
+        "longitude": 126.78,
+        "depth_km": 34.0,
+        "magnitude": 2.5,
+        "location": "025km S 71Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.43,
-          7.32
+          126.78,
+          7.25
         ]
       }
     },
@@ -768,17 +888,17 @@
         "date": "13 August 2026",
         "time": "01:59 AM",
         "time_24": "01:59",
-        "latitude": 11.84,
-        "longitude": 125.33,
-        "depth_km": 37.0,
-        "magnitude": 1.7,
-        "location": "012km S 53Â° W of Taft (Eastern Samar)"
+        "latitude": 11.85,
+        "longitude": 125.28,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "016km S 68Â° W of Taft (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          11.84
+          125.28,
+          11.85
         ]
       }
     },
@@ -1108,17 +1228,17 @@
         "date": "12 August 2026",
         "time": "11:25 PM",
         "time_24": "23:25",
-        "latitude": 13.43,
-        "longitude": 125.73,
-        "depth_km": 65.0,
-        "magnitude": 2.2,
-        "location": "118km N 26Â° E of Mapanas (Northern Samar)"
+        "latitude": 13.41,
+        "longitude": 125.69,
+        "depth_km": 23.0,
+        "magnitude": 2.5,
+        "location": "113km N 24Â° E of Mapanas (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.73,
-          13.43
+          125.69,
+          13.41
         ]
       }
     },
