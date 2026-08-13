@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T05:13:30.784044+00:00",
+  "generated_at": "2026-08-13T06:49:53.747822+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "01:01 PM",
+        "time_24": "13:01",
+        "latitude": 5.21,
+        "longitude": 126.2,
+        "depth_km": 54.0,
+        "magnitude": 1.6,
+        "location": "085km S 70Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 August 2026",
+        "time": "01:01 PM",
+        "time_24": "13:01",
+        "latitude": 14.84,
+        "longitude": 119.29,
+        "depth_km": 6.0,
+        "magnitude": 2.9,
+        "location": "087km S 82Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.29,
+          14.84
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
