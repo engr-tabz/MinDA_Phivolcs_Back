@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T19:32:26.067136+00:00",
+  "generated_at": "2026-08-14T20:07:02.303446+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "03:42 AM",
+        "time_24": "03:42",
+        "latitude": 17.44,
+        "longitude": 120.36,
+        "depth_km": 18.0,
+        "magnitude": 2.5,
+        "location": "009km S 54Â° W of Santa (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36,
+          17.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "03:40 AM",
+        "time_24": "03:40",
+        "latitude": 5.37,
+        "longitude": 125.32,
+        "depth_km": 12.0,
+        "magnitude": 2.0,
+        "location": "013km S 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
