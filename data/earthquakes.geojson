@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T17:32:02.933648+00:00",
+  "generated_at": "2026-08-14T18:29:19.314671+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:03 AM",
+        "time_24": "02:03",
+        "latitude": 4.04,
+        "longitude": 128.43,
+        "depth_km": 10.0,
+        "magnitude": 4.9,
+        "location": "364km S 64Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.43,
+          4.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "01:50 AM",
+        "time_24": "01:50",
+        "latitude": 10.39,
+        "longitude": 126.33,
+        "depth_km": 6.0,
+        "magnitude": 2.0,
+        "location": "050km N 34Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          10.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "01:31 AM",
+        "time_24": "01:31",
+        "latitude": 5.98,
+        "longitude": 125.27,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "002km N 68Â° W of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.98
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -809,15 +869,15 @@
         "time": "09:55 AM",
         "time_24": "09:55",
         "latitude": 9.57,
-        "longitude": 126.18,
-        "depth_km": 31.0,
-        "magnitude": 2.1,
-        "location": "024km S 07Â° E of General Luna (Surigao Del Norte)"
+        "longitude": 126.19,
+        "depth_km": 23.0,
+        "magnitude": 2.2,
+        "location": "023km S 10Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.18,
+          126.19,
           9.57
         ]
       }
