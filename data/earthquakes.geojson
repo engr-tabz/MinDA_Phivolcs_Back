@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T15:32:46.764251+00:00",
+  "generated_at": "2026-08-14T16:28:18.994210+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "12:16 AM",
+        "time_24": "00:16",
+        "latitude": 5.34,
+        "longitude": 125.25,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "020km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "12:01 AM",
+        "time_24": "00:01",
+        "latitude": 17.23,
+        "longitude": 121.17,
+        "depth_km": 17.0,
+        "magnitude": 2.5,
+        "location": "005km S 33Â° E of Tinglayan (Kalinga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.17,
+          17.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "11:57 PM",
+        "time_24": "23:57",
+        "latitude": 5.42,
+        "longitude": 125.22,
+        "depth_km": 13.0,
+        "magnitude": 1.8,
+        "location": "022km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -826,19 +886,19 @@
       "type": "Feature",
       "properties": {
         "date": "14 August 2026",
-        "time": "06:13 AM",
-        "time_24": "06:13",
-        "latitude": 6.38,
-        "longitude": 125.74,
-        "depth_km": 16.0,
+        "time": "06:12 AM",
+        "time_24": "06:12",
+        "latitude": 6.36,
+        "longitude": 125.92,
+        "depth_km": 17.0,
         "magnitude": 2.8,
-        "location": "014km S 77Â° E of Malita (Davao Occidental)"
+        "location": "031km N 54Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.74,
-          6.38
+          125.92,
+          6.36
         ]
       }
     },
