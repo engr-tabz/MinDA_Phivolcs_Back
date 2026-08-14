@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T21:10:20.223644+00:00",
+  "generated_at": "2026-08-14T21:41:54.456775+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "05:28 AM",
+        "time_24": "05:28",
+        "latitude": 5.55,
+        "longitude": 125.19,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "030km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "05:14 AM",
+        "time_24": "05:14",
+        "latitude": 5.36,
+        "longitude": 125.22,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "023km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "05:02 AM",
+        "time_24": "05:02",
+        "latitude": 5.45,
+        "longitude": 126.38,
+        "depth_km": 51.0,
+        "magnitude": 2.6,
+        "location": "096km S 58Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          5.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
