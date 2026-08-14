@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T20:07:02.303446+00:00",
+  "generated_at": "2026-08-14T20:44:18.447708+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "04:30 AM",
+        "time_24": "04:30",
+        "latitude": 12.13,
+        "longitude": 124.01,
+        "depth_km": 5.0,
+        "magnitude": 2.4,
+        "location": "009km S 81Â° E of Palanas (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.01,
+          12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "04:30 AM",
+        "time_24": "04:30",
+        "latitude": 16.21,
+        "longitude": 119.48,
+        "depth_km": 10.0,
+        "magnitude": 2.3,
+        "location": "036km N 73Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48,
+          16.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "04:26 AM",
+        "time_24": "04:26",
+        "latitude": 16.03,
+        "longitude": 120.18,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "004km N 81Â° E of Labrador (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18,
+          16.03
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
