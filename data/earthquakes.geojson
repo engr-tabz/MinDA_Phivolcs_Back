@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T11:21:38.329851+00:00",
+  "generated_at": "2026-08-14T12:05:40.601341+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1308,17 +1308,17 @@
         "date": "13 August 2026",
         "time": "09:23 PM",
         "time_24": "21:23",
-        "latitude": 6.16,
-        "longitude": 125.85,
-        "depth_km": 70.0,
-        "magnitude": 2.4,
-        "location": "017km S 76Â° E of Don Marcelino (Davao Occidental)"
+        "latitude": 6.42,
+        "longitude": 126.09,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "026km S 04Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.85,
-          6.16
+          126.09,
+          6.42
         ]
       }
     },
@@ -1348,17 +1348,17 @@
         "date": "13 August 2026",
         "time": "08:20 PM",
         "time_24": "20:20",
-        "latitude": 6.03,
-        "longitude": 126.05,
-        "depth_km": 63.0,
+        "latitude": 6.14,
+        "longitude": 125.78,
+        "depth_km": 73.0,
         "magnitude": 2.4,
-        "location": "044km S 65Â° E of Don Marcelino (Davao Occidental)"
+        "location": "012km S 55Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.05,
-          6.03
+          125.78,
+          6.14
         ]
       }
     },
@@ -1388,17 +1388,17 @@
         "date": "13 August 2026",
         "time": "07:53 PM",
         "time_24": "19:53",
-        "latitude": 6.38,
-        "longitude": 125.79,
-        "depth_km": 15.0,
+        "latitude": 6.18,
+        "longitude": 125.81,
+        "depth_km": 84.0,
         "magnitude": 2.9,
-        "location": "020km S 78Â° E of Malita (Davao Occidental)"
+        "location": "012km S 81Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.79,
-          6.38
+          125.81,
+          6.18
         ]
       }
     },
