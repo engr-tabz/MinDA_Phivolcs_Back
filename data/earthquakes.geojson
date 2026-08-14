@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T14:38:47.474004+00:00",
+  "generated_at": "2026-08-14T15:32:46.764251+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "11:21 PM",
+        "time_24": "23:21",
+        "latitude": 13.28,
+        "longitude": 120.45,
+        "depth_km": 28.0,
+        "magnitude": 1.3,
+        "location": "015km S 04Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45,
+          13.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "11:18 PM",
+        "time_24": "23:18",
+        "latitude": 6.83,
+        "longitude": 124.5,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "005km S 87Â° E of Ampatuan (Maguindanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5,
+          6.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "11:10 PM",
+        "time_24": "23:10",
+        "latitude": 10.34,
+        "longitude": 126.34,
+        "depth_km": 6.0,
+        "magnitude": 1.5,
+        "location": "047km N 39Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          10.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "10:31 PM",
+        "time_24": "22:31",
+        "latitude": 7.86,
+        "longitude": 123.46,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "005km N 39Â° E of City Of Pagadian  (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.46,
+          7.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "10:27 PM",
+        "time_24": "22:27",
+        "latitude": 6.87,
+        "longitude": 124.63,
+        "depth_km": 11.0,
+        "magnitude": 2.2,
+        "location": "003km S 82Â° E of Sultan Sa Barongis (Maguindanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63,
+          6.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -748,17 +848,17 @@
         "date": "14 August 2026",
         "time": "05:50 AM",
         "time_24": "05:50",
-        "latitude": 13.09,
-        "longitude": 124.21,
-        "depth_km": 2.0,
-        "magnitude": 2.3,
-        "location": "005km N 18Â° E of Prieto Diaz (Sorsogon)"
+        "latitude": 13.04,
+        "longitude": 124.46,
+        "depth_km": 6.0,
+        "magnitude": 2.5,
+        "location": "029km N 90Â° E of Prieto Diaz (Sorsogon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.21,
-          13.09
+          124.46,
+          13.04
         ]
       }
     },
