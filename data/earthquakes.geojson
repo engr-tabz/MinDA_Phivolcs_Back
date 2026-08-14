@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T09:17:04.189054+00:00",
+  "generated_at": "2026-08-14T10:28:43.394700+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "06:13 PM",
+        "time_24": "18:13",
+        "latitude": 5.38,
+        "longitude": 125.32,
+        "depth_km": 66.0,
+        "magnitude": 2.8,
+        "location": "011km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "05:43 PM",
+        "time_24": "17:43",
+        "latitude": 4.45,
+        "longitude": 127.99,
+        "depth_km": 198.0,
+        "magnitude": 3.2,
+        "location": "302km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.99,
+          4.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1248,17 @@
         "date": "13 August 2026",
         "time": "09:25 PM",
         "time_24": "21:25",
-        "latitude": 8.69,
-        "longitude": 126.41,
-        "depth_km": 23.0,
+        "latitude": 8.65,
+        "longitude": 126.52,
+        "depth_km": 29.0,
         "magnitude": 2.3,
-        "location": "017km S 46Â° E of Marihatag (Surigao Del Sur)"
+        "location": "030km S 56Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.41,
-          8.69
+          126.52,
+          8.65
         ]
       }
     },
@@ -1368,17 +1408,17 @@
         "date": "13 August 2026",
         "time": "07:02 PM",
         "time_24": "19:02",
-        "latitude": 8.67,
-        "longitude": 125.66,
-        "depth_km": 54.0,
+        "latitude": 8.66,
+        "longitude": 125.55,
+        "depth_km": 24.0,
         "magnitude": 2.3,
-        "location": "002km S 69Â° E of Esperanza (Agusan Del Sur)"
+        "location": "011km S 82Â° W of Esperanza (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.66,
-          8.67
+          125.55,
+          8.66
         ]
       }
     },
@@ -1388,17 +1428,17 @@
         "date": "13 August 2026",
         "time": "06:22 PM",
         "time_24": "18:22",
-        "latitude": 5.59,
-        "longitude": 125.33,
-        "depth_km": 33.0,
-        "magnitude": 1.6,
-        "location": "021km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.76,
+        "longitude": 125.32,
+        "depth_km": 13.0,
+        "magnitude": 1.7,
+        "location": "015km S 63Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.59
+          125.32,
+          5.76
         ]
       }
     },
