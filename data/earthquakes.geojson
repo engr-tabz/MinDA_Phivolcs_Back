@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T16:28:18.994210+00:00",
+  "generated_at": "2026-08-14T17:32:02.933648+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "01:22 AM",
+        "time_24": "01:22",
+        "latitude": 5.83,
+        "longitude": 126.03,
+        "depth_km": 82.0,
+        "magnitude": 2.4,
+        "location": "044km S 78Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.03,
+          5.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 12.13,
+        "longitude": 123.99,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "007km S 77Â° E of Palanas (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.99,
+          12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "01:07 AM",
+        "time_24": "01:07",
+        "latitude": 8.82,
+        "longitude": 126.42,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "014km N 81Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          8.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "12:37 AM",
+        "time_24": "00:37",
+        "latitude": 8.56,
+        "longitude": 125.78,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "008km N 31Â° E of San Luis (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.78,
+          8.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "12:37 AM",
+        "time_24": "00:37",
+        "latitude": 7.93,
+        "longitude": 126.4,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "007km N 23Â° E of Boston (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          7.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -868,17 +968,17 @@
         "date": "14 August 2026",
         "time": "07:28 AM",
         "time_24": "07:28",
-        "latitude": 10.01,
-        "longitude": 125.85,
-        "depth_km": 168.0,
+        "latitude": 9.86,
+        "longitude": 125.59,
+        "depth_km": 144.0,
         "magnitude": 2.5,
-        "location": "018km N 74Â° W of San Benito (Surigao Del Norte)"
+        "location": "011km S 08Â° W of Dinagat (Dinagat Islands)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.85,
-          10.01
+          125.59,
+          9.86
         ]
       }
     },
@@ -1268,17 +1368,17 @@
         "date": "14 August 2026",
         "time": "01:31 AM",
         "time_24": "01:31",
-        "latitude": 6.64,
-        "longitude": 125.13,
-        "depth_km": 8.0,
-        "magnitude": 2.7,
-        "location": "012km S 51Â° W of Matanao (Davao Del Sur)"
+        "latitude": 6.54,
+        "longitude": 125.25,
+        "depth_km": 20.0,
+        "magnitude": 2.5,
+        "location": "009km S 03Â° W of Kiblawan (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.13,
-          6.64
+          125.25,
+          6.54
         ]
       }
     },
@@ -1288,17 +1388,17 @@
         "date": "14 August 2026",
         "time": "01:10 AM",
         "time_24": "01:10",
-        "latitude": 11.45,
-        "longitude": 125.37,
-        "depth_km": 23.0,
-        "magnitude": 3.1,
-        "location": "015km S 67Â° W of Maydolong (Eastern Samar)"
+        "latitude": 11.48,
+        "longitude": 125.33,
+        "depth_km": 26.0,
+        "magnitude": 3.0,
+        "location": "018km S 37Â° W of City Of Borongan (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
-          11.45
+          125.33,
+          11.48
         ]
       }
     },
