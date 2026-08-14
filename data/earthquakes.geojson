@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T22:00:59.869781+00:00",
+  "generated_at": "2026-08-14T22:34:47.148367+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "06:23 AM",
+        "time_24": "06:23",
+        "latitude": 17.67,
+        "longitude": 120.42,
+        "depth_km": 37.0,
+        "magnitude": 2.0,
+        "location": "002km S 10Â° W of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42,
+          17.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "05:57 AM",
+        "time_24": "05:57",
+        "latitude": 17.69,
+        "longitude": 120.49,
+        "depth_km": 26.0,
+        "magnitude": 3.2,
+        "location": "007km N 81Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          17.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
