@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-13T23:35:16.391398+00:00",
+  "generated_at": "2026-08-14T00:42:21.101183+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "08:10 AM",
+        "time_24": "08:10",
+        "latitude": 5.83,
+        "longitude": 125.28,
+        "depth_km": 18.0,
+        "magnitude": 1.4,
+        "location": "008km N 81Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "08:04 AM",
+        "time_24": "08:04",
+        "latitude": 7.35,
+        "longitude": 126.25,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "014km N 75Â° E of Maragusan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          7.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "07:53 AM",
+        "time_24": "07:53",
+        "latitude": 11.64,
+        "longitude": 125.23,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "019km S 70Â° E of Hinabangan (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          11.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "07:28 AM",
+        "time_24": "07:28",
+        "latitude": 10.01,
+        "longitude": 125.85,
+        "depth_km": 168.0,
+        "magnitude": 2.5,
+        "location": "018km N 74Â° W of San Benito (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85,
+          10.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
