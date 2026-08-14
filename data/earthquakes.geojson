@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T22:34:47.148367+00:00",
+  "generated_at": "2026-08-14T22:57:16.390990+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "06:28 AM",
+        "time_24": "06:28",
+        "latitude": 17.65,
+        "longitude": 120.48,
+        "depth_km": 4.0,
+        "magnitude": 2.3,
+        "location": "007km S 58Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48,
+          17.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
