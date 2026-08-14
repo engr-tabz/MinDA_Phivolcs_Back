@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-14T18:29:19.314671+00:00",
+  "generated_at": "2026-08-14T19:32:26.067136+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 15.83,
+        "longitude": 119.94,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "004km N 77Â° E of Infanta (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94,
+          15.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:56 AM",
+        "time_24": "02:56",
+        "latitude": 3.58,
+        "longitude": 128.28,
+        "depth_km": 14.0,
+        "magnitude": 3.6,
+        "location": "376km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.28,
+          3.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:55 AM",
+        "time_24": "02:55",
+        "latitude": 8.8,
+        "longitude": 126.02,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "017km S 06Â° W of San Miguel (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.02,
+          8.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 5.77,
+        "longitude": 125.26,
+        "depth_km": 18.0,
+        "magnitude": 2.1,
+        "location": "009km S 51Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:51 AM",
+        "time_24": "02:51",
+        "latitude": 4.94,
+        "longitude": 125.45,
+        "depth_km": 37.0,
+        "magnitude": 2.3,
+        "location": "052km S 03Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          4.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:39 AM",
+        "time_24": "02:39",
+        "latitude": 5.4,
+        "longitude": 125.41,
+        "depth_km": 20.0,
+        "magnitude": 2.2,
+        "location": "002km S 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 16.41,
+        "longitude": 122.01,
+        "depth_km": 3.0,
+        "magnitude": 2.0,
+        "location": "019km N 40Â° W of Casiguran (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.01,
+          16.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "02:23 AM",
+        "time_24": "02:23",
+        "latitude": 16.45,
+        "longitude": 119.77,
+        "depth_km": 24.0,
+        "magnitude": 3.1,
+        "location": "015km N 63Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.77,
+          16.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1188,17 +1348,17 @@
         "date": "14 August 2026",
         "time": "03:54 AM",
         "time_24": "03:54",
-        "latitude": 11.4,
+        "latitude": 11.37,
         "longitude": 125.69,
-        "depth_km": 12.0,
+        "depth_km": 15.0,
         "magnitude": 2.6,
-        "location": "010km N 56Â° E of Hernani (Eastern Samar)"
+        "location": "009km N 72Â° E of Hernani (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.69,
-          11.4
+          11.37
         ]
       }
     },
