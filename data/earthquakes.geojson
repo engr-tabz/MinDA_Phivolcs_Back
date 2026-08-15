@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T01:11:03.796114+00:00",
+  "generated_at": "2026-08-15T02:19:25.948236+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 August 2026",
+        "time": "10:48 AM",
+        "time_24": "10:48",
+        "latitude": 8.59,
+        "longitude": 125.81,
+        "depth_km": 12.0,
+        "magnitude": 3.3,
+        "location": "012km S 83Â° W of Prosperidad (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81,
+          8.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "09:40 AM",
+        "time_24": "09:40",
+        "latitude": 8.26,
+        "longitude": 125.96,
+        "depth_km": 16.0,
+        "magnitude": 2.9,
+        "location": "010km N 26Â° W of Bunawan (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.96,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "09:10 AM",
+        "time_24": "09:10",
+        "latitude": 7.42,
+        "longitude": 126.12,
+        "depth_km": 34.0,
+        "magnitude": 1.4,
+        "location": "011km N 02Â° W of Maragusan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          7.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "09:09 AM",
+        "time_24": "09:09",
+        "latitude": 7.37,
+        "longitude": 126.2,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "010km N 55Â° E of Maragusan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          7.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1088,17 +1168,17 @@
         "date": "14 August 2026",
         "time": "01:45 PM",
         "time_24": "13:45",
-        "latitude": 10.19,
-        "longitude": 126.07,
-        "depth_km": 19.0,
-        "magnitude": 2.2,
-        "location": "019km North of Burgos (Surigao Del Norte)"
+        "latitude": 10.38,
+        "longitude": 126.39,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "053km N 41Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.07,
-          10.19
+          126.39,
+          10.38
         ]
       }
     },
@@ -1128,17 +1208,17 @@
         "date": "14 August 2026",
         "time": "01:31 PM",
         "time_24": "13:31",
-        "latitude": 5.78,
-        "longitude": 125.29,
-        "depth_km": 34.0,
+        "latitude": 5.92,
+        "longitude": 125.27,
+        "depth_km": 31.0,
         "magnitude": 1.5,
-        "location": "011km S 62Â° E of Glan (Sarangani)"
+        "location": "006km S 19Â° W of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.78
+          125.27,
+          5.92
         ]
       }
     },
@@ -1168,17 +1248,17 @@
         "date": "14 August 2026",
         "time": "12:54 PM",
         "time_24": "12:54",
-        "latitude": 5.41,
-        "longitude": 125.22,
-        "depth_km": 10.0,
+        "latitude": 5.42,
+        "longitude": 125.23,
+        "depth_km": 2.0,
         "magnitude": 2.0,
-        "location": "023km S 90Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "022km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.22,
-          5.41
+          125.23,
+          5.42
         ]
       }
     },
@@ -1188,17 +1268,17 @@
         "date": "14 August 2026",
         "time": "12:11 PM",
         "time_24": "12:11",
-        "latitude": 19.35,
-        "longitude": 121.11,
-        "depth_km": 27.0,
-        "magnitude": 2.3,
-        "location": "028km N 21Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.34,
+        "longitude": 121.12,
+        "depth_km": 29.0,
+        "magnitude": 3.0,
+        "location": "027km N 20Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.11,
-          19.35
+          121.12,
+          19.34
         ]
       }
     },
@@ -1228,17 +1308,17 @@
         "date": "14 August 2026",
         "time": "11:55 AM",
         "time_24": "11:55",
-        "latitude": 5.99,
+        "latitude": 5.34,
         "longitude": 125.26,
-        "depth_km": 9.0,
-        "magnitude": 2.3,
-        "location": "004km N 50Â° W of Malapatan (Sarangani)"
+        "depth_km": 38.0,
+        "magnitude": 2.5,
+        "location": "020km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.26,
-          5.99
+          5.34
         ]
       }
     },
@@ -1249,15 +1329,15 @@
         "time": "10:52 AM",
         "time_24": "10:52",
         "latitude": 8.66,
-        "longitude": 126.59,
-        "depth_km": 31.0,
-        "magnitude": 2.2,
-        "location": "036km S 64Â° E of Marihatag (Surigao Del Sur)"
+        "longitude": 126.44,
+        "depth_km": 23.0,
+        "magnitude": 2.7,
+        "location": "022km S 46Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.59,
+          126.44,
           8.66
         ]
       }
@@ -1268,17 +1348,17 @@
         "date": "14 August 2026",
         "time": "10:43 AM",
         "time_24": "10:43",
-        "latitude": 8.54,
-        "longitude": 125.84,
-        "depth_km": 4.0,
-        "magnitude": 2.4,
-        "location": "010km S 53Â° W of Prosperidad (Agusan Del Sur)"
+        "latitude": 8.62,
+        "longitude": 125.79,
+        "depth_km": 5.0,
+        "magnitude": 2.9,
+        "location": "011km S 23Â° E of City Of Bayugan (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.84,
-          8.54
+          125.79,
+          8.62
         ]
       }
     },
