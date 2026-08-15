@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T18:58:10.520949+00:00",
+  "generated_at": "2026-08-15T19:28:06.219982+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:16 AM",
+        "time_24": "03:16",
+        "latitude": 4.84,
+        "longitude": 125.46,
+        "depth_km": 106.0,
+        "magnitude": 2.5,
+        "location": "063km S 04Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          4.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:02 AM",
+        "time_24": "03:02",
+        "latitude": 5.61,
+        "longitude": 125.1,
+        "depth_km": 25.0,
+        "magnitude": 2.3,
+        "location": "027km S 27Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:53 AM",
+        "time_24": "02:53",
+        "latitude": 17.72,
+        "longitude": 120.49,
+        "depth_km": 4.0,
+        "magnitude": 2.5,
+        "location": "005km S 49Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          17.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
