@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T10:50:11.582783+00:00",
+  "generated_at": "2026-08-15T11:10:38.257970+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "06:57 PM",
+        "time_24": "18:57",
+        "latitude": 5.85,
+        "longitude": 125.27,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "007km N 69Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -488,17 +508,17 @@
         "date": "15 August 2026",
         "time": "05:37 AM",
         "time_24": "05:37",
-        "latitude": 14.83,
-        "longitude": 122.55,
-        "depth_km": 10.0,
-        "magnitude": 2.2,
-        "location": "027km N 58Â° E of Jomalig (Quezon)"
+        "latitude": 14.97,
+        "longitude": 122.61,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "043km N 46Â° E of Jomalig (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.55,
-          14.83
+          122.61,
+          14.97
         ]
       }
     },
