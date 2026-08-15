@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T07:26:04.743703+00:00",
+  "generated_at": "2026-08-15T07:53:55.756037+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "03:44 PM",
+        "time_24": "15:44",
+        "latitude": 13.15,
+        "longitude": 120.43,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "020km S 63Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43,
+          13.15
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
