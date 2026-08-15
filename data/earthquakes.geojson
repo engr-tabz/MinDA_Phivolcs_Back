@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T20:02:57.212032+00:00",
+  "generated_at": "2026-08-15T20:34:55.631791+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 6.48,
+        "longitude": 126.82,
+        "depth_km": 99.0,
+        "magnitude": 3.3,
+        "location": "075km S 33Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.82,
+          6.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:11 AM",
+        "time_24": "04:11",
+        "latitude": 5.46,
+        "longitude": 125.29,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "015km N 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:02 AM",
+        "time_24": "04:02",
+        "latitude": 9.9,
+        "longitude": 126.11,
+        "depth_km": 34.0,
+        "magnitude": 1.4,
+        "location": "004km N 14Â° E of Pilar (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          9.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 9.59,
+        "longitude": 123.73,
+        "depth_km": 34.0,
+        "magnitude": 2.3,
+        "location": "002km N 77Â° W of Panglao (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.73,
+          9.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
