@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T11:54:23.573572+00:00",
+  "generated_at": "2026-08-15T12:38:36.756635+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "08:13 PM",
+        "time_24": "20:13",
+        "latitude": 5.34,
+        "longitude": 125.29,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "016km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.34
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -708,17 +728,17 @@
         "date": "15 August 2026",
         "time": "02:56 AM",
         "time_24": "02:56",
-        "latitude": 3.58,
-        "longitude": 128.28,
-        "depth_km": 14.0,
-        "magnitude": 3.6,
-        "location": "376km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 3.04,
+        "longitude": 127.82,
+        "depth_km": 13.0,
+        "magnitude": 3.8,
+        "location": "374km S 45Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.28,
-          3.58
+          127.82,
+          3.04
         ]
       }
     },
@@ -868,17 +888,17 @@
         "date": "15 August 2026",
         "time": "01:50 AM",
         "time_24": "01:50",
-        "latitude": 10.39,
-        "longitude": 126.33,
-        "depth_km": 6.0,
-        "magnitude": 2.0,
-        "location": "050km N 34Â° E of Burgos (Surigao Del Norte)"
+        "latitude": 10.38,
+        "longitude": 126.29,
+        "depth_km": 13.0,
+        "magnitude": 2.2,
+        "location": "046km N 30Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.33,
-          10.39
+          126.29,
+          10.38
         ]
       }
     },
@@ -948,17 +968,17 @@
         "date": "15 August 2026",
         "time": "01:07 AM",
         "time_24": "01:07",
-        "latitude": 8.82,
-        "longitude": 126.42,
-        "depth_km": 32.0,
-        "magnitude": 1.6,
-        "location": "014km N 81Â° E of Marihatag (Surigao Del Sur)"
+        "latitude": 8.81,
+        "longitude": 126.36,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "007km N 79Â° E of Marihatag (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.42,
-          8.82
+          126.36,
+          8.81
         ]
       }
     },
@@ -1028,17 +1048,17 @@
         "date": "15 August 2026",
         "time": "12:01 AM",
         "time_24": "00:01",
-        "latitude": 17.23,
-        "longitude": 121.17,
-        "depth_km": 17.0,
-        "magnitude": 2.5,
-        "location": "005km S 33Â° E of Tinglayan (Kalinga)"
+        "latitude": 17.26,
+        "longitude": 121.21,
+        "depth_km": 8.0,
+        "magnitude": 2.6,
+        "location": "003km S 53Â° W of Tanudan (Kalinga)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.17,
-          17.23
+          121.21,
+          17.26
         ]
       }
     },
