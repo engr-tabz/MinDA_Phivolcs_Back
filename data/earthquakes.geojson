@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T14:38:19.033350+00:00",
+  "generated_at": "2026-08-15T14:58:57.862427+00:00",
   "features": [
     {
       "type": "Feature",
@@ -789,15 +789,15 @@
         "time": "03:42 AM",
         "time_24": "03:42",
         "latitude": 17.44,
-        "longitude": 120.36,
-        "depth_km": 18.0,
+        "longitude": 120.31,
+        "depth_km": 24.0,
         "magnitude": 2.5,
-        "location": "009km S 54Â° W of Santa (Ilocos Sur)"
+        "location": "014km S 70Â° W of Santa (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.36,
+          120.31,
           17.44
         ]
       }
@@ -948,17 +948,17 @@
         "date": "15 August 2026",
         "time": "02:32 AM",
         "time_24": "02:32",
-        "latitude": 16.41,
-        "longitude": 122.01,
+        "latitude": 16.42,
+        "longitude": 121.96,
         "depth_km": 3.0,
         "magnitude": 2.0,
-        "location": "019km N 40Â° W of Casiguran (Aurora)"
+        "location": "023km N 48Â° W of Casiguran (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.01,
-          16.41
+          121.96,
+          16.42
         ]
       }
     },
