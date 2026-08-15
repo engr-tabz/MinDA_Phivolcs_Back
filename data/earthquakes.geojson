@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T03:09:16.894316+00:00",
+  "generated_at": "2026-08-15T06:52:08.667222+00:00",
   "features": [
     {
       "type": "Feature",
@@ -208,17 +208,17 @@
         "date": "15 August 2026",
         "time": "05:57 AM",
         "time_24": "05:57",
-        "latitude": 17.69,
-        "longitude": 120.49,
-        "depth_km": 26.0,
-        "magnitude": 3.2,
-        "location": "007km N 81Â° E of Magsingal (Ilocos Sur)"
+        "latitude": 17.65,
+        "longitude": 120.44,
+        "depth_km": 3.0,
+        "magnitude": 3.7,
+        "location": "004km S 17Â° E of Magsingal (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.49,
-          17.69
+          120.44,
+          17.65
         ]
       }
     },
@@ -1208,17 +1208,17 @@
         "date": "14 August 2026",
         "time": "02:14 PM",
         "time_24": "14:14",
-        "latitude": 5.64,
-        "longitude": 125.32,
-        "depth_km": 20.0,
+        "latitude": 5.76,
+        "longitude": 125.31,
+        "depth_km": 12.0,
         "magnitude": 2.5,
-        "location": "024km S 32Â° E of Glan (Sarangani)"
+        "location": "014km S 62Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          5.64
+          125.31,
+          5.76
         ]
       }
     },
