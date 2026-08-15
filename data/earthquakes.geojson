@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T08:28:05.746779+00:00",
+  "generated_at": "2026-08-15T08:58:07.305434+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "04:43 PM",
+        "time_24": "16:43",
+        "latitude": 5.79,
+        "longitude": 125.43,
+        "depth_km": 23.0,
+        "magnitude": 1.4,
+        "location": "025km S 81Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
