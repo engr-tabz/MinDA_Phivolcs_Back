@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T20:34:55.631791+00:00",
+  "generated_at": "2026-08-15T20:56:58.059459+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:47 AM",
+        "time_24": "04:47",
+        "latitude": 11.71,
+        "longitude": 125.52,
+        "depth_km": 14.0,
+        "magnitude": 2.4,
+        "location": "009km S 55Â° E of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          11.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:41 AM",
+        "time_24": "04:41",
+        "latitude": 6.29,
+        "longitude": 127.29,
+        "depth_km": 148.0,
+        "magnitude": 2.7,
+        "location": "125km S 48Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.29,
+          6.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:32 AM",
+        "time_24": "04:32",
+        "latitude": 6.73,
+        "longitude": 126.05,
+        "depth_km": 26.0,
+        "magnitude": 1.7,
+        "location": "008km N 18Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.05,
+          6.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:30 AM",
+        "time_24": "04:30",
+        "latitude": 8.93,
+        "longitude": 126.46,
+        "depth_km": 29.0,
+        "magnitude": 2.6,
+        "location": "018km N 87Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.46,
+          8.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
