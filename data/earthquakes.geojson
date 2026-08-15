@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T19:28:06.219982+00:00",
+  "generated_at": "2026-08-15T19:48:14.953625+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:37 AM",
+        "time_24": "03:37",
+        "latitude": 13.38,
+        "longitude": 120.24,
+        "depth_km": 34.0,
+        "magnitude": 2.5,
+        "location": "025km S 82Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24,
+          13.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:35 AM",
+        "time_24": "03:35",
+        "latitude": 17.65,
+        "longitude": 120.49,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "009km S 59Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          17.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
