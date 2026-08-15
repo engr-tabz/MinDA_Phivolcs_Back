@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T12:38:36.756635+00:00",
+  "generated_at": "2026-08-15T13:17:23.737313+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "09:10 PM",
+        "time_24": "21:10",
+        "latitude": 5.81,
+        "longitude": 124.91,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "011km S 58Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.91,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "08:58 PM",
+        "time_24": "20:58",
+        "latitude": 6.57,
+        "longitude": 126.44,
+        "depth_km": 33.0,
+        "magnitude": 3.1,
+        "location": "042km S 78Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.44,
+          6.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "08:29 PM",
+        "time_24": "20:29",
+        "latitude": 5.69,
+        "longitude": 125.19,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "015km S 07Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
