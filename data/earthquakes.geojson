@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T14:58:57.862427+00:00",
+  "generated_at": "2026-08-15T15:29:41.955915+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "11:16 PM",
+        "time_24": "23:16",
+        "latitude": 6.1,
+        "longitude": 125.72,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "011km S 13Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.72,
+          6.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "11:12 PM",
+        "time_24": "23:12",
+        "latitude": 15.53,
+        "longitude": 120.02,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "007km N 89Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.02,
+          15.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "11:07 PM",
+        "time_24": "23:07",
+        "latitude": 5.23,
+        "longitude": 125.24,
+        "depth_km": 32.0,
+        "magnitude": 2.4,
+        "location": "028km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.23
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -388,17 +448,17 @@
         "date": "15 August 2026",
         "time": "11:15 AM",
         "time_24": "11:15",
-        "latitude": 13.36,
-        "longitude": 120.9,
-        "depth_km": 9.0,
+        "latitude": 13.35,
+        "longitude": 120.86,
+        "depth_km": 6.0,
         "magnitude": 3.0,
-        "location": "016km S 59Â° W of San Teodoro (Oriental Mindoro)"
+        "location": "018km S 54Â° E of Abra De Ilog (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.9,
-          13.36
+          120.86,
+          13.35
         ]
       }
     },
@@ -528,17 +588,17 @@
         "date": "15 August 2026",
         "time": "09:09 AM",
         "time_24": "09:09",
-        "latitude": 7.37,
-        "longitude": 126.2,
-        "depth_km": 33.0,
-        "magnitude": 1.6,
-        "location": "010km N 55Â° E of Maragusan (Davao De Oro)"
+        "latitude": 7.39,
+        "longitude": 126.26,
+        "depth_km": 2.0,
+        "magnitude": 2.0,
+        "location": "017km N 64Â° E of Maragusan (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.2,
-          7.37
+          126.26,
+          7.39
         ]
       }
     },
@@ -548,17 +608,17 @@
         "date": "15 August 2026",
         "time": "07:38 AM",
         "time_24": "07:38",
-        "latitude": 4.68,
-        "longitude": 125.19,
-        "depth_km": 33.0,
+        "latitude": 4.87,
+        "longitude": 125.11,
+        "depth_km": 15.0,
         "magnitude": 3.8,
-        "location": "085km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "070km S 30Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.19,
-          4.68
+          125.11,
+          4.87
         ]
       }
     },
@@ -608,17 +668,17 @@
         "date": "15 August 2026",
         "time": "05:57 AM",
         "time_24": "05:57",
-        "latitude": 17.65,
-        "longitude": 120.44,
-        "depth_km": 3.0,
-        "magnitude": 3.7,
-        "location": "004km S 17Â° E of Magsingal (Ilocos Sur)"
+        "latitude": 17.86,
+        "longitude": 120.36,
+        "depth_km": 1.0,
+        "magnitude": 3.6,
+        "location": "010km S 87Â° W of Sinait (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.44,
-          17.65
+          120.36,
+          17.86
         ]
       }
     },
