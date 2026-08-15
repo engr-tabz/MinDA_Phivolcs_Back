@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T10:27:01.351470+00:00",
+  "generated_at": "2026-08-15T10:50:11.582783+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "06:34 PM",
+        "time_24": "18:34",
+        "latitude": 18.19,
+        "longitude": 122.08,
+        "depth_km": 16.0,
+        "magnitude": 1.9,
+        "location": "012km S 46Â° E of Gonzaga (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08,
+          18.19
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -548,17 +568,17 @@
         "date": "15 August 2026",
         "time": "04:30 AM",
         "time_24": "04:30",
-        "latitude": 12.13,
-        "longitude": 124.01,
-        "depth_km": 5.0,
+        "latitude": 12.1,
+        "longitude": 123.92,
+        "depth_km": 2.0,
         "magnitude": 2.4,
-        "location": "009km S 81Â° E of Palanas (Masbate)"
+        "location": "005km S 02Â° W of Palanas (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.01,
-          12.13
+          123.92,
+          12.1
         ]
       }
     },
