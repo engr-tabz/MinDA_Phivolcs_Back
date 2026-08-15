@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T18:27:36.968400+00:00",
+  "generated_at": "2026-08-15T18:58:10.520949+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:41 AM",
+        "time_24": "02:41",
+        "latitude": 9.82,
+        "longitude": 125.59,
+        "depth_km": 10.0,
+        "magnitude": 1.9,
+        "location": "011km N 71Â° E of City Of Surigao (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.59,
+          9.82
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
