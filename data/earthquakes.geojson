@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T13:47:29.695339+00:00",
+  "generated_at": "2026-08-15T14:08:07.090737+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "10:01 PM",
+        "time_24": "22:01",
+        "latitude": 11.13,
+        "longitude": 124.23,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "019km N 63Â° W of Palompon (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.23,
+          11.13
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -948,17 +968,17 @@
         "date": "15 August 2026",
         "time": "02:03 AM",
         "time_24": "02:03",
-        "latitude": 3.12,
-        "longitude": 127.94,
-        "depth_km": 4.0,
+        "latitude": 3.65,
+        "longitude": 128.08,
+        "depth_km": 15.0,
         "magnitude": 4.7,
-        "location": "377km S 48Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "353km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.94,
-          3.12
+          128.08,
+          3.65
         ]
       }
     },
@@ -1028,17 +1048,17 @@
         "date": "15 August 2026",
         "time": "01:10 AM",
         "time_24": "01:10",
-        "latitude": 12.13,
-        "longitude": 123.99,
-        "depth_km": 5.0,
+        "latitude": 12.1,
+        "longitude": 123.94,
+        "depth_km": 2.0,
         "magnitude": 2.3,
-        "location": "007km S 77Â° E of Palanas (Masbate)"
+        "location": "005km S 19Â° E of Palanas (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.99,
-          12.13
+          123.94,
+          12.1
         ]
       }
     },
