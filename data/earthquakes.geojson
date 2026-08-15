@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T11:10:38.257970+00:00",
+  "generated_at": "2026-08-15T11:34:58.526207+00:00",
   "features": [
     {
       "type": "Feature",
@@ -348,17 +348,17 @@
         "date": "15 August 2026",
         "time": "09:40 AM",
         "time_24": "09:40",
-        "latitude": 8.26,
-        "longitude": 125.96,
-        "depth_km": 16.0,
-        "magnitude": 2.9,
-        "location": "010km N 26Â° W of Bunawan (Agusan Del Sur)"
+        "latitude": 8.31,
+        "longitude": 125.98,
+        "depth_km": 21.0,
+        "magnitude": 2.7,
+        "location": "015km N 07Â° W of Bunawan (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.96,
-          8.26
+          125.98,
+          8.31
         ]
       }
     },
@@ -1048,17 +1048,17 @@
         "date": "14 August 2026",
         "time": "11:57 PM",
         "time_24": "23:57",
-        "latitude": 5.42,
-        "longitude": 125.22,
-        "depth_km": 13.0,
-        "magnitude": 1.8,
-        "location": "022km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.12,
+        "longitude": 125.57,
+        "depth_km": 105.0,
+        "magnitude": 2.0,
+        "location": "036km S 27Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.22,
-          5.42
+          125.57,
+          5.12
         ]
       }
     },
@@ -1129,15 +1129,15 @@
         "time": "10:31 PM",
         "time_24": "22:31",
         "latitude": 7.86,
-        "longitude": 123.46,
-        "depth_km": 26.0,
-        "magnitude": 1.5,
-        "location": "005km N 39Â° E of City Of Pagadian  (Zamboanga Del Sur)"
+        "longitude": 123.41,
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "004km N 36Â° W of City Of Pagadian  (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.46,
+          123.41,
           7.86
         ]
       }
@@ -1208,17 +1208,17 @@
         "date": "14 August 2026",
         "time": "09:35 PM",
         "time_24": "21:35",
-        "latitude": 5.95,
+        "latitude": 5.72,
         "longitude": 125.39,
-        "depth_km": 23.0,
-        "magnitude": 2.0,
-        "location": "012km S 80Â° E of Malapatan (Sarangani)"
+        "depth_km": 25.0,
+        "magnitude": 2.1,
+        "location": "024km S 62Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.39,
-          5.95
+          5.72
         ]
       }
     },
@@ -1308,17 +1308,17 @@
         "date": "14 August 2026",
         "time": "07:56 PM",
         "time_24": "19:56",
-        "latitude": 4.6,
-        "longitude": 125.45,
-        "depth_km": 32.0,
+        "latitude": 4.56,
+        "longitude": 125.81,
+        "depth_km": 6.0,
         "magnitude": 2.9,
-        "location": "090km S 02Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "104km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.45,
-          4.6
+          125.81,
+          4.56
         ]
       }
     },
@@ -1328,17 +1328,17 @@
         "date": "14 August 2026",
         "time": "07:08 PM",
         "time_24": "19:08",
-        "latitude": 14.78,
-        "longitude": 119.57,
-        "depth_km": 29.0,
+        "latitude": 14.7,
+        "longitude": 119.27,
+        "depth_km": 28.0,
         "magnitude": 2.4,
-        "location": "058km S 71Â° W of San Antonio (Zambales)"
+        "location": "092km S 73Â° W of San Antonio (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.57,
-          14.78
+          119.27,
+          14.7
         ]
       }
     },
