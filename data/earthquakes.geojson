@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T17:53:37.591349+00:00",
+  "generated_at": "2026-08-15T18:27:36.968400+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:05 AM",
+        "time_24": "02:05",
+        "latitude": 6.99,
+        "longitude": 126.05,
+        "depth_km": 28.0,
+        "magnitude": 2.7,
+        "location": "005km N 60Â° E of Banaybanay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.05,
+          6.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:01 AM",
+        "time_24": "02:01",
+        "latitude": 5.57,
+        "longitude": 125.32,
+        "depth_km": 2.0,
+        "magnitude": 2.8,
+        "location": "020km N 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "01:59 AM",
+        "time_24": "01:59",
+        "latitude": 5.66,
+        "longitude": 126.52,
+        "depth_km": 30.0,
+        "magnitude": 2.2,
+        "location": "101km S 74Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.52,
+          5.66
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
