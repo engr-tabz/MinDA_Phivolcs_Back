@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T19:48:14.953625+00:00",
+  "generated_at": "2026-08-15T20:02:57.212032+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:43 AM",
+        "time_24": "03:43",
+        "latitude": 17.74,
+        "longitude": 120.48,
+        "depth_km": 3.0,
+        "magnitude": 2.3,
+        "location": "002km S 81Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48,
+          17.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:41 AM",
+        "time_24": "03:41",
+        "latitude": 13.39,
+        "longitude": 120.26,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "022km S 83Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          13.39
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
