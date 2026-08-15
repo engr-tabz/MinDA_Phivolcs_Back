@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-15T15:29:41.955915+00:00",
+  "generated_at": "2026-08-15T15:51:08.645076+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 August 2026",
+        "time": "11:25 PM",
+        "time_24": "23:25",
+        "latitude": 17.63,
+        "longitude": 120.42,
+        "depth_km": 30.0,
+        "magnitude": 1.7,
+        "location": "002km S 39Â° E of Santo Domingo (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42,
+          17.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
