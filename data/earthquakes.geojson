@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T07:04:18.857818+00:00",
+  "generated_at": "2026-08-16T07:42:02.915824+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "03:19 PM",
+        "time_24": "15:19",
+        "latitude": 18.03,
+        "longitude": 120.06,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "046km N 76Â° W of Badoc (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.06,
+          18.03
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
