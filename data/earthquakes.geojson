@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T17:02:55.282718+00:00",
+  "generated_at": "2026-08-16T17:30:41.044657+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 5.48,
+        "longitude": 125.12,
+        "depth_km": 26.0,
+        "magnitude": 1.7,
+        "location": "034km N 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          5.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "01:07 AM",
+        "time_24": "01:07",
+        "latitude": 19.22,
+        "longitude": 121.24,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "013km N 16Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.24,
+          19.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
