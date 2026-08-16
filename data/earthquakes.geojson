@@ -1,24 +1,24 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T20:50:35.304936+00:00",
+  "generated_at": "2026-08-16T21:11:48.720928+00:00",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "date": "17 August 2026",
-        "time": "04:37 AM",
-        "time_24": "04:37",
-        "latitude": 5.69,
-        "longitude": 125.26,
-        "depth_km": 19.0,
-        "magnitude": 2.0,
-        "location": "016km S 23Â° E of Glan (Sarangani)"
+        "time": "04:51 AM",
+        "time_24": "04:51",
+        "latitude": 16.5,
+        "longitude": 119.24,
+        "depth_km": 3.0,
+        "magnitude": 2.7,
+        "location": "071km N 80Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.26,
-          5.69
+          119.24,
+          16.5
         ]
       }
     },
@@ -39,6 +39,26 @@
         "coordinates": [
           125.47,
           5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "04:37 AM",
+        "time_24": "04:37",
+        "latitude": 5.69,
+        "longitude": 125.26,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "016km S 23Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.69
         ]
       }
     },
