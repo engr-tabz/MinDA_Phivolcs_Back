@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T21:11:48.720928+00:00",
+  "generated_at": "2026-08-16T21:36:16.419373+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "05:20 AM",
+        "time_24": "05:20",
+        "latitude": 9.61,
+        "longitude": 126.02,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "006km S 76Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.02,
+          9.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
