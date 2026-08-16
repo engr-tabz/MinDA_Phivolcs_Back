@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T14:33:43.754462+00:00",
+  "generated_at": "2026-08-16T14:56:09.325991+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "10:25 PM",
+        "time_24": "22:25",
+        "latitude": 17.42,
+        "longitude": 120.58,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "001km N 81Â° W of Pilar (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          17.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1228,17 @@
         "date": "16 August 2026",
         "time": "02:53 AM",
         "time_24": "02:53",
-        "latitude": 17.72,
-        "longitude": 120.49,
-        "depth_km": 4.0,
-        "magnitude": 2.5,
-        "location": "005km S 49Â° E of San Juan (Ilocos Sur)"
+        "latitude": 17.64,
+        "longitude": 120.55,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "007km N 11Â° W of Langiden (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.49,
-          17.72
+          120.55,
+          17.64
         ]
       }
     },
@@ -1228,17 +1248,17 @@
         "date": "16 August 2026",
         "time": "02:41 AM",
         "time_24": "02:41",
-        "latitude": 9.82,
-        "longitude": 125.59,
-        "depth_km": 10.0,
-        "magnitude": 1.9,
-        "location": "011km N 71Â° E of City Of Surigao (Surigao Del Norte)"
+        "latitude": 10.43,
+        "longitude": 126.38,
+        "depth_km": 9.0,
+        "magnitude": 2.2,
+        "location": "057km N 36Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.59,
-          9.82
+          126.38,
+          10.43
         ]
       }
     },
@@ -1248,17 +1268,17 @@
         "date": "16 August 2026",
         "time": "02:05 AM",
         "time_24": "02:05",
-        "latitude": 6.99,
+        "latitude": 7.07,
         "longitude": 126.05,
-        "depth_km": 28.0,
-        "magnitude": 2.7,
-        "location": "005km N 60Â° E of Banaybanay (Davao Oriental)"
+        "depth_km": 12.0,
+        "magnitude": 3.0,
+        "location": "012km N 21Â° E of Banaybanay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.05,
-          6.99
+          7.07
         ]
       }
     },
@@ -1286,19 +1306,19 @@
       "type": "Feature",
       "properties": {
         "date": "16 August 2026",
-        "time": "01:59 AM",
-        "time_24": "01:59",
-        "latitude": 5.66,
-        "longitude": 126.52,
-        "depth_km": 30.0,
-        "magnitude": 2.2,
-        "location": "101km S 74Â° E of Jose Abad Santos (Davao Occidental)"
+        "time": "01:58 AM",
+        "time_24": "01:58",
+        "latitude": 5.69,
+        "longitude": 126.62,
+        "depth_km": 53.0,
+        "magnitude": 2.7,
+        "location": "111km S 77Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.52,
-          5.66
+          126.62,
+          5.69
         ]
       }
     },
@@ -1328,17 +1348,17 @@
         "date": "16 August 2026",
         "time": "01:15 AM",
         "time_24": "01:15",
-        "latitude": 17.58,
-        "longitude": 120.49,
-        "depth_km": 6.0,
-        "magnitude": 2.6,
-        "location": "005km N 32Â° W of San Quintin (Abra)"
+        "latitude": 17.66,
+        "longitude": 120.55,
+        "depth_km": 3.0,
+        "magnitude": 2.8,
+        "location": "010km N 44Â° W of Bangued (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.49,
-          17.58
+          120.55,
+          17.66
         ]
       }
     },
@@ -1369,15 +1389,15 @@
         "time": "12:08 AM",
         "time_24": "00:08",
         "latitude": 8.5,
-        "longitude": 125.81,
-        "depth_km": 26.0,
-        "magnitude": 1.6,
-        "location": "007km N 25Â° E of Talacogon (Agusan Del Sur)"
+        "longitude": 125.87,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "010km N 60Â° E of Talacogon (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.81,
+          125.87,
           8.5
         ]
       }
