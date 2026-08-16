@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T11:28:07.566959+00:00",
+  "generated_at": "2026-08-16T11:49:33.516479+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "07:33 PM",
+        "time_24": "19:33",
+        "latitude": 11.4,
+        "longitude": 125.46,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "009km S 34Â° W of Balangkayan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          11.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "07:27 PM",
+        "time_24": "19:27",
+        "latitude": 12.97,
+        "longitude": 121.7,
+        "depth_km": 13.0,
+        "magnitude": 2.3,
+        "location": "006km N 18Â° W of Concepcion (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7,
+          12.97
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
