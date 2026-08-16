@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T08:43:35.217127+00:00",
+  "generated_at": "2026-08-16T09:11:50.131814+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:58 PM",
+        "time_24": "16:58",
+        "latitude": 17.36,
+        "longitude": 119.29,
+        "depth_km": 15.0,
+        "magnitude": 2.4,
+        "location": "117km S 77Â° W of Santa Catalina (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.29,
+          17.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:46 PM",
+        "time_24": "16:46",
+        "latitude": 9.65,
+        "longitude": 126.28,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "019km S 43Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "04:43 PM",
+        "time_24": "16:43",
+        "latitude": 5.31,
+        "longitude": 125.33,
+        "depth_km": 14.0,
+        "magnitude": 2.7,
+        "location": "015km S 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1288,17 +1348,17 @@
         "date": "15 August 2026",
         "time": "06:34 PM",
         "time_24": "18:34",
-        "latitude": 18.19,
-        "longitude": 122.08,
-        "depth_km": 16.0,
-        "magnitude": 1.9,
-        "location": "012km S 46Â° E of Gonzaga (Cagayan)"
+        "latitude": 18.16,
+        "longitude": 122.09,
+        "depth_km": 15.0,
+        "magnitude": 2.0,
+        "location": "014km S 41Â° E of Gonzaga (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.08,
-          18.19
+          122.09,
+          18.16
         ]
       }
     },
