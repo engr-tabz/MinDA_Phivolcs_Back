@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T06:15:58.868671+00:00",
+  "generated_at": "2026-08-16T07:04:18.857818+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:14 PM",
+        "time_24": "14:14",
+        "latitude": 9.62,
+        "longitude": 122.21,
+        "depth_km": 27.0,
+        "magnitude": 2.9,
+        "location": "029km S 55Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21,
+          9.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
