@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T12:14:33.261432+00:00",
+  "generated_at": "2026-08-16T13:04:02.827348+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "08:38 PM",
+        "time_24": "20:38",
+        "latitude": 5.72,
+        "longitude": 125.37,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "022km S 60Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "08:12 PM",
+        "time_24": "20:12",
+        "latitude": 5.25,
+        "longitude": 125.33,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "021km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "08:08 PM",
+        "time_24": "20:08",
+        "latitude": 13.67,
+        "longitude": 120.67,
+        "depth_km": 111.0,
+        "magnitude": 1.7,
+        "location": "019km S 14Â° E of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67,
+          13.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
