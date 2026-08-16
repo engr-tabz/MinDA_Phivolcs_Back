@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T14:01:05.903388+00:00",
+  "generated_at": "2026-08-16T14:33:43.754462+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "10:16 PM",
+        "time_24": "22:16",
+        "latitude": 7.86,
+        "longitude": 126.93,
+        "depth_km": 8.0,
+        "magnitude": 2.2,
+        "location": "051km N 52Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93,
+          7.86
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
