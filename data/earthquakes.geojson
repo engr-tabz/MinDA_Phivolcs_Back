@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T16:10:53.388087+00:00",
+  "generated_at": "2026-08-16T16:43:24.609386+00:00",
   "features": [
     {
       "type": "Feature",
@@ -488,17 +488,17 @@
         "date": "16 August 2026",
         "time": "02:14 PM",
         "time_24": "14:14",
-        "latitude": 9.62,
-        "longitude": 122.21,
-        "depth_km": 27.0,
-        "magnitude": 2.9,
-        "location": "029km S 55Â° W of City Of Sipalay (Negros Occidental)"
+        "latitude": 9.67,
+        "longitude": 122.24,
+        "depth_km": 11.0,
+        "magnitude": 3.0,
+        "location": "024km S 62Â° W of City Of Sipalay (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.21,
-          9.62
+          122.24,
+          9.67
         ]
       }
     },
@@ -728,17 +728,17 @@
         "date": "16 August 2026",
         "time": "09:37 AM",
         "time_24": "09:37",
-        "latitude": 17.68,
-        "longitude": 120.54,
+        "latitude": 17.66,
+        "longitude": 120.52,
         "depth_km": 4.0,
         "magnitude": 2.6,
-        "location": "011km S 50Â° E of San Juan (Ilocos Sur)"
+        "location": "010km S 77Â° E of Magsingal (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.54,
-          17.68
+          120.52,
+          17.66
         ]
       }
     },
@@ -768,17 +768,17 @@
         "date": "16 August 2026",
         "time": "09:30 AM",
         "time_24": "09:30",
-        "latitude": 14.19,
+        "latitude": 14.18,
         "longitude": 122.29,
         "depth_km": 2.0,
         "magnitude": 3.3,
-        "location": "011km N 85Â° W of Santa Elena (Camarines Norte)"
+        "location": "010km West of Santa Elena (Camarines Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           122.29,
-          14.19
+          14.18
         ]
       }
     },
@@ -788,17 +788,17 @@
         "date": "16 August 2026",
         "time": "09:00 AM",
         "time_24": "09:00",
-        "latitude": 6.06,
-        "longitude": 126.21,
-        "depth_km": 19.0,
+        "latitude": 5.89,
+        "longitude": 126.3,
+        "depth_km": 26.0,
         "magnitude": 3.7,
-        "location": "060km S 75Â° E of Don Marcelino (Davao Occidental)"
+        "location": "072km S 88Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.21,
-          6.06
+          126.3,
+          5.89
         ]
       }
     },
@@ -808,17 +808,17 @@
         "date": "16 August 2026",
         "time": "08:31 AM",
         "time_24": "08:31",
-        "latitude": 10.3,
-        "longitude": 126.02,
-        "depth_km": 25.0,
+        "latitude": 10.27,
+        "longitude": 126.12,
+        "depth_km": 8.0,
         "magnitude": 1.4,
-        "location": "031km N 03Â° W of Santa Monica (Surigao Del Norte)"
+        "location": "029km N 11Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.02,
-          10.3
+          126.12,
+          10.27
         ]
       }
     },
@@ -1268,17 +1268,17 @@
         "date": "16 August 2026",
         "time": "03:16 AM",
         "time_24": "03:16",
-        "latitude": 4.84,
-        "longitude": 125.46,
-        "depth_km": 106.0,
+        "latitude": 4.82,
+        "longitude": 125.31,
+        "depth_km": 30.0,
         "magnitude": 2.5,
-        "location": "063km S 04Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "067km S 10Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.46,
-          4.84
+          125.31,
+          4.82
         ]
       }
     },
@@ -1288,17 +1288,17 @@
         "date": "16 August 2026",
         "time": "03:02 AM",
         "time_24": "03:02",
-        "latitude": 5.61,
-        "longitude": 125.1,
-        "depth_km": 25.0,
+        "latitude": 5.52,
+        "longitude": 125.07,
+        "depth_km": 28.0,
         "magnitude": 2.3,
-        "location": "027km S 27Â° W of Glan (Sarangani)"
+        "location": "037km S 24Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.1,
-          5.61
+          125.07,
+          5.52
         ]
       }
     },
