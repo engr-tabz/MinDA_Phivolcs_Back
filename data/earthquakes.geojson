@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T17:51:17.925224+00:00",
+  "generated_at": "2026-08-16T18:17:41.756267+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "02:02 AM",
+        "time_24": "02:02",
+        "latitude": 8.44,
+        "longitude": 126.4,
+        "depth_km": 40.0,
+        "magnitude": 1.8,
+        "location": "011km N 41Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          8.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 8.53,
+        "longitude": 126.82,
+        "depth_km": 2.0,
+        "magnitude": 2.1,
+        "location": "055km N 71Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.82,
+          8.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "01:54 AM",
+        "time_24": "01:54",
+        "latitude": 9.89,
+        "longitude": 124.12,
+        "depth_km": 6.0,
+        "magnitude": 2.8,
+        "location": "004km S 55Â° E of Sagbayan (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          9.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
