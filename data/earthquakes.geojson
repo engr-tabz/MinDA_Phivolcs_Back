@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T05:47:52.356726+00:00",
+  "generated_at": "2026-08-16T06:15:58.868671+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "02:01 PM",
+        "time_24": "14:01",
+        "latitude": 5.79,
+        "longitude": 125.32,
+        "depth_km": 18.0,
+        "magnitude": 2.1,
+        "location": "014km S 75Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "01:38 PM",
+        "time_24": "13:38",
+        "latitude": 12.65,
+        "longitude": 123.36,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "016km N 16Â° W of Aroroy (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.36,
+          12.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
