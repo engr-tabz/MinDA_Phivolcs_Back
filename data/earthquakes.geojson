@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T10:03:01.430219+00:00",
+  "generated_at": "2026-08-16T10:35:37.315823+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "05:58 PM",
+        "time_24": "17:58",
+        "latitude": 6.66,
+        "longitude": 126.38,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "034km N 89Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          6.66
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1288,17 +1308,17 @@
         "date": "15 August 2026",
         "time": "09:21 PM",
         "time_24": "21:21",
-        "latitude": 10.64,
-        "longitude": 125.07,
-        "depth_km": 10.0,
-        "magnitude": 2.4,
-        "location": "013km S 30Â° E of Abuyog (Leyte)"
+        "latitude": 10.72,
+        "longitude": 124.97,
+        "depth_km": 3.0,
+        "magnitude": 2.5,
+        "location": "005km S 62Â° W of Abuyog (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.07,
-          10.64
+          124.97,
+          10.72
         ]
       }
     },
@@ -1328,17 +1348,17 @@
         "date": "15 August 2026",
         "time": "08:58 PM",
         "time_24": "20:58",
-        "latitude": 6.57,
-        "longitude": 126.44,
-        "depth_km": 33.0,
-        "magnitude": 3.1,
-        "location": "042km S 78Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.6,
+        "longitude": 126.39,
+        "depth_km": 28.0,
+        "magnitude": 3.3,
+        "location": "043km S 26Â° E of City Of Mati (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.44,
-          6.57
+          126.39,
+          6.6
         ]
       }
     },
@@ -1368,17 +1388,17 @@
         "date": "15 August 2026",
         "time": "08:13 PM",
         "time_24": "20:13",
-        "latitude": 5.34,
-        "longitude": 125.29,
-        "depth_km": 19.0,
-        "magnitude": 2.5,
-        "location": "016km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.43,
+        "longitude": 125.3,
+        "depth_km": 8.0,
+        "magnitude": 3.4,
+        "location": "013km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.34
+          125.3,
+          5.43
         ]
       }
     },
