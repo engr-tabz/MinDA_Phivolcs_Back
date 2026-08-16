@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T00:25:35.219516+00:00",
+  "generated_at": "2026-08-16T02:07:18.640619+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "09:37 AM",
+        "time_24": "09:37",
+        "latitude": 17.68,
+        "longitude": 120.54,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "011km S 50Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54,
+          17.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "09:34 AM",
+        "time_24": "09:34",
+        "latitude": 10.94,
+        "longitude": 123.93,
+        "depth_km": 18.0,
+        "magnitude": 2.2,
+        "location": "013km S 27Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.93,
+          10.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "09:30 AM",
+        "time_24": "09:30",
+        "latitude": 14.19,
+        "longitude": 122.29,
+        "depth_km": 2.0,
+        "magnitude": 3.3,
+        "location": "011km N 85Â° W of Santa Elena (Camarines Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29,
+          14.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "09:00 AM",
+        "time_24": "09:00",
+        "latitude": 6.06,
+        "longitude": 126.21,
+        "depth_km": 19.0,
+        "magnitude": 3.7,
+        "location": "060km S 75Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.21,
+          6.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "08:31 AM",
+        "time_24": "08:31",
+        "latitude": 10.3,
+        "longitude": 126.02,
+        "depth_km": 25.0,
+        "magnitude": 1.4,
+        "location": "031km N 03Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.02,
+          10.3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1228,17 +1328,17 @@
         "date": "15 August 2026",
         "time": "10:11 AM",
         "time_24": "10:11",
-        "latitude": 11.05,
-        "longitude": 124.16,
-        "depth_km": 6.0,
+        "latitude": 11.04,
+        "longitude": 124.07,
+        "depth_km": 2.0,
         "magnitude": 2.5,
-        "location": "020km N 89Â° E of City Of Bogo (Cebu)"
+        "location": "011km S 85Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.16,
-          11.05
+          124.07,
+          11.04
         ]
       }
     },
