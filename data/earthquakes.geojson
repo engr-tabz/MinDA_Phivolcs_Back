@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T03:12:08.641406+00:00",
+  "generated_at": "2026-08-16T04:02:08.589260+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "11:45 AM",
+        "time_24": "11:45",
+        "latitude": 13.83,
+        "longitude": 124.47,
+        "depth_km": 6.0,
+        "magnitude": 2.2,
+        "location": "011km N 59Â° E of Gigmoto (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.47,
+          13.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "11:11 AM",
+        "time_24": "11:11",
+        "latitude": 13.87,
+        "longitude": 120.31,
+        "depth_km": 83.0,
+        "magnitude": 2.0,
+        "location": "018km N 21Â° E of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31,
+          13.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1169,15 +1209,15 @@
         "time": "04:12 PM",
         "time_24": "16:12",
         "latitude": 8.41,
-        "longitude": 123.35,
+        "longitude": 123.36,
         "depth_km": 23.0,
-        "magnitude": 1.5,
-        "location": "013km S 30Â° E of Katipunan (Zamboanga Del Norte)"
+        "magnitude": 2.0,
+        "location": "012km S 52Â° W of PiÃan (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.35,
+          123.36,
           8.41
         ]
       }
