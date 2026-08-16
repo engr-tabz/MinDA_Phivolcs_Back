@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-16T14:56:09.325991+00:00",
+  "generated_at": "2026-08-16T15:27:27.523519+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "11:14 PM",
+        "time_24": "23:14",
+        "latitude": 12.33,
+        "longitude": 125.53,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "017km N 10Â° E of San Policarpo (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53,
+          12.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "11:10 PM",
+        "time_24": "23:10",
+        "latitude": 5.36,
+        "longitude": 125.23,
+        "depth_km": 24.0,
+        "magnitude": 1.5,
+        "location": "022km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 August 2026",
+        "time": "11:07 PM",
+        "time_24": "23:07",
+        "latitude": 5.47,
+        "longitude": 125.03,
+        "depth_km": 14.0,
+        "magnitude": 1.7,
+        "location": "043km S 27Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          5.47
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
