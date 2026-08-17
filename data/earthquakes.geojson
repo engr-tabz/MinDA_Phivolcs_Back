@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T16:01:26.334319+00:00",
+  "generated_at": "2026-08-17T16:39:32.056063+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "12:23 AM",
+        "time_24": "00:23",
+        "latitude": 5.41,
+        "longitude": 125.52,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "009km S 38Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          5.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "11:57 PM",
+        "time_24": "23:57",
+        "latitude": 10.7,
+        "longitude": 122.53,
+        "depth_km": 55.0,
+        "magnitude": 2.0,
+        "location": "005km N 80Â° W of City Of Iloilo (Iloilo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.53,
+          10.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
