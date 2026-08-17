@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T02:09:31.968404+00:00",
+  "generated_at": "2026-08-17T03:13:12.674069+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "10:03 AM",
+        "time_24": "10:03",
+        "latitude": 21.69,
+        "longitude": 121.84,
+        "depth_km": 30.0,
+        "magnitude": 3.0,
+        "location": "100km N 01Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.84,
+          21.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1108,17 +1128,17 @@
         "date": "16 August 2026",
         "time": "10:41 AM",
         "time_24": "10:41",
-        "latitude": 9.63,
-        "longitude": 126.28,
-        "depth_km": 31.0,
-        "magnitude": 1.8,
-        "location": "022km S 38Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.59,
+        "longitude": 125.94,
+        "depth_km": 1.0,
+        "magnitude": 2.2,
+        "location": "004km S 41Â° W of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.28,
-          9.63
+          125.94,
+          9.59
         ]
       }
     },
