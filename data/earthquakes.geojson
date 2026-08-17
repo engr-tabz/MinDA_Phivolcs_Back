@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T11:56:11.142706+00:00",
+  "generated_at": "2026-08-17T12:55:53.592977+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "08:45 PM",
+        "time_24": "20:45",
+        "latitude": 11.07,
+        "longitude": 124.06,
+        "depth_km": 7.0,
+        "magnitude": 1.8,
+        "location": "009km N 70Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.06,
+          11.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "08:15 PM",
+        "time_24": "20:15",
+        "latitude": 5.01,
+        "longitude": 125.21,
+        "depth_km": 29.0,
+        "magnitude": 3.1,
+        "location": "050km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:58 PM",
+        "time_24": "19:58",
+        "latitude": 7.68,
+        "longitude": 126.15,
+        "depth_km": 7.0,
+        "magnitude": 2.5,
+        "location": "007km N 80Â° E of Compostela (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          7.68
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -288,17 +348,17 @@
         "date": "17 August 2026",
         "time": "08:51 AM",
         "time_24": "08:51",
-        "latitude": 5.13,
-        "longitude": 125.24,
-        "depth_km": 26.0,
+        "latitude": 5.03,
+        "longitude": 125.27,
+        "depth_km": 33.0,
         "magnitude": 2.9,
-        "location": "037km S 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "045km S 22Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
-          5.13
+          125.27,
+          5.03
         ]
       }
     },
@@ -628,17 +688,17 @@
         "date": "17 August 2026",
         "time": "02:14 AM",
         "time_24": "02:14",
-        "latitude": 14.7,
-        "longitude": 123.68,
-        "depth_km": 18.0,
-        "magnitude": 2.0,
-        "location": "082km N 73Â° E of Tinaga Island (Vinzons) (Camarines Norte)"
+        "latitude": 14.9,
+        "longitude": 123.73,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "096km N 61Â° E of Tinaga Island (Vinzons) (Camarines Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.68,
-          14.7
+          123.73,
+          14.9
         ]
       }
     },
@@ -949,15 +1009,15 @@
         "time": "07:52 PM",
         "time_24": "19:52",
         "latitude": 13.02,
-        "longitude": 122.78,
-        "depth_km": 70.0,
-        "magnitude": 1.8,
-        "location": "052km N 76Â° W of Claveria (Masbate)"
+        "longitude": 122.98,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "032km N 66Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.78,
+          122.98,
           13.02
         ]
       }
@@ -968,17 +1028,17 @@
         "date": "16 August 2026",
         "time": "07:33 PM",
         "time_24": "19:33",
-        "latitude": 11.4,
-        "longitude": 125.46,
-        "depth_km": 34.0,
-        "magnitude": 1.9,
-        "location": "009km S 34Â° W of Balangkayan (Eastern Samar)"
+        "latitude": 11.49,
+        "longitude": 125.31,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "019km S 45Â° W of City Of Borongan (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.46,
-          11.4
+          125.31,
+          11.49
         ]
       }
     },
