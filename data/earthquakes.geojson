@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T10:58:15.706174+00:00",
+  "generated_at": "2026-08-17T11:33:54.207903+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:13 PM",
+        "time_24": "19:13",
+        "latitude": 9.6,
+        "longitude": 126.25,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "023km S 26Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:07 PM",
+        "time_24": "19:07",
+        "latitude": 13.56,
+        "longitude": 120.36,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "019km N 36Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36,
+          13.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -548,17 +588,17 @@
         "date": "17 August 2026",
         "time": "02:02 AM",
         "time_24": "02:02",
-        "latitude": 8.44,
-        "longitude": 126.4,
-        "depth_km": 40.0,
-        "magnitude": 1.8,
-        "location": "011km N 41Â° E of Hinatuan (Surigao Del Sur)"
+        "latitude": 8.48,
+        "longitude": 126.71,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "043km N 72Â° E of Hinatuan (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.4,
-          8.44
+          126.71,
+          8.48
         ]
       }
     },
