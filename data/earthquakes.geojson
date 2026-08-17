@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T04:55:39.420183+00:00",
+  "generated_at": "2026-08-17T05:38:51.926598+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "01:13 PM",
+        "time_24": "13:13",
+        "latitude": 5.74,
+        "longitude": 125.43,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "027km S 70Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -888,17 +908,17 @@
         "date": "16 August 2026",
         "time": "05:23 PM",
         "time_24": "17:23",
-        "latitude": 9.69,
-        "longitude": 126.26,
-        "depth_km": 32.0,
-        "magnitude": 3.9,
-        "location": "015km S 50Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.66,
+        "longitude": 126.21,
+        "depth_km": 17.0,
+        "magnitude": 3.7,
+        "location": "014km S 25Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.26,
-          9.69
+          126.21,
+          9.66
         ]
       }
     },
@@ -908,17 +928,17 @@
         "date": "16 August 2026",
         "time": "04:58 PM",
         "time_24": "16:58",
-        "latitude": 17.36,
-        "longitude": 119.29,
-        "depth_km": 15.0,
-        "magnitude": 2.4,
-        "location": "117km S 77Â° W of Santa Catalina (Ilocos Sur)"
+        "latitude": 17.28,
+        "longitude": 119.93,
+        "depth_km": 20.0,
+        "magnitude": 2.3,
+        "location": "054km S 89Â° W of Santiago (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.29,
-          17.36
+          119.93,
+          17.28
         ]
       }
     },
