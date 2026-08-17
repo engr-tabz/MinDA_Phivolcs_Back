@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T19:55:13.778562+00:00",
+  "generated_at": "2026-08-17T20:30:33.268955+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:04 AM",
+        "time_24": "04:04",
+        "latitude": 14.21,
+        "longitude": 123.4,
+        "depth_km": 56.0,
+        "magnitude": 2.1,
+        "location": "026km N 36Â° E of Siruma (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4,
+          14.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "03:56 AM",
+        "time_24": "03:56",
+        "latitude": 5.02,
+        "longitude": 125.3,
+        "depth_km": 62.0,
+        "magnitude": 3.4,
+        "location": "045km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.02
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
