@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T18:55:21.199952+00:00",
+  "generated_at": "2026-08-17T19:31:34.677495+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "03:05 AM",
+        "time_24": "03:05",
+        "latitude": 8.73,
+        "longitude": 125.87,
+        "depth_km": 10.0,
+        "magnitude": 2.5,
+        "location": "013km N 84Â° E of City Of Bayugan (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          8.73
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
