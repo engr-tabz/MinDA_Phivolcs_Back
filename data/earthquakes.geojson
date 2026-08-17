@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T21:33:29.025238+00:00",
+  "generated_at": "2026-08-17T21:56:23.568890+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "05:29 AM",
+        "time_24": "05:29",
+        "latitude": 13.51,
+        "longitude": 120.28,
+        "depth_km": 26.0,
+        "magnitude": 1.4,
+        "location": "022km N 63Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.28,
+          13.51
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
