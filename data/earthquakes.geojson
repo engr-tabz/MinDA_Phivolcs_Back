@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T17:41:07.424457+00:00",
+  "generated_at": "2026-08-17T18:06:25.222724+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "01:32 AM",
+        "time_24": "01:32",
+        "latitude": 5.88,
+        "longitude": 125.33,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "011km S 26Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.88
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
