@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T06:04:59.944868+00:00",
+  "generated_at": "2026-08-17T07:13:44.060406+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "02:51 PM",
+        "time_24": "14:51",
+        "latitude": 10.8,
+        "longitude": 125.06,
+        "depth_km": 12.0,
+        "magnitude": 2.6,
+        "location": "007km N 42Â° E of Abuyog (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.06,
+          10.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "02:03 PM",
+        "time_24": "14:03",
+        "latitude": 10.51,
+        "longitude": 124.26,
+        "depth_km": 2.0,
+        "magnitude": 1.5,
+        "location": "020km S 43Â° W of San Francisco (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.26,
+          10.51
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -468,17 +508,17 @@
         "date": "17 August 2026",
         "time": "01:54 AM",
         "time_24": "01:54",
-        "latitude": 9.89,
-        "longitude": 124.12,
-        "depth_km": 6.0,
+        "latitude": 9.86,
+        "longitude": 124.13,
+        "depth_km": 10.0,
         "magnitude": 2.8,
-        "location": "004km S 55Â° E of Sagbayan (Bohol)"
+        "location": "007km S 33Â° E of Sagbayan (Bohol)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.12,
-          9.89
+          124.13,
+          9.86
         ]
       }
     },
@@ -848,17 +888,17 @@
         "date": "16 August 2026",
         "time": "05:58 PM",
         "time_24": "17:58",
-        "latitude": 6.66,
-        "longitude": 126.38,
-        "depth_km": 21.0,
+        "latitude": 6.54,
+        "longitude": 126.53,
+        "depth_km": 33.0,
         "magnitude": 2.5,
-        "location": "034km N 89Â° E of Governor Generoso (Davao Oriental)"
+        "location": "052km S 75Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.38,
-          6.66
+          126.53,
+          6.54
         ]
       }
     },
