@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T18:06:25.222724+00:00",
+  "generated_at": "2026-08-17T18:55:21.199952+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 17.81,
+        "longitude": 120.65,
+        "depth_km": 29.0,
+        "magnitude": 1.4,
+        "location": "011km N 31Â° W of Lagayan (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65,
+          17.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
