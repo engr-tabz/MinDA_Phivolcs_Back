@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T15:11:53.793043+00:00",
+  "generated_at": "2026-08-17T15:42:55.877184+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "11:10 PM",
+        "time_24": "23:10",
+        "latitude": 6.54,
+        "longitude": 123.68,
+        "depth_km": 5.0,
+        "magnitude": 3.7,
+        "location": "041km S 87Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.68,
+          6.54
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
