@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T13:42:39.573556+00:00",
+  "generated_at": "2026-08-17T14:12:01.048021+00:00",
   "features": [
     {
       "type": "Feature",
@@ -449,15 +449,15 @@
         "time": "04:51 AM",
         "time_24": "04:51",
         "latitude": 16.5,
-        "longitude": 119.24,
-        "depth_km": 3.0,
+        "longitude": 119.2,
+        "depth_km": 10.0,
         "magnitude": 2.7,
-        "location": "071km N 80Â° W of Bolinao (Pangasinan)"
+        "location": "074km N 81Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.24,
+          119.2,
           16.5
         ]
       }
@@ -588,17 +588,17 @@
         "date": "17 August 2026",
         "time": "03:58 AM",
         "time_24": "03:58",
-        "latitude": 11.05,
-        "longitude": 124.17,
-        "depth_km": 14.0,
+        "latitude": 11.11,
+        "longitude": 124.14,
+        "depth_km": 5.0,
         "magnitude": 1.8,
-        "location": "021km N 89Â° E of City Of Bogo (Cebu)"
+        "location": "019km N 68Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.17,
-          11.05
+          124.14,
+          11.11
         ]
       }
     },
@@ -868,17 +868,17 @@
         "date": "16 August 2026",
         "time": "11:14 PM",
         "time_24": "23:14",
-        "latitude": 12.33,
-        "longitude": 125.53,
-        "depth_km": 33.0,
+        "latitude": 12.29,
+        "longitude": 125.45,
+        "depth_km": 23.0,
         "magnitude": 1.5,
-        "location": "017km N 10Â° E of San Policarpo (Eastern Samar)"
+        "location": "014km N 26Â° W of San Policarpo (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.53,
-          12.33
+          125.45,
+          12.29
         ]
       }
     },
