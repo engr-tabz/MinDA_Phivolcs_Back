@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T08:56:49.639279+00:00",
+  "generated_at": "2026-08-17T09:51:44.289907+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "04:54 PM",
+        "time_24": "16:54",
+        "latitude": 18.01,
+        "longitude": 121.19,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "002km S 39Â° E of Kabugao (Apayao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.19,
+          18.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -768,17 +788,17 @@
         "date": "16 August 2026",
         "time": "08:12 PM",
         "time_24": "20:12",
-        "latitude": 5.25,
-        "longitude": 125.33,
-        "depth_km": 34.0,
+        "latitude": 5.28,
+        "longitude": 125.35,
+        "depth_km": 40.0,
         "magnitude": 1.7,
-        "location": "021km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "017km S 30Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.25
+          125.35,
+          5.28
         ]
       }
     },
