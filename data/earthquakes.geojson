@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T15:42:55.877184+00:00",
+  "generated_at": "2026-08-17T16:01:26.334319+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "11:40 PM",
+        "time_24": "23:40",
+        "latitude": 17.81,
+        "longitude": 120.54,
+        "depth_km": 11.0,
+        "magnitude": 1.6,
+        "location": "009km N 78Â° E of Cabugao (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54,
+          17.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
