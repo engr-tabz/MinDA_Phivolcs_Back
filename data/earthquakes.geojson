@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T14:47:10.128204+00:00",
+  "generated_at": "2026-08-17T15:11:53.793043+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "10:43 PM",
+        "time_24": "22:43",
+        "latitude": 9.85,
+        "longitude": 124.08,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "007km S 11Â° W of Sagbayan (Bohol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.08,
+          9.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -448,17 +468,17 @@
         "date": "17 August 2026",
         "time": "07:16 AM",
         "time_24": "07:16",
-        "latitude": 5.32,
-        "longitude": 125.21,
-        "depth_km": 33.0,
+        "latitude": 5.36,
+        "longitude": 125.22,
+        "depth_km": 46.0,
         "magnitude": 2.2,
-        "location": "019km N 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "023km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.21,
-          5.32
+          125.22,
+          5.36
         ]
       }
     },
@@ -469,15 +489,15 @@
         "time": "05:20 AM",
         "time_24": "05:20",
         "latitude": 9.61,
-        "longitude": 126.02,
-        "depth_km": 33.0,
+        "longitude": 125.95,
+        "depth_km": 30.0,
         "magnitude": 1.7,
-        "location": "006km S 76Â° E of Socorro (Surigao Del Norte)"
+        "location": "002km S 60Â° W of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.02,
+          125.95,
           9.61
         ]
       }
@@ -528,17 +548,17 @@
         "date": "17 August 2026",
         "time": "04:37 AM",
         "time_24": "04:37",
-        "latitude": 5.69,
+        "latitude": 5.63,
         "longitude": 125.26,
-        "depth_km": 19.0,
+        "depth_km": 21.0,
         "magnitude": 2.0,
-        "location": "016km S 23Â° E of Glan (Sarangani)"
+        "location": "022km S 17Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.26,
-          5.69
+          5.63
         ]
       }
     },
@@ -890,9 +910,9 @@
         "time_24": "23:27",
         "latitude": 7.0,
         "longitude": 125.92,
-        "depth_km": 28.0,
+        "depth_km": 25.0,
         "magnitude": 2.7,
-        "location": "010km N 73Â° W of Banaybanay (Davao Oriental)"
+        "location": "011km N 71Â° W of Banaybanay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
