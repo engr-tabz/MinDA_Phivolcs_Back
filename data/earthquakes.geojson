@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T11:33:54.207903+00:00",
+  "generated_at": "2026-08-17T11:56:11.142706+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:41 PM",
+        "time_24": "19:41",
+        "latitude": 5.27,
+        "longitude": 125.52,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "019km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          5.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:33 PM",
+        "time_24": "19:33",
+        "latitude": 5.04,
+        "longitude": 125.34,
+        "depth_km": 32.0,
+        "magnitude": 2.7,
+        "location": "042km S 12Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 August 2026",
+        "time": "07:26 PM",
+        "time_24": "19:26",
+        "latitude": 11.44,
+        "longitude": 125.4,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "012km S 73Â° W of Balangkayan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          11.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
