@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T20:30:33.268955+00:00",
+  "generated_at": "2026-08-17T20:57:54.974190+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:36 AM",
+        "time_24": "04:36",
+        "latitude": 13.04,
+        "longitude": 124.42,
+        "depth_km": 24.0,
+        "magnitude": 2.0,
+        "location": "024km N 90Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.42,
+          13.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:34 AM",
+        "time_24": "04:34",
+        "latitude": 5.29,
+        "longitude": 125.17,
+        "depth_km": 4.0,
+        "magnitude": 2.1,
+        "location": "031km S 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17,
+          5.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:26 AM",
+        "time_24": "04:26",
+        "latitude": 5.67,
+        "longitude": 125.28,
+        "depth_km": 24.0,
+        "magnitude": 1.4,
+        "location": "018km S 26Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 18.24,
+        "longitude": 122.07,
+        "depth_km": 23.0,
+        "magnitude": 1.8,
+        "location": "008km S 71Â° E of Gonzaga (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.07,
+          18.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "04:24 AM",
+        "time_24": "04:24",
+        "latitude": 11.79,
+        "longitude": 125.39,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "007km S 71Â° W of Sulat (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          11.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
