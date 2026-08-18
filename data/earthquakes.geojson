@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T10:55:37.580844+00:00",
+  "generated_at": "2026-08-18T11:29:24.205738+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "06:49 PM",
+        "time_24": "18:49",
+        "latitude": 15.89,
+        "longitude": 121.01,
+        "depth_km": 13.0,
+        "magnitude": 1.7,
+        "location": "010km S 32Â° W of Carranglan (Nueva Ecija)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01,
+          15.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +588,17 @@
         "date": "18 August 2026",
         "time": "04:36 AM",
         "time_24": "04:36",
-        "latitude": 13.04,
-        "longitude": 124.42,
-        "depth_km": 24.0,
+        "latitude": 13.01,
+        "longitude": 124.4,
+        "depth_km": 22.0,
         "magnitude": 2.0,
-        "location": "024km N 90Â° E of Prieto Diaz (Sorsogon)"
+        "location": "023km S 81Â° E of Prieto Diaz (Sorsogon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.42,
-          13.04
+          124.4,
+          13.01
         ]
       }
     },
@@ -650,9 +670,9 @@
         "time_24": "04:24",
         "latitude": 11.79,
         "longitude": 125.39,
-        "depth_km": 24.0,
+        "depth_km": 23.0,
         "magnitude": 2.4,
-        "location": "007km S 71Â° W of Sulat (Eastern Samar)"
+        "location": "007km S 69Â° W of Sulat (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
@@ -688,17 +708,17 @@
         "date": "18 August 2026",
         "time": "03:56 AM",
         "time_24": "03:56",
-        "latitude": 5.02,
-        "longitude": 125.3,
-        "depth_km": 62.0,
+        "latitude": 4.81,
+        "longitude": 125.27,
+        "depth_km": 18.0,
         "magnitude": 3.4,
-        "location": "045km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "069km S 14Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          5.02
+          125.27,
+          4.81
         ]
       }
     },
@@ -748,17 +768,17 @@
         "date": "18 August 2026",
         "time": "02:00 AM",
         "time_24": "02:00",
-        "latitude": 17.81,
-        "longitude": 120.65,
-        "depth_km": 29.0,
+        "latitude": 17.7,
+        "longitude": 120.57,
+        "depth_km": 33.0,
         "magnitude": 1.4,
-        "location": "011km N 31Â° W of Lagayan (Abra)"
+        "location": "010km N 83Â° W of Danglas (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.65,
-          17.81
+          120.57,
+          17.7
         ]
       }
     },
@@ -768,17 +788,17 @@
         "date": "18 August 2026",
         "time": "01:32 AM",
         "time_24": "01:32",
-        "latitude": 5.88,
-        "longitude": 125.33,
-        "depth_km": 21.0,
+        "latitude": 5.63,
+        "longitude": 125.37,
+        "depth_km": 20.0,
         "magnitude": 2.2,
-        "location": "011km S 26Â° E of Malapatan (Sarangani)"
+        "location": "021km N 32Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.88
+          125.37,
+          5.63
         ]
       }
     },
@@ -808,17 +828,17 @@
         "date": "17 August 2026",
         "time": "11:57 PM",
         "time_24": "23:57",
-        "latitude": 10.7,
-        "longitude": 122.53,
-        "depth_km": 55.0,
-        "magnitude": 2.0,
-        "location": "005km N 80Â° W of City Of Iloilo (Iloilo)"
+        "latitude": 10.74,
+        "longitude": 122.5,
+        "depth_km": 43.0,
+        "magnitude": 2.3,
+        "location": "005km S 51Â° W of Pavia (Iloilo)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.53,
-          10.7
+          122.5,
+          10.74
         ]
       }
     },
@@ -828,17 +848,17 @@
         "date": "17 August 2026",
         "time": "11:40 PM",
         "time_24": "23:40",
-        "latitude": 17.81,
-        "longitude": 120.54,
-        "depth_km": 11.0,
+        "latitude": 17.79,
+        "longitude": 120.48,
+        "depth_km": 18.0,
         "magnitude": 1.6,
-        "location": "009km N 78Â° E of Cabugao (Ilocos Sur)"
+        "location": "003km S 77Â° E of Cabugao (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.54,
-          17.81
+          120.48,
+          17.79
         ]
       }
     },
@@ -928,17 +948,17 @@
         "date": "17 August 2026",
         "time": "09:26 PM",
         "time_24": "21:26",
-        "latitude": 4.56,
-        "longitude": 126.61,
-        "depth_km": 15.0,
+        "latitude": 4.75,
+        "longitude": 126.43,
+        "depth_km": 28.0,
         "magnitude": 4.0,
-        "location": "162km S 54Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "132km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.61,
-          4.56
+          126.43,
+          4.75
         ]
       }
     },
@@ -1028,17 +1048,17 @@
         "date": "17 August 2026",
         "time": "07:41 PM",
         "time_24": "19:41",
-        "latitude": 5.27,
-        "longitude": 125.52,
-        "depth_km": 33.0,
-        "magnitude": 2.2,
-        "location": "019km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.77,
+        "longitude": 125.38,
+        "depth_km": 15.0,
+        "magnitude": 2.8,
+        "location": "020km S 74Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.52,
-          5.27
+          125.38,
+          5.77
         ]
       }
     },
@@ -1106,19 +1126,19 @@
       "type": "Feature",
       "properties": {
         "date": "17 August 2026",
-        "time": "07:07 PM",
-        "time_24": "19:07",
-        "latitude": 13.56,
-        "longitude": 120.36,
-        "depth_km": 11.0,
+        "time": "07:06 PM",
+        "time_24": "19:06",
+        "latitude": 13.6,
+        "longitude": 120.28,
+        "depth_km": 23.0,
         "magnitude": 1.9,
-        "location": "019km N 36Â° W of Paluan (Occidental Mindoro)"
+        "location": "014km S 15Â° E of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.36,
-          13.56
+          120.28,
+          13.6
         ]
       }
     },
