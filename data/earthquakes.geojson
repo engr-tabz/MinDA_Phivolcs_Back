@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T00:24:14.547131+00:00",
+  "generated_at": "2026-08-18T01:58:01.525498+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "09:32 AM",
+        "time_24": "09:32",
+        "latitude": 11.07,
+        "longitude": 124.13,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "017km N 80Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.13,
+          11.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "08:45 AM",
+        "time_24": "08:45",
+        "latitude": 5.36,
+        "longitude": 124.97,
+        "depth_km": 39.0,
+        "magnitude": 2.0,
+        "location": "051km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.97,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -708,17 +748,17 @@
         "date": "17 August 2026",
         "time": "04:54 PM",
         "time_24": "16:54",
-        "latitude": 18.01,
-        "longitude": 121.19,
-        "depth_km": 16.0,
+        "latitude": 18.35,
+        "longitude": 120.96,
+        "depth_km": 17.0,
         "magnitude": 2.4,
-        "location": "002km S 39Â° E of Kabugao (Apayao)"
+        "location": "013km S 25Â° E of Adams (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.19,
-          18.01
+          120.96,
+          18.35
         ]
       }
     },
@@ -748,17 +788,17 @@
         "date": "17 August 2026",
         "time": "03:05 PM",
         "time_24": "15:05",
-        "latitude": 5.7,
-        "longitude": 126.42,
-        "depth_km": 75.0,
-        "magnitude": 2.8,
-        "location": "089km S 75Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.6,
+        "longitude": 126.23,
+        "depth_km": 62.0,
+        "magnitude": 3.5,
+        "location": "073km S 62Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.42,
-          5.7
+          126.23,
+          5.6
         ]
       }
     },
@@ -768,17 +808,17 @@
         "date": "17 August 2026",
         "time": "02:51 PM",
         "time_24": "14:51",
-        "latitude": 10.8,
-        "longitude": 125.06,
-        "depth_km": 12.0,
+        "latitude": 10.85,
+        "longitude": 125.1,
+        "depth_km": 5.0,
         "magnitude": 2.6,
-        "location": "007km N 42Â° E of Abuyog (Leyte)"
+        "location": "011km N 82Â° E of Macarthur (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.06,
-          10.8
+          125.1,
+          10.85
         ]
       }
     },
@@ -788,17 +828,17 @@
         "date": "17 August 2026",
         "time": "02:03 PM",
         "time_24": "14:03",
-        "latitude": 10.51,
-        "longitude": 124.26,
-        "depth_km": 2.0,
-        "magnitude": 1.5,
-        "location": "020km S 43Â° W of San Francisco (Cebu)"
+        "latitude": 10.48,
+        "longitude": 124.36,
+        "depth_km": 4.0,
+        "magnitude": 1.6,
+        "location": "017km S 19Â° W of Poro (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.26,
-          10.51
+          124.36,
+          10.48
         ]
       }
     },
@@ -828,17 +868,17 @@
         "date": "17 August 2026",
         "time": "11:18 AM",
         "time_24": "11:18",
-        "latitude": 6.84,
-        "longitude": 125.08,
+        "latitude": 6.79,
+        "longitude": 125.02,
         "depth_km": 32.0,
         "magnitude": 1.8,
-        "location": "013km N 42Â° W of Magsaysay (Davao Del Sur)"
+        "location": "015km N 73Â° W of Magsaysay (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.08,
-          6.84
+          125.02,
+          6.79
         ]
       }
     },
@@ -848,17 +888,17 @@
         "date": "17 August 2026",
         "time": "10:03 AM",
         "time_24": "10:03",
-        "latitude": 21.69,
-        "longitude": 121.84,
-        "depth_km": 30.0,
+        "latitude": 21.53,
+        "longitude": 121.91,
+        "depth_km": 34.0,
         "magnitude": 3.0,
-        "location": "100km N 01Â° W of Itbayat (Batanes)"
+        "location": "082km N 05Â° E of Itbayat (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.84,
-          21.69
+          121.91,
+          21.53
         ]
       }
     },
