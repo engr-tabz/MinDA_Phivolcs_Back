@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T20:52:54.647087+00:00",
+  "generated_at": "2026-08-18T21:20:42.739855+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "05:08 AM",
+        "time_24": "05:08",
+        "latitude": 9.94,
+        "longitude": 122.37,
+        "depth_km": 21.0,
+        "magnitude": 1.4,
+        "location": "021km N 21Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.37,
+          9.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "04:57 AM",
+        "time_24": "04:57",
+        "latitude": 13.94,
+        "longitude": 120.67,
+        "depth_km": 139.0,
+        "magnitude": 1.6,
+        "location": "007km N 89Â° W of Balayan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67,
+          13.94
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
