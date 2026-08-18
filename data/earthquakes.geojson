@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T16:02:12.344433+00:00",
+  "generated_at": "2026-08-18T16:45:22.392717+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 18.02,
+        "longitude": 120.71,
+        "depth_km": 29.0,
+        "magnitude": 1.5,
+        "location": "005km S 55Â° E of Marcos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71,
+          18.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "12:05 AM",
+        "time_24": "00:05",
+        "latitude": 8.9,
+        "longitude": 126.34,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "005km S 69Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          8.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
