@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T10:23:33.291422+00:00",
+  "generated_at": "2026-08-18T10:55:37.580844+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "06:34 PM",
+        "time_24": "18:34",
+        "latitude": 5.54,
+        "longitude": 125.42,
+        "depth_km": 35.0,
+        "magnitude": 1.6,
+        "location": "009km N 40Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "06:29 PM",
+        "time_24": "18:29",
+        "latitude": 9.53,
+        "longitude": 125.86,
+        "depth_km": 118.0,
+        "magnitude": 2.0,
+        "location": "015km S 71Â° E of Claver (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.86,
+          9.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "06:20 PM",
+        "time_24": "18:20",
+        "latitude": 15.89,
+        "longitude": 121.02,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "009km S 30Â° W of Carranglan (Nueva Ecija)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02,
+          15.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -46,19 +106,19 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "07:00 PM",
-        "time_24": "19:00",
-        "latitude": 15.59,
-        "longitude": 121.58,
-        "depth_km": 22.0,
+        "time": "06:00 PM",
+        "time_24": "18:00",
+        "latitude": 15.58,
+        "longitude": 121.59,
+        "depth_km": 23.0,
         "magnitude": 1.3,
-        "location": "016km S 24Â° E of San Luis (Aurora)"
+        "location": "017km S 25Â° E of San Luis (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.58,
-          15.59
+          121.59,
+          15.58
         ]
       }
     },
