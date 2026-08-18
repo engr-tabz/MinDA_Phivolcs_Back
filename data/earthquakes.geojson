@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T19:01:35.097646+00:00",
+  "generated_at": "2026-08-18T19:35:30.228219+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "03:26 AM",
+        "time_24": "03:26",
+        "latitude": 5.87,
+        "longitude": 125.39,
+        "depth_km": 13.0,
+        "magnitude": 1.9,
+        "location": "016km S 46Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "02:55 AM",
+        "time_24": "02:55",
+        "latitude": 17.7,
+        "longitude": 120.55,
+        "depth_km": 3.0,
+        "magnitude": 2.7,
+        "location": "011km S 65Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55,
+          17.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
