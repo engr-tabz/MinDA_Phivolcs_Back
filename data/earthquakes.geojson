@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-17T23:47:54.554835+00:00",
+  "generated_at": "2026-08-18T00:24:14.547131+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "07:59 AM",
+        "time_24": "07:59",
+        "latitude": 5.05,
+        "longitude": 124.54,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "103km S 29Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.54,
+          5.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "07:43 AM",
+        "time_24": "07:43",
+        "latitude": 16.48,
+        "longitude": 119.24,
+        "depth_km": 22.0,
+        "magnitude": 2.7,
+        "location": "071km N 82Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.24,
+          16.48
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
