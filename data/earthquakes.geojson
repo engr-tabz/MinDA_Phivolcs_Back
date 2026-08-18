@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T09:14:09.133267+00:00",
+  "generated_at": "2026-08-18T09:52:25.043983+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "05:26 PM",
+        "time_24": "17:26",
+        "latitude": 15.89,
+        "longitude": 121.04,
+        "depth_km": 33.0,
+        "magnitude": 1.3,
+        "location": "008km S 15Â° W of Carranglan (Nueva Ecija)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04,
+          15.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -808,17 +828,17 @@
         "date": "17 August 2026",
         "time": "08:15 PM",
         "time_24": "20:15",
-        "latitude": 5.01,
-        "longitude": 125.21,
-        "depth_km": 29.0,
-        "magnitude": 3.1,
-        "location": "050km S 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.03,
+        "longitude": 125.18,
+        "depth_km": 27.0,
+        "magnitude": 3.5,
+        "location": "050km S 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.21,
-          5.01
+          125.18,
+          5.03
         ]
       }
     },
@@ -828,17 +848,17 @@
         "date": "17 August 2026",
         "time": "07:58 PM",
         "time_24": "19:58",
-        "latitude": 7.68,
-        "longitude": 126.15,
-        "depth_km": 7.0,
+        "latitude": 7.7,
+        "longitude": 126.18,
+        "depth_km": 5.0,
         "magnitude": 2.5,
-        "location": "007km N 80Â° E of Compostela (Davao De Oro)"
+        "location": "011km N 73Â° E of Compostela (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.15,
-          7.68
+          126.18,
+          7.7
         ]
       }
     },
@@ -888,17 +908,17 @@
         "date": "17 August 2026",
         "time": "07:26 PM",
         "time_24": "19:26",
-        "latitude": 11.44,
-        "longitude": 125.4,
-        "depth_km": 28.0,
-        "magnitude": 2.3,
-        "location": "012km S 73Â° W of Balangkayan (Eastern Samar)"
+        "latitude": 11.45,
+        "longitude": 125.45,
+        "depth_km": 29.0,
+        "magnitude": 2.7,
+        "location": "007km S 68Â° W of Balangkayan (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.4,
-          11.44
+          125.45,
+          11.45
         ]
       }
     },
@@ -908,17 +928,17 @@
         "date": "17 August 2026",
         "time": "07:13 PM",
         "time_24": "19:13",
-        "latitude": 9.6,
-        "longitude": 126.25,
-        "depth_km": 32.0,
+        "latitude": 9.67,
+        "longitude": 126.19,
+        "depth_km": 21.0,
         "magnitude": 1.7,
-        "location": "023km S 26Â° E of General Luna (Surigao Del Norte)"
+        "location": "014km S 17Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.25,
-          9.6
+          126.19,
+          9.67
         ]
       }
     },
