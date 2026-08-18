@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T06:16:06.010809+00:00",
+  "generated_at": "2026-08-18T07:09:34.205922+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "02:54 PM",
+        "time_24": "14:54",
+        "latitude": 13.73,
+        "longitude": 120.47,
+        "depth_km": 120.0,
+        "magnitude": 2.8,
+        "location": "020km S 57Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47,
+          13.73
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
