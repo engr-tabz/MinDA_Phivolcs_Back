@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T15:37:30.259718+00:00",
+  "generated_at": "2026-08-18T16:02:12.344433+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "11:53 PM",
+        "time_24": "23:53",
+        "latitude": 10.33,
+        "longitude": 126.0,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "035km N 08Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0,
+          10.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "11:46 PM",
+        "time_24": "23:46",
+        "latitude": 14.91,
+        "longitude": 120.6,
+        "depth_km": 140.0,
+        "magnitude": 1.5,
+        "location": "003km S 02Â° W of Lubao (Pampanga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          14.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "11:35 PM",
+        "time_24": "23:35",
+        "latitude": 5.21,
+        "longitude": 125.37,
+        "depth_km": 31.0,
+        "magnitude": 3.4,
+        "location": "023km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.21
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
