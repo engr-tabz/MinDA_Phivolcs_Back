@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T19:35:30.228219+00:00",
+  "generated_at": "2026-08-18T19:55:17.146907+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "03:39 AM",
+        "time_24": "03:39",
+        "latitude": 19.63,
+        "longitude": 121.53,
+        "depth_km": 33.0,
+        "magnitude": 1.9,
+        "location": "041km N 08Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          19.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "03:31 AM",
+        "time_24": "03:31",
+        "latitude": 7.27,
+        "longitude": 126.74,
+        "depth_km": 12.0,
+        "magnitude": 1.8,
+        "location": "020km S 72Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74,
+          7.27
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
