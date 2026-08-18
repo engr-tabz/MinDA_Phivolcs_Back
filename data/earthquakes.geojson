@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T03:03:15.703769+00:00",
+  "generated_at": "2026-08-18T03:54:09.964056+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "11:08 AM",
+        "time_24": "11:08",
+        "latitude": 9.15,
+        "longitude": 126.42,
+        "depth_km": 19.0,
+        "magnitude": 2.6,
+        "location": "025km N 37Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          9.15
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
