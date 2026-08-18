@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T17:13:01.638799+00:00",
+  "generated_at": "2026-08-18T17:46:35.994915+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:24 AM",
+        "time_24": "01:24",
+        "latitude": 17.65,
+        "longitude": 120.54,
+        "depth_km": 5.0,
+        "magnitude": 1.6,
+        "location": "009km N 20Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54,
+          17.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:18 AM",
+        "time_24": "01:18",
+        "latitude": 17.68,
+        "longitude": 120.5,
+        "depth_km": 5.0,
+        "magnitude": 2.2,
+        "location": "008km S 85Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          17.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:11 AM",
+        "time_24": "01:11",
+        "latitude": 17.65,
+        "longitude": 120.52,
+        "depth_km": 9.0,
+        "magnitude": 1.7,
+        "location": "009km N 33Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52,
+          17.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:09 AM",
+        "time_24": "01:09",
+        "latitude": 17.6,
+        "longitude": 120.67,
+        "depth_km": 19.0,
+        "magnitude": 1.9,
+        "location": "002km S 48Â° E of Tayum (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67,
+          17.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:02 AM",
+        "time_24": "01:02",
+        "latitude": 9.45,
+        "longitude": 122.43,
+        "depth_km": 15.0,
+        "magnitude": 1.3,
+        "location": "017km S 13Â° W of Hinoba-an (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.43,
+          9.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:01 AM",
+        "time_24": "01:01",
+        "latitude": 17.7,
+        "longitude": 120.56,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "011km S 66Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          17.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
