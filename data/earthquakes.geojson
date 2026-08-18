@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T05:05:54.594875+00:00",
+  "generated_at": "2026-08-18T05:43:15.123133+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "01:22 PM",
+        "time_24": "13:22",
+        "latitude": 10.25,
+        "longitude": 126.58,
+        "depth_km": 14.0,
+        "magnitude": 2.7,
+        "location": "061km N 65Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          10.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "01:07 PM",
+        "time_24": "13:07",
+        "latitude": 19.93,
+        "longitude": 121.08,
+        "depth_km": 50.0,
+        "magnitude": 2.3,
+        "location": "085km N 29Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.08,
+          19.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
