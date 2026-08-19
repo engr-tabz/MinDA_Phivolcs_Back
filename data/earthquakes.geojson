@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T11:11:44.879143+00:00",
+  "generated_at": "2026-08-19T11:43:00.224824+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "07:32 PM",
+        "time_24": "19:32",
+        "latitude": 7.17,
+        "longitude": 127.12,
+        "depth_km": 13.0,
+        "magnitude": 2.5,
+        "location": "064km S 74Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12,
+          7.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "07:06 PM",
+        "time_24": "19:06",
+        "latitude": 5.43,
+        "longitude": 125.87,
+        "depth_km": 15.0,
+        "magnitude": 2.7,
+        "location": "044km S 84Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          5.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -39,6 +79,46 @@
         "coordinates": [
           126.47,
           7.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "06:22 PM",
+        "time_24": "18:22",
+        "latitude": 10.17,
+        "longitude": 126.26,
+        "depth_km": 19.0,
+        "magnitude": 2.2,
+        "location": "026km N 51Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          10.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "06:21 PM",
+        "time_24": "18:21",
+        "latitude": 5.83,
+        "longitude": 125.32,
+        "depth_km": 23.0,
+        "magnitude": 2.7,
+        "location": "013km N 87Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.83
         ]
       }
     },
