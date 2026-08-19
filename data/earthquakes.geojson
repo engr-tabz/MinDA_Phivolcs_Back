@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T22:32:05.912013+00:00",
+  "generated_at": "2026-08-19T22:56:08.826642+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "06:45 AM",
+        "time_24": "06:45",
+        "latitude": 12.75,
+        "longitude": 124.45,
+        "depth_km": 73.0,
+        "magnitude": 2.9,
+        "location": "012km N 54Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.45,
+          12.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "06:33 AM",
+        "time_24": "06:33",
+        "latitude": 12.9,
+        "longitude": 123.09,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "017km S 88Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09,
+          12.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
