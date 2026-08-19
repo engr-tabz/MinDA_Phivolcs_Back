@@ -1,24 +1,104 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T04:52:34.598864+00:00",
+  "generated_at": "2026-08-19T05:25:25.393597+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "01:02 PM",
+        "time_24": "13:02",
+        "latitude": 5.63,
+        "longitude": 125.35,
+        "depth_km": 18.0,
+        "magnitude": 2.6,
+        "location": "022km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "12:57 PM",
+        "time_24": "12:57",
+        "latitude": 19.41,
+        "longitude": 121.26,
+        "depth_km": 36.0,
+        "magnitude": 2.3,
+        "location": "027km N 54Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.26,
+          19.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "12:51 PM",
+        "time_24": "12:51",
+        "latitude": 7.79,
+        "longitude": 121.94,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "023km S 85Â° W of Baliguian (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.94,
+          7.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "12:50 PM",
+        "time_24": "12:50",
+        "latitude": 10.61,
+        "longitude": 125.81,
+        "depth_km": 23.0,
+        "magnitude": 2.7,
+        "location": "017km S 33Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81,
+          10.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
         "time": "12:22 PM",
         "time_24": "12:22",
-        "latitude": 21.69,
-        "longitude": 120.84,
-        "depth_km": 10.0,
-        "magnitude": 5.7,
-        "location": "144km N 47Â° W of Itbayat (Batanes)"
+        "latitude": 19.27,
+        "longitude": 121.15,
+        "depth_km": 26.0,
+        "magnitude": 4.8,
+        "location": "019km N 20Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.84,
-          21.69
+          121.15,
+          19.27
         ]
       }
     },
