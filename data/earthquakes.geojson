@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T14:37:29.721006+00:00",
+  "generated_at": "2026-08-19T15:06:13.707112+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "10:49 PM",
+        "time_24": "22:49",
+        "latitude": 17.65,
+        "longitude": 120.5,
+        "depth_km": 4.0,
+        "magnitude": 1.6,
+        "location": "010km N 46Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          17.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "10:41 PM",
+        "time_24": "22:41",
+        "latitude": 17.61,
+        "longitude": 120.53,
+        "depth_km": 8.0,
+        "magnitude": 1.9,
+        "location": "005km N 44Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53,
+          17.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "10:37 PM",
+        "time_24": "22:37",
+        "latitude": 5.37,
+        "longitude": 125.27,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "017km S 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1586,8 +1646,8 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "08:46 PM",
-        "time_24": "20:46",
+        "time": "11:06 AM",
+        "time_24": "11:06",
         "latitude": 5.86,
         "longitude": 125.39,
         "depth_km": 20.0,
@@ -1606,19 +1666,39 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "08:26 PM",
-        "time_24": "20:26",
-        "latitude": 6.36,
-        "longitude": 124.69,
-        "depth_km": 17.0,
-        "magnitude": 2.6,
-        "location": "006km S 71Â° W of Surallah (South Cotabato)"
+        "time": "10:00 PM",
+        "time_24": "22:00",
+        "latitude": 8.11,
+        "longitude": 124.52,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "012km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.69,
-          6.36
+          124.52,
+          8.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "09:31 PM",
+        "time_24": "21:31",
+        "latitude": 8.11,
+        "longitude": 124.52,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "006km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.52,
+          8.11
         ]
       }
     },
@@ -1748,17 +1828,17 @@
         "date": "18 August 2026",
         "time": "06:49 PM",
         "time_24": "18:49",
-        "latitude": 15.89,
-        "longitude": 121.01,
-        "depth_km": 13.0,
-        "magnitude": 1.7,
-        "location": "010km S 32Â° W of Carranglan (Nueva Ecija)"
+        "latitude": 15.85,
+        "longitude": 121.0,
+        "depth_km": 9.0,
+        "magnitude": 2.3,
+        "location": "007km N 10Â° E of San Jose City (Nueva Ecija)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.01,
-          15.89
+          121.0,
+          15.85
         ]
       }
     },
@@ -1766,8 +1846,8 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "06:34 PM",
-        "time_24": "18:34",
+        "time": "06:47 PM",
+        "time_24": "18:47",
         "latitude": 5.54,
         "longitude": 125.42,
         "depth_km": 35.0,
