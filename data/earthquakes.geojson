@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T08:18:27.785201+00:00",
+  "generated_at": "2026-08-19T08:59:53.854833+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "04:39 PM",
+        "time_24": "16:39",
+        "latitude": 8.0,
+        "longitude": 126.4,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "005km S 22Â° W of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          8.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "04:17 PM",
+        "time_24": "16:17",
+        "latitude": 5.55,
+        "longitude": 125.24,
+        "depth_km": 28.0,
+        "magnitude": 2.1,
+        "location": "025km N 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "04:09 PM",
+        "time_24": "16:09",
+        "latitude": 5.67,
+        "longitude": 126.39,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "087km S 72Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.39,
+          5.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
