@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T18:55:47.861873+00:00",
+  "generated_at": "2026-08-19T19:30:14.415799+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "03:19 AM",
+        "time_24": "03:19",
+        "latitude": 12.3,
+        "longitude": 123.29,
+        "depth_km": 29.0,
+        "magnitude": 1.6,
+        "location": "009km N 01Â° E of Mandaon (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.29,
+          12.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "03:01 AM",
+        "time_24": "03:01",
+        "latitude": 9.91,
+        "longitude": 126.25,
+        "depth_km": 28.0,
+        "magnitude": 2.5,
+        "location": "017km N 71Â° E of Pilar (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "01:56 AM",
+        "time_24": "01:56",
+        "latitude": 17.67,
+        "longitude": 120.5,
+        "depth_km": 6.0,
+        "magnitude": 1.7,
+        "location": "008km S 75Â° E of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          17.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "01:19 AM",
+        "time_24": "01:19",
+        "latitude": 5.74,
+        "longitude": 126.43,
+        "depth_km": 22.0,
+        "magnitude": 4.4,
+        "location": "096km S 58Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.43,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
