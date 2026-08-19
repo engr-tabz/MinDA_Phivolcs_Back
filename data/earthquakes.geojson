@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T17:17:02.188674+00:00",
+  "generated_at": "2026-08-19T17:45:44.075827+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1912,13 +1912,33 @@
         "longitude": 124.52,
         "depth_km": 33.0,
         "magnitude": 1.5,
-        "location": "012km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
+        "location": "012km S 43Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           124.52,
           8.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "09:50 PM",
+        "time_24": "21:50",
+        "latitude": 6.36,
+        "longitude": 124.69,
+        "depth_km": 17.0,
+        "magnitude": 2.6,
+        "location": "006km S 71Â° W of Surallah (South Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69,
+          6.36
         ]
       }
     },
@@ -1928,26 +1948,6 @@
         "date": "18 August 2026",
         "time": "09:31 PM",
         "time_24": "21:31",
-        "latitude": 8.11,
-        "longitude": 124.52,
-        "depth_km": 33.0,
-        "magnitude": 1.5,
-        "location": "012km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          124.52,
-          8.11
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "18 August 2026",
-        "time": "10:00 PM",
-        "time_24": "22:00",
         "latitude": 8.11,
         "longitude": 124.52,
         "depth_km": 33.0,
