@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T13:55:13.571956+00:00",
+  "generated_at": "2026-08-19T14:37:29.721006+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "10:18 PM",
+        "time_24": "22:18",
+        "latitude": 17.64,
+        "longitude": 120.53,
+        "depth_km": 2.0,
+        "magnitude": 2.4,
+        "location": "008km N 26Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53,
+          17.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "10:03 PM",
+        "time_24": "22:03",
+        "latitude": 13.09,
+        "longitude": 125.65,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "080km N 33Â° E of Mapanas (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.65,
+          13.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "09:46 PM",
+        "time_24": "21:46",
+        "latitude": 19.58,
+        "longitude": 121.75,
+        "depth_km": 11.0,
+        "magnitude": 2.7,
+        "location": "019km N 64Â° W of Babuyan Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          19.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1248,17 +1308,17 @@
         "date": "19 August 2026",
         "time": "01:02 AM",
         "time_24": "01:02",
-        "latitude": 9.45,
-        "longitude": 122.43,
-        "depth_km": 15.0,
-        "magnitude": 1.3,
-        "location": "017km S 13Â° W of Hinoba-an (Negros Occidental)"
+        "latitude": 9.46,
+        "longitude": 122.34,
+        "depth_km": 23.0,
+        "magnitude": 2.2,
+        "location": "021km S 42Â° W of Hinoba-an (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.43,
-          9.45
+          122.34,
+          9.46
         ]
       }
     },
@@ -1268,17 +1328,17 @@
         "date": "19 August 2026",
         "time": "01:01 AM",
         "time_24": "01:01",
-        "latitude": 17.7,
-        "longitude": 120.56,
+        "latitude": 17.71,
+        "longitude": 120.59,
         "depth_km": 2.0,
         "magnitude": 2.7,
-        "location": "011km S 66Â° E of San Juan (Ilocos Sur)"
+        "location": "008km N 79Â° W of Danglas (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.56,
-          17.7
+          120.59,
+          17.71
         ]
       }
     },
@@ -1288,17 +1348,17 @@
         "date": "19 August 2026",
         "time": "12:56 AM",
         "time_24": "00:56",
-        "latitude": 5.6,
-        "longitude": 125.1,
-        "depth_km": 25.0,
-        "magnitude": 1.8,
-        "location": "027km S 24Â° W of Glan (Sarangani)"
+        "latitude": 5.76,
+        "longitude": 125.14,
+        "depth_km": 19.0,
+        "magnitude": 1.9,
+        "location": "010km S 47Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.1,
-          5.6
+          125.14,
+          5.76
         ]
       }
     },
@@ -1308,17 +1368,17 @@
         "date": "19 August 2026",
         "time": "12:51 AM",
         "time_24": "00:51",
-        "latitude": 5.88,
+        "latitude": 5.83,
         "longitude": 125.28,
-        "depth_km": 25.0,
-        "magnitude": 1.3,
-        "location": "010km S 05Â° W of Malapatan (Sarangani)"
+        "depth_km": 29.0,
+        "magnitude": 1.7,
+        "location": "008km N 82Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.28,
-          5.88
+          5.83
         ]
       }
     },
@@ -1328,17 +1388,17 @@
         "date": "19 August 2026",
         "time": "12:49 AM",
         "time_24": "00:49",
-        "latitude": 6.28,
-        "longitude": 126.22,
-        "depth_km": 122.0,
-        "magnitude": 1.9,
-        "location": "044km S 22Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.32,
+        "longitude": 126.28,
+        "depth_km": 139.0,
+        "magnitude": 2.3,
+        "location": "044km S 32Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.22,
-          6.28
+          126.28,
+          6.32
         ]
       }
     },
@@ -1526,19 +1586,19 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "10:00 PM",
-        "time_24": "22:00",
-        "latitude": 5.89,
-        "longitude": 125.4,
-        "depth_km": 21.0,
-        "magnitude": 1.5,
-        "location": "015km S 56Â° E of Malapatan (Sarangani)"
+        "time": "08:46 PM",
+        "time_24": "20:46",
+        "latitude": 5.86,
+        "longitude": 125.39,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "017km S 43Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.4,
-          5.89
+          125.39,
+          5.86
         ]
       }
     },
@@ -1546,8 +1606,8 @@
       "type": "Feature",
       "properties": {
         "date": "18 August 2026",
-        "time": "09:50 PM",
-        "time_24": "21:50",
+        "time": "08:26 PM",
+        "time_24": "20:26",
         "latitude": 6.36,
         "longitude": 124.69,
         "depth_km": 17.0,
@@ -1559,6 +1619,26 @@
         "coordinates": [
           124.69,
           6.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "10:00 PM",
+        "time_24": "22:00",
+        "latitude": 8.11,
+        "longitude": 124.52,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "012km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.52,
+          8.11
         ]
       }
     },
@@ -1579,6 +1659,26 @@
         "coordinates": [
           125.37,
           5.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "08:36 PM",
+        "time_24": "20:36",
+        "latitude": 6.72,
+        "longitude": 125.78,
+        "depth_km": 37.0,
+        "magnitude": 1.6,
+        "location": "032km S 52Â° W of Lupon (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.78,
+          6.72
         ]
       }
     },
