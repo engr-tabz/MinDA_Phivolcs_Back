@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T08:59:53.854833+00:00",
+  "generated_at": "2026-08-19T09:43:35.504079+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "05:19 PM",
+        "time_24": "17:19",
+        "latitude": 13.22,
+        "longitude": 124.8,
+        "depth_km": 9.0,
+        "magnitude": 1.9,
+        "location": "067km S 44Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8,
+          13.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "05:11 PM",
+        "time_24": "17:11",
+        "latitude": 10.08,
+        "longitude": 126.23,
+        "depth_km": 24.0,
+        "magnitude": 2.0,
+        "location": "018km N 67Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          10.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "05:04 PM",
+        "time_24": "17:04",
+        "latitude": 17.74,
+        "longitude": 120.54,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "009km S 86Â° E of San Juan (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54,
+          17.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "04:59 PM",
+        "time_24": "16:59",
+        "latitude": 5.18,
+        "longitude": 125.2,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "035km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.18
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1388,37 +1468,17 @@
         "date": "18 August 2026",
         "time": "06:29 PM",
         "time_24": "18:29",
-        "latitude": 9.53,
-        "longitude": 125.86,
-        "depth_km": 118.0,
-        "magnitude": 2.0,
-        "location": "015km S 71Â° E of Claver (Surigao Del Norte)"
+        "latitude": 9.46,
+        "longitude": 125.89,
+        "depth_km": 98.0,
+        "magnitude": 2.2,
+        "location": "021km S 53Â° E of Claver (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.86,
-          9.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "18 August 2026",
-        "time": "06:20 PM",
-        "time_24": "18:20",
-        "latitude": 15.89,
-        "longitude": 121.02,
-        "depth_km": 31.0,
-        "magnitude": 1.5,
-        "location": "009km S 30Â° W of Carranglan (Nueva Ecija)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.02,
-          15.89
+          125.89,
+          9.46
         ]
       }
     },
