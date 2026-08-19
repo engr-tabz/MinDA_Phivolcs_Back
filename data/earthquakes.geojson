@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T23:27:55.824198+00:00",
+  "generated_at": "2026-08-19T23:50:52.760953+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1606,6 +1606,26 @@
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
+        "time": "08:46 AM",
+        "time_24": "08:46",
+        "latitude": 5.67,
+        "longitude": 125.3,
+        "depth_km": 34.0,
+        "magnitude": 2.5,
+        "location": "029km N 41Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
         "time": "08:13 AM",
         "time_24": "08:13",
         "latitude": 10.92,
@@ -1826,6 +1846,26 @@
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
+        "time": "04:18 AM",
+        "time_24": "04:18",
+        "latitude": 9.78,
+        "longitude": 126.38,
+        "depth_km": 19.0,
+        "magnitude": 2.0,
+        "location": "024km S 89Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          9.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
         "time": "03:39 AM",
         "time_24": "03:39",
         "latitude": 19.64,
@@ -1848,17 +1888,17 @@
         "date": "19 August 2026",
         "time": "03:31 AM",
         "time_24": "03:31",
-        "latitude": 7.27,
-        "longitude": 126.74,
+        "latitude": 7.25,
+        "longitude": 126.7,
         "depth_km": 12.0,
-        "magnitude": 1.8,
-        "location": "020km S 72Â° E of Caraga (Davao Oriental)"
+        "magnitude": 2.5,
+        "location": "017km S 61Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.74,
-          7.27
+          126.7,
+          7.25
         ]
       }
     },
@@ -1868,17 +1908,17 @@
         "date": "19 August 2026",
         "time": "03:26 AM",
         "time_24": "03:26",
-        "latitude": 5.87,
+        "latitude": 5.88,
         "longitude": 125.39,
-        "depth_km": 13.0,
-        "magnitude": 1.9,
-        "location": "016km S 46Â° E of Malapatan (Sarangani)"
+        "depth_km": 9.0,
+        "magnitude": 2.7,
+        "location": "015km S 48Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.39,
-          5.87
+          5.88
         ]
       }
     },
@@ -1909,15 +1949,15 @@
         "time": "01:24 AM",
         "time_24": "01:24",
         "latitude": 17.65,
-        "longitude": 120.54,
+        "longitude": 120.52,
         "depth_km": 5.0,
-        "magnitude": 1.6,
-        "location": "009km N 20Â° W of Langiden (Abra)"
+        "magnitude": 2.1,
+        "location": "009km N 30Â° W of Langiden (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.54,
+          120.52,
           17.65
         ]
       }
@@ -2088,17 +2128,17 @@
         "date": "19 August 2026",
         "time": "12:47 AM",
         "time_24": "00:47",
-        "latitude": 12.87,
-        "longitude": 123.05,
-        "depth_km": 7.0,
-        "magnitude": 1.8,
-        "location": "022km S 81Â° W of Claveria (Masbate)"
+        "latitude": 18.02,
+        "longitude": 121.96,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "017km N 32Â° E of Baggao (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.05,
-          12.87
+          121.96,
+          18.02
         ]
       }
     },
@@ -2132,7 +2172,7 @@
         "longitude": 125.25,
         "depth_km": 12.0,
         "magnitude": 3.3,
-        "location": "017km S 62Â° E of Glan (Sarangani)"
+        "location": "017km S 17Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
@@ -2152,7 +2192,7 @@
         "longitude": 120.81,
         "depth_km": 11.0,
         "magnitude": 2.0,
-        "location": "005km S 55Â° E of Marcos (Ilocos Norte)"
+        "location": "005km N 08Â° W of Carasi (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
