@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T10:11:40.630958+00:00",
+  "generated_at": "2026-08-19T10:47:41.633091+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "06:26 PM",
+        "time_24": "18:26",
+        "latitude": 7.26,
+        "longitude": 126.47,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "009km N 55Â° W of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          7.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "06:14 PM",
+        "time_24": "18:14",
+        "latitude": 13.2,
+        "longitude": 120.81,
+        "depth_km": 37.0,
+        "magnitude": 2.1,
+        "location": "016km N 38Â° E of Santa Cruz (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81,
+          13.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "06:14 PM",
+        "time_24": "18:14",
+        "latitude": 5.42,
+        "longitude": 125.09,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "037km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09,
+          5.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1519,6 +1579,26 @@
         "coordinates": [
           125.89,
           9.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 August 2026",
+        "time": "06:20 PM",
+        "time_24": "18:20",
+        "latitude": 15.89,
+        "longitude": 120.99,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "011km S 43Â° W of Carranglan (Nueva Ecija)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99,
+          15.89
         ]
       }
     },
