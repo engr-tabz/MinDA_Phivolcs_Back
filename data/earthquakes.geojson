@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T21:32:55.548270+00:00",
+  "generated_at": "2026-08-19T21:56:59.578847+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "05:44 AM",
+        "time_24": "05:44",
+        "latitude": 5.66,
+        "longitude": 125.27,
+        "depth_km": 4.0,
+        "magnitude": 1.5,
+        "location": "019km S 24Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "05:31 AM",
+        "time_24": "05:31",
+        "latitude": 19.42,
+        "longitude": 121.72,
+        "depth_km": 14.0,
+        "magnitude": 1.9,
+        "location": "023km S 63Â° W of Babuyan Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.72,
+          19.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
