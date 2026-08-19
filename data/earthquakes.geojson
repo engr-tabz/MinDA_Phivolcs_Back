@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T05:56:48.837771+00:00",
+  "generated_at": "2026-08-19T06:57:01.163385+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "02:41 PM",
+        "time_24": "14:41",
+        "latitude": 11.28,
+        "longitude": 126.11,
+        "depth_km": 16.0,
+        "magnitude": 2.9,
+        "location": "049km N 65Â° E of Mercedes (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          11.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "02:29 PM",
+        "time_24": "14:29",
+        "latitude": 5.54,
+        "longitude": 125.31,
+        "depth_km": 21.0,
+        "magnitude": 4.2,
+        "location": "019km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.54
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
