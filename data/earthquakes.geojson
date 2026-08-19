@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T19:30:14.415799+00:00",
+  "generated_at": "2026-08-19T19:54:12.497929+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "03:36 AM",
+        "time_24": "03:36",
+        "latitude": 15.54,
+        "longitude": 119.46,
+        "depth_km": 19.0,
+        "magnitude": 2.2,
+        "location": "050km N 76Â° W of Palauig (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.46,
+          15.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "03:29 AM",
+        "time_24": "03:29",
+        "latitude": 7.08,
+        "longitude": 122.05,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "019km N 08Â° W of City Of Zamboanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05,
+          7.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "03:26 AM",
+        "time_24": "03:26",
+        "latitude": 3.59,
+        "longitude": 127.35,
+        "depth_km": 209.0,
+        "magnitude": 3.0,
+        "location": "294km S 47Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.35,
+          3.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
