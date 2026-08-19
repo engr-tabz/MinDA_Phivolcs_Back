@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-18T23:53:07.455443+00:00",
+  "generated_at": "2026-08-19T01:06:55.277536+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "08:26 AM",
+        "time_24": "08:26",
+        "latitude": 9.62,
+        "longitude": 126.23,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "020km S 26Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          9.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "08:13 AM",
+        "time_24": "08:13",
+        "latitude": 10.92,
+        "longitude": 124.78,
+        "depth_km": 4.0,
+        "magnitude": 1.4,
+        "location": "009km N 89Â° E of Albuera (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78,
+          10.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "08:00 AM",
+        "time_24": "08:00",
+        "latitude": 9.66,
+        "longitude": 126.28,
+        "depth_km": 23.0,
+        "magnitude": 2.5,
+        "location": "019km S 46Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.66
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
