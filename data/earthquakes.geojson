@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T12:03:21.723500+00:00",
+  "generated_at": "2026-08-19T13:05:32.613302+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "08:18 PM",
+        "time_24": "20:18",
+        "latitude": 10.96,
+        "longitude": 123.88,
+        "depth_km": 11.0,
+        "magnitude": 2.2,
+        "location": "015km S 49Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.88,
+          10.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +88,17 @@
         "date": "19 August 2026",
         "time": "07:01 PM",
         "time_24": "19:01",
-        "latitude": 4.95,
-        "longitude": 125.35,
-        "depth_km": 10.0,
+        "latitude": 5.21,
+        "longitude": 125.32,
+        "depth_km": 67.0,
         "magnitude": 5.2,
-        "location": "052km S 8Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "024km S 26Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.35,
-          4.95
+          125.32,
+          5.21
         ]
       }
     },
@@ -468,37 +488,17 @@
         "date": "19 August 2026",
         "time": "02:29 PM",
         "time_24": "14:29",
-        "latitude": 5.54,
-        "longitude": 125.31,
-        "depth_km": 21.0,
-        "magnitude": 4.2,
-        "location": "019km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.3,
+        "longitude": 125.22,
+        "depth_km": 14.0,
+        "magnitude": 4.3,
+        "location": "025km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          5.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "19 August 2026",
-        "time": "01:34 PM",
-        "time_24": "13:34",
-        "latitude": 7.82,
-        "longitude": 126.35,
-        "depth_km": 25.0,
-        "magnitude": 1.9,
-        "location": "006km S 29Â° W of Boston (Davao Oriental)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.35,
-          7.82
+          125.22,
+          5.3
         ]
       }
     },
@@ -628,17 +628,17 @@
         "date": "19 August 2026",
         "time": "12:22 PM",
         "time_24": "12:22",
-        "latitude": 19.27,
-        "longitude": 121.15,
-        "depth_km": 26.0,
+        "latitude": 19.28,
+        "longitude": 121.12,
+        "depth_km": 23.0,
         "magnitude": 4.8,
-        "location": "019km N 20Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "location": "021km N 26Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.15,
-          19.27
+          121.12,
+          19.28
         ]
       }
     },
@@ -1528,17 +1528,17 @@
         "date": "18 August 2026",
         "time": "09:31 PM",
         "time_24": "21:31",
-        "latitude": 7.94,
-        "longitude": 124.39,
-        "depth_km": 31.0,
-        "magnitude": 1.4,
-        "location": "001km S 45Â° E of Buadiposo-buntong (Lanao Del Sur)"
+        "latitude": 8.11,
+        "longitude": 124.52,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "012km N 73Â° E of Tagoloan Ii (Lanao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.39,
-          7.94
+          124.52,
+          8.11
         ]
       }
     },
