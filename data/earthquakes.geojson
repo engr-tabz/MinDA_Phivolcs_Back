@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T19:10:21.099684+00:00",
+  "generated_at": "2026-08-20T19:46:32.142463+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "03:02 AM",
+        "time_24": "03:02",
+        "latitude": 4.96,
+        "longitude": 125.38,
+        "depth_km": 8.0,
+        "magnitude": 2.3,
+        "location": "050km S 05Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          4.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1068,17 +1088,17 @@
         "date": "20 August 2026",
         "time": "09:23 AM",
         "time_24": "09:23",
-        "latitude": 13.3,
-        "longitude": 120.55,
-        "depth_km": 21.0,
-        "magnitude": 1.9,
-        "location": "009km N 29Â° W of Mamburao (Occidental Mindoro)"
+        "latitude": 13.26,
+        "longitude": 120.44,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "017km N 76Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.55,
-          13.3
+          120.44,
+          13.26
         ]
       }
     },
@@ -1128,17 +1148,17 @@
         "date": "20 August 2026",
         "time": "07:09 AM",
         "time_24": "07:09",
-        "latitude": 5.58,
-        "longitude": 125.19,
-        "depth_km": 33.0,
-        "magnitude": 2.1,
-        "location": "026km S 04Â° W of Glan (Sarangani)"
+        "latitude": 5.79,
+        "longitude": 125.24,
+        "depth_km": 12.0,
+        "magnitude": 2.3,
+        "location": "005km S 47Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.19,
-          5.58
+          125.24,
+          5.79
         ]
       }
     },
@@ -1268,17 +1288,17 @@
         "date": "20 August 2026",
         "time": "04:27 AM",
         "time_24": "04:27",
-        "latitude": 9.74,
-        "longitude": 126.38,
-        "depth_km": 25.0,
-        "magnitude": 2.1,
-        "location": "025km S 80Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.66,
+        "longitude": 126.27,
+        "depth_km": 10.0,
+        "magnitude": 2.2,
+        "location": "018km S 44Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.38,
-          9.74
+          126.27,
+          9.66
         ]
       }
     },
@@ -1346,18 +1366,18 @@
       "type": "Feature",
       "properties": {
         "date": "20 August 2026",
-        "time": "03:26 AM",
-        "time_24": "03:26",
+        "time": "03:27 AM",
+        "time_24": "03:27",
         "latitude": 3.59,
-        "longitude": 127.35,
-        "depth_km": 209.0,
-        "magnitude": 3.0,
-        "location": "294km S 47Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "longitude": 126.78,
+        "depth_km": 132.0,
+        "magnitude": 3.2,
+        "location": "252km S 37Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.35,
+          126.78,
           3.59
         ]
       }
