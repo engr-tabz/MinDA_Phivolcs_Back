@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T14:51:58.236784+00:00",
+  "generated_at": "2026-08-20T15:27:59.058680+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "11:18 PM",
+        "time_24": "23:18",
+        "latitude": 4.91,
+        "longitude": 125.16,
+        "depth_km": 13.0,
+        "magnitude": 3.2,
+        "location": "063km S 27Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          4.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "11:17 PM",
+        "time_24": "23:17",
+        "latitude": 5.52,
+        "longitude": 125.33,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "016km N 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.52
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -668,17 +708,17 @@
         "date": "20 August 2026",
         "time": "06:45 AM",
         "time_24": "06:45",
-        "latitude": 12.75,
-        "longitude": 124.45,
-        "depth_km": 73.0,
+        "latitude": 12.77,
+        "longitude": 124.48,
+        "depth_km": 71.0,
         "magnitude": 2.9,
-        "location": "012km N 54Â° E of Biri (Northern Samar)"
+        "location": "016km N 53Â° E of Biri (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.45,
-          12.75
+          124.48,
+          12.77
         ]
       }
     },
@@ -1048,17 +1088,17 @@
         "date": "20 August 2026",
         "time": "12:24 AM",
         "time_24": "00:24",
-        "latitude": 8.1,
-        "longitude": 122.23,
+        "latitude": 8.08,
+        "longitude": 122.24,
         "depth_km": 33.0,
-        "magnitude": 1.8,
-        "location": "023km N 56Â° W of Gutalac (Zamboanga Del Norte)"
+        "magnitude": 2.0,
+        "location": "021km N 59Â° W of Gutalac (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.23,
-          8.1
+          122.24,
+          8.08
         ]
       }
     },
