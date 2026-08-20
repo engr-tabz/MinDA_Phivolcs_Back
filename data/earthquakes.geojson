@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T20:49:13.670328+00:00",
+  "generated_at": "2026-08-20T21:16:26.000671+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:03 AM",
+        "time_24": "05:03",
+        "latitude": 8.89,
+        "longitude": 126.22,
+        "depth_km": 31.0,
+        "magnitude": 2.2,
+        "location": "010km S 72Â° W of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          8.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "04:58 AM",
+        "time_24": "04:58",
+        "latitude": 6.62,
+        "longitude": 126.4,
+        "depth_km": 49.0,
+        "magnitude": 1.9,
+        "location": "036km S 84Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          6.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 5.63,
+        "longitude": 125.33,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "023km N 42Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
