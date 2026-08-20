@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-19T23:50:52.760953+00:00",
+  "generated_at": "2026-08-20T00:44:34.363422+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "07:56 AM",
+        "time_24": "07:56",
+        "latitude": 5.31,
+        "longitude": 125.29,
+        "depth_km": 10.0,
+        "magnitude": 2.0,
+        "location": "019km S 52Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1446,19 +1466,19 @@
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
-        "time": "11:26 AM",
-        "time_24": "11:26",
-        "latitude": 11.08,
-        "longitude": 124.11,
-        "depth_km": 32.0,
-        "magnitude": 1.6,
-        "location": "015km N 77Â° E of City Of Bogo (Cebu)"
+        "time": "11:13 AM",
+        "time_24": "11:13",
+        "latitude": 10.95,
+        "longitude": 124.09,
+        "depth_km": 24.0,
+        "magnitude": 2.0,
+        "location": "007km N 79Â° E of Tabogon (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.11,
-          11.08
+          124.09,
+          10.95
         ]
       }
     },
@@ -1592,27 +1612,7 @@
         "longitude": 125.3,
         "depth_km": 34.0,
         "magnitude": 2.5,
-        "location": "029km N 41Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.3,
-          5.67
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "19 August 2026",
-        "time": "08:46 AM",
-        "time_24": "08:46",
-        "latitude": 5.67,
-        "longitude": 125.3,
-        "depth_km": 34.0,
-        "magnitude": 2.5,
-        "location": "029km N 41Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "029km N 41Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
@@ -2192,7 +2192,7 @@
         "longitude": 120.81,
         "depth_km": 11.0,
         "magnitude": 2.0,
-        "location": "005km N 08Â° W of Carasi (Ilocos Norte)"
+        "location": "005km S 55Â° E of Marcos (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
@@ -2232,7 +2232,7 @@
         "longitude": 126.09,
         "depth_km": 20.0,
         "magnitude": 2.3,
-        "location": "039km N 08Â° W of Santa Monica (Surigao Del Norte)"
+        "location": "039km N 08Â° E of Santa Monica (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
