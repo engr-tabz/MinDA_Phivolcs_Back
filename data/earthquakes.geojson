@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T10:05:37.160583+00:00",
+  "generated_at": "2026-08-20T10:44:52.394155+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "06:23 PM",
+        "time_24": "18:23",
+        "latitude": 5.91,
+        "longitude": 125.34,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "009km S 39Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1188,17 +1208,17 @@
         "date": "19 August 2026",
         "time": "07:06 PM",
         "time_24": "19:06",
-        "latitude": 5.43,
-        "longitude": 125.87,
+        "latitude": 5.42,
+        "longitude": 125.85,
         "depth_km": 15.0,
         "magnitude": 2.7,
-        "location": "044km S 84Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "042km S 83Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.87,
-          5.43
+          125.85,
+          5.42
         ]
       }
     },
@@ -1268,17 +1288,17 @@
         "date": "19 August 2026",
         "time": "06:21 PM",
         "time_24": "18:21",
-        "latitude": 5.83,
-        "longitude": 125.32,
-        "depth_km": 23.0,
-        "magnitude": 2.7,
-        "location": "013km N 87Â° E of Glan (Sarangani)"
+        "latitude": 5.8,
+        "longitude": 125.26,
+        "depth_km": 19.0,
+        "magnitude": 2.8,
+        "location": "007km S 68Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          5.83
+          125.26,
+          5.8
         ]
       }
     },
@@ -1288,17 +1308,17 @@
         "date": "19 August 2026",
         "time": "06:14 PM",
         "time_24": "18:14",
-        "latitude": 13.2,
-        "longitude": 120.81,
-        "depth_km": 37.0,
+        "latitude": 13.19,
+        "longitude": 120.77,
+        "depth_km": 30.0,
         "magnitude": 2.1,
-        "location": "016km N 38Â° E of Santa Cruz (Occidental Mindoro)"
+        "location": "013km N 26Â° E of Santa Cruz (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.81,
-          13.2
+          120.77,
+          13.19
         ]
       }
     },
@@ -1728,17 +1748,17 @@
         "date": "19 August 2026",
         "time": "12:50 PM",
         "time_24": "12:50",
-        "latitude": 10.61,
-        "longitude": 125.81,
-        "depth_km": 23.0,
-        "magnitude": 2.7,
-        "location": "017km S 33Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+        "latitude": 10.65,
+        "longitude": 125.82,
+        "depth_km": 25.0,
+        "magnitude": 2.8,
+        "location": "015km S 47Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.81,
-          10.61
+          125.82,
+          10.65
         ]
       }
     },
