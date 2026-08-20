@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T11:12:05.028587+00:00",
+  "generated_at": "2026-08-20T11:45:27.048934+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "07:03 PM",
+        "time_24": "19:03",
+        "latitude": 5.97,
+        "longitude": 124.45,
+        "depth_km": 27.0,
+        "magnitude": 1.4,
+        "location": "011km S 28Â° W of Maitum (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.45,
+          5.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "07:01 PM",
+        "time_24": "19:01",
+        "latitude": 5.7,
+        "longitude": 125.41,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "026km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1188,17 +1228,17 @@
         "date": "19 August 2026",
         "time": "07:32 PM",
         "time_24": "19:32",
-        "latitude": 7.17,
-        "longitude": 127.12,
-        "depth_km": 13.0,
-        "magnitude": 2.5,
-        "location": "064km S 74Â° E of Caraga (Davao Oriental)"
+        "latitude": 7.11,
+        "longitude": 127.13,
+        "depth_km": 16.0,
+        "magnitude": 3.0,
+        "location": "067km S 69Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.12,
-          7.17
+          127.13,
+          7.11
         ]
       }
     },
@@ -1692,7 +1732,7 @@
         "longitude": 125.35,
         "depth_km": 18.0,
         "magnitude": 2.6,
-        "location": "022km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "022km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -2832,7 +2872,7 @@
         "longitude": 125.42,
         "depth_km": 35.0,
         "magnitude": 1.6,
-        "location": "009km N 40Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "009km N 40Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -3592,7 +3632,7 @@
         "longitude": 125.37,
         "depth_km": 20.0,
         "magnitude": 2.2,
-        "location": "021km N 32Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "021km N 32Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -3612,7 +3652,7 @@
         "longitude": 125.52,
         "depth_km": 23.0,
         "magnitude": 1.5,
-        "location": "009km S 38Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "009km S 38Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -3752,7 +3792,7 @@
         "longitude": 126.43,
         "depth_km": 28.0,
         "magnitude": 4.0,
-        "location": "132km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "132km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -5092,7 +5132,7 @@
         "longitude": 125.36,
         "depth_km": 21.0,
         "magnitude": 2.4,
-        "location": "017km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "017km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -5152,7 +5192,7 @@
         "longitude": 125.37,
         "depth_km": 52.0,
         "magnitude": 1.4,
-        "location": "012km N 67Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "012km N 67Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -5472,7 +5512,7 @@
         "longitude": 125.37,
         "depth_km": 19.0,
         "magnitude": 2.7,
-        "location": "020km N 34Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "020km N 34Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -5652,7 +5692,7 @@
         "longitude": 125.57,
         "depth_km": 24.0,
         "magnitude": 2.2,
-        "location": "011km S 81Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "011km S 81Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -5992,7 +6032,7 @@
         "longitude": 126.09,
         "depth_km": 34.0,
         "magnitude": 2.0,
-        "location": "072km S 72Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "072km S 72Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -6472,7 +6512,7 @@
         "longitude": 125.29,
         "depth_km": 22.0,
         "magnitude": 3.2,
-        "location": "025km N 55Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "025km N 55Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -7152,7 +7192,7 @@
         "longitude": 128.08,
         "depth_km": 15.0,
         "magnitude": 4.7,
-        "location": "353km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "353km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -7472,7 +7512,7 @@
         "longitude": 125.43,
         "depth_km": 24.0,
         "magnitude": 2.0,
-        "location": "018km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "018km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -7692,7 +7732,7 @@
         "longitude": 127.99,
         "depth_km": 198.0,
         "magnitude": 3.2,
-        "location": "302km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "302km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -8652,7 +8692,7 @@
         "longitude": 125.34,
         "depth_km": 3.0,
         "magnitude": 1.8,
-        "location": "017km N 59Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "017km N 59Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -10052,7 +10092,7 @@
         "longitude": 125.39,
         "depth_km": 35.0,
         "magnitude": 1.6,
-        "location": "009km N 70Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "009km N 70Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -11672,7 +11712,7 @@
         "longitude": 125.48,
         "depth_km": 2.0,
         "magnitude": 2.0,
-        "location": "014km N 03Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "014km N 03Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -11992,7 +12032,7 @@
         "longitude": 125.5,
         "depth_km": 9.0,
         "magnitude": 2.5,
-        "location": "006km S 34Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "006km S 34Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -12092,7 +12132,7 @@
         "longitude": 125.41,
         "depth_km": 26.0,
         "magnitude": 2.3,
-        "location": "022km N 17Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "022km N 17Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -12292,7 +12332,7 @@
         "longitude": 125.65,
         "depth_km": 10.0,
         "magnitude": 3.3,
-        "location": "020km N 84Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "020km N 84Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -12352,7 +12392,7 @@
         "longitude": 125.18,
         "depth_km": 2.0,
         "magnitude": 1.6,
-        "location": "036km N 63Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "036km N 63Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -15072,7 +15112,7 @@
         "longitude": 126.59,
         "depth_km": 36.0,
         "magnitude": 3.1,
-        "location": "155km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "155km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -15812,7 +15852,7 @@
         "longitude": 125.69,
         "depth_km": 6.0,
         "magnitude": 2.3,
-        "location": "030km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "030km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -16272,7 +16312,7 @@
         "longitude": 125.44,
         "depth_km": 20.0,
         "magnitude": 1.5,
-        "location": "004km S 66Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "004km S 66Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -16792,7 +16832,7 @@
         "longitude": 128.25,
         "depth_km": 333.0,
         "magnitude": 3.7,
-        "location": "352km S 61Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "352km S 61Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -17712,7 +17752,7 @@
         "longitude": 126.0,
         "depth_km": 27.0,
         "magnitude": 2.2,
-        "location": "064km S 65Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "064km S 65Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -17952,7 +17992,7 @@
         "longitude": 125.35,
         "depth_km": 20.0,
         "magnitude": 3.2,
-        "location": "017km N 54Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "017km N 54Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -18212,7 +18252,7 @@
         "longitude": 126.25,
         "depth_km": 79.0,
         "magnitude": 2.8,
-        "location": "099km S 58Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "099km S 58Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -19352,7 +19392,7 @@
         "longitude": 125.7,
         "depth_km": 119.0,
         "magnitude": 2.1,
-        "location": "027km N 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "027km N 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -19952,7 +19992,7 @@
         "longitude": 126.6,
         "depth_km": 15.0,
         "magnitude": 3.8,
-        "location": "141km S 62Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "141km S 62Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -20672,7 +20712,7 @@
         "longitude": 125.39,
         "depth_km": 4.0,
         "magnitude": 3.1,
-        "location": "013km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "013km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -21112,7 +21152,7 @@
         "longitude": 125.41,
         "depth_km": 16.0,
         "magnitude": 2.1,
-        "location": "021km N 18Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "021km N 18Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -21392,7 +21432,7 @@
         "longitude": 125.43,
         "depth_km": 2.0,
         "magnitude": 2.8,
-        "location": "008km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "008km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -22292,7 +22332,7 @@
         "longitude": 125.5,
         "depth_km": 110.0,
         "magnitude": 2.1,
-        "location": "006km S 36Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "006km S 36Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -23172,7 +23212,7 @@
         "longitude": 125.42,
         "depth_km": 28.0,
         "magnitude": 2.6,
-        "location": "008km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "008km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -23552,7 +23592,7 @@
         "longitude": 125.38,
         "depth_km": 29.0,
         "magnitude": 2.0,
-        "location": "023km N 27Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "023km N 27Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -25452,7 +25492,7 @@
         "longitude": 125.45,
         "depth_km": 30.0,
         "magnitude": 1.8,
-        "location": "031km N 05Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "031km N 05Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -26252,7 +26292,7 @@
         "longitude": 126.99,
         "depth_km": 13.0,
         "magnitude": 2.7,
-        "location": "168km N 85Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "168km N 85Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -26552,7 +26592,7 @@
         "longitude": 125.39,
         "depth_km": 24.0,
         "magnitude": 2.4,
-        "location": "027km N 19Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "027km N 19Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -26612,7 +26652,7 @@
         "longitude": 125.34,
         "depth_km": 4.0,
         "magnitude": 1.9,
-        "location": "024km N 37Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "024km N 37Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -26992,7 +27032,7 @@
         "longitude": 126.0,
         "depth_km": 2.0,
         "magnitude": 2.8,
-        "location": "065km S 64Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "065km S 64Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -27712,7 +27752,7 @@
         "longitude": 125.32,
         "depth_km": 26.0,
         "magnitude": 2.4,
-        "location": "024km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "024km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -28252,7 +28292,7 @@
         "longitude": 125.62,
         "depth_km": 28.0,
         "magnitude": 2.1,
-        "location": "018km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "018km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
@@ -29132,7 +29172,7 @@
         "longitude": 126.3,
         "depth_km": 18.0,
         "magnitude": 3.3,
-        "location": "094km S 79Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\r\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "094km S 79Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
       },
       "geometry": {
         "type": "Point",
