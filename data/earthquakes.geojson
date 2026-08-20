@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T17:15:27.286905+00:00",
+  "generated_at": "2026-08-20T17:50:28.749598+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "01:33 AM",
+        "time_24": "01:33",
+        "latitude": 3.68,
+        "longitude": 125.75,
+        "depth_km": 139.0,
+        "magnitude": 3.7,
+        "location": "195km S 11Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          3.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "01:26 AM",
+        "time_24": "01:26",
+        "latitude": 7.03,
+        "longitude": 124.36,
+        "depth_km": 6.0,
+        "magnitude": 3.4,
+        "location": "002km S 54Â° W of Talitay (Maguindanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.36,
+          7.03
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1208,17 +1248,17 @@
         "date": "20 August 2026",
         "time": "01:19 AM",
         "time_24": "01:19",
-        "latitude": 5.74,
-        "longitude": 126.43,
-        "depth_km": 22.0,
+        "latitude": 5.8,
+        "longitude": 126.38,
+        "depth_km": 29.0,
         "magnitude": 4.4,
-        "location": "096km S 58Â° E of Don Marcelino (Davao Occidental)"
+        "location": "088km S 60Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.43,
-          5.74
+          126.38,
+          5.8
         ]
       }
     },
