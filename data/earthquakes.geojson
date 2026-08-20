@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T14:04:43.609370+00:00",
+  "generated_at": "2026-08-20T14:51:58.236784+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "10:35 PM",
+        "time_24": "22:35",
+        "latitude": 7.05,
+        "longitude": 125.94,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "010km S 31Â° E of Pantukan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.94,
+          7.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -768,17 +788,17 @@
         "date": "20 August 2026",
         "time": "03:48 AM",
         "time_24": "03:48",
-        "latitude": 16.37,
-        "longitude": 119.97,
-        "depth_km": 59.0,
+        "latitude": 16.39,
+        "longitude": 119.99,
+        "depth_km": 56.0,
         "magnitude": 1.8,
-        "location": "008km S 73Â° E of Bolinao (Pangasinan)"
+        "location": "011km N 89Â° E of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.97,
-          16.37
+          119.99,
+          16.39
         ]
       }
     },
@@ -788,17 +808,17 @@
         "date": "20 August 2026",
         "time": "03:36 AM",
         "time_24": "03:36",
-        "latitude": 15.54,
-        "longitude": 119.46,
-        "depth_km": 19.0,
-        "magnitude": 2.2,
-        "location": "050km N 76Â° W of Palauig (Zambales)"
+        "latitude": 15.49,
+        "longitude": 119.41,
+        "depth_km": 11.0,
+        "magnitude": 2.3,
+        "location": "054km N 84Â° W of Palauig (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.46,
-          15.54
+          119.41,
+          15.49
         ]
       }
     },
@@ -848,17 +868,17 @@
         "date": "20 August 2026",
         "time": "03:19 AM",
         "time_24": "03:19",
-        "latitude": 12.3,
-        "longitude": 123.29,
-        "depth_km": 29.0,
-        "magnitude": 1.6,
-        "location": "009km N 01Â° E of Mandaon (Masbate)"
+        "latitude": 12.68,
+        "longitude": 123.44,
+        "depth_km": 22.0,
+        "magnitude": 1.5,
+        "location": "019km N 13Â° E of Aroroy (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.29,
-          12.3
+          123.44,
+          12.68
         ]
       }
     },
@@ -928,17 +948,17 @@
         "date": "20 August 2026",
         "time": "01:20 AM",
         "time_24": "01:20",
-        "latitude": 11.79,
+        "latitude": 11.8,
         "longitude": 125.38,
-        "depth_km": 27.0,
-        "magnitude": 1.7,
-        "location": "008km S 73Â° W of Sulat (Eastern Samar)"
+        "depth_km": 24.0,
+        "magnitude": 2.0,
+        "location": "008km S 78Â° W of Sulat (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.38,
-          11.79
+          11.8
         ]
       }
     },
@@ -979,6 +999,26 @@
         "coordinates": [
           121.66,
           19.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "12:36 AM",
+        "time_24": "00:36",
+        "latitude": 9.94,
+        "longitude": 122.29,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "025km N 39Â° W of City of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29,
+          9.94
         ]
       }
     },
@@ -1048,17 +1088,17 @@
         "date": "20 August 2026",
         "time": "12:05 AM",
         "time_24": "00:05",
-        "latitude": 12.83,
-        "longitude": 122.97,
-        "depth_km": 10.0,
+        "latitude": 12.84,
+        "longitude": 122.95,
+        "depth_km": 9.0,
         "magnitude": 2.3,
-        "location": "031km S 74Â° W of Claveria (Masbate)"
+        "location": "033km S 79Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.97,
-          12.83
+          122.95,
+          12.84
         ]
       }
     },
@@ -1068,17 +1108,17 @@
         "date": "20 August 2026",
         "time": "12:04 AM",
         "time_24": "00:04",
-        "latitude": 5.43,
-        "longitude": 125.34,
-        "depth_km": 35.0,
-        "magnitude": 2.3,
-        "location": "009km N 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.55,
+        "longitude": 125.35,
+        "depth_km": 26.0,
+        "magnitude": 2.5,
+        "location": "016km N 57Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.34,
-          5.43
+          125.35,
+          5.55
         ]
       }
     },
@@ -1128,17 +1168,17 @@
         "date": "19 August 2026",
         "time": "11:59 PM",
         "time_24": "23:59",
-        "latitude": 6.95,
-        "longitude": 126.63,
-        "depth_km": 51.0,
-        "magnitude": 1.9,
-        "location": "023km S 63Â° E of Tarragona (Davao Oriental)"
+        "latitude": 7.03,
+        "longitude": 126.86,
+        "depth_km": 17.0,
+        "magnitude": 2.1,
+        "location": "041km S 60Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.63,
-          6.95
+          126.86,
+          7.03
         ]
       }
     },
@@ -1349,15 +1389,15 @@
         "time": "09:46 PM",
         "time_24": "21:46",
         "latitude": 19.58,
-        "longitude": 121.75,
-        "depth_km": 11.0,
-        "magnitude": 2.7,
-        "location": "019km N 64Â° W of Babuyan Island (Calayan) (Cagayan)"
+        "longitude": 121.68,
+        "depth_km": 14.0,
+        "magnitude": 2.9,
+        "location": "026km N 72Â° W of Babuyan Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.75,
+          121.68,
           19.58
         ]
       }
