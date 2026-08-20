@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T20:13:03.363363+00:00",
+  "generated_at": "2026-08-20T20:49:13.670328+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "04:17 AM",
+        "time_24": "04:17",
+        "latitude": 7.89,
+        "longitude": 126.4,
+        "depth_km": 22.0,
+        "magnitude": 1.8,
+        "location": "004km N 46Â° E of Boston (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          7.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "04:12 AM",
+        "time_24": "04:12",
+        "latitude": 5.86,
+        "longitude": 125.38,
+        "depth_km": 2.0,
+        "magnitude": 1.4,
+        "location": "020km N 77Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 8.09,
+        "longitude": 127.13,
+        "depth_km": 5.0,
+        "magnitude": 3.4,
+        "location": "079km N 86Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.13,
+          8.09
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
