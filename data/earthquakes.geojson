@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T22:47:23.766411+00:00",
+  "generated_at": "2026-08-20T23:12:31.679225+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "06:51 AM",
+        "time_24": "06:51",
+        "latitude": 5.66,
+        "longitude": 124.96,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "023km S 11Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.96,
+          5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "06:50 AM",
+        "time_24": "06:50",
+        "latitude": 6.65,
+        "longitude": 125.74,
+        "depth_km": 29.0,
+        "magnitude": 1.5,
+        "location": "030km N 30Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          6.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1268,17 +1308,17 @@
         "date": "20 August 2026",
         "time": "09:33 AM",
         "time_24": "09:33",
-        "latitude": 17.37,
+        "latitude": 17.36,
         "longitude": 122.74,
-        "depth_km": 13.0,
-        "magnitude": 3.7,
+        "depth_km": 20.0,
+        "magnitude": 3.6,
         "location": "047km N 85Â° E of Divilacan (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           122.74,
-          17.37
+          17.36
         ]
       }
     },
