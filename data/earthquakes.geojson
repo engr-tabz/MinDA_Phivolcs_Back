@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T16:47:23.298977+00:00",
+  "generated_at": "2026-08-20T17:15:27.286905+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "01:00 AM",
+        "time_24": "01:00",
+        "latitude": 5.23,
+        "longitude": 125.27,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "026km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:57 AM",
+        "time_24": "00:57",
+        "latitude": 19.23,
+        "longitude": 121.63,
+        "depth_km": 1.0,
+        "magnitude": 2.1,
+        "location": "016km S 77Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63,
+          19.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 6.62,
+        "longitude": 126.55,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "048km S 14Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.55,
+          6.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
