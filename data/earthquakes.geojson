@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T12:16:47.036779+00:00",
+  "generated_at": "2026-08-20T13:17:39.733473+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "09:08 PM",
+        "time_24": "21:08",
+        "latitude": 5.87,
+        "longitude": 125.29,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "011km N 60Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "08:53 PM",
+        "time_24": "20:53",
+        "latitude": 4.22,
+        "longitude": 126.14,
+        "depth_km": 33.0,
+        "magnitude": 3.1,
+        "location": "154km S 31Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          4.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "08:57 PM",
+        "time_24": "20:57",
+        "latitude": 17.38,
+        "longitude": 122.71,
+        "depth_km": 10.0,
+        "magnitude": 4.0,
+        "location": "044km N 82Â° E of Divilacan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.71,
+          17.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "08:49 PM",
+        "time_24": "20:49",
+        "latitude": 9.1,
+        "longitude": 125.76,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "020km N 76Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          9.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "08:30 PM",
+        "time_24": "20:30",
+        "latitude": 5.75,
+        "longitude": 125.35,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "018km S 63Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "08:27 PM",
+        "time_24": "20:27",
+        "latitude": 5.92,
+        "longitude": 125.37,
+        "depth_km": 22.0,
+        "magnitude": 2.2,
+        "location": "010km S 59Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.92
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1068,17 +1188,17 @@
         "date": "19 August 2026",
         "time": "10:41 PM",
         "time_24": "22:41",
-        "latitude": 17.61,
-        "longitude": 120.53,
-        "depth_km": 8.0,
-        "magnitude": 1.9,
-        "location": "005km N 44Â° W of Langiden (Abra)"
+        "latitude": 17.78,
+        "longitude": 120.38,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "008km S 82Â° W of Cabugao (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.53,
-          17.61
+          120.38,
+          17.78
         ]
       }
     },
@@ -1128,17 +1248,17 @@
         "date": "19 August 2026",
         "time": "10:03 PM",
         "time_24": "22:03",
-        "latitude": 13.09,
-        "longitude": 125.65,
-        "depth_km": 33.0,
-        "magnitude": 2.6,
-        "location": "080km N 33Â° E of Mapanas (Northern Samar)"
+        "latitude": 13.0,
+        "longitude": 125.57,
+        "depth_km": 23.0,
+        "magnitude": 2.8,
+        "location": "068km N 31Â° E of Mapanas (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.65,
-          13.09
+          125.57,
+          13.0
         ]
       }
     },
@@ -1208,17 +1328,17 @@
         "date": "19 August 2026",
         "time": "08:18 PM",
         "time_24": "20:18",
-        "latitude": 10.96,
-        "longitude": 123.88,
-        "depth_km": 11.0,
+        "latitude": 10.93,
+        "longitude": 123.9,
+        "depth_km": 5.0,
         "magnitude": 2.2,
-        "location": "015km S 49Â° W of City Of Bogo (Cebu)"
+        "location": "016km S 34Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.88,
-          10.96
+          123.9,
+          10.93
         ]
       }
     },
