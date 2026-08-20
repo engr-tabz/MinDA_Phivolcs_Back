@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T21:48:18.750908+00:00",
+  "generated_at": "2026-08-20T22:12:25.555681+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:56 AM",
+        "time_24": "05:56",
+        "latitude": 5.76,
+        "longitude": 125.03,
+        "depth_km": 30.0,
+        "magnitude": 2.1,
+        "location": "012km S 21Â° E of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          5.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:46 AM",
+        "time_24": "05:46",
+        "latitude": 5.32,
+        "longitude": 126.65,
+        "depth_km": 49.0,
+        "magnitude": 2.7,
+        "location": "129km S 60Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.65,
+          5.32
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
