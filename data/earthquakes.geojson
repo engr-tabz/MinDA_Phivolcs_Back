@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T11:45:27.048934+00:00",
+  "generated_at": "2026-08-20T12:16:47.036779+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "07:43 PM",
+        "time_24": "19:43",
+        "latitude": 10.83,
+        "longitude": 124.99,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "001km West of Macarthur (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.99,
+          10.83
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
