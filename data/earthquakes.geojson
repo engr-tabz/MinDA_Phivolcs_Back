@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-20T09:38:41.973372+00:00",
+  "generated_at": "2026-08-20T10:05:37.160583+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "05:49 PM",
+        "time_24": "17:49",
+        "latitude": 18.26,
+        "longitude": 120.97,
+        "depth_km": 4.0,
+        "magnitude": 1.9,
+        "location": "008km N 85Â° W of Calanasan (Apayao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          18.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "20 August 2026",
+        "time": "05:32 PM",
+        "time_24": "17:32",
+        "latitude": 5.55,
+        "longitude": 125.19,
+        "depth_km": 39.0,
+        "magnitude": 2.5,
+        "location": "030km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.55
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
