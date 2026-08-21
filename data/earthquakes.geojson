@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T19:05:39.397481+00:00",
+  "generated_at": "2026-08-21T19:35:28.326482+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:25 AM",
+        "time_24": "03:25",
+        "latitude": 5.81,
+        "longitude": 125.14,
+        "depth_km": 64.0,
+        "magnitude": 1.9,
+        "location": "007km S 82Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:05 AM",
+        "time_24": "03:05",
+        "latitude": 11.98,
+        "longitude": 125.35,
+        "depth_km": 31.0,
+        "magnitude": 2.3,
+        "location": "011km S 81Â° W of Can-avid (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          11.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 19.09,
+        "longitude": 121.12,
+        "depth_km": 13.0,
+        "magnitude": 2.3,
+        "location": "009km S 76Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.12,
+          19.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 12.8,
+        "longitude": 123.07,
+        "depth_km": 4.0,
+        "magnitude": 3.4,
+        "location": "022km S 59Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07,
+          12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 19.57,
+        "longitude": 120.64,
+        "depth_km": 21.0,
+        "magnitude": 3.1,
+        "location": "078km N 49Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64,
+          19.57
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
