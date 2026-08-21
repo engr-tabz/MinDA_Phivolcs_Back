@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T10:53:10.472483+00:00",
+  "generated_at": "2026-08-21T11:23:06.261539+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "07:05 PM",
+        "time_24": "19:05",
+        "latitude": 9.29,
+        "longitude": 125.49,
+        "depth_km": 6.0,
+        "magnitude": 2.6,
+        "location": "007km S 28Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          9.29
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
