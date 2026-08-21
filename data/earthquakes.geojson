@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T06:48:15.383514+00:00",
+  "generated_at": "2026-08-21T07:31:40.901510+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "02:45 PM",
+        "time_24": "14:45",
+        "latitude": 17.38,
+        "longitude": 122.65,
+        "depth_km": 10.0,
+        "magnitude": 2.7,
+        "location": "038km N 82Â° E of Divilacan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.65,
+          17.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
