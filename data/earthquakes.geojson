@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T09:49:08.962891+00:00",
+  "generated_at": "2026-08-21T10:17:11.681312+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "06:05 PM",
+        "time_24": "18:05",
+        "latitude": 9.37,
+        "longitude": 125.49,
+        "depth_km": 12.0,
+        "magnitude": 2.6,
+        "location": "005km N 44Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          9.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -48,17 +68,17 @@
         "date": "21 August 2026",
         "time": "05:12 PM",
         "time_24": "17:12",
-        "latitude": 9.37,
-        "longitude": 125.45,
-        "depth_km": 10.0,
+        "latitude": 9.31,
+        "longitude": 125.46,
+        "depth_km": 7.0,
         "magnitude": 5.1,
-        "location": "007km N 67Â° W of Jabonga (Agusan Del Norte)"
+        "location": "007km S 59Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.45,
-          9.37
+          125.46,
+          9.31
         ]
       }
     },
@@ -1528,17 +1548,17 @@
         "date": "20 August 2026",
         "time": "07:43 PM",
         "time_24": "19:43",
-        "latitude": 10.83,
-        "longitude": 124.99,
-        "depth_km": 29.0,
-        "magnitude": 1.8,
-        "location": "001km West of Macarthur (Leyte)"
+        "latitude": 10.76,
+        "longitude": 124.92,
+        "depth_km": 28.0,
+        "magnitude": 2.5,
+        "location": "004km S 28Â° W of Javier (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.99,
-          10.83
+          124.92,
+          10.76
         ]
       }
     },
