@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T22:11:16.350722+00:00",
+  "generated_at": "2026-08-21T22:43:45.427489+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:18 AM",
+        "time_24": "06:18",
+        "latitude": 11.65,
+        "longitude": 125.12,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "008km S 42Â° E of Hinabangan (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          11.65
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
