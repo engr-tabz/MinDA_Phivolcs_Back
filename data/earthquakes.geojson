@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T23:03:27.386780+00:00",
+  "generated_at": "2026-08-21T23:34:50.104675+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "07:03 AM",
+        "time_24": "07:03",
+        "latitude": 9.39,
+        "longitude": 125.52,
+        "depth_km": 24.0,
+        "magnitude": 2.5,
+        "location": "005km North of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          9.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:54 AM",
+        "time_24": "06:54",
+        "latitude": 5.8,
+        "longitude": 126.45,
+        "depth_km": 34.0,
+        "magnitude": 2.6,
+        "location": "090km S 82Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          5.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1328,17 +1368,17 @@
         "date": "21 August 2026",
         "time": "05:56 AM",
         "time_24": "05:56",
-        "latitude": 5.76,
-        "longitude": 125.03,
+        "latitude": 5.74,
+        "longitude": 124.99,
         "depth_km": 30.0,
-        "magnitude": 2.1,
-        "location": "012km S 21Â° E of Maasim (Sarangani)"
+        "magnitude": 2.3,
+        "location": "014km S 05Â° W of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.03,
-          5.76
+          124.99,
+          5.74
         ]
       }
     },
@@ -1348,17 +1388,17 @@
         "date": "21 August 2026",
         "time": "05:46 AM",
         "time_24": "05:46",
-        "latitude": 5.32,
-        "longitude": 126.65,
-        "depth_km": 49.0,
-        "magnitude": 2.7,
-        "location": "129km S 60Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.55,
+        "longitude": 126.63,
+        "depth_km": 15.0,
+        "magnitude": 3.3,
+        "location": "117km S 70Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.65,
-          5.32
+          126.63,
+          5.55
         ]
       }
     },
@@ -1368,17 +1408,17 @@
         "date": "21 August 2026",
         "time": "05:03 AM",
         "time_24": "05:03",
-        "latitude": 8.89,
-        "longitude": 126.22,
-        "depth_km": 31.0,
+        "latitude": 8.92,
+        "longitude": 126.38,
+        "depth_km": 32.0,
         "magnitude": 2.2,
-        "location": "010km S 72Â° W of Cagwait (Surigao Del Sur)"
+        "location": "008km N 89Â° E of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.22,
-          8.89
+          126.38,
+          8.92
         ]
       }
     },
