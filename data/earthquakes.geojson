@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T18:22:10.553782+00:00",
+  "generated_at": "2026-08-21T19:05:39.397481+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:31 AM",
+        "time_24": "02:31",
+        "latitude": 18.53,
+        "longitude": 122.48,
+        "depth_km": 18.0,
+        "magnitude": 2.5,
+        "location": "037km N 77Â° E of Santa Ana (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.48,
+          18.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:18 AM",
+        "time_24": "02:18",
+        "latitude": 6.35,
+        "longitude": 125.74,
+        "depth_km": 105.0,
+        "magnitude": 2.7,
+        "location": "016km S 63Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          6.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
