@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T14:09:27.412894+00:00",
+  "generated_at": "2026-08-21T14:53:38.061872+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "10:22 PM",
+        "time_24": "22:22",
+        "latitude": 18.56,
+        "longitude": 122.58,
+        "depth_km": 21.0,
+        "magnitude": 3.1,
+        "location": "047km N 76Â° E of Santa Ana (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.58,
+          18.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -3768,17 +3788,17 @@
         "date": "19 August 2026",
         "time": "10:38 AM",
         "time_24": "10:38",
-        "latitude": 5.5,
-        "longitude": 125.1,
-        "depth_km": 20.0,
+        "latitude": 5.34,
+        "longitude": 125.18,
+        "depth_km": 22.0,
         "magnitude": 2.8,
-        "location": "037km N 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "028km S 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.1,
-          5.5
+          125.18,
+          5.34
         ]
       }
     },
