@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T21:23:40.201176+00:00",
+  "generated_at": "2026-08-21T21:49:32.599264+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "05:37 AM",
+        "time_24": "05:37",
+        "latitude": 12.28,
+        "longitude": 125.15,
+        "depth_km": 33.0,
+        "magnitude": 2.8,
+        "location": "009km S 83Â° W of Jipapad (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          12.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
