@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T22:43:45.427489+00:00",
+  "generated_at": "2026-08-21T23:03:27.386780+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:48 AM",
+        "time_24": "06:48",
+        "latitude": 7.43,
+        "longitude": 124.09,
+        "depth_km": 13.0,
+        "magnitude": 2.6,
+        "location": "010km S 25Â° W of Balabagan (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          7.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:48 AM",
+        "time_24": "06:48",
+        "latitude": 5.81,
+        "longitude": 125.27,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "007km S 79Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
