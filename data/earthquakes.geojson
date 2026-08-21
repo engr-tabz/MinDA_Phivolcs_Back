@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T03:56:45.497069+00:00",
+  "generated_at": "2026-08-21T04:47:23.577824+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:24 PM",
+        "time_24": "12:24",
+        "latitude": 5.84,
+        "longitude": 124.86,
+        "depth_km": 30.0,
+        "magnitude": 2.1,
+        "location": "015km S 80Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.86,
+          5.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:12 PM",
+        "time_24": "12:12",
+        "latitude": 13.7,
+        "longitude": 120.63,
+        "depth_km": 105.0,
+        "magnitude": 1.9,
+        "location": "015km S 01Â° E of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63,
+          13.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "11:50 AM",
+        "time_24": "11:50",
+        "latitude": 17.6,
+        "longitude": 120.55,
+        "depth_km": 5.0,
+        "magnitude": 1.8,
+        "location": "003km N 31Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55,
+          17.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "10:44 AM",
+        "time_24": "10:44",
+        "latitude": 16.0,
+        "longitude": 122.22,
+        "depth_km": 14.0,
+        "magnitude": 2.7,
+        "location": "032km S 19Â° E of Casiguran (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22,
+          16.0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -3179,6 +3259,26 @@
         "coordinates": [
           125.3,
           5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
+        "time": "08:26 AM",
+        "time_24": "08:26",
+        "latitude": 9.62,
+        "longitude": 126.32,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "020km S 26Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          9.62
         ]
       }
     },
