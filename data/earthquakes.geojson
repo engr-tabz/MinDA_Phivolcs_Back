@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T03:01:59.857656+00:00",
+  "generated_at": "2026-08-21T03:56:45.497069+00:00",
   "features": [
     {
       "type": "Feature",
@@ -3146,6 +3146,26 @@
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
+        "time": "08:57 AM",
+        "time_24": "08:57",
+        "latitude": 9.66,
+        "longitude": 126.28,
+        "depth_km": 23.0,
+        "magnitude": 2.5,
+        "location": "019km S 46Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 August 2026",
         "time": "08:46 AM",
         "time_24": "08:46",
         "latitude": 5.67,
@@ -3186,19 +3206,19 @@
       "type": "Feature",
       "properties": {
         "date": "19 August 2026",
-        "time": "08:57 AM",
-        "time_24": "08:57",
-        "latitude": 9.66,
-        "longitude": 126.28,
-        "depth_km": 23.0,
-        "magnitude": 2.5,
-        "location": "019km S 46Â° E of General Luna (Surigao Del Norte)"
+        "time": "08:00 AM",
+        "time_24": "08:00",
+        "latitude": 9.64,
+        "longitude": 126.3,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "022km S 45Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.28,
-          9.66
+          126.3,
+          9.64
         ]
       }
     },
@@ -3688,17 +3708,17 @@
         "date": "19 August 2026",
         "time": "12:47 AM",
         "time_24": "00:47",
-        "latitude": 18.02,
-        "longitude": 121.96,
-        "depth_km": 24.0,
+        "latitude": 12.69,
+        "longitude": 122.83,
+        "depth_km": 1.0,
         "magnitude": 2.1,
-        "location": "017km N 32Â° E of Baggao (Cagayan)"
+        "location": "051km S 63Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.96,
-          18.02
+          122.83,
+          12.69
         ]
       }
     },
