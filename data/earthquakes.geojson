@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T11:23:06.261539+00:00",
+  "generated_at": "2026-08-21T11:52:01.047939+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "07:23 PM",
+        "time_24": "19:23",
+        "latitude": 9.28,
+        "longitude": 125.5,
+        "depth_km": 10.0,
+        "magnitude": 2.5,
+        "location": "007km S 14Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          9.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "07:20 PM",
+        "time_24": "19:20",
+        "latitude": 9.32,
+        "longitude": 125.51,
+        "depth_km": 10.0,
+        "magnitude": 4.2,
+        "location": "002km S 14Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.51,
+          9.32
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -89,15 +129,15 @@
         "time": "06:13 PM",
         "time_24": "18:13",
         "latitude": 9.32,
-        "longitude": 125.48,
-        "depth_km": 10.0,
+        "longitude": 125.47,
+        "depth_km": 12.0,
         "magnitude": 4.2,
-        "location": "004km S 57Â° W of Jabonga (Agusan Del Norte)"
+        "location": "005km S 63Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
+          125.47,
           9.32
         ]
       }
@@ -1628,17 +1668,17 @@
         "date": "20 August 2026",
         "time": "08:27 PM",
         "time_24": "20:27",
-        "latitude": 5.92,
-        "longitude": 125.37,
-        "depth_km": 22.0,
+        "latitude": 5.9,
+        "longitude": 125.3,
+        "depth_km": 9.0,
         "magnitude": 2.2,
-        "location": "010km S 59Â° E of Malapatan (Sarangani)"
+        "location": "008km S 11Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.37,
-          5.92
+          125.3,
+          5.9
         ]
       }
     },
