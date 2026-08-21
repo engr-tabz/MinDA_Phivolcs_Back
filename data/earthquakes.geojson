@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T01:53:49.322126+00:00",
+  "generated_at": "2026-08-21T03:01:59.857656+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "10:41 AM",
+        "time_24": "10:41",
+        "latitude": 21.54,
+        "longitude": 122.16,
+        "depth_km": 33.0,
+        "magnitude": 2.7,
+        "location": "089km N 22Â° E of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16,
+          21.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "10:14 AM",
+        "time_24": "10:14",
+        "latitude": 5.6,
+        "longitude": 125.24,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "025km S 08Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "10:12 AM",
+        "time_24": "10:12",
+        "latitude": 2.27,
+        "longitude": 128.62,
+        "depth_km": 25.0,
+        "magnitude": 4.0,
+        "location": "497km S 46Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.62,
+          2.27
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
