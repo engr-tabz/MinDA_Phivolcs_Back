@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T19:35:28.326482+00:00",
+  "generated_at": "2026-08-21T19:55:03.945043+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:30 AM",
+        "time_24": "03:30",
+        "latitude": 11.56,
+        "longitude": 125.13,
+        "depth_km": 31.0,
+        "magnitude": 1.7,
+        "location": "014km S 59Â° E of Calbiga (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          11.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:28 AM",
+        "time_24": "03:28",
+        "latitude": 11.6,
+        "longitude": 125.18,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "016km S 48Â° E of Hinabangan (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          11.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
