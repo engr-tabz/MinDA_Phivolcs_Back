@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T14:53:38.061872+00:00",
+  "generated_at": "2026-08-21T15:31:51.325661+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "11:04 PM",
+        "time_24": "23:04",
+        "latitude": 16.14,
+        "longitude": 122.08,
+        "depth_km": 15.0,
+        "magnitude": 2.4,
+        "location": "013km N 90Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08,
+          16.14
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
