@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T05:54:11.500086+00:00",
+  "generated_at": "2026-08-21T06:48:15.383514+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "02:29 PM",
+        "time_24": "14:29",
+        "latitude": 5.77,
+        "longitude": 125.27,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "009km S 54Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "02:19 PM",
+        "time_24": "14:19",
+        "latitude": 9.34,
+        "longitude": 125.49,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "003km S 80Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          9.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "02:08 PM",
+        "time_24": "14:08",
+        "latitude": 5.36,
+        "longitude": 125.2,
+        "depth_km": 16.0,
+        "magnitude": 1.9,
+        "location": "026km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "01:46 PM",
+        "time_24": "13:46",
+        "latitude": 5.25,
+        "longitude": 125.24,
+        "depth_km": 34.0,
+        "magnitude": 3.3,
+        "location": "027km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.25
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
