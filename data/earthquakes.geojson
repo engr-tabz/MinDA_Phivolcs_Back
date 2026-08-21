@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T21:49:32.599264+00:00",
+  "generated_at": "2026-08-21T22:11:16.350722+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:01 AM",
+        "time_24": "06:01",
+        "latitude": 6.9,
+        "longitude": 125.71,
+        "depth_km": 36.0,
+        "magnitude": 2.0,
+        "location": "020km S 01Â° W of Island Garden City Of Samal (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71,
+          6.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
