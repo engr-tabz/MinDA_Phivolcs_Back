@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T17:50:14.940554+00:00",
+  "generated_at": "2026-08-21T18:22:10.553782+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:04 AM",
+        "time_24": "02:04",
+        "latitude": 5.94,
+        "longitude": 125.41,
+        "depth_km": 4.0,
+        "magnitude": 3.3,
+        "location": "014km S 76Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "01:48 AM",
+        "time_24": "01:48",
+        "latitude": 8.37,
+        "longitude": 123.26,
+        "depth_km": 27.0,
+        "magnitude": 2.3,
+        "location": "016km S 11Â° W of Katipunan (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.26,
+          8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "01:44 AM",
+        "time_24": "01:44",
+        "latitude": 5.58,
+        "longitude": 125.33,
+        "depth_km": 6.0,
+        "magnitude": 3.4,
+        "location": "020km N 53Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
