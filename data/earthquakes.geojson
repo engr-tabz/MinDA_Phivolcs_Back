@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T09:03:21.393196+00:00",
+  "generated_at": "2026-08-21T09:49:08.962891+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:28 PM",
+        "time_24": "17:28",
+        "latitude": 9.29,
+        "longitude": 125.48,
+        "depth_km": 9.0,
+        "magnitude": 2.5,
+        "location": "007km S 37Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          9.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:22 PM",
+        "time_24": "17:22",
+        "latitude": 9.31,
+        "longitude": 125.5,
+        "depth_km": 10.0,
+        "magnitude": 4.9,
+        "location": "004km S 26Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          9.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:12 PM",
+        "time_24": "17:12",
+        "latitude": 9.37,
+        "longitude": 125.45,
+        "depth_km": 10.0,
+        "magnitude": 5.1,
+        "location": "007km N 67Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "05:10 PM",
+        "time_24": "17:10",
+        "latitude": 11.2,
+        "longitude": 124.65,
+        "depth_km": 31.0,
+        "magnitude": 2.3,
+        "location": "010km S 06Â° E of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.65,
+          11.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
