@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T04:47:23.577824+00:00",
+  "generated_at": "2026-08-21T05:19:43.949219+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "01:01 PM",
+        "time_24": "13:01",
+        "latitude": 4.79,
+        "longitude": 125.14,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "075km S 25Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          4.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:43 PM",
+        "time_24": "12:43",
+        "latitude": 19.3,
+        "longitude": 120.78,
+        "depth_km": 2.0,
+        "magnitude": 2.4,
+        "location": "050km N 65Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78,
+          19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 August 2026",
+        "time": "12:41 PM",
+        "time_24": "12:41",
+        "latitude": 5.36,
+        "longitude": 125.95,
+        "depth_km": 14.0,
+        "magnitude": 2.7,
+        "location": "055km S 77Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.95,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
