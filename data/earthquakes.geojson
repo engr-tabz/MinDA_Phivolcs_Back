@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T15:22:50.899338+00:00",
+  "generated_at": "2026-08-22T15:45:15.676345+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "11:32 PM",
+        "time_24": "23:32",
+        "latitude": 5.2,
+        "longitude": 125.25,
+        "depth_km": 20.0,
+        "magnitude": 1.8,
+        "location": "030km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "11:27 PM",
+        "time_24": "23:27",
+        "latitude": 4.82,
+        "longitude": 125.5,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "066km S 08Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          4.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "11:17 PM",
+        "time_24": "23:17",
+        "latitude": 7.43,
+        "longitude": 125.97,
+        "depth_km": 26.0,
+        "magnitude": 2.1,
+        "location": "010km S 31Â° E of Mawab (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.97,
+          7.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -708,17 +768,17 @@
         "date": "22 August 2026",
         "time": "02:43 PM",
         "time_24": "14:43",
-        "latitude": 6.7,
-        "longitude": 126.9,
-        "depth_km": 87.0,
-        "magnitude": 5.3,
-        "location": "063km S 53Â° E of Tarragona (Davao Oriental)"
+        "latitude": 6.74,
+        "longitude": 126.77,
+        "depth_km": 71.0,
+        "magnitude": 5.0,
+        "location": "050km S 46Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9,
-          6.7
+          126.77,
+          6.74
         ]
       }
     },
