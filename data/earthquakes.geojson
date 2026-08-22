@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T09:45:03.088556+00:00",
+  "generated_at": "2026-08-22T10:02:45.843750+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "05:52 PM",
+        "time_24": "17:52",
+        "latitude": 4.77,
+        "longitude": 125.48,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "072km S 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          4.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "05:47 PM",
+        "time_24": "17:47",
+        "latitude": 17.46,
+        "longitude": 122.76,
+        "depth_km": 27.0,
+        "magnitude": 1.9,
+        "location": "051km N 74Â° E of Divilacan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.76,
+          17.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "05:43 PM",
+        "time_24": "17:43",
+        "latitude": 9.93,
+        "longitude": 122.23,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "028km N 52Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23,
+          9.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "05:41 PM",
+        "time_24": "17:41",
+        "latitude": 13.71,
+        "longitude": 120.61,
+        "depth_km": 108.0,
+        "magnitude": 1.9,
+        "location": "013km S 12Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.71
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
