@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-21T23:57:19.234716+00:00",
+  "generated_at": "2026-08-22T01:43:09.351163+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "09:15 AM",
+        "time_24": "09:15",
+        "latitude": 5.55,
+        "longitude": 125.23,
+        "depth_km": 15.0,
+        "magnitude": 2.7,
+        "location": "027km N 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "09:05 AM",
+        "time_24": "09:05",
+        "latitude": 5.41,
+        "longitude": 125.16,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "029km S 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          5.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "08:59 AM",
+        "time_24": "08:59",
+        "latitude": 9.02,
+        "longitude": 125.53,
+        "depth_km": 36.0,
+        "magnitude": 1.5,
+        "location": "001km S 79Â° E of Magallanes (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53,
+          9.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "08:17 AM",
+        "time_24": "08:17",
+        "latitude": 6.54,
+        "longitude": 126.56,
+        "depth_km": 21.0,
+        "magnitude": 3.5,
+        "location": "056km S 77Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.56,
+          6.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "07:48 AM",
+        "time_24": "07:48",
+        "latitude": 9.1,
+        "longitude": 125.75,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "019km N 73Â° E of Remedios T. Romualdez (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75,
+          9.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -119,6 +219,26 @@
         "coordinates": [
           125.27,
           5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:38 AM",
+        "time_24": "06:38",
+        "latitude": 13.36,
+        "longitude": 120.13,
+        "depth_km": 3.0,
+        "magnitude": 3.2,
+        "location": "037km S 80Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13,
+          13.36
         ]
       }
     },
@@ -1248,17 +1368,17 @@
         "date": "21 August 2026",
         "time": "10:12 AM",
         "time_24": "10:12",
-        "latitude": 2.27,
-        "longitude": 128.62,
-        "depth_km": 25.0,
+        "latitude": 3.38,
+        "longitude": 128.24,
+        "depth_km": 217.0,
         "magnitude": 4.0,
-        "location": "497km S 46Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "386km S 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.62,
-          2.27
+          128.24,
+          3.38
         ]
       }
     },
