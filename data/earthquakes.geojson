@@ -1,24 +1,64 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T02:41:07.487757+00:00",
+  "generated_at": "2026-08-22T03:26:17.219964+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:48 AM",
+        "time_24": "10:48",
+        "latitude": 16.8,
+        "longitude": 121.36,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "015km N 04Â° W of Diadi (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36,
+          16.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:45 AM",
+        "time_24": "10:45",
+        "latitude": 5.82,
+        "longitude": 125.28,
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "008km N 88Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.82
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "22 August 2026",
         "time": "10:26 AM",
         "time_24": "10:26",
-        "latitude": 13.4,
-        "longitude": 120.08,
-        "depth_km": 10.0,
-        "magnitude": 4.1,
-        "location": "039km S 28Â° W of Looc (Occidental Mindoro)"
+        "latitude": 13.48,
+        "longitude": 119.96,
+        "depth_km": 16.0,
+        "magnitude": 3.8,
+        "location": "041km S 50Â° W of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.08,
-          13.4
+          119.96,
+          13.48
         ]
       }
     },
