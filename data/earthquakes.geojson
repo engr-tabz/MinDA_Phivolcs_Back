@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T04:07:25.391145+00:00",
+  "generated_at": "2026-08-22T04:47:48.016909+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "12:06 PM",
+        "time_24": "12:06",
+        "latitude": 5.91,
+        "longitude": 124.86,
+        "depth_km": 21.0,
+        "magnitude": 2.3,
+        "location": "016km N 70Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.86,
+          5.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1268,17 +1288,17 @@
         "date": "21 August 2026",
         "time": "05:10 PM",
         "time_24": "17:10",
-        "latitude": 11.2,
-        "longitude": 124.65,
-        "depth_km": 31.0,
-        "magnitude": 2.3,
-        "location": "010km S 06Â° E of Capoocan (Leyte)"
+        "latitude": 11.18,
+        "longitude": 124.62,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "006km S 87Â° E of Kananga (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.65,
-          11.2
+          124.62,
+          11.18
         ]
       }
     },
@@ -1348,17 +1368,17 @@
         "date": "21 August 2026",
         "time": "02:45 PM",
         "time_24": "14:45",
-        "latitude": 17.38,
-        "longitude": 122.65,
-        "depth_km": 10.0,
+        "latitude": 17.37,
+        "longitude": 122.62,
+        "depth_km": 7.0,
         "magnitude": 2.7,
-        "location": "038km N 82Â° E of Divilacan (Isabela)"
+        "location": "035km N 83Â° E of Divilacan (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.65,
-          17.38
+          122.62,
+          17.37
         ]
       }
     },
@@ -1448,17 +1468,17 @@
         "date": "21 August 2026",
         "time": "01:01 PM",
         "time_24": "13:01",
-        "latitude": 4.79,
-        "longitude": 125.14,
-        "depth_km": 33.0,
+        "latitude": 5.01,
+        "longitude": 125.17,
+        "depth_km": 30.0,
         "magnitude": 2.2,
-        "location": "075km S 25Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "053km S 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.14,
-          4.79
+          125.17,
+          5.01
         ]
       }
     },
