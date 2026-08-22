@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T07:41:51.741184+00:00",
+  "generated_at": "2026-08-22T08:02:38.572846+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:53 PM",
+        "time_24": "15:53",
+        "latitude": 11.79,
+        "longitude": 125.37,
+        "depth_km": 30.0,
+        "magnitude": 2.0,
+        "location": "010km N 69Â° W of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          11.79
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
