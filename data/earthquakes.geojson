@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T08:02:38.572846+00:00",
+  "generated_at": "2026-08-22T08:44:10.648134+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "04:09 PM",
+        "time_24": "16:09",
+        "latitude": 6.58,
+        "longitude": 125.24,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "005km S 21Â° W of Kiblawan (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          6.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "04:05 PM",
+        "time_24": "16:05",
+        "latitude": 8.85,
+        "longitude": 125.58,
+        "depth_km": 34.0,
+        "magnitude": 1.6,
+        "location": "013km N 13Â° W of Las Nieves (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.58,
+          8.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "03:57 PM",
+        "time_24": "15:57",
+        "latitude": 6.58,
+        "longitude": 125.25,
+        "depth_km": 24.0,
+        "magnitude": 2.6,
+        "location": "005km S 03Â° W of Kiblawan (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          6.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +148,17 @@
         "date": "22 August 2026",
         "time": "02:43 PM",
         "time_24": "14:43",
-        "latitude": 6.56,
-        "longitude": 127.03,
-        "depth_km": 83.0,
+        "latitude": 6.7,
+        "longitude": 126.9,
+        "depth_km": 87.0,
         "magnitude": 5.3,
-        "location": "084km S 49Â° E of Tarragona (Davao Oriental)"
+        "location": "063km S 53Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.03,
-          6.56
+          126.9,
+          6.7
         ]
       }
     },
@@ -1492,7 +1552,7 @@
         "longitude": 125.46,
         "depth_km": 6.0,
         "magnitude": 5.1,
-        "location": "007km S 68Â° W of Jabonga (Agusan Del Norte)"
+        "location": "007km S 67Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
