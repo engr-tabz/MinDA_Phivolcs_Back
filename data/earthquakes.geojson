@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T15:45:15.676345+00:00",
+  "generated_at": "2026-08-22T16:01:00.640307+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "11:49 PM",
+        "time_24": "23:49",
+        "latitude": 5.24,
+        "longitude": 125.27,
+        "depth_km": 25.0,
+        "magnitude": 2.4,
+        "location": "025km S 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "11:39 PM",
+        "time_24": "23:39",
+        "latitude": 13.5,
+        "longitude": 120.24,
+        "depth_km": 2.0,
+        "magnitude": 2.6,
+        "location": "025km S 02Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24,
+          13.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
