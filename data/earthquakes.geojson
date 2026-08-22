@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T01:43:09.351163+00:00",
+  "generated_at": "2026-08-22T02:41:07.487757+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:26 AM",
+        "time_24": "10:26",
+        "latitude": 13.4,
+        "longitude": 120.08,
+        "depth_km": 10.0,
+        "magnitude": 4.1,
+        "location": "039km S 28Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.08,
+          13.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:24 AM",
+        "time_24": "10:24",
+        "latitude": 5.75,
+        "longitude": 125.19,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "008km S 13Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:22 AM",
+        "time_24": "10:22",
+        "latitude": 18.42,
+        "longitude": 120.91,
+        "depth_km": 11.0,
+        "magnitude": 2.4,
+        "location": "005km S 14Â° E of Adams (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91,
+          18.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:13 AM",
+        "time_24": "10:13",
+        "latitude": 5.81,
+        "longitude": 125.27,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "008km S 84Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:10 AM",
+        "time_24": "10:10",
+        "latitude": 9.32,
+        "longitude": 125.57,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "006km S 63Â° E of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.57,
+          9.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "10:04 AM",
+        "time_24": "10:04",
+        "latitude": 9.34,
+        "longitude": 124.8,
+        "depth_km": 11.0,
+        "magnitude": 2.4,
+        "location": "013km N 37Â° E of Mambajao (Camiguin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8,
+          9.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "09:36 AM",
+        "time_24": "09:36",
+        "latitude": 11.01,
+        "longitude": 124.02,
+        "depth_km": 20.0,
+        "magnitude": 2.4,
+        "location": "006km S 43Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.02,
+          11.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -968,17 +1108,17 @@
         "date": "21 August 2026",
         "time": "05:22 PM",
         "time_24": "17:22",
-        "latitude": 9.38,
-        "longitude": 125.45,
-        "depth_km": 5.0,
+        "latitude": 9.37,
+        "longitude": 125.47,
+        "depth_km": 6.0,
         "magnitude": 4.9,
-        "location": "008km N 61Â° W of Jabonga (Agusan Del Norte)"
+        "location": "006km N 61Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.45,
-          9.38
+          125.47,
+          9.37
         ]
       }
     },
@@ -988,17 +1128,17 @@
         "date": "21 August 2026",
         "time": "05:12 PM",
         "time_24": "17:12",
-        "latitude": 9.31,
+        "latitude": 9.32,
         "longitude": 125.46,
-        "depth_km": 7.0,
+        "depth_km": 6.0,
         "magnitude": 5.1,
-        "location": "007km S 59Â° W of Jabonga (Agusan Del Norte)"
+        "location": "007km S 68Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.46,
-          9.31
+          9.32
         ]
       }
     },
@@ -1128,17 +1268,17 @@
         "date": "21 August 2026",
         "time": "02:19 PM",
         "time_24": "14:19",
-        "latitude": 9.34,
-        "longitude": 125.49,
-        "depth_km": 16.0,
+        "latitude": 9.33,
+        "longitude": 125.5,
+        "depth_km": 15.0,
         "magnitude": 2.4,
-        "location": "003km S 80Â° W of Jabonga (Agusan Del Norte)"
+        "location": "002km S 60Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.49,
-          9.34
+          125.5,
+          9.33
         ]
       }
     },
@@ -1168,17 +1308,17 @@
         "date": "21 August 2026",
         "time": "01:46 PM",
         "time_24": "13:46",
-        "latitude": 5.25,
-        "longitude": 125.24,
-        "depth_km": 34.0,
+        "latitude": 5.26,
+        "longitude": 125.31,
+        "depth_km": 48.0,
         "magnitude": 3.3,
-        "location": "027km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "021km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.24,
-          5.25
+          125.31,
+          5.26
         ]
       }
     },
@@ -1208,17 +1348,17 @@
         "date": "21 August 2026",
         "time": "12:43 PM",
         "time_24": "12:43",
-        "latitude": 19.3,
-        "longitude": 120.78,
-        "depth_km": 2.0,
-        "magnitude": 2.4,
-        "location": "050km N 65Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.89,
+        "longitude": 120.68,
+        "depth_km": 23.0,
+        "magnitude": 2.6,
+        "location": "103km N 33Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.78,
-          19.3
+          120.68,
+          19.89
         ]
       }
     },
@@ -1268,17 +1408,17 @@
         "date": "21 August 2026",
         "time": "12:12 PM",
         "time_24": "12:12",
-        "latitude": 13.7,
-        "longitude": 120.63,
-        "depth_km": 105.0,
-        "magnitude": 1.9,
-        "location": "015km S 01Â° E of Calatagan (Batangas)"
+        "latitude": 13.78,
+        "longitude": 120.62,
+        "depth_km": 106.0,
+        "magnitude": 2.1,
+        "location": "006km S 12Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.63,
-          13.7
+          120.62,
+          13.78
         ]
       }
     },
@@ -1288,17 +1428,17 @@
         "date": "21 August 2026",
         "time": "11:50 AM",
         "time_24": "11:50",
-        "latitude": 17.6,
-        "longitude": 120.55,
-        "depth_km": 5.0,
-        "magnitude": 1.8,
-        "location": "003km N 31Â° W of Langiden (Abra)"
+        "latitude": 17.67,
+        "longitude": 120.52,
+        "depth_km": 10.0,
+        "magnitude": 2.0,
+        "location": "011km N 24Â° W of Langiden (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.55,
-          17.6
+          120.52,
+          17.67
         ]
       }
     },
@@ -1306,19 +1446,19 @@
       "type": "Feature",
       "properties": {
         "date": "21 August 2026",
-        "time": "10:44 AM",
-        "time_24": "10:44",
-        "latitude": 16.0,
-        "longitude": 122.22,
-        "depth_km": 14.0,
-        "magnitude": 2.7,
-        "location": "032km S 19Â° E of Casiguran (Aurora)"
+        "time": "11:44 AM",
+        "time_24": "11:44",
+        "latitude": 15.98,
+        "longitude": 122.4,
+        "depth_km": 8.0,
+        "magnitude": 2.8,
+        "location": "044km S 41Â° E of Casiguran (Aurora)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.22,
-          16.0
+          122.4,
+          15.98
         ]
       }
     },
