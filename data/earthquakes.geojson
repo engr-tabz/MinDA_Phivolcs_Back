@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T17:28:42.819577+00:00",
+  "generated_at": "2026-08-22T17:51:08.692698+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "01:39 AM",
+        "time_24": "01:39",
+        "latitude": 6.61,
+        "longitude": 126.16,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "010km S 65Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          6.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1648,17 +1668,17 @@
         "date": "22 August 2026",
         "time": "05:37 AM",
         "time_24": "05:37",
-        "latitude": 12.28,
-        "longitude": 125.15,
-        "depth_km": 33.0,
+        "latitude": 12.23,
+        "longitude": 125.08,
+        "depth_km": 12.0,
         "magnitude": 2.8,
-        "location": "009km S 83Â° W of Jipapad (Eastern Samar)"
+        "location": "013km S 22Â° E of Las Navas (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.15,
-          12.28
+          125.08,
+          12.23
         ]
       }
     },
@@ -1668,17 +1688,17 @@
         "date": "22 August 2026",
         "time": "05:09 AM",
         "time_24": "05:09",
-        "latitude": 18.31,
-        "longitude": 120.67,
-        "depth_km": 48.0,
+        "latitude": 18.26,
+        "longitude": 120.68,
+        "depth_km": 50.0,
         "magnitude": 3.1,
-        "location": "006km S 61Â° E of Pasuquin (Ilocos Norte)"
+        "location": "011km S 38Â° E of Pasuquin (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.67,
-          18.31
+          120.68,
+          18.26
         ]
       }
     },
@@ -1688,17 +1708,17 @@
         "date": "22 August 2026",
         "time": "04:28 AM",
         "time_24": "04:28",
-        "latitude": 5.67,
-        "longitude": 125.35,
-        "depth_km": 11.0,
+        "latitude": 5.7,
+        "longitude": 125.34,
+        "depth_km": 19.0,
         "magnitude": 2.2,
-        "location": "023km S 44Â° E of Glan (Sarangani)"
+        "location": "021km S 47Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.35,
-          5.67
+          125.34,
+          5.7
         ]
       }
     },
