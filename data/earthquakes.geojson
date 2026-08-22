@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T10:36:10.148896+00:00",
+  "generated_at": "2026-08-22T10:57:40.463740+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:42 PM",
+        "time_24": "18:42",
+        "latitude": 5.21,
+        "longitude": 125.27,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "028km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "06:39 PM",
+        "time_24": "18:39",
+        "latitude": 12.93,
+        "longitude": 123.11,
+        "depth_km": 26.0,
+        "magnitude": 1.7,
+        "location": "015km N 80Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.11,
+          12.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1388,17 +1428,17 @@
         "date": "21 August 2026",
         "time": "08:27 PM",
         "time_24": "20:27",
-        "latitude": 8.68,
-        "longitude": 126.13,
-        "depth_km": 10.0,
+        "latitude": 8.65,
+        "longitude": 126.09,
+        "depth_km": 2.0,
         "magnitude": 2.2,
-        "location": "007km N 37Â° E of Lianga (Surigao Del Sur)"
+        "location": "002km N 14Â° W of Lianga (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.13,
-          8.68
+          126.09,
+          8.65
         ]
       }
     },
@@ -1568,17 +1608,17 @@
         "date": "21 August 2026",
         "time": "06:20 PM",
         "time_24": "18:20",
-        "latitude": 9.3,
-        "longitude": 125.55,
-        "depth_km": 4.0,
+        "latitude": 9.28,
+        "longitude": 125.56,
+        "depth_km": 2.0,
         "magnitude": 2.1,
-        "location": "006km S 37Â° E of Jabonga (Agusan Del Norte)"
+        "location": "009km S 36Â° E of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.55,
-          9.3
+          125.56,
+          9.28
         ]
       }
     },
@@ -1588,17 +1628,17 @@
         "date": "21 August 2026",
         "time": "06:19 PM",
         "time_24": "18:19",
-        "latitude": 9.35,
-        "longitude": 125.46,
-        "depth_km": 13.0,
-        "magnitude": 2.9,
-        "location": "006km N 87Â° W of Jabonga (Agusan Del Norte)"
+        "latitude": 9.28,
+        "longitude": 125.5,
+        "depth_km": 24.0,
+        "magnitude": 3.1,
+        "location": "007km S 17Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.46,
-          9.35
+          125.5,
+          9.28
         ]
       }
     },
