@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T06:14:54.839635+00:00",
+  "generated_at": "2026-08-22T07:04:11.264773+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:52 PM",
+        "time_24": "14:52",
+        "latitude": 5.87,
+        "longitude": 125.35,
+        "depth_km": 2.0,
+        "magnitude": 3.0,
+        "location": "017km N 72Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:43 PM",
+        "time_24": "14:43",
+        "latitude": 6.56,
+        "longitude": 127.03,
+        "depth_km": 83.0,
+        "magnitude": 5.3,
+        "location": "084km S 49Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03,
+          6.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:32 PM",
+        "time_24": "14:32",
+        "latitude": 5.58,
+        "longitude": 125.25,
+        "depth_km": 19.0,
+        "magnitude": 2.8,
+        "location": "026km N 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:28 PM",
+        "time_24": "14:28",
+        "latitude": 18.67,
+        "longitude": 120.85,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "014km N 29Â° E of Pagudpud (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85,
+          18.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:25 PM",
+        "time_24": "14:25",
+        "latitude": 13.23,
+        "longitude": 122.95,
+        "depth_km": 1.0,
+        "magnitude": 2.4,
+        "location": "011km N 15Â° W of San Pascual (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.95,
+          13.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "02:10 PM",
+        "time_24": "14:10",
+        "latitude": 8.04,
+        "longitude": 126.2,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "015km N 89Â° E of Trento (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          8.04
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
