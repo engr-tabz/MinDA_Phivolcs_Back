@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T20:56:35.505988+00:00",
+  "generated_at": "2026-08-22T21:28:17.528106+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "05:21 AM",
+        "time_24": "05:21",
+        "latitude": 5.75,
+        "longitude": 125.2,
+        "depth_km": 20.0,
+        "magnitude": 1.5,
+        "location": "008km S 02Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 7.6,
+        "longitude": 124.53,
+        "depth_km": 183.0,
+        "magnitude": 2.1,
+        "location": "020km N 59Â° W of Banisilan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.53,
+          7.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 9.32,
+        "longitude": 125.49,
+        "depth_km": 12.0,
+        "magnitude": 3.1,
+        "location": "004km S 58Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          9.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "04:49 AM",
+        "time_24": "04:49",
+        "latitude": 16.83,
+        "longitude": 119.55,
+        "depth_km": 2.0,
+        "magnitude": 3.2,
+        "location": "061km N 37Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.55,
+          16.83
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
