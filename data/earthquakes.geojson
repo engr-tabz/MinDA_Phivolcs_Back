@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T16:01:00.640307+00:00",
+  "generated_at": "2026-08-22T16:36:00.290026+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:25 AM",
+        "time_24": "00:25",
+        "latitude": 10.01,
+        "longitude": 126.08,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "001km S 32Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.08,
+          10.01
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1268,17 +1288,17 @@
         "date": "22 August 2026",
         "time": "08:59 AM",
         "time_24": "08:59",
-        "latitude": 9.02,
-        "longitude": 125.53,
-        "depth_km": 36.0,
+        "latitude": 9.07,
+        "longitude": 125.61,
+        "depth_km": 33.0,
         "magnitude": 1.5,
-        "location": "001km S 79Â° E of Magallanes (Agusan Del Norte)"
+        "location": "003km N 48Â° E of Remedios T. Romualdez (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.53,
-          9.02
+          125.61,
+          9.07
         ]
       }
     },
