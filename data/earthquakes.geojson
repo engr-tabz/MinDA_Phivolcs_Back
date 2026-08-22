@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T19:20:49.895632+00:00",
+  "generated_at": "2026-08-22T19:43:33.796334+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "03:28 AM",
+        "time_24": "03:28",
+        "latitude": 6.56,
+        "longitude": 125.93,
+        "depth_km": 7.0,
+        "magnitude": 1.8,
+        "location": "019km S 57Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          6.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "03:27 AM",
+        "time_24": "03:27",
+        "latitude": 16.4,
+        "longitude": 121.2,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "010km N 81Â° E of Bambang (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2,
+          16.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
