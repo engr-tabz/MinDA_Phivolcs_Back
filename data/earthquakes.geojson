@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T12:18:15.533581+00:00",
+  "generated_at": "2026-08-22T13:05:46.550408+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "08:45 PM",
+        "time_24": "20:45",
+        "latitude": 18.74,
+        "longitude": 120.99,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "018km N 33Â° W of Claveria (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99,
+          18.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "08:40 PM",
+        "time_24": "20:40",
+        "latitude": 8.49,
+        "longitude": 126.69,
+        "depth_km": 32.0,
+        "magnitude": 1.9,
+        "location": "041km N 71Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.69,
+          8.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 August 2026",
+        "time": "08:18 PM",
+        "time_24": "20:18",
+        "latitude": 5.62,
+        "longitude": 125.29,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "025km S 22Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
