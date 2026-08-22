@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T23:30:01.775497+00:00",
+  "generated_at": "2026-08-22T23:51:24.187547+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "07:24 AM",
+        "time_24": "07:24",
+        "latitude": 5.62,
+        "longitude": 126.45,
+        "depth_km": 58.0,
+        "magnitude": 3.3,
+        "location": "094km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45,
+          5.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
