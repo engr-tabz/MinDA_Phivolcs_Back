@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T10:57:40.463740+00:00",
+  "generated_at": "2026-08-22T11:27:57.756414+00:00",
   "features": [
     {
       "type": "Feature",
@@ -1148,17 +1148,17 @@
         "date": "22 August 2026",
         "time": "03:25 AM",
         "time_24": "03:25",
-        "latitude": 5.81,
-        "longitude": 125.14,
-        "depth_km": 64.0,
-        "magnitude": 1.9,
-        "location": "007km S 82Â° W of Glan (Sarangani)"
+        "latitude": 5.84,
+        "longitude": 125.17,
+        "depth_km": 55.0,
+        "magnitude": 2.2,
+        "location": "004km N 64Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.14,
-          5.81
+          125.17,
+          5.84
         ]
       }
     },
@@ -1168,17 +1168,17 @@
         "date": "22 August 2026",
         "time": "03:05 AM",
         "time_24": "03:05",
-        "latitude": 11.98,
-        "longitude": 125.35,
-        "depth_km": 31.0,
-        "magnitude": 2.3,
-        "location": "011km S 81Â° W of Can-avid (Eastern Samar)"
+        "latitude": 11.93,
+        "longitude": 125.36,
+        "depth_km": 29.0,
+        "magnitude": 2.5,
+        "location": "007km N 67Â° W of Taft (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.35,
-          11.98
+          125.36,
+          11.93
         ]
       }
     },
