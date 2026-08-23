@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T21:01:59.790163+00:00",
+  "generated_at": "2026-08-23T21:32:22.850669+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "04:55 AM",
+        "time_24": "04:55",
+        "latitude": 19.45,
+        "longitude": 121.3,
+        "depth_km": 41.0,
+        "magnitude": 3.1,
+        "location": "027km N 41Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3,
+          19.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
