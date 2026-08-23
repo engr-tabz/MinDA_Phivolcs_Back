@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T19:52:39.951737+00:00",
+  "generated_at": "2026-08-23T20:18:10.371668+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "03:55 AM",
+        "time_24": "03:55",
+        "latitude": 7.22,
+        "longitude": 126.36,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "020km N 88Â° W of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          7.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "03:52 AM",
+        "time_24": "03:52",
+        "latitude": 5.74,
+        "longitude": 125.29,
+        "depth_km": 14.0,
+        "magnitude": 3.1,
+        "location": "013km S 47Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "03:47 AM",
+        "time_24": "03:47",
+        "latitude": 7.28,
+        "longitude": 126.69,
+        "depth_km": 25.0,
+        "magnitude": 2.6,
+        "location": "015km S 68Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.69,
+          7.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
