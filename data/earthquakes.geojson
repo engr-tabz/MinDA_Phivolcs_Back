@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T06:56:24.052987+00:00",
+  "generated_at": "2026-08-23T07:39:18.512615+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "03:14 PM",
+        "time_24": "15:14",
+        "latitude": 11.58,
+        "longitude": 125.52,
+        "depth_km": 47.0,
+        "magnitude": 2.2,
+        "location": "009km N 15Â° E of Maydolong (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          11.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
