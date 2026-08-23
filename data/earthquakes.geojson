@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T03:29:16.555195+00:00",
+  "generated_at": "2026-08-23T04:18:15.645408+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "11:35 AM",
+        "time_24": "11:35",
+        "latitude": 11.58,
+        "longitude": 125.1,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "010km S 58Â° E of Calbiga (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          11.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1448,17 +1468,17 @@
         "date": "22 August 2026",
         "time": "05:52 PM",
         "time_24": "17:52",
-        "latitude": 4.77,
-        "longitude": 125.48,
-        "depth_km": 33.0,
-        "magnitude": 2.4,
-        "location": "072km S 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.97,
+        "longitude": 125.5,
+        "depth_km": 97.0,
+        "magnitude": 2.8,
+        "location": "050km S 09Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
-          4.77
+          125.5,
+          4.97
         ]
       }
     },
