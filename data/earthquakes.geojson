@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T15:54:14.823697+00:00",
+  "generated_at": "2026-08-23T16:26:37.674238+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "11:53 PM",
+        "time_24": "23:53",
+        "latitude": 5.62,
+        "longitude": 125.32,
+        "depth_km": 22.0,
+        "magnitude": 1.9,
+        "location": "023km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "11:46 PM",
+        "time_24": "23:46",
+        "latitude": 12.17,
+        "longitude": 124.68,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "015km N 40Â° E of City Of Calbayog (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.68,
+          12.17
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
