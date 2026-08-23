@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T09:45:18.592333+00:00",
+  "generated_at": "2026-08-23T10:05:21.456647+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "05:54 PM",
+        "time_24": "17:54",
+        "latitude": 17.32,
+        "longitude": 121.58,
+        "depth_km": 35.0,
+        "magnitude": 1.6,
+        "location": "003km N 77Â° W of Quezon (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58,
+          17.32
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -368,17 +388,17 @@
         "date": "23 August 2026",
         "time": "08:44 AM",
         "time_24": "08:44",
-        "latitude": 6.05,
-        "longitude": 126.38,
-        "depth_km": 24.0,
-        "magnitude": 2.7,
-        "location": "075km S 27Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.06,
+        "longitude": 126.36,
+        "depth_km": 29.0,
+        "magnitude": 3.0,
+        "location": "073km S 26Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.38,
-          6.05
+          126.36,
+          6.06
         ]
       }
     },
@@ -1328,17 +1348,17 @@
         "date": "22 August 2026",
         "time": "10:50 PM",
         "time_24": "22:50",
-        "latitude": 6.82,
-        "longitude": 127.5,
-        "depth_km": 26.0,
-        "magnitude": 3.6,
-        "location": "115km S 68Â° E of Manay (Davao Oriental)"
+        "latitude": 6.73,
+        "longitude": 127.39,
+        "depth_km": 25.0,
+        "magnitude": 3.7,
+        "location": "108km S 61Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.5,
-          6.82
+          127.39,
+          6.73
         ]
       }
     },
@@ -1488,17 +1508,17 @@
         "date": "22 August 2026",
         "time": "09:37 PM",
         "time_24": "21:37",
-        "latitude": 12.85,
-        "longitude": 123.13,
-        "depth_km": 14.0,
+        "latitude": 12.88,
+        "longitude": 123.15,
+        "depth_km": 19.0,
         "magnitude": 2.3,
-        "location": "014km S 65Â° W of Claveria (Masbate)"
+        "location": "011km S 77Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          12.85
+          123.15,
+          12.88
         ]
       }
     },
