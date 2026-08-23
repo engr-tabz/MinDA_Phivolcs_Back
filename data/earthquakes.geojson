@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T04:18:15.645408+00:00",
+  "generated_at": "2026-08-23T04:57:22.488760+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:49 PM",
+        "time_24": "12:49",
+        "latitude": 9.1,
+        "longitude": 125.84,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "023km S 38Â° W of Madrid (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.84,
+          9.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:27 PM",
+        "time_24": "12:27",
+        "latitude": 7.25,
+        "longitude": 125.63,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "006km S 51Â° W of City Of Panabo (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63,
+          7.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:22 PM",
+        "time_24": "12:22",
+        "latitude": 9.11,
+        "longitude": 126.93,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "073km N 78Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93,
+          9.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:20 PM",
+        "time_24": "12:20",
+        "latitude": 5.61,
+        "longitude": 125.26,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "025km S 15Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:14 PM",
+        "time_24": "12:14",
+        "latitude": 8.97,
+        "longitude": 122.03,
+        "depth_km": 30.0,
+        "magnitude": 3.3,
+        "location": "083km S 54Â° W of Basay (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.03,
+          8.97
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
