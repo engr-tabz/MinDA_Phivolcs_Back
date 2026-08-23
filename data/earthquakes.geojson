@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T13:10:55.163800+00:00",
+  "generated_at": "2026-08-23T13:46:20.326404+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "09:27 PM",
+        "time_24": "21:27",
+        "latitude": 9.72,
+        "longitude": 122.22,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "024km S 76Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22,
+          9.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -928,17 +948,17 @@
         "date": "23 August 2026",
         "time": "04:43 AM",
         "time_24": "04:43",
-        "latitude": 4.98,
-        "longitude": 125.23,
-        "depth_km": 26.0,
-        "magnitude": 3.4,
-        "location": "053km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.95,
+        "longitude": 125.29,
+        "depth_km": 31.0,
+        "magnitude": 3.7,
+        "location": "053km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.23,
-          4.98
+          125.29,
+          4.95
         ]
       }
     },
@@ -1008,17 +1028,17 @@
         "date": "23 August 2026",
         "time": "04:14 AM",
         "time_24": "04:14",
-        "latitude": 5.49,
-        "longitude": 127.15,
-        "depth_km": 3.0,
-        "magnitude": 2.2,
-        "location": "173km S 74Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 6.16,
+        "longitude": 126.61,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "081km S 47Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.15,
-          5.49
+          126.61,
+          6.16
         ]
       }
     },
@@ -1168,17 +1188,17 @@
         "date": "23 August 2026",
         "time": "03:27 AM",
         "time_24": "03:27",
-        "latitude": 16.4,
-        "longitude": 121.2,
-        "depth_km": 22.0,
-        "magnitude": 1.6,
-        "location": "010km N 81Â° E of Bambang (Nueva Vizcaya)"
+        "latitude": 16.36,
+        "longitude": 120.97,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "009km N 87Â° E of Kayapa (Nueva Vizcaya)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.2,
-          16.4
+          120.97,
+          16.36
         ]
       }
     },
@@ -1248,17 +1268,17 @@
         "date": "23 August 2026",
         "time": "02:28 AM",
         "time_24": "02:28",
-        "latitude": 13.78,
+        "latitude": 13.74,
         "longitude": 120.62,
-        "depth_km": 124.0,
-        "magnitude": 1.8,
-        "location": "006km S 15Â° W of Calatagan (Batangas)"
+        "depth_km": 116.0,
+        "magnitude": 2.0,
+        "location": "010km S 05Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.62,
-          13.78
+          13.74
         ]
       }
     },
@@ -1328,17 +1348,17 @@
         "date": "23 August 2026",
         "time": "01:48 AM",
         "time_24": "01:48",
-        "latitude": 5.33,
-        "longitude": 125.18,
-        "depth_km": 7.0,
-        "magnitude": 1.7,
-        "location": "028km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.11,
+        "longitude": 125.14,
+        "depth_km": 22.0,
+        "magnitude": 1.8,
+        "location": "046km S 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.18,
-          5.33
+          125.14,
+          5.11
         ]
       }
     },
@@ -1788,17 +1808,17 @@
         "date": "22 August 2026",
         "time": "09:53 PM",
         "time_24": "21:53",
-        "latitude": 10.91,
-        "longitude": 122.41,
-        "depth_km": 31.0,
-        "magnitude": 2.4,
-        "location": "003km N 41Â° W of Maasin (Iloilo)"
+        "latitude": 10.89,
+        "longitude": 122.39,
+        "depth_km": 29.0,
+        "magnitude": 2.6,
+        "location": "005km S 84Â° W of Maasin (Iloilo)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.41,
-          10.91
+          122.39,
+          10.89
         ]
       }
     },
