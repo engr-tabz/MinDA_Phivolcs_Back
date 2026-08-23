@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T04:57:22.488760+00:00",
+  "generated_at": "2026-08-23T05:36:40.254454+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "01:11 PM",
+        "time_24": "13:11",
+        "latitude": 5.8,
+        "longitude": 125.29,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "010km S 78Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "12:51 PM",
+        "time_24": "12:51",
+        "latitude": 5.99,
+        "longitude": 124.51,
+        "depth_km": 6.0,
+        "magnitude": 1.8,
+        "location": "008km S 09Â° E of Maitum (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.51,
+          5.99
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1728,17 +1768,17 @@
         "date": "22 August 2026",
         "time": "03:57 PM",
         "time_24": "15:57",
-        "latitude": 6.58,
+        "latitude": 6.64,
         "longitude": 125.25,
-        "depth_km": 24.0,
+        "depth_km": 9.0,
         "magnitude": 2.6,
-        "location": "005km S 03Â° W of Kiblawan (Davao Del Sur)"
+        "location": "002km N 18Â° W of Kiblawan (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.25,
-          6.58
+          6.64
         ]
       }
     },
