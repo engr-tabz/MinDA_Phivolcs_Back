@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T10:37:13.159058+00:00",
+  "generated_at": "2026-08-23T10:58:28.922583+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "06:31 PM",
+        "time_24": "18:31",
+        "latitude": 20.44,
+        "longitude": 120.64,
+        "depth_km": 33.0,
+        "magnitude": 2.8,
+        "location": "130km N 85Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64,
+          20.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1128,17 +1148,17 @@
         "date": "23 August 2026",
         "time": "12:46 AM",
         "time_24": "00:46",
-        "latitude": 9.28,
-        "longitude": 125.52,
-        "depth_km": 18.0,
-        "magnitude": 2.2,
-        "location": "007km S 07Â° E of Jabonga (Agusan Del Norte)"
+        "latitude": 9.33,
+        "longitude": 125.48,
+        "depth_km": 16.0,
+        "magnitude": 2.3,
+        "location": "004km S 77Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.52,
-          9.28
+          125.48,
+          9.33
         ]
       }
     },
@@ -1208,17 +1228,17 @@
         "date": "23 August 2026",
         "time": "12:25 AM",
         "time_24": "00:25",
-        "latitude": 10.01,
-        "longitude": 126.08,
-        "depth_km": 33.0,
-        "magnitude": 2.2,
-        "location": "001km S 32Â° E of Burgos (Surigao Del Norte)"
+        "latitude": 9.92,
+        "longitude": 126.0,
+        "depth_km": 24.0,
+        "magnitude": 2.3,
+        "location": "004km S 06Â° W of San Benito (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.08,
-          10.01
+          126.0,
+          9.92
         ]
       }
     },
@@ -1528,17 +1548,17 @@
         "date": "22 August 2026",
         "time": "09:46 PM",
         "time_24": "21:46",
-        "latitude": 13.49,
-        "longitude": 120.19,
-        "depth_km": 15.0,
-        "magnitude": 1.8,
-        "location": "026km S 15Â° W of Looc (Occidental Mindoro)"
+        "latitude": 13.43,
+        "longitude": 120.22,
+        "depth_km": 3.0,
+        "magnitude": 2.1,
+        "location": "026km N 87Â° W of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.19,
-          13.49
+          120.22,
+          13.43
         ]
       }
     },
@@ -1608,17 +1628,17 @@
         "date": "22 August 2026",
         "time": "08:45 PM",
         "time_24": "20:45",
-        "latitude": 18.74,
-        "longitude": 120.99,
-        "depth_km": 24.0,
-        "magnitude": 1.8,
-        "location": "018km N 33Â° W of Claveria (Cagayan)"
+        "latitude": 18.76,
+        "longitude": 121.01,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "018km N 25Â° W of Claveria (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.99,
-          18.74
+          121.01,
+          18.76
         ]
       }
     },
