@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T13:46:20.326404+00:00",
+  "generated_at": "2026-08-23T14:09:12.853105+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "09:53 PM",
+        "time_24": "21:53",
+        "latitude": 19.0,
+        "longitude": 121.21,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "012km S 01Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21,
+          19.0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
