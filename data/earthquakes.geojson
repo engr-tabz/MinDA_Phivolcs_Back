@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-22T23:51:24.187547+00:00",
+  "generated_at": "2026-08-23T00:55:14.849537+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "08:44 AM",
+        "time_24": "08:44",
+        "latitude": 6.05,
+        "longitude": 126.38,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "075km S 27Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          6.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "08:32 AM",
+        "time_24": "08:32",
+        "latitude": 6.51,
+        "longitude": 126.72,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "067km S 26Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.72,
+          6.51
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
