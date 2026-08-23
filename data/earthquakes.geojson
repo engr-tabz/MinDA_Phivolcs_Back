@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T17:42:46.433820+00:00",
+  "generated_at": "2026-08-23T18:00:03.531228+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "01:46 AM",
+        "time_24": "01:46",
+        "latitude": 5.25,
+        "longitude": 125.22,
+        "depth_km": 33.0,
+        "magnitude": 2.3,
+        "location": "029km S 52Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.25
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
