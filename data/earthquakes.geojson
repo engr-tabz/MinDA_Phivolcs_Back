@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T12:24:51.430052+00:00",
+  "generated_at": "2026-08-23T13:10:55.163800+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "08:46 PM",
+        "time_24": "20:46",
+        "latitude": 5.82,
+        "longitude": 124.69,
+        "depth_km": 4.0,
+        "magnitude": 1.7,
+        "location": "020km S 21Â° E of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "08:25 PM",
+        "time_24": "20:25",
+        "latitude": 5.36,
+        "longitude": 125.23,
+        "depth_km": 31.0,
+        "magnitude": 2.2,
+        "location": "019km S 82Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -688,17 +728,17 @@
         "date": "23 August 2026",
         "time": "08:32 AM",
         "time_24": "08:32",
-        "latitude": 6.51,
-        "longitude": 126.72,
-        "depth_km": 33.0,
+        "latitude": 6.62,
+        "longitude": 126.57,
+        "depth_km": 11.0,
         "magnitude": 2.2,
-        "location": "067km S 26Â° E of Tarragona (Davao Oriental)"
+        "location": "049km S 16Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.72,
-          6.51
+          126.57,
+          6.62
         ]
       }
     },
@@ -1008,17 +1048,17 @@
         "date": "23 August 2026",
         "time": "04:06 AM",
         "time_24": "04:06",
-        "latitude": 12.69,
-        "longitude": 126.0,
-        "depth_km": 33.0,
-        "magnitude": 1.8,
-        "location": "078km N 43Â° E of San Policarpo (Eastern Samar)"
+        "latitude": 12.43,
+        "longitude": 125.91,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "052km N 58Â° E of San Policarpo (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.0,
-          12.69
+          125.91,
+          12.43
         ]
       }
     },
@@ -1168,17 +1208,17 @@
         "date": "23 August 2026",
         "time": "02:53 AM",
         "time_24": "02:53",
-        "latitude": 7.98,
-        "longitude": 126.7,
-        "depth_km": 24.0,
-        "magnitude": 1.7,
-        "location": "032km S 78Â° E of Lingig (Surigao Del Sur)"
+        "latitude": 7.82,
+        "longitude": 126.64,
+        "depth_km": 64.0,
+        "magnitude": 2.0,
+        "location": "020km N 81Â° E of Cateel (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.7,
-          7.98
+          126.64,
+          7.82
         ]
       }
     },
@@ -1328,17 +1368,17 @@
         "date": "23 August 2026",
         "time": "01:16 AM",
         "time_24": "01:16",
-        "latitude": 15.43,
-        "longitude": 119.91,
-        "depth_km": 26.0,
+        "latitude": 15.44,
+        "longitude": 119.85,
+        "depth_km": 32.0,
         "magnitude": 1.5,
-        "location": "001km S 15Â° E of Palauig (Zambales)"
+        "location": "006km N 81Â° W of Palauig (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.91,
-          15.43
+          119.85,
+          15.44
         ]
       }
     },
@@ -1488,17 +1528,17 @@
         "date": "22 August 2026",
         "time": "11:39 PM",
         "time_24": "23:39",
-        "latitude": 13.5,
-        "longitude": 120.24,
-        "depth_km": 2.0,
-        "magnitude": 2.6,
-        "location": "025km S 02Â° W of Looc (Occidental Mindoro)"
+        "latitude": 13.4,
+        "longitude": 120.03,
+        "depth_km": 7.0,
+        "magnitude": 2.8,
+        "location": "042km S 34Â° W of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.24,
-          13.5
+          120.03,
+          13.4
         ]
       }
     },
@@ -1888,17 +1928,17 @@
         "date": "22 August 2026",
         "time": "08:18 PM",
         "time_24": "20:18",
-        "latitude": 5.62,
-        "longitude": 125.29,
-        "depth_km": 33.0,
+        "latitude": 5.79,
+        "longitude": 125.33,
+        "depth_km": 22.0,
         "magnitude": 1.7,
-        "location": "025km S 22Â° E of Glan (Sarangani)"
+        "location": "014km S 75Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.62
+          125.33,
+          5.79
         ]
       }
     },
