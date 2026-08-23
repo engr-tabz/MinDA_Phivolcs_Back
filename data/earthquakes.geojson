@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T10:58:28.922583+00:00",
+  "generated_at": "2026-08-23T11:28:53.847737+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "07:10 PM",
+        "time_24": "19:10",
+        "latitude": 13.5,
+        "longitude": 120.11,
+        "depth_km": 4.0,
+        "magnitude": 2.4,
+        "location": "029km S 31Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.11,
+          13.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "07:09 PM",
+        "time_24": "19:09",
+        "latitude": 8.92,
+        "longitude": 125.63,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "013km N 32Â° W of Sibagat (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63,
+          8.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 August 2026",
+        "time": "07:07 PM",
+        "time_24": "19:07",
+        "latitude": 5.72,
+        "longitude": 125.41,
+        "depth_km": 23.0,
+        "magnitude": 1.8,
+        "location": "025km S 64Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
