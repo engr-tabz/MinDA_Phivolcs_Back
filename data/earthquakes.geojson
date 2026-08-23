@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T16:26:37.674238+00:00",
+  "generated_at": "2026-08-23T16:54:13.888922+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "12:43 AM",
+        "time_24": "00:43",
+        "latitude": 5.51,
+        "longitude": 125.4,
+        "depth_km": 20.0,
+        "magnitude": 2.4,
+        "location": "008km N 63Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "12:39 AM",
+        "time_24": "00:39",
+        "latitude": 5.89,
+        "longitude": 126.63,
+        "depth_km": 112.0,
+        "magnitude": 2.6,
+        "location": "104km S 36Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "12:33 AM",
+        "time_24": "00:33",
+        "latitude": 6.17,
+        "longitude": 125.45,
+        "depth_km": 17.0,
+        "magnitude": 1.5,
+        "location": "018km N 68Â° E of Alabel (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          6.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "12:30 AM",
+        "time_24": "00:30",
+        "latitude": 5.58,
+        "longitude": 125.4,
+        "depth_km": 54.0,
+        "magnitude": 1.7,
+        "location": "014km N 34Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -968,17 +1048,17 @@
         "date": "23 August 2026",
         "time": "07:24 AM",
         "time_24": "07:24",
-        "latitude": 5.62,
-        "longitude": 126.45,
-        "depth_km": 58.0,
-        "magnitude": 3.3,
-        "location": "094km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.63,
+        "longitude": 126.51,
+        "depth_km": 38.0,
+        "magnitude": 3.8,
+        "location": "101km S 72Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.45,
-          5.62
+          126.51,
+          5.63
         ]
       }
     },
@@ -1128,17 +1208,17 @@
         "date": "23 August 2026",
         "time": "04:49 AM",
         "time_24": "04:49",
-        "latitude": 16.83,
-        "longitude": 119.55,
-        "depth_km": 2.0,
-        "magnitude": 3.2,
-        "location": "061km N 37Â° W of Bolinao (Pangasinan)"
+        "latitude": 16.88,
+        "longitude": 119.62,
+        "depth_km": 7.0,
+        "magnitude": 3.0,
+        "location": "061km N 28Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.55,
-          16.83
+          119.62,
+          16.88
         ]
       }
     },
@@ -1608,17 +1688,17 @@
         "date": "23 August 2026",
         "time": "12:50 AM",
         "time_24": "00:50",
-        "latitude": 9.38,
-        "longitude": 125.48,
-        "depth_km": 4.0,
-        "magnitude": 2.6,
-        "location": "005km N 44Â° W of Jabonga (Agusan Del Norte)"
+        "latitude": 9.35,
+        "longitude": 125.38,
+        "depth_km": 3.0,
+        "magnitude": 2.7,
+        "location": "015km N 86Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.48,
-          9.38
+          125.38,
+          9.35
         ]
       }
     },
@@ -1688,17 +1768,17 @@
         "date": "23 August 2026",
         "time": "12:38 AM",
         "time_24": "00:38",
-        "latitude": 7.23,
-        "longitude": 125.97,
-        "depth_km": 23.0,
-        "magnitude": 2.0,
-        "location": "014km N 35Â° E of Pantukan (Davao De Oro)"
+        "latitude": 7.14,
+        "longitude": 125.92,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "003km N 50Â° E of Pantukan (Davao De Oro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.97,
-          7.23
+          125.92,
+          7.14
         ]
       }
     },
