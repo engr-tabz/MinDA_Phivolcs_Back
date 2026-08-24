@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T14:13:08.369062+00:00",
+  "generated_at": "2026-08-24T15:03:24.430452+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "10:16 PM",
+        "time_24": "22:16",
+        "latitude": 15.04,
+        "longitude": 122.2,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "031km N 04Â° W of Patnanungan (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2,
+          15.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "10:08 PM",
+        "time_24": "22:08",
+        "latitude": 7.03,
+        "longitude": 123.24,
+        "depth_km": 25.0,
+        "magnitude": 2.3,
+        "location": "047km S 10Â° W of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.24,
+          7.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "10:05 PM",
+        "time_24": "22:05",
+        "latitude": 7.0,
+        "longitude": 123.26,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "051km S 06Â° W of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.26,
+          7.0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
