@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-23T23:53:09.221891+00:00",
+  "generated_at": "2026-08-24T01:09:03.838286+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "08:06 AM",
+        "time_24": "08:06",
+        "latitude": 17.62,
+        "longitude": 120.56,
+        "depth_km": 10.0,
+        "magnitude": 1.9,
+        "location": "005km N 01Â° W of Langiden (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          17.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "08:02 AM",
+        "time_24": "08:02",
+        "latitude": 18.92,
+        "longitude": 120.48,
+        "depth_km": 12.0,
+        "magnitude": 2.4,
+        "location": "048km N 21Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48,
+          18.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "07:53 AM",
+        "time_24": "07:53",
+        "latitude": 7.21,
+        "longitude": 125.79,
+        "depth_km": 19.0,
+        "magnitude": 1.8,
+        "location": "013km S 34Â° W of Mabini (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          7.21
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
