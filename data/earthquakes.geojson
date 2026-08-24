@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T12:18:21.899232+00:00",
+  "generated_at": "2026-08-24T13:26:11.515380+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "09:12 PM",
+        "time_24": "21:12",
+        "latitude": 5.86,
+        "longitude": 126.53,
+        "depth_km": 36.0,
+        "magnitude": 2.0,
+        "location": "098km S 87Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53,
+          5.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "08:43 PM",
+        "time_24": "20:43",
+        "latitude": 6.82,
+        "longitude": 126.32,
+        "depth_km": 39.0,
+        "magnitude": 2.2,
+        "location": "018km S 37Â° E of City Of Mati (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          6.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "08:40 PM",
+        "time_24": "20:40",
+        "latitude": 12.43,
+        "longitude": 125.03,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "003km N 49Â° W of Catubig (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          12.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "08:34 PM",
+        "time_24": "20:34",
+        "latitude": 5.9,
+        "longitude": 125.34,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "010km S 35Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
