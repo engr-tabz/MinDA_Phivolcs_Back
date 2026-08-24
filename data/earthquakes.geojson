@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T17:08:10.166067+00:00",
+  "generated_at": "2026-08-24T17:46:18.786319+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "01:17 AM",
+        "time_24": "01:17",
+        "latitude": 9.28,
+        "longitude": 125.52,
+        "depth_km": 20.0,
+        "magnitude": 2.7,
+        "location": "004km N 61Â° W of Santiago (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52,
+          9.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "12:58 AM",
+        "time_24": "00:58",
+        "latitude": 8.75,
+        "longitude": 124.23,
+        "depth_km": 31.0,
+        "magnitude": 2.4,
+        "location": "025km N 33Â° W of Libertad (Misamis Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.23,
+          8.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
