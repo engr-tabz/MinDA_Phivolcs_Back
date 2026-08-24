@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T03:38:10.992562+00:00",
+  "generated_at": "2026-08-24T04:28:42.587034+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "12:07 PM",
+        "time_24": "12:07",
+        "latitude": 5.45,
+        "longitude": 125.22,
+        "depth_km": 19.0,
+        "magnitude": 2.6,
+        "location": "023km N 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "11:59 AM",
+        "time_24": "11:59",
+        "latitude": 4.98,
+        "longitude": 125.35,
+        "depth_km": 10.0,
+        "magnitude": 5.0,
+        "location": "048km S 9Â° W of Sarangani (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          4.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "11:44 AM",
+        "time_24": "11:44",
+        "latitude": 5.68,
+        "longitude": 125.3,
+        "depth_km": 13.0,
+        "magnitude": 2.0,
+        "location": "019km S 32Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.68
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1308,17 +1368,17 @@
         "date": "23 August 2026",
         "time": "12:27 PM",
         "time_24": "12:27",
-        "latitude": 7.25,
-        "longitude": 125.63,
-        "depth_km": 25.0,
+        "latitude": 7.27,
+        "longitude": 125.62,
+        "depth_km": 24.0,
         "magnitude": 2.2,
-        "location": "006km S 51Â° W of City Of Panabo (Davao Del Norte)"
+        "location": "006km S 71Â° W of City Of Panabo (Davao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.63,
-          7.25
+          125.62,
+          7.27
         ]
       }
     },
