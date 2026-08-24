@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T20:50:29.572611+00:00",
+  "generated_at": "2026-08-24T21:19:42.292008+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "04:56 AM",
+        "time_24": "04:56",
+        "latitude": 12.85,
+        "longitude": 123.02,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "025km S 78Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          12.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
