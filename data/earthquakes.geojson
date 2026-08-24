@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T21:19:42.292008+00:00",
+  "generated_at": "2026-08-24T21:50:05.085398+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "05:25 AM",
+        "time_24": "05:25",
+        "latitude": 7.1,
+        "longitude": 123.29,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "039km S 03Â° W of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.29,
+          7.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "05:24 AM",
+        "time_24": "05:24",
+        "latitude": 7.14,
+        "longitude": 123.32,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "035km S 01Â° E of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.32,
+          7.14
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
