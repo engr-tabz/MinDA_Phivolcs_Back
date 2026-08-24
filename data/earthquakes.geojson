@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T17:46:18.786319+00:00",
+  "generated_at": "2026-08-24T18:17:55.031051+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "01:49 AM",
+        "time_24": "01:49",
+        "latitude": 6.15,
+        "longitude": 126.47,
+        "depth_km": 54.0,
+        "magnitude": 2.4,
+        "location": "070km S 38Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          6.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "01:43 AM",
+        "time_24": "01:43",
+        "latitude": 7.05,
+        "longitude": 123.36,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "044km S 06Â° E of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.36,
+          7.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
