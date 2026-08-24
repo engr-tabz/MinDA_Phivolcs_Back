@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T10:48:05.608396+00:00",
+  "generated_at": "2026-08-24T11:15:20.598440+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "06:42 PM",
+        "time_24": "18:42",
+        "latitude": 17.92,
+        "longitude": 120.53,
+        "depth_km": 28.0,
+        "magnitude": 2.4,
+        "location": "004km S 06Â° E of Pinili (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53,
+          17.92
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
