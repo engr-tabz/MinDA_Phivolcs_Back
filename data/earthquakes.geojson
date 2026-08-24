@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T02:37:28.477883+00:00",
+  "generated_at": "2026-08-24T03:38:10.992562+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "11:29 AM",
+        "time_24": "11:29",
+        "latitude": 12.17,
+        "longitude": 124.93,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "005km N 57Â° E of Matuguinao (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.93,
+          12.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "10:53 AM",
+        "time_24": "10:53",
+        "latitude": 9.62,
+        "longitude": 126.0,
+        "depth_km": 31.0,
+        "magnitude": 2.3,
+        "location": "003km N 79Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0,
+          9.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1288,17 +1328,17 @@
         "date": "23 August 2026",
         "time": "12:22 PM",
         "time_24": "12:22",
-        "latitude": 9.11,
-        "longitude": 126.93,
-        "depth_km": 2.0,
-        "magnitude": 2.7,
-        "location": "073km N 78Â° E of Bayabas (Surigao Del Sur)"
+        "latitude": 9.14,
+        "longitude": 126.81,
+        "depth_km": 8.0,
+        "magnitude": 2.8,
+        "location": "062km N 72Â° E of Bayabas (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.93,
-          9.11
+          126.81,
+          9.14
         ]
       }
     },
@@ -1368,17 +1408,17 @@
         "date": "23 August 2026",
         "time": "11:17 AM",
         "time_24": "11:17",
-        "latitude": 9.37,
-        "longitude": 125.72,
-        "depth_km": 26.0,
-        "magnitude": 1.8,
-        "location": "018km S 59Â° E of Kitcharao (Agusan Del Norte)"
+        "latitude": 9.48,
+        "longitude": 125.66,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "010km N 70Â° E of Kitcharao (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.72,
-          9.37
+          125.66,
+          9.48
         ]
       }
     },
