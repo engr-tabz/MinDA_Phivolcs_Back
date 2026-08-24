@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T09:03:49.453267+00:00",
+  "generated_at": "2026-08-24T09:59:37.087093+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "05:39 PM",
+        "time_24": "17:39",
+        "latitude": 19.23,
+        "longitude": 121.21,
+        "depth_km": 2.0,
+        "magnitude": 2.5,
+        "location": "012km N 04Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21,
+          19.23
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -968,17 +988,17 @@
         "date": "23 August 2026",
         "time": "08:06 PM",
         "time_24": "20:06",
-        "latitude": 5.58,
-        "longitude": 125.38,
-        "depth_km": 18.0,
-        "magnitude": 2.4,
-        "location": "016km N 39Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.62,
+        "longitude": 125.32,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "023km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.38,
-          5.58
+          125.32,
+          5.62
         ]
       }
     },
@@ -988,17 +1008,17 @@
         "date": "23 August 2026",
         "time": "07:57 PM",
         "time_24": "19:57",
-        "latitude": 13.59,
-        "longitude": 120.77,
-        "depth_km": 169.0,
-        "magnitude": 2.6,
-        "location": "013km S 54Â° W of Tingloy (Batangas)"
+        "latitude": 13.63,
+        "longitude": 120.76,
+        "depth_km": 160.0,
+        "magnitude": 2.8,
+        "location": "013km S 76Â° W of Tingloy (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.77,
-          13.59
+          120.76,
+          13.63
         ]
       }
     },
@@ -1188,17 +1208,17 @@
         "date": "23 August 2026",
         "time": "06:31 PM",
         "time_24": "18:31",
-        "latitude": 20.44,
-        "longitude": 120.64,
-        "depth_km": 33.0,
-        "magnitude": 2.8,
-        "location": "130km N 85Â° W of Sabtang (Batanes)"
+        "latitude": 20.36,
+        "longitude": 120.71,
+        "depth_km": 27.0,
+        "magnitude": 2.9,
+        "location": "121km N 89Â° W of Sabtang (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.64,
-          20.44
+          120.71,
+          20.36
         ]
       }
     },
@@ -1228,17 +1248,17 @@
         "date": "23 August 2026",
         "time": "06:15 PM",
         "time_24": "18:15",
-        "latitude": 6.59,
-        "longitude": 126.6,
-        "depth_km": 19.0,
-        "magnitude": 2.2,
-        "location": "054km S 19Â° E of Tarragona (Davao Oriental)"
+        "latitude": 6.35,
+        "longitude": 126.58,
+        "depth_km": 95.0,
+        "magnitude": 2.3,
+        "location": "065km S 59Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.6,
-          6.59
+          126.58,
+          6.35
         ]
       }
     },
