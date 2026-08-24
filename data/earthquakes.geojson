@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-24T23:10:50.117038+00:00",
+  "generated_at": "2026-08-24T23:38:29.167097+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:20 AM",
+        "time_24": "07:20",
+        "latitude": 5.77,
+        "longitude": 125.27,
+        "depth_km": 18.0,
+        "magnitude": 2.0,
+        "location": "010km S 53Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:12 AM",
+        "time_24": "07:12",
+        "latitude": 13.44,
+        "longitude": 124.95,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "067km S 69Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.95,
+          13.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
