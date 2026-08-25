@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T08:55:07.123577+00:00",
+  "generated_at": "2026-08-25T09:38:31.638877+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "05:19 PM",
+        "time_24": "17:19",
+        "latitude": 15.76,
+        "longitude": 120.12,
+        "depth_km": 10.0,
+        "magnitude": 1.7,
+        "location": "019km S 78Â° W of Mangatarem (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.12,
+          15.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "04:52 PM",
+        "time_24": "16:52",
+        "latitude": 7.81,
+        "longitude": 124.73,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "006km N 59Â° E of Amai Manabilang (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.73,
+          7.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -908,17 +948,17 @@
         "date": "24 August 2026",
         "time": "08:01 PM",
         "time_24": "20:01",
-        "latitude": 10.94,
-        "longitude": 123.94,
-        "depth_km": 2.0,
-        "magnitude": 2.1,
-        "location": "012km S 23Â° W of City of Bogo (Cebu)"
+        "latitude": 11.01,
+        "longitude": 123.98,
+        "depth_km": 9.0,
+        "magnitude": 2.0,
+        "location": "004km S 03Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.94,
-          10.94
+          123.98,
+          11.01
         ]
       }
     },
