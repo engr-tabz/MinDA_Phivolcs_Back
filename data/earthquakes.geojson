@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T17:53:32.858432+00:00",
+  "generated_at": "2026-08-25T18:37:46.735830+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "02:24 AM",
+        "time_24": "02:24",
+        "latitude": 5.34,
+        "longitude": 125.09,
+        "depth_km": 32.0,
+        "magnitude": 2.4,
+        "location": "037km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "01:58 AM",
+        "time_24": "01:58",
+        "latitude": 14.34,
+        "longitude": 123.98,
+        "depth_km": 2.0,
+        "magnitude": 1.5,
+        "location": "038km N 33Â° W of Pandan (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98,
+          14.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 10.05,
+        "longitude": 122.27,
+        "depth_km": 13.0,
+        "magnitude": 1.5,
+        "location": "036km N 31Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27,
+          10.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
