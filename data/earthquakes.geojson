@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T13:24:06.139728+00:00",
+  "generated_at": "2026-08-25T14:13:04.571888+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "09:54 PM",
+        "time_24": "21:54",
+        "latitude": 17.38,
+        "longitude": 122.84,
+        "depth_km": 41.0,
+        "magnitude": 2.4,
+        "location": "056km N 51Â° E of Palanan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.84,
+          17.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "09:44 PM",
+        "time_24": "21:44",
+        "latitude": 12.91,
+        "longitude": 122.89,
+        "depth_km": 11.0,
+        "magnitude": 2.0,
+        "location": "026km S 22Â° W of San Pascual (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.89,
+          12.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "09:39 PM",
+        "time_24": "21:39",
+        "latitude": 9.0,
+        "longitude": 126.36,
+        "depth_km": 35.0,
+        "magnitude": 1.5,
+        "location": "009km N 65Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          9.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "09:17 PM",
+        "time_24": "21:17",
+        "latitude": 13.34,
+        "longitude": 120.28,
+        "depth_km": 13.0,
+        "magnitude": 3.3,
+        "location": "021km S 67Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.28,
+          13.34
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
