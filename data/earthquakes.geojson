@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T15:59:28.059664+00:00",
+  "generated_at": "2026-08-25T16:49:24.671164+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "12:26 AM",
+        "time_24": "00:26",
+        "latitude": 5.55,
+        "longitude": 125.26,
+        "depth_km": 17.0,
+        "magnitude": 3.3,
+        "location": "023km N 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "12:15 AM",
+        "time_24": "00:15",
+        "latitude": 11.1,
+        "longitude": 126.33,
+        "depth_km": 28.0,
+        "magnitude": 2.7,
+        "location": "067km N 84Â° E of Guiuan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          11.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "12:06 AM",
+        "time_24": "00:06",
+        "latitude": 9.98,
+        "longitude": 121.96,
+        "depth_km": 23.0,
+        "magnitude": 1.8,
+        "location": "050km S 04Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96,
+          9.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "11:57 PM",
+        "time_24": "23:57",
+        "latitude": 7.96,
+        "longitude": 126.85,
+        "depth_km": 17.0,
+        "magnitude": 2.9,
+        "location": "048km N 67Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.85,
+          7.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -748,17 +828,17 @@
         "date": "25 August 2026",
         "time": "08:50 AM",
         "time_24": "08:50",
-        "latitude": 17.58,
-        "longitude": 120.65,
-        "depth_km": 4.0,
-        "magnitude": 2.9,
-        "location": "002km North 00 of PeÃ±arrubia (Abra)"
+        "latitude": 17.55,
+        "longitude": 120.63,
+        "depth_km": 2.0,
+        "magnitude": 3.1,
+        "location": "003km S 52Â° W of PeÃ±arrubia (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.65,
-          17.58
+          120.63,
+          17.55
         ]
       }
     },
@@ -828,17 +908,17 @@
         "date": "25 August 2026",
         "time": "05:25 AM",
         "time_24": "05:25",
-        "latitude": 7.1,
-        "longitude": 123.29,
-        "depth_km": 29.0,
+        "latitude": 7.09,
+        "longitude": 123.28,
+        "depth_km": 27.0,
         "magnitude": 1.8,
-        "location": "039km S 03Â° W of Pitogo (Zamboanga Del Sur)"
+        "location": "040km S 06Â° W of Pitogo (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.29,
-          7.1
+          123.28,
+          7.09
         ]
       }
     },
