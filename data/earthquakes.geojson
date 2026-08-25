@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T16:49:24.671164+00:00",
+  "generated_at": "2026-08-25T17:21:14.512360+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "01:05 AM",
+        "time_24": "01:05",
+        "latitude": 9.67,
+        "longitude": 122.61,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "017km N 66Â° E of Hinoba-an (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.61,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 12.89,
+        "longitude": 124.61,
+        "depth_km": 31.0,
+        "magnitude": 1.8,
+        "location": "036km N 49Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.61,
+          12.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "12:51 AM",
+        "time_24": "00:51",
+        "latitude": 9.35,
+        "longitude": 125.42,
+        "depth_km": 2.0,
+        "magnitude": 3.2,
+        "location": "011km N 84Â° W of Jabonga (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          9.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
