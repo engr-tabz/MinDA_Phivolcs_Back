@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T09:38:31.638877+00:00",
+  "generated_at": "2026-08-25T10:06:54.539864+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "05:34 PM",
+        "time_24": "17:34",
+        "latitude": 5.77,
+        "longitude": 125.32,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "014km S 66Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -788,17 +808,17 @@
         "date": "24 August 2026",
         "time": "11:30 PM",
         "time_24": "23:30",
-        "latitude": 7.79,
-        "longitude": 122.3,
-        "depth_km": 29.0,
+        "latitude": 7.0,
+        "longitude": 123.33,
+        "depth_km": 6.0,
         "magnitude": 1.7,
-        "location": "040km S 03Â° W of Pitogo (Zamboanga del Sur)"
+        "location": "050km S 02Â° E of Pitogo (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.3,
-          7.79
+          123.33,
+          7.0
         ]
       }
     },
@@ -848,17 +868,17 @@
         "date": "24 August 2026",
         "time": "10:05 PM",
         "time_24": "22:05",
-        "latitude": 7.0,
-        "longitude": 123.26,
-        "depth_km": 25.0,
+        "latitude": 7.03,
+        "longitude": 123.24,
+        "depth_km": 7.0,
         "magnitude": 1.6,
-        "location": "051km S 06Â° W of Pitogo (Zamboanga del Sur)"
+        "location": "047km S 09Â° W of Pitogo (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.26,
-          7.0
+          123.24,
+          7.03
         ]
       }
     },
@@ -908,17 +928,17 @@
         "date": "24 August 2026",
         "time": "08:43 PM",
         "time_24": "20:43",
-        "latitude": 6.82,
-        "longitude": 126.32,
-        "depth_km": 39.0,
+        "latitude": 6.83,
+        "longitude": 126.31,
+        "depth_km": 38.0,
         "magnitude": 2.2,
-        "location": "018km S 37Â° E of City of Mati (Davao Oriental)"
+        "location": "018km S 38Â° E of City Of Mati (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.32,
-          6.82
+          126.31,
+          6.83
         ]
       }
     },
@@ -968,17 +988,17 @@
         "date": "24 August 2026",
         "time": "06:42 PM",
         "time_24": "18:42",
-        "latitude": 17.92,
-        "longitude": 120.53,
-        "depth_km": 28.0,
+        "latitude": 18.0,
+        "longitude": 120.62,
+        "depth_km": 9.0,
         "magnitude": 2.4,
-        "location": "004km S 06Â° E of Pinili (Ilocos Norte)"
+        "location": "004km N 52Â° W of Banna (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.53,
-          17.92
+          120.62,
+          18.0
         ]
       }
     },
@@ -988,17 +1008,17 @@
         "date": "24 August 2026",
         "time": "06:34 PM",
         "time_24": "18:34",
-        "latitude": 12.64,
-        "longitude": 125.32,
-        "depth_km": 17.0,
+        "latitude": 12.66,
+        "longitude": 125.15,
+        "depth_km": 10.0,
         "magnitude": 2.0,
-        "location": "015km N 44Â° E of Palapag (Northern Samar)"
+        "location": "014km N 15Â° E of Palapag (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          12.64
+          125.15,
+          12.66
         ]
       }
     },
@@ -1008,17 +1028,17 @@
         "date": "24 August 2026",
         "time": "06:23 PM",
         "time_24": "18:23",
-        "latitude": 9.65,
-        "longitude": 126.5,
-        "depth_km": 19.0,
-        "magnitude": 2.5,
-        "location": "041km S 69Â° E of General Luna (Surigao del Norte)"
+        "latitude": 9.61,
+        "longitude": 126.46,
+        "depth_km": 11.0,
+        "magnitude": 2.6,
+        "location": "038km S 60Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.5,
-          9.65
+          126.46,
+          9.61
         ]
       }
     },
