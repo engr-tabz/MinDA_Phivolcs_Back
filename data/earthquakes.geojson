@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T15:08:14.955415+00:00",
+  "generated_at": "2026-08-25T15:59:28.059664+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "11:48 PM",
+        "time_24": "23:48",
+        "latitude": 5.25,
+        "longitude": 125.17,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "033km S 57Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17,
+          5.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "11:21 PM",
+        "time_24": "23:21",
+        "latitude": 13.63,
+        "longitude": 120.67,
+        "depth_km": 98.0,
+        "magnitude": 1.3,
+        "location": "021km N 16Â° W of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67,
+          13.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -848,17 +888,17 @@
         "date": "25 August 2026",
         "time": "04:19 AM",
         "time_24": "04:19",
-        "latitude": 5.45,
-        "longitude": 126.44,
-        "depth_km": 51.0,
-        "magnitude": 3.6,
-        "location": "102km S 60Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.49,
+        "longitude": 126.46,
+        "depth_km": 27.0,
+        "magnitude": 3.5,
+        "location": "101km S 62Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.44,
-          5.45
+          126.46,
+          5.49
         ]
       }
     },
@@ -988,17 +1028,17 @@
         "date": "25 August 2026",
         "time": "01:49 AM",
         "time_24": "01:49",
-        "latitude": 6.15,
-        "longitude": 126.47,
-        "depth_km": 54.0,
-        "magnitude": 2.4,
-        "location": "070km S 38Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.14,
+        "longitude": 126.53,
+        "depth_km": 77.0,
+        "magnitude": 2.7,
+        "location": "077km S 42Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.47,
-          6.15
+          126.53,
+          6.14
         ]
       }
     },
@@ -1048,17 +1088,17 @@
         "date": "25 August 2026",
         "time": "12:58 AM",
         "time_24": "00:58",
-        "latitude": 8.75,
-        "longitude": 124.23,
-        "depth_km": 31.0,
-        "magnitude": 2.4,
-        "location": "025km N 33Â° W of Libertad (Misamis Oriental)"
+        "latitude": 8.78,
+        "longitude": 124.25,
+        "depth_km": 25.0,
+        "magnitude": 2.6,
+        "location": "027km N 39Â° W of Gitagum (Misamis Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.23,
-          8.75
+          124.25,
+          8.78
         ]
       }
     },
@@ -1209,15 +1249,15 @@
         "time": "11:38 PM",
         "time_24": "23:38",
         "latitude": 17.76,
-        "longitude": 122.29,
-        "depth_km": 18.0,
+        "longitude": 122.31,
+        "depth_km": 13.0,
         "magnitude": 3.3,
-        "location": "042km N 07Â° E of Maconacon (Isabela)"
+        "location": "042km N 11Â° E of Maconacon (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.29,
+          122.31,
           17.76
         ]
       }
@@ -1268,17 +1308,17 @@
         "date": "24 August 2026",
         "time": "10:16 PM",
         "time_24": "22:16",
-        "latitude": 15.04,
-        "longitude": 122.2,
-        "depth_km": 11.0,
-        "magnitude": 1.9,
-        "location": "031km N 04Â° W of Patnanungan (Quezon)"
+        "latitude": 15.14,
+        "longitude": 122.24,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "042km N 03Â° E of Patnanungan (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.2,
-          15.04
+          122.24,
+          15.14
         ]
       }
     },
