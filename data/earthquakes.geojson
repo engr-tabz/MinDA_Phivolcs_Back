@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T10:06:54.539864+00:00",
+  "generated_at": "2026-08-25T10:48:20.874251+00:00",
   "features": [
     {
       "type": "Feature",
@@ -588,17 +588,17 @@
         "date": "25 August 2026",
         "time": "01:43 AM",
         "time_24": "01:43",
-        "latitude": 7.05,
-        "longitude": 123.36,
-        "depth_km": 34.0,
+        "latitude": 7.04,
+        "longitude": 123.27,
+        "depth_km": 28.0,
         "magnitude": 2.0,
-        "location": "044km S 06Â° E of Pitogo (Zamboanga Del Sur)"
+        "location": "045km S 05Â° W of Pitogo (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.36,
-          7.05
+          123.27,
+          7.04
         ]
       }
     },
@@ -728,17 +728,17 @@
         "date": "25 August 2026",
         "time": "12:22 AM",
         "time_24": "00:22",
-        "latitude": 5.44,
-        "longitude": 125.14,
-        "depth_km": 30.0,
-        "magnitude": 1.9,
-        "location": "030km N 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.56,
+        "longitude": 125.19,
+        "depth_km": 18.0,
+        "magnitude": 2.0,
+        "location": "030km N 58Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.14,
-          5.44
+          125.19,
+          5.56
         ]
       }
     },
@@ -859,6 +859,26 @@
         "coordinates": [
           122.2,
           15.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 August 2026",
+        "time": "10:08 PM",
+        "time_24": "22:08",
+        "latitude": 7.03,
+        "longitude": 123.31,
+        "depth_km": 3.0,
+        "magnitude": 2.8,
+        "location": "047km S 01Â° W of Pitogo (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.31,
+          7.03
         ]
       }
     },
