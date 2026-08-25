@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T11:14:05.119260+00:00",
+  "generated_at": "2026-08-25T11:48:01.315757+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:26 PM",
+        "time_24": "19:26",
+        "latitude": 10.17,
+        "longitude": 124.97,
+        "depth_km": 10.0,
+        "magnitude": 2.1,
+        "location": "003km N 76Â° W of Malitbog (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.97,
+          10.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:19 PM",
+        "time_24": "19:19",
+        "latitude": 17.14,
+        "longitude": 122.35,
+        "depth_km": 5.0,
+        "magnitude": 1.5,
+        "location": "012km N 44Â° W of Palanan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.35,
+          17.14
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
