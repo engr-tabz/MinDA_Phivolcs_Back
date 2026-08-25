@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-25T11:48:01.315757+00:00",
+  "generated_at": "2026-08-25T12:18:52.518535+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:57 PM",
+        "time_24": "19:57",
+        "latitude": 15.55,
+        "longitude": 120.02,
+        "depth_km": 24.0,
+        "magnitude": 1.9,
+        "location": "007km N 70Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.02,
+          15.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:48 PM",
+        "time_24": "19:48",
+        "latitude": 8.61,
+        "longitude": 125.86,
+        "depth_km": 11.0,
+        "magnitude": 2.2,
+        "location": "006km N 80Â° W of Prosperidad (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.86,
+          8.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 August 2026",
+        "time": "07:40 PM",
+        "time_24": "19:40",
+        "latitude": 13.55,
+        "longitude": 120.8,
+        "depth_km": 115.0,
+        "magnitude": 1.4,
+        "location": "014km N 37Â° E of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8,
+          13.55
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
