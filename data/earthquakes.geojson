@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T07:03:44.686145+00:00",
+  "generated_at": "2026-08-26T07:55:35.156332+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "03:36 PM",
+        "time_24": "15:36",
+        "latitude": 8.93,
+        "longitude": 126.47,
+        "depth_km": 21.0,
+        "magnitude": 2.8,
+        "location": "019km N 86Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          8.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "03:34 PM",
+        "time_24": "15:34",
+        "latitude": 5.77,
+        "longitude": 125.22,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "005km S 17Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
