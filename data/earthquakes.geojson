@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T14:56:15.338885+00:00",
+  "generated_at": "2026-08-26T16:22:55.573028+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "10:51 PM",
+        "time_24": "22:51",
+        "latitude": 5.7,
+        "longitude": 125.1,
+        "depth_km": 22.0,
+        "magnitude": 1.3,
+        "location": "017km S 42Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -368,17 +388,17 @@
         "date": "26 August 2026",
         "time": "04:39 AM",
         "time_24": "04:39",
-        "latitude": 5.65,
-        "longitude": 125.41,
-        "depth_km": 18.0,
-        "magnitude": 2.3,
-        "location": "021km N 20Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.72,
+        "longitude": 125.33,
+        "depth_km": 5.0,
+        "magnitude": 3.0,
+        "location": "018km S 52Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.41,
-          5.65
+          125.33,
+          5.72
         ]
       }
     },
@@ -388,17 +408,17 @@
         "date": "26 August 2026",
         "time": "04:35 AM",
         "time_24": "04:35",
-        "latitude": 7.03,
-        "longitude": 126.7,
-        "depth_km": 53.0,
-        "magnitude": 2.0,
-        "location": "027km S 41Â° E of Manay (Davao Oriental)"
+        "latitude": 7.02,
+        "longitude": 126.95,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "050km S 65Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.7,
-          7.03
+          126.95,
+          7.02
         ]
       }
     },
