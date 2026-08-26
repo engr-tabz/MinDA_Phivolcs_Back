@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T04:50:53.637482+00:00",
+  "generated_at": "2026-08-26T05:25:41.034970+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "01:13 PM",
+        "time_24": "13:13",
+        "latitude": 11.17,
+        "longitude": 124.44,
+        "depth_km": 8.0,
+        "magnitude": 2.6,
+        "location": "004km N 58Â° W of Matag-ob (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.44,
+          11.17
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
