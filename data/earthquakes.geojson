@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T10:51:41.937957+00:00",
+  "generated_at": "2026-08-26T11:23:22.375115+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "06:52 PM",
+        "time_24": "18:52",
+        "latitude": 12.93,
+        "longitude": 123.01,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "023km S 08Â° E of San Pascual (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.01,
+          12.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1109,15 +1129,15 @@
         "time": "07:57 PM",
         "time_24": "19:57",
         "latitude": 15.55,
-        "longitude": 120.02,
-        "depth_km": 24.0,
-        "magnitude": 1.9,
-        "location": "007km N 70Â° E of Masinloc (Zambales)"
+        "longitude": 120.03,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "008km N 73Â° E of Masinloc (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.02,
+          120.03,
           15.55
         ]
       }
@@ -1128,17 +1148,17 @@
         "date": "25 August 2026",
         "time": "07:48 PM",
         "time_24": "19:48",
-        "latitude": 8.61,
-        "longitude": 125.86,
-        "depth_km": 11.0,
-        "magnitude": 2.2,
-        "location": "006km N 80Â° W of Prosperidad (Agusan Del Sur)"
+        "latitude": 8.6,
+        "longitude": 125.8,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "013km N 90Â° W of Prosperidad (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.86,
-          8.61
+          125.8,
+          8.6
         ]
       }
     },
