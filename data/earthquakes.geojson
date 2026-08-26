@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T14:00:44.382322+00:00",
+  "generated_at": "2026-08-26T14:56:15.338885+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "10:18 PM",
+        "time_24": "22:18",
+        "latitude": 5.99,
+        "longitude": 124.69,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "007km N 87Â° E of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69,
+          5.99
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
