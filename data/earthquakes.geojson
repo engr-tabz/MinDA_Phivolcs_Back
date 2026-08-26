@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T18:13:20.459970+00:00",
+  "generated_at": "2026-08-26T20:07:19.851697+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 August 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 18.81,
+        "longitude": 120.83,
+        "depth_km": 26.0,
+        "magnitude": 2.5,
+        "location": "028km N 09Â° E of Pagudpud (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.83,
+          18.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 August 2026",
+        "time": "03:00 AM",
+        "time_24": "03:00",
+        "latitude": 9.35,
+        "longitude": 126.81,
+        "depth_km": 11.0,
+        "magnitude": 3.3,
+        "location": "068km N 83Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.81,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 August 2026",
+        "time": "02:33 AM",
+        "time_24": "02:33",
+        "latitude": 10.11,
+        "longitude": 126.09,
+        "depth_km": 7.0,
+        "magnitude": 3.1,
+        "location": "011km N 11Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.09,
+          10.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 August 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 18.19,
+        "longitude": 120.49,
+        "depth_km": 37.0,
+        "magnitude": 2.4,
+        "location": "011km S 89Â° W of City Of Laoag (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          18.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 August 2026",
+        "time": "02:29 AM",
+        "time_24": "02:29",
+        "latitude": 6.52,
+        "longitude": 126.15,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "017km S 29Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          6.52
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -648,17 +748,17 @@
         "date": "26 August 2026",
         "time": "02:24 AM",
         "time_24": "02:24",
-        "latitude": 5.34,
-        "longitude": 125.09,
-        "depth_km": 32.0,
-        "magnitude": 2.4,
-        "location": "037km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.46,
+        "longitude": 125.14,
+        "depth_km": 44.0,
+        "magnitude": 2.9,
+        "location": "032km N 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.09,
-          5.34
+          125.14,
+          5.46
         ]
       }
     },
