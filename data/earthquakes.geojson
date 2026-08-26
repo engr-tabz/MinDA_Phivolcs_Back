@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T10:09:42.911208+00:00",
+  "generated_at": "2026-08-26T10:51:41.937957+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "06:23 PM",
+        "time_24": "18:23",
+        "latitude": 8.63,
+        "longitude": 126.8,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "059km N 61Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8,
+          8.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
