@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T05:25:41.034970+00:00",
+  "generated_at": "2026-08-26T06:00:58.965852+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "01:32 PM",
+        "time_24": "13:32",
+        "latitude": 18.71,
+        "longitude": 121.09,
+        "depth_km": 15.0,
+        "magnitude": 2.2,
+        "location": "012km N 05Â° E of Claveria (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.09,
+          18.71
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
