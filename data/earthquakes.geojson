@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T01:53:44.650933+00:00",
+  "generated_at": "2026-08-26T03:04:14.170484+00:00",
   "features": [
     {
       "type": "Feature",
@@ -808,17 +808,17 @@
         "date": "25 August 2026",
         "time": "09:17 PM",
         "time_24": "21:17",
-        "latitude": 13.34,
-        "longitude": 120.28,
-        "depth_km": 13.0,
+        "latitude": 13.33,
+        "longitude": 120.26,
+        "depth_km": 9.0,
         "magnitude": 3.3,
-        "location": "021km S 67Â° W of Paluan (Occidental Mindoro)"
+        "location": "024km S 65Â° W of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.28,
-          13.34
+          120.26,
+          13.33
         ]
       }
     },
@@ -1108,17 +1108,17 @@
         "date": "25 August 2026",
         "time": "04:04 PM",
         "time_24": "16:04",
-        "latitude": 18.99,
-        "longitude": 120.94,
-        "depth_km": 23.0,
-        "magnitude": 2.4,
-        "location": "031km S 65Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 18.87,
+        "longitude": 121.0,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "034km S 40Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.94,
-          18.99
+          121.0,
+          18.87
         ]
       }
     },
