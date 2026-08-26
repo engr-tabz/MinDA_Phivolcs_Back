@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T13:01:17.581975+00:00",
+  "generated_at": "2026-08-26T14:00:44.382322+00:00",
   "features": [
     {
       "type": "Feature",
@@ -37612,7 +37612,7 @@
         "longitude": 126.3,
         "depth_km": 18.0,
         "magnitude": 3.3,
-        "location": "094km S 79Â° E of Sarangani Island (Municipality Of Sarangani) (Davao\n\t\t\t\t\t\t\t\tOccidental)"
+        "location": "094km S 79Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
