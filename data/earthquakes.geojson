@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T11:23:22.375115+00:00",
+  "generated_at": "2026-08-26T11:55:38.290071+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 August 2026",
+        "time": "07:14 PM",
+        "time_24": "19:14",
+        "latitude": 21.57,
+        "longitude": 121.75,
+        "depth_km": 30.0,
+        "magnitude": 3.4,
+        "location": "087km N 07Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          21.57
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
