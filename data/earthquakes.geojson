@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-29T21:20:42.285699+00:00",
+  "generated_at": "2026-08-29T23:28:05.166728+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "06:45 AM",
+        "time_24": "06:45",
+        "latitude": 11.03,
+        "longitude": 124.05,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "008km S 74Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.05,
+          11.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "06:45 AM",
+        "time_24": "06:45",
+        "latitude": 9.83,
+        "longitude": 126.24,
+        "depth_km": 23.0,
+        "magnitude": 2.8,
+        "location": "010km N 61Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          9.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "06:43 AM",
+        "time_24": "06:43",
+        "latitude": 6.97,
+        "longitude": 126.11,
+        "depth_km": 32.0,
+        "magnitude": 2.1,
+        "location": "012km N 79Â° W of City Of Mati (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          6.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "06:04 AM",
+        "time_24": "06:04",
+        "latitude": 15.2,
+        "longitude": 122.75,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "072km N 39Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.75,
+          15.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "05:57 AM",
+        "time_24": "05:57",
+        "latitude": 14.56,
+        "longitude": 122.36,
+        "depth_km": 16.0,
+        "magnitude": 1.4,
+        "location": "015km S 11Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.36,
+          14.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "05:54 AM",
+        "time_24": "05:54",
+        "latitude": 6.88,
+        "longitude": 124.33,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "005km S 14Â° E of Datu Anggal Midtimbang (Maguindanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.33,
+          6.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "05:40 AM",
+        "time_24": "05:40",
+        "latitude": 6.44,
+        "longitude": 126.01,
+        "depth_km": 136.0,
+        "magnitude": 2.3,
+        "location": "025km S 18Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.01,
+          6.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -619,26 +759,6 @@
         "coordinates": [
           124.53,
           12.52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 August 2026",
-        "time": "11:27 PM",
-        "time_24": "23:27",
-        "latitude": 9.93,
-        "longitude": 125.48,
-        "depth_km": 27.0,
-        "magnitude": 1.7,
-        "location": "014km S 78Â° W of Dinagat (Dinagat Islands)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.48,
-          9.93
         ]
       }
     },
