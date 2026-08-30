@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-29T23:28:05.166728+00:00",
+  "generated_at": "2026-08-30T01:35:26.023067+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "08:47 AM",
+        "time_24": "08:47",
+        "latitude": 5.69,
+        "longitude": 125.1,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "018km S 39Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "08:17 AM",
+        "time_24": "08:17",
+        "latitude": 17.2,
+        "longitude": 120.26,
+        "depth_km": 22.0,
+        "magnitude": 1.9,
+        "location": "020km N 80Â° W of City Of Candon (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          17.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "08:06 AM",
+        "time_24": "08:06",
+        "latitude": 11.17,
+        "longitude": 124.05,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "016km N 30Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.05,
+          11.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 August 2026",
+        "time": "07:37 AM",
+        "time_24": "07:37",
+        "latitude": 5.5,
+        "longitude": 125.15,
+        "depth_km": 17.0,
+        "magnitude": 1.7,
+        "location": "032km N 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          5.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1768,17 +1848,17 @@
         "date": "29 August 2026",
         "time": "01:41 AM",
         "time_24": "01:41",
-        "latitude": 6.41,
-        "longitude": 126.95,
+        "latitude": 6.39,
+        "longitude": 126.98,
         "depth_km": 115.0,
-        "magnitude": 4.6,
-        "location": "090km S 38Â° E of Tarragona (Davao Oriental)"
+        "magnitude": 4.1,
+        "location": "094km S 39Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.95,
-          6.41
+          126.98,
+          6.39
         ]
       }
     },
