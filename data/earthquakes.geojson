@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-01T20:30:58.026784+00:00",
+  "generated_at": "2026-09-01T22:47:47.401918+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "06:02 AM",
+        "time_24": "06:02",
+        "latitude": 8.48,
+        "longitude": 126.01,
+        "depth_km": 5.0,
+        "magnitude": 2.0,
+        "location": "005km S 59Â° E of San Francisco (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.01,
+          8.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "05:06 AM",
+        "time_24": "05:06",
+        "latitude": 9.24,
+        "longitude": 126.07,
+        "depth_km": 19.0,
+        "magnitude": 1.5,
+        "location": "001km N 52Â° E of Lanuza (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.07,
+          9.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "05:05 AM",
+        "time_24": "05:05",
+        "latitude": 9.86,
+        "longitude": 122.15,
+        "depth_km": 22.0,
+        "magnitude": 1.4,
+        "location": "032km N 73Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.15,
+          9.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "04:48 AM",
+        "time_24": "04:48",
+        "latitude": 5.41,
+        "longitude": 125.29,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "014km S 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.41
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
