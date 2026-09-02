@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-01T22:47:47.401918+00:00",
+  "generated_at": "2026-09-02T00:35:31.792922+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "08:03 AM",
+        "time_24": "08:03",
+        "latitude": 4.92,
+        "longitude": 125.87,
+        "depth_km": 70.0,
+        "magnitude": 1.9,
+        "location": "073km S 42Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          4.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "07:57 AM",
+        "time_24": "07:57",
+        "latitude": 8.38,
+        "longitude": 126.52,
+        "depth_km": 19.0,
+        "magnitude": 1.9,
+        "location": "021km N 86Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.52,
+          8.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "07:49 AM",
+        "time_24": "07:49",
+        "latitude": 9.87,
+        "longitude": 126.19,
+        "depth_km": 10.0,
+        "magnitude": 1.9,
+        "location": "010km N 23Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.19,
+          9.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "07:45 AM",
+        "time_24": "07:45",
+        "latitude": 9.91,
+        "longitude": 126.41,
+        "depth_km": 6.0,
+        "magnitude": 2.0,
+        "location": "031km N 64Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          9.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 September 2026",
+        "time": "06:34 AM",
+        "time_24": "06:34",
+        "latitude": 7.96,
+        "longitude": 126.6,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "023km S 69Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6,
+          7.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
