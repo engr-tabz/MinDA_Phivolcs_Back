@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-02T20:04:19.281595+00:00",
+  "generated_at": "2026-09-02T22:35:04.377543+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "06:17 AM",
+        "time_24": "06:17",
+        "latitude": 16.92,
+        "longitude": 121.47,
+        "depth_km": 10.0,
+        "magnitude": 2.5,
+        "location": "002km West of Alfonso Lista (Ifugao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          16.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:56 AM",
+        "time_24": "05:56",
+        "latitude": 13.3,
+        "longitude": 120.41,
+        "depth_km": 7.0,
+        "magnitude": 1.9,
+        "location": "014km S 24Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41,
+          13.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:46 AM",
+        "time_24": "05:46",
+        "latitude": 6.53,
+        "longitude": 126.68,
+        "depth_km": 32.0,
+        "magnitude": 2.7,
+        "location": "063km S 24Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.68,
+          6.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 18.37,
+        "longitude": 120.46,
+        "depth_km": 26.0,
+        "magnitude": 2.5,
+        "location": "017km N 77Â° W of Pasuquin (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46,
+          18.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:10 AM",
+        "time_24": "05:10",
+        "latitude": 12.93,
+        "longitude": 123.1,
+        "depth_km": 8.0,
+        "magnitude": 2.1,
+        "location": "017km N 78Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1,
+          12.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:08 AM",
+        "time_24": "05:08",
+        "latitude": 6.86,
+        "longitude": 124.81,
+        "depth_km": 40.0,
+        "magnitude": 1.7,
+        "location": "008km N 69Â° W of Tulunan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.81,
+          6.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "05:00 AM",
+        "time_24": "05:00",
+        "latitude": 6.54,
+        "longitude": 126.47,
+        "depth_km": 33.0,
+        "magnitude": 3.9,
+        "location": "046km S 75Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          6.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "04:49 AM",
+        "time_24": "04:49",
+        "latitude": 12.28,
+        "longitude": 125.41,
+        "depth_km": 14.0,
+        "magnitude": 2.3,
+        "location": "004km N 69Â° E of Arteche (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          12.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 5.63,
+        "longitude": 125.37,
+        "depth_km": 20.0,
+        "magnitude": 2.1,
+        "location": "021km N 33Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
