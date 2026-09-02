@@ -1,7 +1,307 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-02T17:30:53.620255+00:00",
+  "generated_at": "2026-09-02T20:04:19.281595+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:37 AM",
+        "time_24": "03:37",
+        "latitude": 16.5,
+        "longitude": 118.98,
+        "depth_km": 35.0,
+        "magnitude": 2.7,
+        "location": "098km N 83Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.98,
+          16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:36 AM",
+        "time_24": "03:36",
+        "latitude": 16.52,
+        "longitude": 119.0,
+        "depth_km": 22.0,
+        "magnitude": 2.7,
+        "location": "097km N 81Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.0,
+          16.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:35 AM",
+        "time_24": "03:35",
+        "latitude": 16.66,
+        "longitude": 119.07,
+        "depth_km": 29.0,
+        "magnitude": 2.1,
+        "location": "093km N 72Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.07,
+          16.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:37 AM",
+        "time_24": "03:37",
+        "latitude": 5.82,
+        "longitude": 125.41,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "022km S 89Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:05 AM",
+        "time_24": "03:05",
+        "latitude": 16.55,
+        "longitude": 119.07,
+        "depth_km": 20.0,
+        "magnitude": 3.5,
+        "location": "090km N 78Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.07,
+          16.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "03:04 AM",
+        "time_24": "03:04",
+        "latitude": 5.73,
+        "longitude": 125.3,
+        "depth_km": 8.0,
+        "magnitude": 2.5,
+        "location": "014km S 46Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:58 AM",
+        "time_24": "02:58",
+        "latitude": 16.56,
+        "longitude": 119.06,
+        "depth_km": 15.0,
+        "magnitude": 3.3,
+        "location": "091km N 78Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.06,
+          16.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:58 AM",
+        "time_24": "02:58",
+        "latitude": 9.64,
+        "longitude": 126.07,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "011km N 80Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.07,
+          9.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:37 AM",
+        "time_24": "02:37",
+        "latitude": 5.34,
+        "longitude": 124.65,
+        "depth_km": 23.0,
+        "magnitude": 2.4,
+        "location": "081km S 49Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.65,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:30 AM",
+        "time_24": "02:30",
+        "latitude": 16.53,
+        "longitude": 118.92,
+        "depth_km": 32.0,
+        "magnitude": 3.0,
+        "location": "104km N 64Â° W of Agno (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.92,
+          16.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:22 AM",
+        "time_24": "02:22",
+        "latitude": 11.3,
+        "longitude": 124.57,
+        "depth_km": 6.0,
+        "magnitude": 3.4,
+        "location": "008km N 84Â° W of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.57,
+          11.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "02:15 AM",
+        "time_24": "02:15",
+        "latitude": 5.78,
+        "longitude": 126.27,
+        "depth_km": 122.0,
+        "magnitude": 2.5,
+        "location": "071km S 78Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          5.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 5.77,
+        "longitude": 125.41,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "024km S 77Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "01:32 AM",
+        "time_24": "01:32",
+        "latitude": 21.32,
+        "longitude": 121.87,
+        "depth_km": 30.0,
+        "magnitude": 3.2,
+        "location": "097km N 06Â° W of Basco (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.87,
+          21.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "03 September 2026",
+        "time": "01:27 AM",
+        "time_24": "01:27",
+        "latitude": 3.04,
+        "longitude": 126.12,
+        "depth_km": 108.0,
+        "magnitude": 3.6,
+        "location": "274km S 16Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          3.04
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
