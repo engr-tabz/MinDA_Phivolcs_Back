@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-03T20:07:57.875521+00:00",
+  "generated_at": "2026-09-03T22:34:12.216232+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "05:53 AM",
+        "time_24": "05:53",
+        "latitude": 5.58,
+        "longitude": 125.05,
+        "depth_km": 19.0,
+        "magnitude": 2.1,
+        "location": "032km S 32Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "05:22 AM",
+        "time_24": "05:22",
+        "latitude": 9.17,
+        "longitude": 126.2,
+        "depth_km": 31.0,
+        "magnitude": 2.9,
+        "location": "011km N 21Â° E of City Of Tandag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "05:18 AM",
+        "time_24": "05:18",
+        "latitude": 10.07,
+        "longitude": 126.41,
+        "depth_km": 48.0,
+        "magnitude": 1.5,
+        "location": "037km N 81Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          10.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "04:16 AM",
+        "time_24": "04:16",
+        "latitude": 14.84,
+        "longitude": 121.94,
+        "depth_km": 28.0,
+        "magnitude": 1.7,
+        "location": "003km S 88Â° W of Burdeos (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.94,
+          14.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "04:14 AM",
+        "time_24": "04:14",
+        "latitude": 13.58,
+        "longitude": 125.47,
+        "depth_km": 63.0,
+        "magnitude": 2.5,
+        "location": "119km S 79Â° E of Gigmoto (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          13.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "04:07 AM",
+        "time_24": "04:07",
+        "latitude": 4.95,
+        "longitude": 125.24,
+        "depth_km": 30.0,
+        "magnitude": 3.1,
+        "location": "055km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          4.95
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
