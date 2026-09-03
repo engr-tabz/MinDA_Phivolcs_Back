@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-03T17:38:08.829936+00:00",
+  "generated_at": "2026-09-03T20:07:57.875521+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "03:23 AM",
+        "time_24": "03:23",
+        "latitude": 18.66,
+        "longitude": 120.79,
+        "depth_km": 35.0,
+        "magnitude": 1.8,
+        "location": "011km N 04Â° E of Pagudpud (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79,
+          18.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "02:57 AM",
+        "time_24": "02:57",
+        "latitude": 10.37,
+        "longitude": 126.11,
+        "depth_km": 3.0,
+        "magnitude": 2.1,
+        "location": "039km N 06Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          10.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "02:36 AM",
+        "time_24": "02:36",
+        "latitude": 9.21,
+        "longitude": 126.31,
+        "depth_km": 84.0,
+        "magnitude": 2.4,
+        "location": "015km S 60Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.31,
+          9.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "02:34 AM",
+        "time_24": "02:34",
+        "latitude": 12.21,
+        "longitude": 120.38,
+        "depth_km": 17.0,
+        "magnitude": 1.8,
+        "location": "031km N 39Â° E of Coron (Palawan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38,
+          12.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "01:56 AM",
+        "time_24": "01:56",
+        "latitude": 9.35,
+        "longitude": 126.74,
+        "depth_km": 7.0,
+        "magnitude": 2.5,
+        "location": "060km N 83Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74,
+          9.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -809,15 +909,15 @@
         "time": "05:46 AM",
         "time_24": "05:46",
         "latitude": 6.53,
-        "longitude": 126.68,
-        "depth_km": 32.0,
-        "magnitude": 2.7,
-        "location": "063km S 24Â° E of Tarragona (Davao Oriental)"
+        "longitude": 126.59,
+        "depth_km": 33.0,
+        "magnitude": 2.8,
+        "location": "060km S 15Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.68,
+          126.59,
           6.53
         ]
       }
@@ -828,17 +928,17 @@
         "date": "03 September 2026",
         "time": "05:45 AM",
         "time_24": "05:45",
-        "latitude": 18.37,
-        "longitude": 120.46,
-        "depth_km": 26.0,
+        "latitude": 18.31,
+        "longitude": 120.47,
+        "depth_km": 19.0,
         "magnitude": 2.5,
-        "location": "017km N 77Â° W of Pasuquin (Ilocos Norte)"
+        "location": "015km S 82Â° W of Pasuquin (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.46,
-          18.37
+          120.47,
+          18.31
         ]
       }
     },
@@ -1068,17 +1168,17 @@
         "date": "03 September 2026",
         "time": "02:58 AM",
         "time_24": "02:58",
-        "latitude": 16.56,
-        "longitude": 119.06,
-        "depth_km": 15.0,
-        "magnitude": 3.3,
-        "location": "091km N 78Â° W of Bolinao (Pangasinan)"
+        "latitude": 16.58,
+        "longitude": 118.99,
+        "depth_km": 16.0,
+        "magnitude": 3.2,
+        "location": "099km N 78Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.06,
-          16.56
+          118.99,
+          16.58
         ]
       }
     },
