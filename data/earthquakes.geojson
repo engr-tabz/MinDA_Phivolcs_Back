@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-03T22:34:12.216232+00:00",
+  "generated_at": "2026-09-04T00:22:29.959611+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "08:03 AM",
+        "time_24": "08:03",
+        "latitude": 5.39,
+        "longitude": 124.32,
+        "depth_km": 92.0,
+        "magnitude": 2.8,
+        "location": "074km S 27Â° W of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.32,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "07:25 AM",
+        "time_24": "07:25",
+        "latitude": 10.2,
+        "longitude": 125.08,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "007km N 37Â° W of Liloan (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08,
+          10.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "07:12 AM",
+        "time_24": "07:12",
+        "latitude": 6.96,
+        "longitude": 123.45,
+        "depth_km": 17.0,
+        "magnitude": 2.4,
+        "location": "056km S 05Â° E of Tabina (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.45,
+          6.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "07:07 AM",
+        "time_24": "07:07",
+        "latitude": 7.12,
+        "longitude": 123.58,
+        "depth_km": 26.0,
+        "magnitude": 3.0,
+        "location": "042km S 26Â° E of Tabina (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.58,
+          7.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "06:58 AM",
+        "time_24": "06:58",
+        "latitude": 5.67,
+        "longitude": 125.31,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "020km S 36Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 September 2026",
+        "time": "06:48 AM",
+        "time_24": "06:48",
+        "latitude": 12.64,
+        "longitude": 123.24,
+        "depth_km": 22.0,
+        "magnitude": 1.7,
+        "location": "022km N 50Â° W of Aroroy (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.24,
+          12.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
