@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-05T05:52:36.771123+00:00",
+  "generated_at": "2026-09-05T09:55:02.751597+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 September 2026",
+        "time": "03:44 PM",
+        "time_24": "15:44",
+        "latitude": 18.22,
+        "longitude": 120.85,
+        "depth_km": 53.0,
+        "magnitude": 2.1,
+        "location": "009km N 22Â° E of Carasi (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85,
+          18.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 September 2026",
+        "time": "02:47 PM",
+        "time_24": "14:47",
+        "latitude": 10.24,
+        "longitude": 125.93,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "027km N 26Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          10.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 September 2026",
+        "time": "02:42 PM",
+        "time_24": "14:42",
+        "latitude": 9.34,
+        "longitude": 126.26,
+        "depth_km": 20.0,
+        "magnitude": 2.3,
+        "location": "011km N 46Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 September 2026",
+        "time": "02:23 PM",
+        "time_24": "14:23",
+        "latitude": 11.71,
+        "longitude": 125.33,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "014km S 70Â° W of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          11.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 September 2026",
+        "time": "01:47 PM",
+        "time_24": "13:47",
+        "latitude": 19.28,
+        "longitude": 121.12,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "021km N 26Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.12,
+          19.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
