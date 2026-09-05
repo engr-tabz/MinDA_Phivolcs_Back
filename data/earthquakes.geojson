@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-05T16:07:58.867136+00:00",
+  "generated_at": "2026-09-05T18:17:36.026212+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "01:59 AM",
+        "time_24": "01:59",
+        "latitude": 5.3,
+        "longitude": 125.54,
+        "depth_km": 31.0,
+        "magnitude": 1.8,
+        "location": "018km S 47Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "01:09 AM",
+        "time_24": "01:09",
+        "latitude": 5.47,
+        "longitude": 125.47,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "001km N 79Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "12:29 AM",
+        "time_24": "00:29",
+        "latitude": 8.14,
+        "longitude": 127.04,
+        "depth_km": 25.0,
+        "magnitude": 3.1,
+        "location": "070km N 81Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04,
+          8.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "12:25 AM",
+        "time_24": "00:25",
+        "latitude": 19.91,
+        "longitude": 121.66,
+        "depth_km": 14.0,
+        "magnitude": 2.9,
+        "location": "052km S 26Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.66,
+          19.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "12:17 AM",
+        "time_24": "00:17",
+        "latitude": 9.3,
+        "longitude": 126.26,
+        "depth_km": 15.0,
+        "magnitude": 1.7,
+        "location": "008km N 69Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "12:04 AM",
+        "time_24": "00:04",
+        "latitude": 7.65,
+        "longitude": 124.68,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "005km N 79Â° W of Wao (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.68,
+          7.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "12:01 AM",
+        "time_24": "00:01",
+        "latitude": 5.74,
+        "longitude": 125.28,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "013km S 42Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +168,17 @@
         "date": "05 September 2026",
         "time": "11:15 PM",
         "time_24": "23:15",
-        "latitude": 10.95,
+        "latitude": 10.91,
         "longitude": 123.79,
-        "depth_km": 10.0,
+        "depth_km": 2.0,
         "magnitude": 3.5,
-        "location": "023km S 63Â° W of City Of Bogo (Cebu)"
+        "location": "026km S 53Â° W of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           123.79,
-          10.95
+          10.91
         ]
       }
     },
@@ -768,17 +908,17 @@
         "date": "05 September 2026",
         "time": "05:07 AM",
         "time_24": "05:07",
-        "latitude": 9.22,
-        "longitude": 122.0,
-        "depth_km": 9.0,
+        "latitude": 9.29,
+        "longitude": 122.03,
+        "depth_km": 2.0,
         "magnitude": 3.4,
-        "location": "066km S 51Â° W of Hinoba-an (Negros Occidental)"
+        "location": "059km S 54Â° W of Hinoba-an (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.0,
-          9.22
+          122.03,
+          9.29
         ]
       }
     },
@@ -968,17 +1108,17 @@
         "date": "05 September 2026",
         "time": "04:13 AM",
         "time_24": "04:13",
-        "latitude": 9.26,
-        "longitude": 126.72,
-        "depth_km": 2.0,
-        "magnitude": 1.7,
-        "location": "058km S 88Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.27,
+        "longitude": 126.63,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "048km S 90Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.72,
-          9.26
+          126.63,
+          9.27
         ]
       }
     },
