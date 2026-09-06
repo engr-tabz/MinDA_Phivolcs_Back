@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-06T21:41:11.238185+00:00",
+  "generated_at": "2026-09-06T23:12:37.289426+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "06:13 AM",
+        "time_24": "06:13",
+        "latitude": 13.66,
+        "longitude": 120.61,
+        "depth_km": 108.0,
+        "magnitude": 3.0,
+        "location": "020km S 09Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "05:49 AM",
+        "time_24": "05:49",
+        "latitude": 11.14,
+        "longitude": 124.14,
+        "depth_km": 11.0,
+        "magnitude": 2.3,
+        "location": "020km N 58Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.14,
+          11.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "05:40 AM",
+        "time_24": "05:40",
+        "latitude": 5.35,
+        "longitude": 125.21,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "025km S 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
