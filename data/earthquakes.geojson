@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-06T19:33:40.854260+00:00",
+  "generated_at": "2026-09-06T21:41:11.238185+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "04:50 AM",
+        "time_24": "04:50",
+        "latitude": 8.05,
+        "longitude": 126.07,
+        "depth_km": 2.0,
+        "magnitude": 1.8,
+        "location": "002km N 12Â° W of Trento (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.07,
+          8.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 9.61,
+        "longitude": 125.89,
+        "depth_km": 4.0,
+        "magnitude": 2.2,
+        "location": "008km S 81Â° W of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.89,
+          9.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "04:11 AM",
+        "time_24": "04:11",
+        "latitude": 14.42,
+        "longitude": 123.57,
+        "depth_km": 2.0,
+        "magnitude": 1.8,
+        "location": "051km N 37Â° E of Siruma (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.57,
+          14.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 9.8,
+        "longitude": 126.74,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "064km N 89Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74,
+          9.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "04:02 AM",
+        "time_24": "04:02",
+        "latitude": 5.35,
+        "longitude": 125.3,
+        "depth_km": 34.0,
+        "magnitude": 1.6,
+        "location": "015km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
