@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-06T04:23:36.935610+00:00",
+  "generated_at": "2026-09-06T08:46:38.530633+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "03:30 PM",
+        "time_24": "15:30",
+        "latitude": 5.41,
+        "longitude": 125.2,
+        "depth_km": 3.0,
+        "magnitude": 2.3,
+        "location": "025km S 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 September 2026",
+        "time": "02:02 PM",
+        "time_24": "14:02",
+        "latitude": 9.49,
+        "longitude": 126.6,
+        "depth_km": 18.0,
+        "magnitude": 2.2,
+        "location": "059km S 57Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6,
+          9.49
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1028,17 +1068,17 @@
         "date": "05 September 2026",
         "time": "02:42 PM",
         "time_24": "14:42",
-        "latitude": 9.34,
-        "longitude": 126.26,
-        "depth_km": 20.0,
-        "magnitude": 2.3,
-        "location": "011km N 46Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.37,
+        "longitude": 126.38,
+        "depth_km": 17.0,
+        "magnitude": 2.1,
+        "location": "023km N 64Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.26,
-          9.34
+          126.38,
+          9.37
         ]
       }
     },
