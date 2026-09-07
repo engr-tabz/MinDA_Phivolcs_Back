@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-07T20:49:24.919351+00:00",
+  "generated_at": "2026-09-07T23:06:38.544248+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "05:11 AM",
+        "time_24": "05:11",
+        "latitude": 8.06,
+        "longitude": 125.87,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "009km S 81Â° W of Veruela (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          8.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "05:03 AM",
+        "time_24": "05:03",
+        "latitude": 18.35,
+        "longitude": 120.69,
+        "depth_km": 22.0,
+        "magnitude": 2.3,
+        "location": "008km N 76Â° E of Pasuquin (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69,
+          18.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 9.6,
+        "longitude": 125.31,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "010km S 75Â° W of Malimono (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          9.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
