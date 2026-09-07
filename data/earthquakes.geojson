@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-06T23:12:37.289426+00:00",
+  "generated_at": "2026-09-07T01:04:07.499482+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 September 2026",
+        "time": "07:44 AM",
+        "time_24": "07:44",
+        "latitude": 11.12,
+        "longitude": 124.07,
+        "depth_km": 20.0,
+        "magnitude": 2.0,
+        "location": "013km N 51Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.07,
+          11.12
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
