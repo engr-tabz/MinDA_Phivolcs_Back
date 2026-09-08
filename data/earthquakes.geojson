@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-08T18:37:39.208324+00:00",
+  "generated_at": "2026-09-08T21:25:39.662310+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "04:39 AM",
+        "time_24": "04:39",
+        "latitude": 9.85,
+        "longitude": 126.63,
+        "depth_km": 5.0,
+        "magnitude": 3.8,
+        "location": "052km N 82Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63,
+          9.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "04:09 AM",
+        "time_24": "04:09",
+        "latitude": 16.6,
+        "longitude": 119.23,
+        "depth_km": 22.0,
+        "magnitude": 2.9,
+        "location": "074km N 72Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.23,
+          16.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:58 AM",
+        "time_24": "03:58",
+        "latitude": 16.61,
+        "longitude": 119.0,
+        "depth_km": 31.0,
+        "magnitude": 2.5,
+        "location": "098km N 76Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.0,
+          16.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:54 AM",
+        "time_24": "03:54",
+        "latitude": 16.62,
+        "longitude": 119.1,
+        "depth_km": 29.0,
+        "magnitude": 2.3,
+        "location": "088km N 73Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.1,
+          16.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:28 AM",
+        "time_24": "03:28",
+        "latitude": 8.25,
+        "longitude": 125.82,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "004km S 29Â° E of La Paz (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.82,
+          8.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:21 AM",
+        "time_24": "03:21",
+        "latitude": 12.98,
+        "longitude": 120.73,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "012km S 08Â° E of Santa Cruz (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73,
+          12.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:12 AM",
+        "time_24": "03:12",
+        "latitude": 16.6,
+        "longitude": 119.3,
+        "depth_km": 19.0,
+        "magnitude": 2.6,
+        "location": "067km N 69Â° W of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.3,
+          16.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "03:08 AM",
+        "time_24": "03:08",
+        "latitude": 7.64,
+        "longitude": 126.69,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "016km N 64Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.69,
+          7.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "02:38 AM",
+        "time_24": "02:38",
+        "latitude": 5.57,
+        "longitude": 125.23,
+        "depth_km": 6.0,
+        "magnitude": 2.4,
+        "location": "028km S 07Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.57
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
