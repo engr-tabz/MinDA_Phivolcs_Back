@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-08T11:08:25.353122+00:00",
+  "generated_at": "2026-09-08T15:06:22.003369+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "10:34 PM",
+        "time_24": "22:34",
+        "latitude": 19.29,
+        "longitude": 121.6,
+        "depth_km": 2.0,
+        "magnitude": 2.0,
+        "location": "013km N 75Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6,
+          19.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "10:29 PM",
+        "time_24": "22:29",
+        "latitude": 13.43,
+        "longitude": 120.63,
+        "depth_km": 17.0,
+        "magnitude": 2.1,
+        "location": "011km S 81Â° W of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63,
+          13.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "10:25 PM",
+        "time_24": "22:25",
+        "latitude": 19.18,
+        "longitude": 121.53,
+        "depth_km": 1.0,
+        "magnitude": 1.7,
+        "location": "010km S 31Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          19.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "09:06 PM",
+        "time_24": "21:06",
+        "latitude": 16.6,
+        "longitude": 120.35,
+        "depth_km": 31.0,
+        "magnitude": 1.7,
+        "location": "004km S 60Â° E of City Of San Fernando (La Union)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35,
+          16.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "07:43 PM",
+        "time_24": "19:43",
+        "latitude": 19.21,
+        "longitude": 121.2,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "012km N 04Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2,
+          19.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "07:00 PM",
+        "time_24": "19:00",
+        "latitude": 12.87,
+        "longitude": 124.74,
+        "depth_km": 21.0,
+        "magnitude": 2.9,
+        "location": "039km N 01Â° W of Mondragon (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74,
+          12.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +188,17 @@
         "date": "08 September 2026",
         "time": "05:25 PM",
         "time_24": "17:25",
-        "latitude": 13.53,
-        "longitude": 120.31,
-        "depth_km": 10.0,
-        "magnitude": 3.5,
-        "location": "020km N 53Â° W of Paluan (Occidental Mindoro)"
+        "latitude": 13.39,
+        "longitude": 120.25,
+        "depth_km": 28.0,
+        "magnitude": 3.2,
+        "location": "024km S 83Â° W of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.31,
-          13.53
+          120.25,
+          13.39
         ]
       }
     },
@@ -388,17 +508,17 @@
         "date": "08 September 2026",
         "time": "08:43 AM",
         "time_24": "08:43",
-        "latitude": 9.57,
-        "longitude": 125.42,
-        "depth_km": 12.0,
-        "magnitude": 2.4,
-        "location": "006km S 17Â° E of Malimono (Surigao Del Norte)"
+        "latitude": 9.31,
+        "longitude": 125.49,
+        "depth_km": 10.0,
+        "magnitude": 2.5,
+        "location": "004km S 42Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.42,
-          9.57
+          125.49,
+          9.31
         ]
       }
     },
@@ -428,17 +548,17 @@
         "date": "08 September 2026",
         "time": "08:09 AM",
         "time_24": "08:09",
-        "latitude": 13.0,
-        "longitude": 124.26,
-        "depth_km": 95.0,
+        "latitude": 13.02,
+        "longitude": 124.32,
+        "depth_km": 97.0,
         "magnitude": 3.4,
-        "location": "009km S 58Â° E of Prieto Diaz (Sorsogon)"
+        "location": "013km S 80Â° E of Prieto Diaz (Sorsogon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.26,
-          13.0
+          124.32,
+          13.02
         ]
       }
     },
@@ -468,17 +588,17 @@
         "date": "08 September 2026",
         "time": "05:11 AM",
         "time_24": "05:11",
-        "latitude": 8.06,
-        "longitude": 125.87,
-        "depth_km": 33.0,
-        "magnitude": 2.1,
-        "location": "009km S 81Â° W of Veruela (Agusan Del Sur)"
+        "latitude": 8.08,
+        "longitude": 125.91,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "005km N 77Â° W of Veruela (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.87,
-          8.06
+          125.91,
+          8.08
         ]
       }
     },
@@ -508,17 +628,17 @@
         "date": "08 September 2026",
         "time": "04:40 AM",
         "time_24": "04:40",
-        "latitude": 9.6,
-        "longitude": 125.31,
-        "depth_km": 12.0,
-        "magnitude": 2.5,
-        "location": "010km S 75Â° W of Malimono (Surigao Del Norte)"
+        "latitude": 9.62,
+        "longitude": 125.28,
+        "depth_km": 3.0,
+        "magnitude": 2.6,
+        "location": "013km N 88Â° W of Malimono (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          9.6
+          125.28,
+          9.62
         ]
       }
     },
@@ -528,17 +648,17 @@
         "date": "08 September 2026",
         "time": "04:32 AM",
         "time_24": "04:32",
-        "latitude": 6.58,
-        "longitude": 126.44,
-        "depth_km": 43.0,
-        "magnitude": 2.1,
-        "location": "041km S 79Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.56,
+        "longitude": 126.45,
+        "depth_km": 37.0,
+        "magnitude": 2.2,
+        "location": "043km S 76Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.44,
-          6.58
+          126.45,
+          6.56
         ]
       }
     },
@@ -548,17 +668,17 @@
         "date": "08 September 2026",
         "time": "04:23 AM",
         "time_24": "04:23",
-        "latitude": 11.19,
+        "latitude": 11.2,
         "longitude": 121.28,
-        "depth_km": 31.0,
-        "magnitude": 2.0,
-        "location": "037km N 84Â° E of Agutaya (Palawan)"
+        "depth_km": 44.0,
+        "magnitude": 2.1,
+        "location": "038km N 82Â° E of Agutaya (Palawan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           121.28,
-          11.19
+          11.2
         ]
       }
     },
@@ -648,17 +768,17 @@
         "date": "08 September 2026",
         "time": "02:27 AM",
         "time_24": "02:27",
-        "latitude": 16.42,
-        "longitude": 120.15,
-        "depth_km": 21.0,
-        "magnitude": 2.3,
-        "location": "021km S 88Â° W of Caba (La Union)"
+        "latitude": 16.46,
+        "longitude": 120.12,
+        "depth_km": 19.0,
+        "magnitude": 2.4,
+        "location": "024km N 83Â° W of Caba (La Union)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.15,
-          16.42
+          120.12,
+          16.46
         ]
       }
     },
@@ -688,17 +808,17 @@
         "date": "08 September 2026",
         "time": "01:42 AM",
         "time_24": "01:42",
-        "latitude": 6.81,
-        "longitude": 126.73,
-        "depth_km": 19.0,
+        "latitude": 6.69,
+        "longitude": 127.07,
+        "depth_km": 22.0,
         "magnitude": 2.6,
-        "location": "041km S 50Â° E of Tarragona (Davao Oriental)"
+        "location": "079km S 59Â° E of Tarragona (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.73,
-          6.81
+          127.07,
+          6.69
         ]
       }
     },
@@ -768,17 +888,17 @@
         "date": "08 September 2026",
         "time": "12:14 AM",
         "time_24": "00:14",
-        "latitude": 13.5,
+        "latitude": 13.51,
         "longitude": 123.26,
-        "depth_km": 34.0,
-        "magnitude": 2.0,
-        "location": "004km N 24Â° W of Bula (Camarines Sur)"
+        "depth_km": 40.0,
+        "magnitude": 2.1,
+        "location": "005km N 25Â° W of Bula (Camarines Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           123.26,
-          13.5
+          13.51
         ]
       }
     },
@@ -788,17 +908,17 @@
         "date": "08 September 2026",
         "time": "12:01 AM",
         "time_24": "00:01",
-        "latitude": 13.54,
-        "longitude": 123.23,
-        "depth_km": 21.0,
-        "magnitude": 2.7,
-        "location": "005km S 71Â° W of Pili (Camarines Sur)"
+        "latitude": 13.55,
+        "longitude": 123.15,
+        "depth_km": 8.0,
+        "magnitude": 2.8,
+        "location": "002km S 22Â° E of San Fernando (Camarines Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.23,
-          13.54
+          123.15,
+          13.55
         ]
       }
     },
@@ -808,17 +928,17 @@
         "date": "07 September 2026",
         "time": "11:38 PM",
         "time_24": "23:38",
-        "latitude": 11.06,
-        "longitude": 124.06,
-        "depth_km": 4.0,
+        "latitude": 11.09,
+        "longitude": 124.03,
+        "depth_km": 2.0,
         "magnitude": 2.7,
-        "location": "009km N 78Â° E of City Of Bogo (Cebu)"
+        "location": "008km N 53Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.06,
-          11.06
+          124.03,
+          11.09
         ]
       }
     },
@@ -888,17 +1008,17 @@
         "date": "07 September 2026",
         "time": "10:03 PM",
         "time_24": "22:03",
-        "latitude": 7.93,
-        "longitude": 125.55,
-        "depth_km": 4.0,
-        "magnitude": 2.5,
-        "location": "025km N 86Â° E of San Fernando (Bukidnon)"
+        "latitude": 7.96,
+        "longitude": 125.52,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "022km N 77Â° E of San Fernando (Bukidnon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.55,
-          7.93
+          125.52,
+          7.96
         ]
       }
     },
