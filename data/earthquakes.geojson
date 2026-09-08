@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-07T23:06:38.544248+00:00",
+  "generated_at": "2026-09-08T01:11:02.343255+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "08:43 AM",
+        "time_24": "08:43",
+        "latitude": 9.57,
+        "longitude": 125.42,
+        "depth_km": 12.0,
+        "magnitude": 2.4,
+        "location": "006km S 17Â° E of Malimono (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          9.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "08:39 AM",
+        "time_24": "08:39",
+        "latitude": 5.34,
+        "longitude": 125.49,
+        "depth_km": 18.0,
+        "magnitude": 2.2,
+        "location": "011km S 45Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "08:09 AM",
+        "time_24": "08:09",
+        "latitude": 13.0,
+        "longitude": 124.26,
+        "depth_km": 95.0,
+        "magnitude": 3.4,
+        "location": "009km S 58Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.26,
+          13.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 September 2026",
+        "time": "08:01 AM",
+        "time_24": "08:01",
+        "latitude": 5.38,
+        "longitude": 125.38,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "006km S 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -888,17 +968,17 @@
         "date": "07 September 2026",
         "time": "10:35 AM",
         "time_24": "10:35",
-        "latitude": 5.97,
-        "longitude": 126.34,
-        "depth_km": 34.0,
+        "latitude": 5.99,
+        "longitude": 126.38,
+        "depth_km": 33.0,
         "magnitude": 2.4,
-        "location": "076km S 71Â° E of Don Marcelino (Davao Occidental)"
+        "location": "079km S 73Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.34,
-          5.97
+          126.38,
+          5.99
         ]
       }
     },
@@ -1068,17 +1148,17 @@
         "date": "07 September 2026",
         "time": "04:11 AM",
         "time_24": "04:11",
-        "latitude": 14.42,
-        "longitude": 123.57,
-        "depth_km": 2.0,
+        "latitude": 14.62,
+        "longitude": 123.81,
+        "depth_km": 20.0,
         "magnitude": 1.8,
-        "location": "051km N 37Â° E of Siruma (Camarines Sur)"
+        "location": "075km N 32Â° W of Pandan (Catanduanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.57,
-          14.42
+          123.81,
+          14.62
         ]
       }
     },
@@ -1088,17 +1168,17 @@
         "date": "07 September 2026",
         "time": "04:05 AM",
         "time_24": "04:05",
-        "latitude": 9.8,
-        "longitude": 126.74,
-        "depth_km": 26.0,
+        "latitude": 9.56,
+        "longitude": 126.15,
+        "depth_km": 18.0,
         "magnitude": 2.0,
-        "location": "064km N 89Â° E of General Luna (Surigao Del Norte)"
+        "location": "021km S 71Â° E of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.74,
-          9.8
+          126.15,
+          9.56
         ]
       }
     },
