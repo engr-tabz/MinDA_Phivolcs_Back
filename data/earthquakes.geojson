@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-09T01:30:29.048463+00:00",
+  "generated_at": "2026-09-09T06:37:25.798545+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "02:15 PM",
+        "time_24": "14:15",
+        "latitude": 5.36,
+        "longitude": 125.25,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "020km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "11:58 AM",
+        "time_24": "11:58",
+        "latitude": 12.98,
+        "longitude": 124.49,
+        "depth_km": 29.0,
+        "magnitude": 2.9,
+        "location": "036km N 22Â° E of Biri (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.49,
+          12.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "10:52 AM",
+        "time_24": "10:52",
+        "latitude": 18.35,
+        "longitude": 121.18,
+        "depth_km": 93.0,
+        "magnitude": 3.2,
+        "location": "018km N 56Â° E of Calanasan (Apayao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.18,
+          18.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "09:57 AM",
+        "time_24": "09:57",
+        "latitude": 6.02,
+        "longitude": 126.14,
+        "depth_km": 42.0,
+        "magnitude": 2.7,
+        "location": "053km S 69Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          6.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "09:28 AM",
+        "time_24": "09:28",
+        "latitude": 6.61,
+        "longitude": 126.29,
+        "depth_km": 121.0,
+        "magnitude": 2.6,
+        "location": "024km S 77Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          6.61
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -109,15 +209,15 @@
         "time": "05:44 AM",
         "time_24": "05:44",
         "latitude": 10.95,
-        "longitude": 123.99,
-        "depth_km": 5.0,
+        "longitude": 124.01,
+        "depth_km": 13.0,
         "magnitude": 3.0,
-        "location": "011km S 06Â° E of City Of Bogo (Cebu)"
+        "location": "011km S 20Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.99,
+          124.01,
           10.95
         ]
       }
@@ -629,15 +729,15 @@
         "time": "05:41 PM",
         "time_24": "17:41",
         "latitude": 14.49,
-        "longitude": 121.48,
-        "depth_km": 34.0,
+        "longitude": 121.42,
+        "depth_km": 16.0,
         "magnitude": 2.1,
-        "location": "006km N 30Â° E of Famy (Laguna)"
+        "location": "006km N 24Â° W of Famy (Laguna)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.48,
+          121.42,
           14.49
         ]
       }
@@ -708,17 +808,17 @@
         "date": "08 September 2026",
         "time": "04:15 PM",
         "time_24": "16:15",
-        "latitude": 17.92,
-        "longitude": 122.26,
-        "depth_km": 75.0,
+        "latitude": 17.93,
+        "longitude": 122.34,
+        "depth_km": 18.0,
         "magnitude": 2.0,
-        "location": "042km N 85Â° E of Baggao (Cagayan)"
+        "location": "049km N 85Â° E of Baggao (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.26,
-          17.92
+          122.34,
+          17.93
         ]
       }
     },
@@ -808,17 +908,17 @@
         "date": "08 September 2026",
         "time": "03:02 PM",
         "time_24": "15:02",
-        "latitude": 6.23,
-        "longitude": 124.89,
-        "depth_km": 17.0,
-        "magnitude": 2.6,
-        "location": "007km N 72Â° E of T'boli (South Cotabato)"
+        "latitude": 6.2,
+        "longitude": 124.87,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "005km S 71Â° E of T'boli (South Cotabato)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.89,
-          6.23
+          124.87,
+          6.2
         ]
       }
     },
@@ -828,17 +928,17 @@
         "date": "08 September 2026",
         "time": "02:24 PM",
         "time_24": "14:24",
-        "latitude": 7.26,
-        "longitude": 126.9,
-        "depth_km": 29.0,
+        "latitude": 7.36,
+        "longitude": 126.75,
+        "depth_km": 11.0,
         "magnitude": 2.0,
-        "location": "038km S 78Â° E of Caraga (Davao Oriental)"
+        "location": "020km N 81Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9,
-          7.26
+          126.75,
+          7.36
         ]
       }
     },
@@ -928,17 +1028,17 @@
         "date": "08 September 2026",
         "time": "10:54 AM",
         "time_24": "10:54",
-        "latitude": 15.12,
-        "longitude": 123.3,
-        "depth_km": 13.0,
+        "latitude": 15.21,
+        "longitude": 123.14,
+        "depth_km": 5.0,
         "magnitude": 2.4,
-        "location": "080km N 28Â° E of Tinaga Island (Vinzons) (Camarines Norte)"
+        "location": "084km N 14Â° E of Tinaga Island (Vinzons) (Camarines Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.3,
-          15.12
+          123.14,
+          15.21
         ]
       }
     },
@@ -948,17 +1048,17 @@
         "date": "08 September 2026",
         "time": "10:43 AM",
         "time_24": "10:43",
-        "latitude": 5.11,
-        "longitude": 126.52,
-        "depth_km": 10.0,
+        "latitude": 5.23,
+        "longitude": 126.48,
+        "depth_km": 24.0,
         "magnitude": 2.8,
-        "location": "131km S 48Â° E of Jose Abad Santos (Davao Occidental)"
+        "location": "119km S 51Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.52,
-          5.11
+          126.48,
+          5.23
         ]
       }
     },
