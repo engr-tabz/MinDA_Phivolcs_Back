@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-09T18:52:41.261362+00:00",
+  "generated_at": "2026-09-09T21:29:10.109410+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:11 AM",
+        "time_24": "05:11",
+        "latitude": 17.57,
+        "longitude": 122.62,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "043km N 52Â° E of Divilacan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.62,
+          17.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "04:48 AM",
+        "time_24": "04:48",
+        "latitude": 15.75,
+        "longitude": 120.02,
+        "depth_km": 10.0,
+        "magnitude": 2.8,
+        "location": "012km S 82Â° E of Santa Cruz (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.02,
+          15.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "04:10 AM",
+        "time_24": "04:10",
+        "latitude": 10.98,
+        "longitude": 124.02,
+        "depth_km": 21.0,
+        "magnitude": 2.2,
+        "location": "009km S 30Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.02,
+          10.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "04:09 AM",
+        "time_24": "04:09",
+        "latitude": 12.83,
+        "longitude": 120.82,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "004km S 71Â° E of Sablayan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "03:43 AM",
+        "time_24": "03:43",
+        "latitude": 9.74,
+        "longitude": 121.97,
+        "depth_km": 4.0,
+        "magnitude": 3.1,
+        "location": "050km S 86Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "03:33 AM",
+        "time_24": "03:33",
+        "latitude": 12.36,
+        "longitude": 123.54,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "009km S 85Â° W of City Of Masbate (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.54,
+          12.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "03:28 AM",
+        "time_24": "03:28",
+        "latitude": 4.98,
+        "longitude": 125.14,
+        "depth_km": 41.0,
+        "magnitude": 2.7,
+        "location": "057km S 33Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          4.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "03:02 AM",
+        "time_24": "03:02",
+        "latitude": 13.6,
+        "longitude": 120.0,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "030km S 64Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0,
+          13.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "02:45 AM",
+        "time_24": "02:45",
+        "latitude": 17.52,
+        "longitude": 122.55,
+        "depth_km": 33.0,
+        "magnitude": 2.3,
+        "location": "034km N 52Â° E of Divilacan (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55,
+          17.52
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
