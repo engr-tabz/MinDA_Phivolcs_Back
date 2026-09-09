@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-09T21:29:10.109410+00:00",
+  "generated_at": "2026-09-09T23:28:46.779189+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "07:11 AM",
+        "time_24": "07:11",
+        "latitude": 18.84,
+        "longitude": 121.32,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "006km S 83Â° W of Fuga Island (Aparri) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.32,
+          18.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "06:52 AM",
+        "time_24": "06:52",
+        "latitude": 5.64,
+        "longitude": 125.29,
+        "depth_km": 26.0,
+        "magnitude": 1.6,
+        "location": "022km S 25Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "06:34 AM",
+        "time_24": "06:34",
+        "latitude": 18.99,
+        "longitude": 121.17,
+        "depth_km": 30.0,
+        "magnitude": 2.2,
+        "location": "014km S 16Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.17,
+          18.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "06:33 AM",
+        "time_24": "06:33",
+        "latitude": 9.65,
+        "longitude": 126.36,
+        "depth_km": 21.0,
+        "magnitude": 3.7,
+        "location": "026km S 56Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "06:23 AM",
+        "time_24": "06:23",
+        "latitude": 9.67,
+        "longitude": 122.25,
+        "depth_km": 14.0,
+        "magnitude": 2.0,
+        "location": "023km S 61Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.25,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "06:20 AM",
+        "time_24": "06:20",
+        "latitude": 9.71,
+        "longitude": 122.53,
+        "depth_km": 10.0,
+        "magnitude": 1.6,
+        "location": "013km S 61Â° E of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.53,
+          9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:58 AM",
+        "time_24": "05:58",
+        "latitude": 19.04,
+        "longitude": 121.91,
+        "depth_km": 6.0,
+        "magnitude": 1.8,
+        "location": "015km N 17Â° E of Camiguin Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.91,
+          19.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:55 AM",
+        "time_24": "05:55",
+        "latitude": 9.74,
+        "longitude": 122.33,
+        "depth_km": 12.0,
+        "magnitude": 2.8,
+        "location": "012km S 75Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.33,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:46 AM",
+        "time_24": "05:46",
+        "latitude": 12.42,
+        "longitude": 120.76,
+        "depth_km": 9.0,
+        "magnitude": 1.9,
+        "location": "023km S 80Â° W of Rizal (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76,
+          12.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:41 AM",
+        "time_24": "05:41",
+        "latitude": 5.46,
+        "longitude": 125.67,
+        "depth_km": 128.0,
+        "magnitude": 2.9,
+        "location": "022km S 87Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.67,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "05:23 AM",
+        "time_24": "05:23",
+        "latitude": 16.2,
+        "longitude": 122.02,
+        "depth_km": 18.0,
+        "magnitude": 1.2,
+        "location": "010km N 47Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.02,
+          16.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
