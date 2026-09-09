@@ -1,7 +1,287 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-09T15:46:25.518753+00:00",
+  "generated_at": "2026-09-09T18:52:41.261362+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "02:42 AM",
+        "time_24": "02:42",
+        "latitude": 5.76,
+        "longitude": 124.6,
+        "depth_km": 14.0,
+        "magnitude": 2.1,
+        "location": "025km S 07Â° W of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6,
+          5.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "02:26 AM",
+        "time_24": "02:26",
+        "latitude": 10.46,
+        "longitude": 126.06,
+        "depth_km": 11.0,
+        "magnitude": 3.6,
+        "location": "048km S 49Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.06,
+          10.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "02:22 AM",
+        "time_24": "02:22",
+        "latitude": 6.18,
+        "longitude": 127.22,
+        "depth_km": 168.0,
+        "magnitude": 3.1,
+        "location": "129km S 41Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.22,
+          6.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "02:13 AM",
+        "time_24": "02:13",
+        "latitude": 5.69,
+        "longitude": 125.29,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "018km S 32Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 9.77,
+        "longitude": 126.46,
+        "depth_km": 9.0,
+        "magnitude": 4.1,
+        "location": "033km S 87Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.46,
+          9.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "01:34 AM",
+        "time_24": "01:34",
+        "latitude": 12.8,
+        "longitude": 122.99,
+        "depth_km": 19.0,
+        "magnitude": 2.7,
+        "location": "030km S 68Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.99,
+          12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "01:13 AM",
+        "time_24": "01:13",
+        "latitude": 15.51,
+        "longitude": 121.59,
+        "depth_km": 20.0,
+        "magnitude": 2.1,
+        "location": "026km N 58Â° E of Dingalan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59,
+          15.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:52 AM",
+        "time_24": "00:52",
+        "latitude": 9.72,
+        "longitude": 126.6,
+        "depth_km": 6.0,
+        "magnitude": 2.5,
+        "location": "050km S 82Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6,
+          9.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:42 AM",
+        "time_24": "00:42",
+        "latitude": 5.61,
+        "longitude": 125.29,
+        "depth_km": 20.0,
+        "magnitude": 2.4,
+        "location": "025km N 53Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:42 AM",
+        "time_24": "00:42",
+        "latitude": 9.65,
+        "longitude": 126.48,
+        "depth_km": 20.0,
+        "magnitude": 2.8,
+        "location": "038km S 68Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.48,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:40 AM",
+        "time_24": "00:40",
+        "latitude": 17.86,
+        "longitude": 120.93,
+        "depth_km": 16.0,
+        "magnitude": 1.8,
+        "location": "019km N 37Â° E of Tineg (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93,
+          17.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:25 AM",
+        "time_24": "00:25",
+        "latitude": 7.77,
+        "longitude": 127.11,
+        "depth_km": 10.0,
+        "magnitude": 2.8,
+        "location": "064km N 71Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11,
+          7.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "12:11 AM",
+        "time_24": "00:11",
+        "latitude": 18.11,
+        "longitude": 120.97,
+        "depth_km": 7.0,
+        "magnitude": 1.8,
+        "location": "016km S 77Â° E of Carasi (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          18.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 September 2026",
+        "time": "11:47 PM",
+        "time_24": "23:47",
+        "latitude": 5.62,
+        "longitude": 125.46,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "016km N 06Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          5.62
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -868,17 +1148,17 @@
         "date": "09 September 2026",
         "time": "04:39 AM",
         "time_24": "04:39",
-        "latitude": 9.85,
-        "longitude": 126.63,
-        "depth_km": 5.0,
+        "latitude": 9.77,
+        "longitude": 126.53,
+        "depth_km": 10.0,
         "magnitude": 3.8,
-        "location": "052km N 82Â° E of General Luna (Surigao Del Norte)"
+        "location": "041km S 89Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.63,
-          9.85
+          126.53,
+          9.77
         ]
       }
     },
