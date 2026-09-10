@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-09T23:28:46.779189+00:00",
+  "generated_at": "2026-09-10T01:24:19.335309+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "08:08 AM",
+        "time_24": "08:08",
+        "latitude": 10.17,
+        "longitude": 122.0,
+        "depth_km": 29.0,
+        "magnitude": 1.7,
+        "location": "030km S 16Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0,
+          10.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 September 2026",
+        "time": "07:57 AM",
+        "time_24": "07:57",
+        "latitude": 16.5,
+        "longitude": 121.06,
+        "depth_km": 13.0,
+        "magnitude": 2.8,
+        "location": "005km S 48Â° E of Ambaguio (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06,
+          16.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,17 +108,17 @@
         "date": "10 September 2026",
         "time": "06:33 AM",
         "time_24": "06:33",
-        "latitude": 9.65,
-        "longitude": 126.36,
-        "depth_km": 21.0,
+        "latitude": 9.63,
+        "longitude": 126.22,
+        "depth_km": 17.0,
         "magnitude": 3.7,
-        "location": "026km S 56Â° E of General Luna (Surigao Del Norte)"
+        "location": "019km S 23Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.36,
-          9.65
+          126.22,
+          9.63
         ]
       }
     },
