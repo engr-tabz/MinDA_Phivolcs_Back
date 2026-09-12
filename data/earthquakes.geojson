@@ -1,7 +1,367 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-12T16:29:50.206820+00:00",
+  "generated_at": "2026-09-12T18:41:23.505918+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:27 AM",
+        "time_24": "02:27",
+        "latitude": 11.93,
+        "longitude": 121.39,
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "017km S 89Â° W of Caluya (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39,
+          11.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:14 AM",
+        "time_24": "02:14",
+        "latitude": 6.46,
+        "longitude": 126.52,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "054km S 66Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.52,
+          6.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:11 AM",
+        "time_24": "02:11",
+        "latitude": 5.92,
+        "longitude": 125.5,
+        "depth_km": 3.0,
+        "magnitude": 1.6,
+        "location": "016km N 87Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          5.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:10 AM",
+        "time_24": "02:10",
+        "latitude": 11.94,
+        "longitude": 121.41,
+        "depth_km": 16.0,
+        "magnitude": 1.8,
+        "location": "015km N 87Â° W of Caluya (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41,
+          11.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:06 AM",
+        "time_24": "02:06",
+        "latitude": 18.8,
+        "longitude": 121.1,
+        "depth_km": 18.0,
+        "magnitude": 1.8,
+        "location": "021km N 06Â° E of Claveria (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1,
+          18.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 16.56,
+        "longitude": 121.06,
+        "depth_km": 28.0,
+        "magnitude": 1.7,
+        "location": "005km N 46Â° E of Ambaguio (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06,
+          16.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:40 AM",
+        "time_24": "01:40",
+        "latitude": 9.67,
+        "longitude": 126.47,
+        "depth_km": 4.0,
+        "magnitude": 1.8,
+        "location": "037km S 71Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:34 AM",
+        "time_24": "01:34",
+        "latitude": 16.45,
+        "longitude": 121.01,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "010km S 11Â° W of Ambaguio (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01,
+          16.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:33 AM",
+        "time_24": "01:33",
+        "latitude": 5.19,
+        "longitude": 127.58,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "228km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.58,
+          5.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:29 AM",
+        "time_24": "01:29",
+        "latitude": 5.33,
+        "longitude": 125.28,
+        "depth_km": 31.0,
+        "magnitude": 2.0,
+        "location": "018km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:21 AM",
+        "time_24": "01:21",
+        "latitude": 7.51,
+        "longitude": 123.02,
+        "depth_km": 19.0,
+        "magnitude": 1.6,
+        "location": "009km N 89Â° E of Alicia (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          7.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:19 AM",
+        "time_24": "01:19",
+        "latitude": 16.5,
+        "longitude": 121.02,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "003km S 07Â° W of Ambaguio (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02,
+          16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 5.4,
+        "longitude": 125.43,
+        "depth_km": 5.0,
+        "magnitude": 1.5,
+        "location": "002km S 38Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:09 AM",
+        "time_24": "01:09",
+        "latitude": 13.14,
+        "longitude": 120.26,
+        "depth_km": 1.0,
+        "magnitude": 2.1,
+        "location": "038km S 76Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "01:08 AM",
+        "time_24": "01:08",
+        "latitude": 7.87,
+        "longitude": 126.73,
+        "depth_km": 37.0,
+        "magnitude": 1.5,
+        "location": "031km N 73Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.73,
+          7.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "12:39 AM",
+        "time_24": "00:39",
+        "latitude": 11.94,
+        "longitude": 121.39,
+        "depth_km": 17.0,
+        "magnitude": 3.6,
+        "location": "017km N 87Â° W of Caluya (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39,
+          11.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "12:28 AM",
+        "time_24": "00:28",
+        "latitude": 11.94,
+        "longitude": 121.37,
+        "depth_km": 6.0,
+        "magnitude": 2.9,
+        "location": "019km N 88Â° W of Caluya (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37,
+          11.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "13 September 2026",
+        "time": "12:24 AM",
+        "time_24": "00:24",
+        "latitude": 12.04,
+        "longitude": 121.37,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "023km N 58Â° W of Caluya (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37,
+          12.04
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -29,15 +389,15 @@
         "time": "12:16 AM",
         "time_24": "00:16",
         "latitude": 11.95,
-        "longitude": 121.36,
-        "depth_km": 10.0,
+        "longitude": 121.38,
+        "depth_km": 18.0,
         "magnitude": 4.0,
-        "location": "020km N 84Â° W of Caluya (Antique)"
+        "location": "018km N 83Â° W of Caluya (Antique)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.36,
+          121.38,
           11.95
         ]
       }
