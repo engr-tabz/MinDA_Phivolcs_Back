@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-12T05:54:07.406497+00:00",
+  "generated_at": "2026-09-12T10:14:08.609781+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "05:53 PM",
+        "time_24": "17:53",
+        "latitude": 7.76,
+        "longitude": 122.08,
+        "depth_km": 32.0,
+        "magnitude": 2.1,
+        "location": "009km N 45Â° W of Siocon (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08,
+          7.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "05:44 PM",
+        "time_24": "17:44",
+        "latitude": 5.18,
+        "longitude": 124.24,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "099km S 26Â° W of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24,
+          5.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "05:31 PM",
+        "time_24": "17:31",
+        "latitude": 5.63,
+        "longitude": 125.41,
+        "depth_km": 50.0,
+        "magnitude": 1.9,
+        "location": "019km N 21Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "05:10 PM",
+        "time_24": "17:10",
+        "latitude": 7.73,
+        "longitude": 126.03,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "006km N 57Â° E of Montevista (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.03,
+          7.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "03:54 PM",
+        "time_24": "15:54",
+        "latitude": 12.8,
+        "longitude": 122.88,
+        "depth_km": 5.0,
+        "magnitude": 3.0,
+        "location": "042km S 75Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.88,
+          12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "01:55 PM",
+        "time_24": "13:55",
+        "latitude": 16.44,
+        "longitude": 121.01,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "010km S 09Â° W of Ambaguio (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01,
+          16.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 September 2026",
+        "time": "01:54 PM",
+        "time_24": "13:54",
+        "latitude": 18.76,
+        "longitude": 121.34,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "011km S 19Â° W of Fuga Island (Aparri) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.34,
+          18.76
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -48,17 +188,17 @@
         "date": "12 September 2026",
         "time": "01:10 PM",
         "time_24": "13:10",
-        "latitude": 16.48,
-        "longitude": 121.02,
-        "depth_km": 10.0,
+        "latitude": 16.49,
+        "longitude": 121.03,
+        "depth_km": 8.0,
         "magnitude": 3.5,
-        "location": "005km S 9Â° W of Ambaguio (Nueva Vizcaya)"
+        "location": "004km S 01Â° E of Ambaguio (Nueva Vizcaya)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.02,
-          16.48
+          121.03,
+          16.49
         ]
       }
     },
@@ -148,17 +288,17 @@
         "date": "12 September 2026",
         "time": "12:10 PM",
         "time_24": "12:10",
-        "latitude": 18.85,
+        "latitude": 18.6,
         "longitude": 121.27,
-        "depth_km": 10.0,
-        "magnitude": 4.3,
-        "location": "010km S 89Â° W of Fuga Island (Aparri) (Cagayan)"
+        "depth_km": 16.0,
+        "magnitude": 4.5,
+        "location": "006km N 39Â° E of Sanchez-mira (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           121.27,
-          18.85
+          18.6
         ]
       }
     },
@@ -408,17 +548,17 @@
         "date": "12 September 2026",
         "time": "03:10 AM",
         "time_24": "03:10",
-        "latitude": 15.04,
-        "longitude": 120.02,
-        "depth_km": 12.0,
-        "magnitude": 2.6,
-        "location": "006km S 71Â° W of San Felipe (Zambales)"
+        "latitude": 15.09,
+        "longitude": 120.09,
+        "depth_km": 10.0,
+        "magnitude": 2.5,
+        "location": "003km N 35Â° E of San Felipe (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.02,
-          15.04
+          120.09,
+          15.09
         ]
       }
     },
@@ -1008,17 +1148,17 @@
         "date": "11 September 2026",
         "time": "07:22 PM",
         "time_24": "19:22",
-        "latitude": 13.13,
-        "longitude": 120.16,
-        "depth_km": 23.0,
-        "magnitude": 2.2,
-        "location": "046km S 47Â° W of Paluan (Occidental Mindoro)"
+        "latitude": 13.14,
+        "longitude": 120.17,
+        "depth_km": 21.0,
+        "magnitude": 2.4,
+        "location": "044km S 46Â° W of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.16,
-          13.13
+          120.17,
+          13.14
         ]
       }
     },
@@ -1028,17 +1168,17 @@
         "date": "11 September 2026",
         "time": "06:25 PM",
         "time_24": "18:25",
-        "latitude": 12.38,
-        "longitude": 123.63,
-        "depth_km": 31.0,
+        "latitude": 12.53,
+        "longitude": 123.65,
+        "depth_km": 2.0,
         "magnitude": 2.0,
-        "location": "001km N 31Â° E of City Of Masbate (Masbate)"
+        "location": "010km S 65Â° W of San Jacinto (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.63,
-          12.38
+          123.65,
+          12.53
         ]
       }
     },
@@ -1048,17 +1188,17 @@
         "date": "11 September 2026",
         "time": "06:22 PM",
         "time_24": "18:22",
-        "latitude": 12.88,
+        "latitude": 12.91,
         "longitude": 123.22,
-        "depth_km": 17.0,
-        "magnitude": 1.8,
-        "location": "003km S 55Â° W of Claveria (Masbate)"
+        "depth_km": 21.0,
+        "magnitude": 1.6,
+        "location": "003km N 70Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           123.22,
-          12.88
+          12.91
         ]
       }
     },
@@ -1068,17 +1208,17 @@
         "date": "11 September 2026",
         "time": "06:21 PM",
         "time_24": "18:21",
-        "latitude": 12.9,
+        "latitude": 12.89,
         "longitude": 123.19,
-        "depth_km": 15.0,
-        "magnitude": 1.8,
-        "location": "006km S 87Â° W of Claveria (Masbate)"
+        "depth_km": 21.0,
+        "magnitude": 1.9,
+        "location": "007km S 83Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           123.19,
-          12.9
+          12.89
         ]
       }
     },
