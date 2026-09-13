@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-13T17:41:40.536809+00:00",
+  "generated_at": "2026-09-13T19:51:26.555362+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 September 2026",
+        "time": "03:14 AM",
+        "time_24": "03:14",
+        "latitude": 5.74,
+        "longitude": 125.55,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "022km S 29Â° W of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.55,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 September 2026",
+        "time": "03:09 AM",
+        "time_24": "03:09",
+        "latitude": 5.74,
+        "longitude": 125.35,
+        "depth_km": 18.0,
+        "magnitude": 3.3,
+        "location": "018km S 61Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 September 2026",
+        "time": "02:46 AM",
+        "time_24": "02:46",
+        "latitude": 11.22,
+        "longitude": 124.64,
+        "depth_km": 2.0,
+        "magnitude": 2.4,
+        "location": "008km S 02Â° W of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64,
+          11.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 September 2026",
+        "time": "02:41 AM",
+        "time_24": "02:41",
+        "latitude": 17.95,
+        "longitude": 121.08,
+        "depth_km": 31.0,
+        "magnitude": 2.8,
+        "location": "014km S 53Â° W of Kabugao (Apayao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.08,
+          17.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 September 2026",
+        "time": "02:14 AM",
+        "time_24": "02:14",
+        "latitude": 6.58,
+        "longitude": 126.78,
+        "depth_km": 50.0,
+        "magnitude": 3.4,
+        "location": "064km S 35Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.78,
+          6.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1008,17 +1108,17 @@
         "date": "13 September 2026",
         "time": "07:57 AM",
         "time_24": "07:57",
-        "latitude": 9.33,
-        "longitude": 126.17,
-        "depth_km": 32.0,
-        "magnitude": 1.7,
-        "location": "007km N 20Â° W of Cortes (Surigao Del Sur)"
+        "latitude": 9.34,
+        "longitude": 125.86,
+        "depth_km": 13.0,
+        "magnitude": 2.5,
+        "location": "011km S 70Â° W of Carrascal (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.17,
-          9.33
+          125.86,
+          9.34
         ]
       }
     },
@@ -1029,15 +1129,15 @@
         "time": "07:52 AM",
         "time_24": "07:52",
         "latitude": 13.23,
-        "longitude": 125.65,
-        "depth_km": 34.0,
+        "longitude": 125.62,
+        "depth_km": 32.0,
         "magnitude": 2.7,
-        "location": "094km N 27Â° E of Mapanas (Northern Samar)"
+        "location": "093km N 26Â° E of Mapanas (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.65,
+          125.62,
           13.23
         ]
       }
@@ -1368,17 +1468,17 @@
         "date": "13 September 2026",
         "time": "05:06 AM",
         "time_24": "05:06",
-        "latitude": 13.18,
-        "longitude": 122.65,
-        "depth_km": 14.0,
+        "latitude": 13.16,
+        "longitude": 122.58,
+        "depth_km": 4.0,
         "magnitude": 2.2,
-        "location": "015km S 09Â° W of San Andres (Quezon)"
+        "location": "021km S 30Â° W of San Andres (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.65,
-          13.18
+          122.58,
+          13.16
         ]
       }
     },
@@ -1388,17 +1488,17 @@
         "date": "13 September 2026",
         "time": "05:00 AM",
         "time_24": "05:00",
-        "latitude": 13.91,
-        "longitude": 120.3,
-        "depth_km": 65.0,
-        "magnitude": 2.6,
-        "location": "020km N 74Â° E of Lubang (Occidental Mindoro)"
+        "latitude": 13.9,
+        "longitude": 120.36,
+        "depth_km": 75.0,
+        "magnitude": 2.8,
+        "location": "026km N 79Â° E of Lubang (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.3,
-          13.91
+          120.36,
+          13.9
         ]
       }
     },
@@ -1428,17 +1528,17 @@
         "date": "13 September 2026",
         "time": "04:37 AM",
         "time_24": "04:37",
-        "latitude": 11.84,
-        "longitude": 124.09,
-        "depth_km": 3.0,
+        "latitude": 11.9,
+        "longitude": 124.13,
+        "depth_km": 5.0,
         "magnitude": 3.2,
-        "location": "006km S 40Â° E of Pio V. Corpus (Masbate)"
+        "location": "009km N 80Â° E of Pio V. Corpus (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.09,
-          11.84
+          124.13,
+          11.9
         ]
       }
     },
@@ -1588,17 +1688,17 @@
         "date": "13 September 2026",
         "time": "03:16 AM",
         "time_24": "03:16",
-        "latitude": 5.13,
-        "longitude": 127.43,
-        "depth_km": 76.0,
-        "magnitude": 2.7,
-        "location": "220km S 80Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.51,
+        "longitude": 127.33,
+        "depth_km": 63.0,
+        "magnitude": 3.6,
+        "location": "188km S 48Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.43,
-          5.13
+          127.33,
+          5.51
         ]
       }
     },
@@ -1648,17 +1748,17 @@
         "date": "13 September 2026",
         "time": "02:45 AM",
         "time_24": "02:45",
-        "latitude": 7.37,
-        "longitude": 127.19,
-        "depth_km": 17.0,
-        "magnitude": 2.6,
-        "location": "069km N 86Â° E of Caraga (Davao Oriental)"
+        "latitude": 7.43,
+        "longitude": 127.14,
+        "depth_km": 16.0,
+        "magnitude": 3.1,
+        "location": "064km N 80Â° E of Caraga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.19,
-          7.37
+          127.14,
+          7.43
         ]
       }
     },
