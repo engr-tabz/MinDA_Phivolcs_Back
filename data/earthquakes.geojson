@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-14T20:23:25.346351+00:00",
+  "generated_at": "2026-09-14T23:18:37.169625+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "06:47 AM",
+        "time_24": "06:47",
+        "latitude": 11.15,
+        "longitude": 123.97,
+        "depth_km": 10.0,
+        "magnitude": 1.5,
+        "location": "011km N 04Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.97,
+          11.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "06:15 AM",
+        "time_24": "06:15",
+        "latitude": 6.12,
+        "longitude": 127.3,
+        "depth_km": 17.0,
+        "magnitude": 2.9,
+        "location": "139km S 43Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3,
+          6.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "05:26 AM",
+        "time_24": "05:26",
+        "latitude": 12.56,
+        "longitude": 124.31,
+        "depth_km": 8.0,
+        "magnitude": 2.1,
+        "location": "004km N 40Â° W of Lavezares (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.31,
+          12.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "04:31 AM",
+        "time_24": "04:31",
+        "latitude": 12.81,
+        "longitude": 124.72,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "033km N 06Â° W of Mondragon (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72,
+          12.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
