@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-14T23:18:37.169625+00:00",
+  "generated_at": "2026-09-15T01:35:26.191904+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "09:22 AM",
+        "time_24": "09:22",
+        "latitude": 5.63,
+        "longitude": 125.38,
+        "depth_km": 34.0,
+        "magnitude": 2.6,
+        "location": "020km N 31Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "09:15 AM",
+        "time_24": "09:15",
+        "latitude": 15.28,
+        "longitude": 121.89,
+        "depth_km": 7.0,
+        "magnitude": 2.1,
+        "location": "039km N 12Â° E of Panukulan (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.89,
+          15.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 September 2026",
+        "time": "09:03 AM",
+        "time_24": "09:03",
+        "latitude": 18.92,
+        "longitude": 121.87,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "001km N 37Â° E of Camiguin Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.87,
+          18.92
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
