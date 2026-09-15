@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-15T20:11:48.015286+00:00",
+  "generated_at": "2026-09-15T22:55:27.734094+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "06:11 AM",
+        "time_24": "06:11",
+        "latitude": 19.02,
+        "longitude": 121.43,
+        "depth_km": 11.0,
+        "magnitude": 2.3,
+        "location": "025km S 69Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43,
+          19.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "05:23 AM",
+        "time_24": "05:23",
+        "latitude": 20.13,
+        "longitude": 120.43,
+        "depth_km": 9.0,
+        "magnitude": 2.2,
+        "location": "137km N 35Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43,
+          20.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "05:04 AM",
+        "time_24": "05:04",
+        "latitude": 16.55,
+        "longitude": 122.08,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "020km N 82Â° W of Dinapigue (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08,
+          16.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "04:20 AM",
+        "time_24": "04:20",
+        "latitude": 12.1,
+        "longitude": 123.92,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "005km S 09Â° W of Palanas (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.92,
+          12.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 21.21,
+        "longitude": 122.07,
+        "depth_km": 141.0,
+        "magnitude": 3.0,
+        "location": "052km N 27Â° E of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.07,
+          21.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 7.37,
+        "longitude": 123.58,
+        "depth_km": 22.0,
+        "magnitude": 2.3,
+        "location": "021km S 61Â° E of Tabina (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.58,
+          7.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
