@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-15T17:02:58.929137+00:00",
+  "generated_at": "2026-09-15T20:11:48.015286+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "03:55 AM",
+        "time_24": "03:55",
+        "latitude": 6.57,
+        "longitude": 123.87,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "020km N 85Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.87,
+          6.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "03:15 AM",
+        "time_24": "03:15",
+        "latitude": 7.36,
+        "longitude": 126.82,
+        "depth_km": 24.0,
+        "magnitude": 3.1,
+        "location": "029km N 84Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.82,
+          7.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "03:08 AM",
+        "time_24": "03:08",
+        "latitude": 5.99,
+        "longitude": 127.1,
+        "depth_km": 96.0,
+        "magnitude": 2.8,
+        "location": "135km S 57Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1,
+          5.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:59 AM",
+        "time_24": "02:59",
+        "latitude": 5.74,
+        "longitude": 125.2,
+        "depth_km": 11.0,
+        "magnitude": 2.3,
+        "location": "010km S 01Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:28 AM",
+        "time_24": "02:28",
+        "latitude": 5.34,
+        "longitude": 125.31,
+        "depth_km": 9.0,
+        "magnitude": 2.3,
+        "location": "018km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:26 AM",
+        "time_24": "02:26",
+        "latitude": 13.8,
+        "longitude": 119.81,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "035km S 79Â° W of Lubang (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.81,
+          13.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:16 AM",
+        "time_24": "02:16",
+        "latitude": 14.76,
+        "longitude": 118.97,
+        "depth_km": 9.0,
+        "magnitude": 2.1,
+        "location": "101km S 81Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.97,
+          14.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:11 AM",
+        "time_24": "02:11",
+        "latitude": 6.44,
+        "longitude": 126.06,
+        "depth_km": 1.0,
+        "magnitude": 2.6,
+        "location": "024km S 04Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.06,
+          6.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "02:02 AM",
+        "time_24": "02:02",
+        "latitude": 11.01,
+        "longitude": 123.95,
+        "depth_km": 6.0,
+        "magnitude": 3.2,
+        "location": "005km S 41Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.95,
+          11.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "01:31 AM",
+        "time_24": "01:31",
+        "latitude": 13.96,
+        "longitude": 124.06,
+        "depth_km": 9.0,
+        "magnitude": 2.0,
+        "location": "008km S 70Â° W of Caramoran (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.06,
+          13.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
