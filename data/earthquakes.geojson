@@ -1,7 +1,347 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-16T15:30:00.857215+00:00",
+  "generated_at": "2026-09-16T19:02:28.753913+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "02:43 AM",
+        "time_24": "02:43",
+        "latitude": 7.06,
+        "longitude": 126.93,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "046km S 69Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93,
+          7.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "02:35 AM",
+        "time_24": "02:35",
+        "latitude": 7.12,
+        "longitude": 127.05,
+        "depth_km": 10.0,
+        "magnitude": 3.8,
+        "location": "057km S 79Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          7.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "02:11 AM",
+        "time_24": "02:11",
+        "latitude": 9.37,
+        "longitude": 125.93,
+        "depth_km": 108.0,
+        "magnitude": 3.7,
+        "location": "002km N 85Â° W of Carrascal (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "02:06 AM",
+        "time_24": "02:06",
+        "latitude": 13.14,
+        "longitude": 124.35,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "020km N 56Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.35,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "01:17 AM",
+        "time_24": "01:17",
+        "latitude": 17.47,
+        "longitude": 120.68,
+        "depth_km": 7.0,
+        "magnitude": 3.7,
+        "location": "005km N 37Â° W of Manabo (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68,
+          17.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "01:13 AM",
+        "time_24": "01:13",
+        "latitude": 12.83,
+        "longitude": 122.96,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "032km S 75Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.96,
+          12.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "01:12 AM",
+        "time_24": "01:12",
+        "latitude": 5.67,
+        "longitude": 125.22,
+        "depth_km": 13.0,
+        "magnitude": 2.5,
+        "location": "017km S 05Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "01:11 AM",
+        "time_24": "01:11",
+        "latitude": 11.13,
+        "longitude": 124.13,
+        "depth_km": 19.0,
+        "magnitude": 1.7,
+        "location": "019km N 60Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.13,
+          11.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:50 AM",
+        "time_24": "00:50",
+        "latitude": 18.52,
+        "longitude": 120.58,
+        "depth_km": 5.0,
+        "magnitude": 3.9,
+        "location": "007km N 85Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          18.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:45 AM",
+        "time_24": "00:45",
+        "latitude": 9.03,
+        "longitude": 126.53,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "028km N 75Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53,
+          9.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:36 AM",
+        "time_24": "00:36",
+        "latitude": 4.96,
+        "longitude": 125.2,
+        "depth_km": 40.0,
+        "magnitude": 1.6,
+        "location": "055km S 26Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          4.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:22 AM",
+        "time_24": "00:22",
+        "latitude": 14.12,
+        "longitude": 120.32,
+        "depth_km": 103.0,
+        "magnitude": 2.3,
+        "location": "035km N 81Â° W of Nasugbu (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32,
+          14.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:21 AM",
+        "time_24": "00:21",
+        "latitude": 10.4,
+        "longitude": 126.32,
+        "depth_km": 12.0,
+        "magnitude": 2.2,
+        "location": "050km N 33Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          10.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "12:16 AM",
+        "time_24": "00:16",
+        "latitude": 12.93,
+        "longitude": 123.08,
+        "depth_km": 27.0,
+        "magnitude": 2.1,
+        "location": "018km N 80Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08,
+          12.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "11:58 PM",
+        "time_24": "23:58",
+        "latitude": 5.3,
+        "longitude": 125.33,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "016km S 42Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "11:38 PM",
+        "time_24": "23:38",
+        "latitude": 12.53,
+        "longitude": 123.61,
+        "depth_km": 11.0,
+        "magnitude": 1.9,
+        "location": "013km S 23Â° W of Monreal (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.61,
+          12.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 September 2026",
+        "time": "11:36 PM",
+        "time_24": "23:36",
+        "latitude": 8.7,
+        "longitude": 125.7,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "006km S 72Â° W of City Of Bayugan (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          8.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
