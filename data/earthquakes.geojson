@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-16T22:05:38.667450+00:00",
+  "generated_at": "2026-09-17T00:27:28.969098+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "06:31 AM",
+        "time_24": "06:31",
+        "latitude": 4.9,
+        "longitude": 126.34,
+        "depth_km": 26.0,
+        "magnitude": 2.7,
+        "location": "115km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          4.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "06:30 AM",
+        "time_24": "06:30",
+        "latitude": 5.75,
+        "longitude": 125.42,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "025km S 71Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 September 2026",
+        "time": "06:22 AM",
+        "time_24": "06:22",
+        "latitude": 5.7,
+        "longitude": 125.37,
+        "depth_km": 32.0,
+        "magnitude": 2.1,
+        "location": "023km S 53Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -328,17 +388,17 @@
         "date": "17 September 2026",
         "time": "02:35 AM",
         "time_24": "02:35",
-        "latitude": 7.12,
-        "longitude": 127.05,
-        "depth_km": 10.0,
-        "magnitude": 3.8,
-        "location": "057km S 79Â° E of Manay (Davao Oriental)"
+        "latitude": 7.16,
+        "longitude": 126.87,
+        "depth_km": 13.0,
+        "magnitude": 3.6,
+        "location": "037km S 81Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          7.12
+          126.87,
+          7.16
         ]
       }
     },
@@ -348,17 +408,17 @@
         "date": "17 September 2026",
         "time": "02:11 AM",
         "time_24": "02:11",
-        "latitude": 9.37,
-        "longitude": 125.93,
-        "depth_km": 108.0,
-        "magnitude": 3.7,
-        "location": "002km N 85Â° W of Carrascal (Surigao Del Sur)"
+        "latitude": 9.34,
+        "longitude": 125.97,
+        "depth_km": 118.0,
+        "magnitude": 3.3,
+        "location": "001km West of Cantilan (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.93,
-          9.37
+          125.97,
+          9.34
         ]
       }
     },
@@ -389,15 +449,15 @@
         "time": "01:17 AM",
         "time_24": "01:17",
         "latitude": 17.47,
-        "longitude": 120.74,
-        "depth_km": 10.0,
-        "magnitude": 3.6,
-        "location": "002km N 53Â° W of Sallapadan (Abra)"
+        "longitude": 120.68,
+        "depth_km": 7.0,
+        "magnitude": 3.7,
+        "location": "005km N 37Â° W of Manabo (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.74,
+          120.68,
           17.47
         ]
       }
