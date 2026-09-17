@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-17T18:55:41.124616+00:00",
+  "generated_at": "2026-09-17T22:00:07.547594+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "05:40 AM",
+        "time_24": "05:40",
+        "latitude": 7.25,
+        "longitude": 125.08,
+        "depth_km": 2.0,
+        "magnitude": 2.3,
+        "location": "002km S 81Â° E of Antipas (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08,
+          7.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "05:38 AM",
+        "time_24": "05:38",
+        "latitude": 5.65,
+        "longitude": 125.37,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "023km N 30Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "04:54 AM",
+        "time_24": "04:54",
+        "latitude": 9.74,
+        "longitude": 126.29,
+        "depth_km": 36.0,
+        "magnitude": 1.6,
+        "location": "016km S 72Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "04:49 AM",
+        "time_24": "04:49",
+        "latitude": 13.88,
+        "longitude": 120.17,
+        "depth_km": 35.0,
+        "magnitude": 2.5,
+        "location": "006km N 66Â° E of Lubang (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17,
+          13.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "04:39 AM",
+        "time_24": "04:39",
+        "latitude": 18.45,
+        "longitude": 120.56,
+        "depth_km": 35.0,
+        "magnitude": 2.3,
+        "location": "012km S 52Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          18.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "04:00 AM",
+        "time_24": "04:00",
+        "latitude": 13.49,
+        "longitude": 121.76,
+        "depth_km": 11.0,
+        "magnitude": 2.0,
+        "location": "010km N 59Â° W of Boac (Marinduque)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.76,
+          13.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:46 AM",
+        "time_24": "03:46",
+        "latitude": 5.31,
+        "longitude": 125.23,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "024km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:37 AM",
+        "time_24": "03:37",
+        "latitude": 5.65,
+        "longitude": 125.19,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "019km S 04Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:23 AM",
+        "time_24": "03:23",
+        "latitude": 14.02,
+        "longitude": 122.89,
+        "depth_km": 8.0,
+        "magnitude": 2.4,
+        "location": "004km S 49Â° E of San Lorenzo Ruiz (Camarines Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.89,
+          14.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:23 AM",
+        "time_24": "03:23",
+        "latitude": 5.81,
+        "longitude": 125.33,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "014km S 87Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
