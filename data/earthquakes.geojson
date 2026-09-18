@@ -1,7 +1,267 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-18T17:13:43.362682+00:00",
+  "generated_at": "2026-09-18T19:42:12.306585+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "03:24 AM",
+        "time_24": "03:24",
+        "latitude": 7.38,
+        "longitude": 126.54,
+        "depth_km": 71.0,
+        "magnitude": 1.6,
+        "location": "007km N 29Â° W of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          7.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "02:47 AM",
+        "time_24": "02:47",
+        "latitude": 18.51,
+        "longitude": 120.49,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "016km S 88Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          18.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "02:45 AM",
+        "time_24": "02:45",
+        "latitude": 5.73,
+        "longitude": 124.8,
+        "depth_km": 21.0,
+        "magnitude": 1.4,
+        "location": "026km S 56Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "02:38 AM",
+        "time_24": "02:38",
+        "latitude": 5.4,
+        "longitude": 125.46,
+        "depth_km": 31.0,
+        "magnitude": 1.9,
+        "location": "004km S 76Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "02:28 AM",
+        "time_24": "02:28",
+        "latitude": 5.85,
+        "longitude": 125.79,
+        "depth_km": 142.0,
+        "magnitude": 2.2,
+        "location": "017km S 66Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          5.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "02:00 AM",
+        "time_24": "02:00",
+        "latitude": 5.45,
+        "longitude": 125.4,
+        "depth_km": 38.0,
+        "magnitude": 1.6,
+        "location": "005km N 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:58 AM",
+        "time_24": "01:58",
+        "latitude": 9.88,
+        "longitude": 125.56,
+        "depth_km": 156.0,
+        "magnitude": 2.3,
+        "location": "009km S 32Â° W of Dinagat (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.56,
+          9.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:55 AM",
+        "time_24": "01:55",
+        "latitude": 9.74,
+        "longitude": 122.27,
+        "depth_km": 8.0,
+        "magnitude": 1.5,
+        "location": "018km S 81Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:33 AM",
+        "time_24": "01:33",
+        "latitude": 13.2,
+        "longitude": 124.48,
+        "depth_km": 8.0,
+        "magnitude": 1.9,
+        "location": "035km N 61Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.48,
+          13.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:22 AM",
+        "time_24": "01:22",
+        "latitude": 6.42,
+        "longitude": 125.8,
+        "depth_km": 123.0,
+        "magnitude": 2.6,
+        "location": "021km N 88Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8,
+          6.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:11 AM",
+        "time_24": "01:11",
+        "latitude": 16.82,
+        "longitude": 119.91,
+        "depth_km": 12.0,
+        "magnitude": 2.7,
+        "location": "048km N 02Â° E of Bolinao (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.91,
+          16.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:08 AM",
+        "time_24": "01:08",
+        "latitude": 9.86,
+        "longitude": 122.31,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "017km N 55Â° W of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31,
+          9.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 September 2026",
+        "time": "01:03 AM",
+        "time_24": "01:03",
+        "latitude": 5.74,
+        "longitude": 126.76,
+        "depth_km": 21.0,
+        "magnitude": 3.5,
+        "location": "125km S 81Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.76,
+          5.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
