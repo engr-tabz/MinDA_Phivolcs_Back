@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-18T04:42:05.762511+00:00",
+  "generated_at": "2026-09-18T09:13:51.868691+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "04:53 PM",
+        "time_24": "16:53",
+        "latitude": 16.52,
+        "longitude": 121.31,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "006km N 54Â° E of Quezon (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.31,
+          16.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:56 PM",
+        "time_24": "15:56",
+        "latitude": 9.65,
+        "longitude": 126.16,
+        "depth_km": 31.0,
+        "magnitude": 2.0,
+        "location": "014km S 01Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "03:51 PM",
+        "time_24": "15:51",
+        "latitude": 17.86,
+        "longitude": 120.78,
+        "depth_km": 25.0,
+        "magnitude": 2.4,
+        "location": "014km S 64Â° E of Nueva Era (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78,
+          17.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "02:55 PM",
+        "time_24": "14:55",
+        "latitude": 9.76,
+        "longitude": 126.15,
+        "depth_km": 37.0,
+        "magnitude": 2.1,
+        "location": "003km S 09Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.15,
+          9.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "02:48 PM",
+        "time_24": "14:48",
+        "latitude": 8.31,
+        "longitude": 126.7,
+        "depth_km": 2.0,
+        "magnitude": 3.3,
+        "location": "048km N 55Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7,
+          8.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "02:07 PM",
+        "time_24": "14:07",
+        "latitude": 11.33,
+        "longitude": 124.43,
+        "depth_km": 9.0,
+        "magnitude": 1.9,
+        "location": "007km S 51Â° W of Leyte (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.43,
+          11.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "02:03 PM",
+        "time_24": "14:03",
+        "latitude": 5.45,
+        "longitude": 125.41,
+        "depth_km": 27.0,
+        "magnitude": 1.9,
+        "location": "005km N 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "01:38 PM",
+        "time_24": "13:38",
+        "latitude": 18.56,
+        "longitude": 119.99,
+        "depth_km": 38.0,
+        "magnitude": 1.9,
+        "location": "069km N 86Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99,
+          18.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "12:43 PM",
+        "time_24": "12:43",
+        "latitude": 5.69,
+        "longitude": 125.27,
+        "depth_km": 3.0,
+        "magnitude": 2.9,
+        "location": "016km S 27Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 September 2026",
+        "time": "12:30 PM",
+        "time_24": "12:30",
+        "latitude": 4.72,
+        "longitude": 127.64,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "254km S 71Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.64,
+          4.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -848,17 +1048,17 @@
         "date": "17 September 2026",
         "time": "05:04 PM",
         "time_24": "17:04",
-        "latitude": 18.2,
-        "longitude": 120.91,
-        "depth_km": 18.0,
+        "latitude": 18.28,
+        "longitude": 120.87,
+        "depth_km": 10.0,
         "magnitude": 3.4,
-        "location": "012km N 56Â° E of Carasi (Ilocos Norte)"
+        "location": "017km N 18Â° E of Carasi (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.91,
-          18.2
+          120.87,
+          18.28
         ]
       }
     },
@@ -866,19 +1066,19 @@
       "type": "Feature",
       "properties": {
         "date": "17 September 2026",
-        "time": "04:50 PM",
-        "time_24": "16:50",
-        "latitude": 19.92,
-        "longitude": 121.2,
-        "depth_km": 17.0,
+        "time": "04:49 PM",
+        "time_24": "16:49",
+        "latitude": 20.19,
+        "longitude": 121.17,
+        "depth_km": 33.0,
         "magnitude": 4.0,
-        "location": "079km N 22Â° W of Calayan (Cagayan)"
+        "location": "075km S 78Â° W of Sabtang (Batanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.2,
-          19.92
+          121.17,
+          20.19
         ]
       }
     },
@@ -911,8 +1111,8 @@
         "latitude": 11.29,
         "longitude": 124.57,
         "depth_km": 8.0,
-        "magnitude": 4.1,
-        "location": "008km S 85Â° W of Capoocan (Leyte)"
+        "magnitude": 4.4,
+        "location": "008km S 88Â° W of Capoocan (Leyte)"
       },
       "geometry": {
         "type": "Point",
