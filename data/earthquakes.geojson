@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-20T17:29:29.827280+00:00",
+  "generated_at": "2026-09-20T19:41:45.565809+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "03:23 AM",
+        "time_24": "03:23",
+        "latitude": 15.31,
+        "longitude": 122.91,
+        "depth_km": 47.0,
+        "magnitude": 2.2,
+        "location": "092km N 42Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.91,
+          15.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "03:12 AM",
+        "time_24": "03:12",
+        "latitude": 15.64,
+        "longitude": 121.08,
+        "depth_km": 16.0,
+        "magnitude": 1.5,
+        "location": "006km N 38Â° E of General Mamerto Natividad (Nueva Ecija)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.08,
+          15.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:57 AM",
+        "time_24": "02:57",
+        "latitude": 5.57,
+        "longitude": 125.34,
+        "depth_km": 43.0,
+        "magnitude": 2.3,
+        "location": "018km N 54Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:45 AM",
+        "time_24": "02:45",
+        "latitude": 8.74,
+        "longitude": 123.41,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "011km N 02Â° W of City Of Dapitan (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41,
+          8.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:34 AM",
+        "time_24": "02:34",
+        "latitude": 15.46,
+        "longitude": 120.1,
+        "depth_km": 18.0,
+        "magnitude": 1.4,
+        "location": "018km S 63Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1,
+          15.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:25 AM",
+        "time_24": "02:25",
+        "latitude": 8.75,
+        "longitude": 126.36,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "009km S 56Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          8.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:14 AM",
+        "time_24": "02:14",
+        "latitude": 5.64,
+        "longitude": 125.24,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "020km S 11Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "02:12 AM",
+        "time_24": "02:12",
+        "latitude": 7.81,
+        "longitude": 126.92,
+        "depth_km": 12.0,
+        "magnitude": 2.8,
+        "location": "047km N 57Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92,
+          7.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "01:57 AM",
+        "time_24": "01:57",
+        "latitude": 12.73,
+        "longitude": 124.82,
+        "depth_km": 12.0,
+        "magnitude": 1.6,
+        "location": "022km N 33Â° W of Pambujan (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82,
+          12.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "01:43 AM",
+        "time_24": "01:43",
+        "latitude": 13.9,
+        "longitude": 120.49,
+        "depth_km": 106.0,
+        "magnitude": 1.5,
+        "location": "017km N 64Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          13.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "01:39 AM",
+        "time_24": "01:39",
+        "latitude": 5.72,
+        "longitude": 125.01,
+        "depth_km": 30.0,
+        "magnitude": 1.6,
+        "location": "016km S 05Â° E of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01,
+          5.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
