@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-20T21:53:16.482912+00:00",
+  "generated_at": "2026-09-20T23:51:14.126190+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "07:11 AM",
+        "time_24": "07:11",
+        "latitude": 12.38,
+        "longitude": 124.78,
+        "depth_km": 19.0,
+        "magnitude": 2.1,
+        "location": "009km N 50Â° W of Silvino Lobos (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78,
+          12.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "07:07 AM",
+        "time_24": "07:07",
+        "latitude": 5.52,
+        "longitude": 125.37,
+        "depth_km": 28.0,
+        "magnitude": 1.6,
+        "location": "012km N 63Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "06:42 AM",
+        "time_24": "06:42",
+        "latitude": 5.03,
+        "longitude": 126.3,
+        "depth_km": 34.0,
+        "magnitude": 2.4,
+        "location": "104km S 62Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          5.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "05:50 AM",
+        "time_24": "05:50",
+        "latitude": 12.76,
+        "longitude": 123.16,
+        "depth_km": 8.0,
+        "magnitude": 3.0,
+        "location": "018km S 31Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16,
+          12.76
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
