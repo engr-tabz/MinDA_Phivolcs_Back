@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-20T23:51:14.126190+00:00",
+  "generated_at": "2026-09-21T02:42:46.281503+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:58 AM",
+        "time_24": "08:58",
+        "latitude": 6.51,
+        "longitude": 124.07,
+        "depth_km": 1.0,
+        "magnitude": 1.8,
+        "location": "005km S 24Â° E of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.07,
+          6.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:49 AM",
+        "time_24": "08:49",
+        "latitude": 5.54,
+        "longitude": 125.26,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "023km N 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:17 AM",
+        "time_24": "08:17",
+        "latitude": 6.55,
+        "longitude": 124.52,
+        "depth_km": 21.0,
+        "magnitude": 1.9,
+        "location": "005km N 70Â° W of Bagumbayan (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.52,
+          6.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:08 AM",
+        "time_24": "08:08",
+        "latitude": 4.81,
+        "longitude": 125.28,
+        "depth_km": 7.0,
+        "magnitude": 3.6,
+        "location": "069km S 13Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          4.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:02 AM",
+        "time_24": "08:02",
+        "latitude": 11.14,
+        "longitude": 124.11,
+        "depth_km": 27.0,
+        "magnitude": 1.9,
+        "location": "016km N 86Â° E of Medellin (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11,
+          11.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "08:01 AM",
+        "time_24": "08:01",
+        "latitude": 5.61,
+        "longitude": 125.27,
+        "depth_km": 29.0,
+        "magnitude": 1.7,
+        "location": "025km S 17Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "07:57 AM",
+        "time_24": "07:57",
+        "latitude": 8.03,
+        "longitude": 125.89,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "009km S 59Â° W of Veruela (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.89,
+          8.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "07:48 AM",
+        "time_24": "07:48",
+        "latitude": 11.19,
+        "longitude": 125.73,
+        "depth_km": 8.0,
+        "magnitude": 1.7,
+        "location": "009km N 56Â° E of Salcedo (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.73,
+          11.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 September 2026",
+        "time": "07:44 AM",
+        "time_24": "07:44",
+        "latitude": 12.85,
+        "longitude": 121.33,
+        "depth_km": 30.0,
+        "magnitude": 1.5,
+        "location": "014km S 86Â° W of Bansud (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33,
+          12.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1228,17 +1408,17 @@
         "date": "20 September 2026",
         "time": "10:30 AM",
         "time_24": "10:30",
-        "latitude": 9.96,
-        "longitude": 122.38,
-        "depth_km": 18.0,
-        "magnitude": 1.9,
-        "location": "021km N 15Â° W of City Of Sipalay (Negros Occidental)"
+        "latitude": 9.94,
+        "longitude": 122.37,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "019km N 19Â° W of City Of Sipalay (Negros Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.38,
-          9.96
+          122.37,
+          9.94
         ]
       }
     },
