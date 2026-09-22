@@ -1,7 +1,287 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-22T20:03:13.800568+00:00",
+  "generated_at": "2026-09-22T22:54:38.527707+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "06:26 AM",
+        "time_24": "06:26",
+        "latitude": 15.5,
+        "longitude": 119.99,
+        "depth_km": 28.0,
+        "magnitude": 1.5,
+        "location": "005km S 38Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99,
+          15.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "06:10 AM",
+        "time_24": "06:10",
+        "latitude": 11.7,
+        "longitude": 125.5,
+        "depth_km": 21.0,
+        "magnitude": 2.0,
+        "location": "008km S 40Â° E of San Julian (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          11.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:32 AM",
+        "time_24": "05:32",
+        "latitude": 5.56,
+        "longitude": 125.34,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "018km N 57Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:26 AM",
+        "time_24": "05:26",
+        "latitude": 5.42,
+        "longitude": 126.56,
+        "depth_km": 32.0,
+        "magnitude": 2.5,
+        "location": "115km S 62Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.56,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:21 AM",
+        "time_24": "05:21",
+        "latitude": 15.02,
+        "longitude": 119.86,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "023km S 79Â° W of San Felipe (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.86,
+          15.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:20 AM",
+        "time_24": "05:20",
+        "latitude": 7.56,
+        "longitude": 123.16,
+        "depth_km": 49.0,
+        "magnitude": 1.6,
+        "location": "002km S 23Â° W of Margosatubig (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16,
+          7.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:14 AM",
+        "time_24": "05:14",
+        "latitude": 7.51,
+        "longitude": 125.66,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "005km S 60Â° E of Santo Tomas (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66,
+          7.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "05:05 AM",
+        "time_24": "05:05",
+        "latitude": 10.02,
+        "longitude": 126.36,
+        "depth_km": 1.0,
+        "magnitude": 2.7,
+        "location": "032km N 89Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          10.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "04:49 AM",
+        "time_24": "04:49",
+        "latitude": 9.74,
+        "longitude": 126.5,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "038km S 83Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "04:34 AM",
+        "time_24": "04:34",
+        "latitude": 9.7,
+        "longitude": 126.08,
+        "depth_km": 27.0,
+        "magnitude": 4.2,
+        "location": "008km S 27Â° E of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.08,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "04:30 AM",
+        "time_24": "04:30",
+        "latitude": 7.2,
+        "longitude": 123.12,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "033km S 68Â° E of Olutanga (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.12,
+          7.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "04:13 AM",
+        "time_24": "04:13",
+        "latitude": 6.43,
+        "longitude": 125.66,
+        "depth_km": 24.0,
+        "magnitude": 2.0,
+        "location": "006km N 70Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66,
+          6.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 5.75,
+        "longitude": 125.33,
+        "depth_km": 7.0,
+        "magnitude": 2.4,
+        "location": "016km S 60Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "03:51 AM",
+        "time_24": "03:51",
+        "latitude": 5.77,
+        "longitude": 125.31,
+        "depth_km": 7.0,
+        "magnitude": 3.2,
+        "location": "013km S 63Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
