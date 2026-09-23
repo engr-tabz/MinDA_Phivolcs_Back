@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-22T22:54:38.527707+00:00",
+  "generated_at": "2026-09-23T01:18:42.540915+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "08:33 AM",
+        "time_24": "08:33",
+        "latitude": 11.12,
+        "longitude": 124.09,
+        "depth_km": 4.0,
+        "magnitude": 3.0,
+        "location": "015km N 55Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          11.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "08:28 AM",
+        "time_24": "08:28",
+        "latitude": 5.26,
+        "longitude": 125.29,
+        "depth_km": 18.0,
+        "magnitude": 2.8,
+        "location": "022km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 September 2026",
+        "time": "06:39 AM",
+        "time_24": "06:39",
+        "latitude": 15.63,
+        "longitude": 119.97,
+        "depth_km": 28.0,
+        "magnitude": 2.0,
+        "location": "005km N 84Â° E of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97,
+          15.63
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
