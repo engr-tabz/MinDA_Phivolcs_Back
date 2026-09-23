@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-23T15:33:37.412782+00:00",
+  "generated_at": "2026-09-23T19:12:57.808913+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:52 AM",
+        "time_24": "01:52",
+        "latitude": 6.74,
+        "longitude": 126.33,
+        "depth_km": 19.0,
+        "magnitude": 2.3,
+        "location": "027km S 27Â° E of City Of Mati (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          6.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:40 AM",
+        "time_24": "01:40",
+        "latitude": 19.48,
+        "longitude": 121.53,
+        "depth_km": 12.0,
+        "magnitude": 3.0,
+        "location": "025km N 14Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          19.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:34 AM",
+        "time_24": "01:34",
+        "latitude": 9.96,
+        "longitude": 126.1,
+        "depth_km": 29.0,
+        "magnitude": 1.6,
+        "location": "003km N 36Â° E of San Isidro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1,
+          9.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:18 AM",
+        "time_24": "01:18",
+        "latitude": 5.69,
+        "longitude": 125.22,
+        "depth_km": 10.0,
+        "magnitude": 3.1,
+        "location": "015km S 06Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:16 AM",
+        "time_24": "01:16",
+        "latitude": 11.25,
+        "longitude": 124.29,
+        "depth_km": 1.0,
+        "magnitude": 2.8,
+        "location": "011km S 54Â° W of Tabango (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.29,
+          11.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "01:10 AM",
+        "time_24": "01:10",
+        "latitude": 5.53,
+        "longitude": 125.87,
+        "depth_km": 35.0,
+        "magnitude": 1.8,
+        "location": "045km N 82Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.87,
+          5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "12:54 AM",
+        "time_24": "00:54",
+        "latitude": 19.22,
+        "longitude": 121.53,
+        "depth_km": 26.0,
+        "magnitude": 1.6,
+        "location": "007km S 47Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          19.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -828,17 +968,17 @@
         "date": "23 September 2026",
         "time": "08:33 AM",
         "time_24": "08:33",
-        "latitude": 11.12,
-        "longitude": 124.09,
+        "latitude": 11.13,
+        "longitude": 124.07,
         "depth_km": 4.0,
         "magnitude": 3.0,
-        "location": "015km N 55Â° E of City Of Bogo (Cebu)"
+        "location": "012km N 89Â° E of Medellin (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.09,
-          11.12
+          124.07,
+          11.13
         ]
       }
     },
