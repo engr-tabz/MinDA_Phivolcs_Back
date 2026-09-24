@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-23T22:21:11.858560+00:00",
+  "generated_at": "2026-09-24T00:39:30.616695+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "07:28 AM",
+        "time_24": "07:28",
+        "latitude": 5.32,
+        "longitude": 121.91,
+        "depth_km": 23.0,
+        "magnitude": 2.3,
+        "location": "084km S 10Â° E of Tongkil (Sulu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.91,
+          5.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "07:20 AM",
+        "time_24": "07:20",
+        "latitude": 9.11,
+        "longitude": 125.42,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "013km S 86Â° W of City Of Cabadbaran (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          9.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "06:56 AM",
+        "time_24": "06:56",
+        "latitude": 7.75,
+        "longitude": 127.15,
+        "depth_km": 26.0,
+        "magnitude": 3.6,
+        "location": "068km N 74Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.15,
+          7.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 September 2026",
+        "time": "06:43 AM",
+        "time_24": "06:43",
+        "latitude": 5.85,
+        "longitude": 125.44,
+        "depth_km": 23.0,
+        "magnitude": 2.6,
+        "location": "021km S 53Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.85
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
