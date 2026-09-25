@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-25T19:35:15.644408+00:00",
+  "generated_at": "2026-09-25T22:47:51.033643+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "06:23 AM",
+        "time_24": "06:23",
+        "latitude": 6.46,
+        "longitude": 123.7,
+        "depth_km": 2.0,
+        "magnitude": 3.1,
+        "location": "040km S 75Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7,
+          6.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "06:21 AM",
+        "time_24": "06:21",
+        "latitude": 13.47,
+        "longitude": 120.29,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "020km N 74Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29,
+          13.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "05:46 AM",
+        "time_24": "05:46",
+        "latitude": 12.49,
+        "longitude": 122.2,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "011km S 38Â° E of San Agustin (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2,
+          12.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "05:23 AM",
+        "time_24": "05:23",
+        "latitude": 15.54,
+        "longitude": 122.33,
+        "depth_km": 13.0,
+        "magnitude": 3.2,
+        "location": "078km S 31Â° E of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.33,
+          15.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "05:15 AM",
+        "time_24": "05:15",
+        "latitude": 15.16,
+        "longitude": 120.53,
+        "depth_km": 9.0,
+        "magnitude": 1.9,
+        "location": "010km S 19Â° W of Mabalacat City (Pampanga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53,
+          15.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "04:53 AM",
+        "time_24": "04:53",
+        "latitude": 5.49,
+        "longitude": 125.43,
+        "depth_km": 33.0,
+        "magnitude": 2.3,
+        "location": "005km N 66Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "04:45 AM",
+        "time_24": "04:45",
+        "latitude": 10.26,
+        "longitude": 125.88,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "032km N 33Â° W of Santa Monica (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.88,
+          10.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "04:28 AM",
+        "time_24": "04:28",
+        "latitude": 5.46,
+        "longitude": 125.41,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "006km N 14Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "03:55 AM",
+        "time_24": "03:55",
+        "latitude": 13.33,
+        "longitude": 120.17,
+        "depth_km": 61.0,
+        "magnitude": 2.1,
+        "location": "033km S 74Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17,
+          13.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "03:42 AM",
+        "time_24": "03:42",
+        "latitude": 5.7,
+        "longitude": 125.32,
+        "depth_km": 28.0,
+        "magnitude": 1.6,
+        "location": "018km S 44Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 September 2026",
+        "time": "03:34 AM",
+        "time_24": "03:34",
+        "latitude": 5.6,
+        "longitude": 126.48,
+        "depth_km": 43.0,
+        "magnitude": 3.7,
+        "location": "099km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.48,
+          5.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +248,17 @@
         "date": "26 September 2026",
         "time": "02:47 AM",
         "time_24": "02:47",
-        "latitude": 13.38,
-        "longitude": 120.1,
-        "depth_km": 10.0,
-        "magnitude": 4.0,
-        "location": "039km S 84Â° W of Paluan (Occidental Mindoro)"
+        "latitude": 13.35,
+        "longitude": 120.13,
+        "depth_km": 2.0,
+        "magnitude": 3.9,
+        "location": "037km S 79Â° W of Paluan (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.1,
-          13.38
+          120.13,
+          13.35
         ]
       }
     },
@@ -308,17 +528,17 @@
         "date": "26 September 2026",
         "time": "12:30 AM",
         "time_24": "00:30",
-        "latitude": 13.35,
-        "longitude": 120.09,
-        "depth_km": 10.0,
+        "latitude": 13.37,
+        "longitude": 120.06,
+        "depth_km": 29.0,
         "magnitude": 3.9,
-        "location": "041km S 79Â° W of Paluan (Occidental Mindoro)"
+        "location": "044km S 28Â° W of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.09,
-          13.35
+          120.06,
+          13.37
         ]
       }
     },
