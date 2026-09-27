@@ -1,7 +1,447 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-27T08:21:09.831351+00:00",
+  "generated_at": "2026-09-27T14:09:37.212697+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "09:18 PM",
+        "time_24": "21:18",
+        "latitude": 6.59,
+        "longitude": 125.74,
+        "depth_km": 61.0,
+        "magnitude": 1.6,
+        "location": "024km N 36Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          6.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "09:17 PM",
+        "time_24": "21:17",
+        "latitude": 10.84,
+        "longitude": 123.96,
+        "depth_km": 1.0,
+        "magnitude": 2.4,
+        "location": "008km N 87Â° W of Borbon (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.96,
+          10.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "09:07 PM",
+        "time_24": "21:07",
+        "latitude": 13.66,
+        "longitude": 120.64,
+        "depth_km": 111.0,
+        "magnitude": 1.5,
+        "location": "019km S 03Â° E of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64,
+          13.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "08:55 PM",
+        "time_24": "20:55",
+        "latitude": 6.87,
+        "longitude": 125.12,
+        "depth_km": 30.0,
+        "magnitude": 1.5,
+        "location": "011km S 18Â° E of Makilala (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          6.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "08:28 PM",
+        "time_24": "20:28",
+        "latitude": 10.38,
+        "longitude": 121.99,
+        "depth_km": 12.0,
+        "magnitude": 2.5,
+        "location": "009km S 52Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.99,
+          10.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "08:24 PM",
+        "time_24": "20:24",
+        "latitude": 12.13,
+        "longitude": 125.13,
+        "depth_km": 27.0,
+        "magnitude": 2.0,
+        "location": "013km S 78Â° W of Maslog (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "08:22 PM",
+        "time_24": "20:22",
+        "latitude": 7.41,
+        "longitude": 125.03,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "012km N 67Â° W of Arakan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          7.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "08:08 PM",
+        "time_24": "20:08",
+        "latitude": 5.97,
+        "longitude": 125.44,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "017km S 88Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "07:54 PM",
+        "time_24": "19:54",
+        "latitude": 13.51,
+        "longitude": 123.08,
+        "depth_km": 2.0,
+        "magnitude": 1.9,
+        "location": "004km S 79Â° E of Pasacao (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08,
+          13.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "07:54 PM",
+        "time_24": "19:54",
+        "latitude": 6.86,
+        "longitude": 126.13,
+        "depth_km": 34.0,
+        "magnitude": 2.2,
+        "location": "006km N 58Â° E of San Isidro (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13,
+          6.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "07:51 PM",
+        "time_24": "19:51",
+        "latitude": 5.36,
+        "longitude": 125.2,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "025km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "07:41 PM",
+        "time_24": "19:41",
+        "latitude": 8.13,
+        "longitude": 124.18,
+        "depth_km": 31.0,
+        "magnitude": 1.7,
+        "location": "001km S 48Â° E of Matungao (Lanao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.18,
+          8.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "06:51 PM",
+        "time_24": "18:51",
+        "latitude": 5.14,
+        "longitude": 125.3,
+        "depth_km": 17.0,
+        "magnitude": 1.9,
+        "location": "033km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "06:45 PM",
+        "time_24": "18:45",
+        "latitude": 12.78,
+        "longitude": 122.92,
+        "depth_km": 4.0,
+        "magnitude": 1.5,
+        "location": "038km S 70Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.92,
+          12.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:56 PM",
+        "time_24": "17:56",
+        "latitude": 10.0,
+        "longitude": 126.18,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "012km S 81Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          10.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:48 PM",
+        "time_24": "17:48",
+        "latitude": 9.62,
+        "longitude": 126.27,
+        "depth_km": 18.0,
+        "magnitude": 3.0,
+        "location": "021km S 35Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          9.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:40 PM",
+        "time_24": "17:40",
+        "latitude": 10.26,
+        "longitude": 125.17,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "000km N 45Â° W of San Juan (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17,
+          10.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:38 PM",
+        "time_24": "17:38",
+        "latitude": 5.69,
+        "longitude": 125.37,
+        "depth_km": 28.0,
+        "magnitude": 1.5,
+        "location": "024km S 53Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:22 PM",
+        "time_24": "17:22",
+        "latitude": 5.01,
+        "longitude": 125.32,
+        "depth_km": 16.0,
+        "magnitude": 2.4,
+        "location": "045km S 14Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "05:04 PM",
+        "time_24": "17:04",
+        "latitude": 7.12,
+        "longitude": 124.76,
+        "depth_km": 24.0,
+        "magnitude": 1.5,
+        "location": "005km N 20Â° E of Datu Montawal (Maguindanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.76,
+          7.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "04:29 PM",
+        "time_24": "16:29",
+        "latitude": 6.43,
+        "longitude": 123.78,
+        "depth_km": 5.0,
+        "magnitude": 2.3,
+        "location": "033km S 65Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.78,
+          6.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 September 2026",
+        "time": "04:14 PM",
+        "time_24": "16:14",
+        "latitude": 7.75,
+        "longitude": 126.54,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "011km S 64Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.54,
+          7.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1328,17 +1768,17 @@
         "date": "26 September 2026",
         "time": "10:59 PM",
         "time_24": "22:59",
-        "latitude": 11.97,
-        "longitude": 120.81,
-        "depth_km": 8.0,
-        "magnitude": 2.0,
-        "location": "051km S 33Â° W of San Jose (Occidental Mindoro)"
+        "latitude": 12.0,
+        "longitude": 120.79,
+        "depth_km": 17.0,
+        "magnitude": 2.1,
+        "location": "049km S 38Â° W of San Jose (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.81,
-          11.97
+          120.79,
+          12.0
         ]
       }
     },
@@ -1348,17 +1788,17 @@
         "date": "26 September 2026",
         "time": "10:21 PM",
         "time_24": "22:21",
-        "latitude": 5.86,
-        "longitude": 125.01,
-        "depth_km": 10.0,
-        "magnitude": 2.7,
-        "location": "001km S 61Â° E of Maasim (Sarangani)"
+        "latitude": 5.77,
+        "longitude": 124.8,
+        "depth_km": 1.0,
+        "magnitude": 3.0,
+        "location": "024km S 66Â° W of Maasim (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.01,
-          5.86
+          124.8,
+          5.77
         ]
       }
     },
@@ -1368,17 +1808,17 @@
         "date": "26 September 2026",
         "time": "10:09 PM",
         "time_24": "22:09",
-        "latitude": 5.17,
-        "longitude": 125.38,
-        "depth_km": 17.0,
-        "magnitude": 3.5,
-        "location": "027km S 10Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.36,
+        "longitude": 125.47,
+        "depth_km": 1.0,
+        "magnitude": 3.1,
+        "location": "008km S 45Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.38,
-          5.17
+          125.47,
+          5.36
         ]
       }
     },
@@ -1408,17 +1848,17 @@
         "date": "26 September 2026",
         "time": "09:59 PM",
         "time_24": "21:59",
-        "latitude": 9.26,
-        "longitude": 126.1,
-        "depth_km": 91.0,
-        "magnitude": 1.8,
-        "location": "005km N 50Â° E of Lanuza (Surigao Del Sur)"
+        "latitude": 9.22,
+        "longitude": 125.78,
+        "depth_km": 81.0,
+        "magnitude": 2.0,
+        "location": "020km S 78Â° W of Madrid (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.1,
-          9.26
+          125.78,
+          9.22
         ]
       }
     },
@@ -1528,17 +1968,17 @@
         "date": "26 September 2026",
         "time": "07:23 PM",
         "time_24": "19:23",
-        "latitude": 17.96,
-        "longitude": 121.07,
-        "depth_km": 33.0,
-        "magnitude": 1.7,
-        "location": "014km S 58Â° W of Kabugao (Apayao)"
+        "latitude": 18.0,
+        "longitude": 121.25,
+        "depth_km": 26.0,
+        "magnitude": 2.0,
+        "location": "007km S 64Â° E of Kabugao (Apayao)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.07,
-          17.96
+          121.25,
+          18.0
         ]
       }
     },
@@ -1548,17 +1988,17 @@
         "date": "26 September 2026",
         "time": "06:28 PM",
         "time_24": "18:28",
-        "latitude": 12.75,
-        "longitude": 123.0,
-        "depth_km": 12.0,
+        "latitude": 12.81,
+        "longitude": 122.98,
+        "depth_km": 21.0,
         "magnitude": 2.4,
-        "location": "031km S 59Â° W of Claveria (Masbate)"
+        "location": "031km S 72Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.0,
-          12.75
+          122.98,
+          12.81
         ]
       }
     },
@@ -1568,17 +2008,17 @@
         "date": "26 September 2026",
         "time": "06:25 PM",
         "time_24": "18:25",
-        "latitude": 5.43,
+        "latitude": 5.13,
         "longitude": 125.24,
-        "depth_km": 42.0,
+        "depth_km": 34.0,
         "magnitude": 4.0,
-        "location": "020km N 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "037km S 34Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.24,
-          5.43
+          5.13
         ]
       }
     },
@@ -1588,17 +2028,17 @@
         "date": "26 September 2026",
         "time": "06:20 PM",
         "time_24": "18:20",
-        "latitude": 6.6,
-        "longitude": 126.4,
-        "depth_km": 28.0,
-        "magnitude": 2.5,
-        "location": "036km S 80Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.46,
+        "longitude": 126.56,
+        "depth_km": 21.0,
+        "magnitude": 2.6,
+        "location": "058km S 68Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.4,
-          6.6
+          126.56,
+          6.46
         ]
       }
     },
@@ -1628,17 +2068,17 @@
         "date": "26 September 2026",
         "time": "06:11 PM",
         "time_24": "18:11",
-        "latitude": 10.43,
+        "latitude": 10.42,
         "longitude": 125.06,
-        "depth_km": 2.0,
-        "magnitude": 2.8,
-        "location": "010km N 62Â° E of Sogod (Southern Leyte)"
+        "depth_km": 3.0,
+        "magnitude": 3.0,
+        "location": "009km N 68Â° E of Sogod (Southern Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.06,
-          10.43
+          10.42
         ]
       }
     },
