@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-27T21:31:18.250173+00:00",
+  "generated_at": "2026-09-27T23:55:45.875243+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 September 2026",
+        "time": "06:00 AM",
+        "time_24": "06:00",
+        "latitude": 5.55,
+        "longitude": 125.16,
+        "depth_km": 24.0,
+        "magnitude": 1.7,
+        "location": "031km S 10Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 September 2026",
+        "time": "05:49 AM",
+        "time_24": "05:49",
+        "latitude": 13.27,
+        "longitude": 120.45,
+        "depth_km": 2.0,
+        "magnitude": 1.8,
+        "location": "016km S 06Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45,
+          13.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 September 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 5.8,
+        "longitude": 124.36,
+        "depth_km": 4.0,
+        "magnitude": 2.3,
+        "location": "032km S 27Â° W of Maitum (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.36,
+          5.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1768,17 +1828,17 @@
         "date": "27 September 2026",
         "time": "09:32 AM",
         "time_24": "09:32",
-        "latitude": 4.72,
-        "longitude": 126.16,
-        "depth_km": 52.0,
+        "latitude": 4.67,
+        "longitude": 126.29,
+        "depth_km": 24.0,
         "magnitude": 2.5,
-        "location": "113km S 47Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "127km S 50Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.16,
-          4.72
+          126.29,
+          4.67
         ]
       }
     },
@@ -1829,15 +1889,15 @@
         "time": "08:54 AM",
         "time_24": "08:54",
         "latitude": 5.52,
-        "longitude": 125.3,
-        "depth_km": 23.0,
+        "longitude": 125.33,
+        "depth_km": 15.0,
         "magnitude": 2.3,
-        "location": "018km N 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "016km N 42Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
+          125.33,
           5.52
         ]
       }
@@ -1848,17 +1908,17 @@
         "date": "27 September 2026",
         "time": "08:41 AM",
         "time_24": "08:41",
-        "latitude": 5.78,
-        "longitude": 125.18,
-        "depth_km": 27.0,
+        "latitude": 5.73,
+        "longitude": 125.17,
+        "depth_km": 28.0,
         "magnitude": 2.1,
-        "location": "006km S 32Â° W of Glan (Sarangani)"
+        "location": "011km S 19Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.18,
-          5.78
+          125.17,
+          5.73
         ]
       }
     },
@@ -1888,17 +1948,17 @@
         "date": "27 September 2026",
         "time": "08:05 AM",
         "time_24": "08:05",
-        "latitude": 6.58,
-        "longitude": 125.27,
-        "depth_km": 11.0,
+        "latitude": 6.49,
+        "longitude": 125.25,
+        "depth_km": 26.0,
         "magnitude": 2.4,
-        "location": "005km S 14Â° E of Kiblawan (Davao Del Sur)"
+        "location": "014km S 02Â° W of Kiblawan (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.27,
-          6.58
+          125.25,
+          6.49
         ]
       }
     },
@@ -1968,17 +2028,17 @@
         "date": "27 September 2026",
         "time": "07:09 AM",
         "time_24": "07:09",
-        "latitude": 12.87,
+        "latitude": 12.83,
         "longitude": 125.1,
-        "depth_km": 20.0,
+        "depth_km": 17.0,
         "magnitude": 2.0,
-        "location": "034km N 16Â° E of Laoang (Northern Samar)"
+        "location": "030km N 18Â° E of Laoang (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.1,
-          12.87
+          12.83
         ]
       }
     },
