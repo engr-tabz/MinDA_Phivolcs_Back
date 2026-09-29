@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-28T23:30:35.606760+00:00",
+  "generated_at": "2026-09-29T02:42:08.863313+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:25 AM",
+        "time_24": "10:25",
+        "latitude": 7.31,
+        "longitude": 121.51,
+        "depth_km": 30.0,
+        "magnitude": 2.7,
+        "location": "062km N 89Â° W of Sibuco (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51,
+          7.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:16 AM",
+        "time_24": "10:16",
+        "latitude": 12.96,
+        "longitude": 123.08,
+        "depth_km": 8.0,
+        "magnitude": 1.8,
+        "location": "019km N 70Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08,
+          12.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:54 AM",
+        "time_24": "09:54",
+        "latitude": 19.22,
+        "longitude": 121.47,
+        "depth_km": 10.0,
+        "magnitude": 1.7,
+        "location": "004km S 01Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          19.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:34 AM",
+        "time_24": "09:34",
+        "latitude": 12.55,
+        "longitude": 125.84,
+        "depth_km": 32.0,
+        "magnitude": 1.9,
+        "location": "055km N 42Â° E of San Policarpo (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.84,
+          12.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:16 AM",
+        "time_24": "09:16",
+        "latitude": 5.58,
+        "longitude": 125.24,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "027km S 07Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "08:32 AM",
+        "time_24": "08:32",
+        "latitude": 6.14,
+        "longitude": 125.76,
+        "depth_km": 141.0,
+        "magnitude": 3.0,
+        "location": "010km S 51Â° E of Don Marcelino (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.76,
+          6.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "07:43 AM",
+        "time_24": "07:43",
+        "latitude": 5.83,
+        "longitude": 125.35,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "016km N 87Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.83
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -988,17 +1128,17 @@
         "date": "28 September 2026",
         "time": "05:22 PM",
         "time_24": "17:22",
-        "latitude": 7.45,
-        "longitude": 126.44,
-        "depth_km": 108.0,
+        "latitude": 4.63,
+        "longitude": 125.21,
+        "depth_km": 14.0,
         "magnitude": 2.9,
-        "location": "019km N 47Â° W of Caraga (Davao Oriental)"
+        "location": "090km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.44,
-          7.45
+          125.21,
+          4.63
         ]
       }
     },
@@ -1168,17 +1308,17 @@
         "date": "28 September 2026",
         "time": "02:42 PM",
         "time_24": "14:42",
-        "latitude": 8.45,
-        "longitude": 125.74,
-        "depth_km": 23.0,
+        "latitude": 8.53,
+        "longitude": 125.73,
+        "depth_km": 30.0,
         "magnitude": 2.5,
-        "location": "005km N 85Â° W of Talacogon (Agusan Del Sur)"
+        "location": "011km N 35Â° W of Talacogon (Agusan Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.74,
-          8.45
+          125.73,
+          8.53
         ]
       }
     },
@@ -1226,19 +1366,19 @@
       "type": "Feature",
       "properties": {
         "date": "28 September 2026",
-        "time": "10:43 AM",
-        "time_24": "10:43",
-        "latitude": 13.76,
-        "longitude": 123.41,
-        "depth_km": 16.0,
+        "time": "10:44 AM",
+        "time_24": "10:44",
+        "latitude": 13.65,
+        "longitude": 123.44,
+        "depth_km": 11.0,
         "magnitude": 2.4,
-        "location": "010km N 45Â° W of Goa (Camarines Sur)"
+        "location": "006km S 36Â° W of Goa (Camarines Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.41,
-          13.76
+          123.44,
+          13.65
         ]
       }
     },
