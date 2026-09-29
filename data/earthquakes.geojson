@@ -1,7 +1,507 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-29T09:05:03.252414+00:00",
+  "generated_at": "2026-09-29T15:45:31.557098+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "11:29 PM",
+        "time_24": "23:29",
+        "latitude": 19.41,
+        "longitude": 121.51,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "017km N 13Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51,
+          19.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "11:20 PM",
+        "time_24": "23:20",
+        "latitude": 5.85,
+        "longitude": 125.29,
+        "depth_km": 26.0,
+        "magnitude": 1.9,
+        "location": "010km N 71Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:58 PM",
+        "time_24": "22:58",
+        "latitude": 11.2,
+        "longitude": 121.24,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "034km N 81Â° E of Agutaya (Palawan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.24,
+          11.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:45 PM",
+        "time_24": "22:45",
+        "latitude": 7.61,
+        "longitude": 126.75,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "021km N 80Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.75,
+          7.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:34 PM",
+        "time_24": "22:34",
+        "latitude": 10.08,
+        "longitude": 122.39,
+        "depth_km": 2.0,
+        "magnitude": 1.8,
+        "location": "029km N 66Â° W of Cauayan (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.39,
+          10.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "10:33 PM",
+        "time_24": "22:33",
+        "latitude": 6.62,
+        "longitude": 125.81,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "030km S 84Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81,
+          6.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:52 PM",
+        "time_24": "21:52",
+        "latitude": 5.81,
+        "longitude": 125.42,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "023km S 40Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:51 PM",
+        "time_24": "21:51",
+        "latitude": 5.89,
+        "longitude": 125.42,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "018km S 58Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:40 PM",
+        "time_24": "21:40",
+        "latitude": 8.29,
+        "longitude": 127.15,
+        "depth_km": 3.0,
+        "magnitude": 4.1,
+        "location": "086km N 71Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.15,
+          8.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:23 PM",
+        "time_24": "21:23",
+        "latitude": 5.72,
+        "longitude": 126.29,
+        "depth_km": 105.0,
+        "magnitude": 2.2,
+        "location": "074km S 73Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "09:04 PM",
+        "time_24": "21:04",
+        "latitude": 8.7,
+        "longitude": 126.56,
+        "depth_km": 29.0,
+        "magnitude": 2.4,
+        "location": "031km S 69Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.56,
+          8.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "08:52 PM",
+        "time_24": "20:52",
+        "latitude": 6.2,
+        "longitude": 126.93,
+        "depth_km": 134.0,
+        "magnitude": 3.3,
+        "location": "108km S 62Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93,
+          6.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "08:45 PM",
+        "time_24": "20:45",
+        "latitude": 13.65,
+        "longitude": 124.72,
+        "depth_km": 3.0,
+        "magnitude": 2.2,
+        "location": "038km S 89Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72,
+          13.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "08:07 PM",
+        "time_24": "20:07",
+        "latitude": 13.63,
+        "longitude": 124.73,
+        "depth_km": 7.0,
+        "magnitude": 2.3,
+        "location": "039km S 86Â° E of Baras (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.73,
+          13.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "08:06 PM",
+        "time_24": "20:06",
+        "latitude": 19.06,
+        "longitude": 121.72,
+        "depth_km": 23.0,
+        "magnitude": 2.7,
+        "location": "023km N 43Â° W of Camiguin Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.72,
+          19.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "07:56 PM",
+        "time_24": "19:56",
+        "latitude": 3.58,
+        "longitude": 125.74,
+        "depth_km": 2.0,
+        "magnitude": 3.5,
+        "location": "206km S 10Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          3.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "07:25 PM",
+        "time_24": "19:25",
+        "latitude": 5.8,
+        "longitude": 125.7,
+        "depth_km": 15.0,
+        "magnitude": 2.2,
+        "location": "013km S 27Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "06:48 PM",
+        "time_24": "18:48",
+        "latitude": 5.38,
+        "longitude": 125.14,
+        "depth_km": 39.0,
+        "magnitude": 3.4,
+        "location": "031km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "06:47 PM",
+        "time_24": "18:47",
+        "latitude": 7.4,
+        "longitude": 126.74,
+        "depth_km": 17.0,
+        "magnitude": 2.0,
+        "location": "020km N 68Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74,
+          7.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "06:36 PM",
+        "time_24": "18:36",
+        "latitude": 10.89,
+        "longitude": 125.59,
+        "depth_km": 6.0,
+        "magnitude": 3.0,
+        "location": "021km S 43Â° W of Guiuan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.59,
+          10.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "06:19 PM",
+        "time_24": "18:19",
+        "latitude": 9.89,
+        "longitude": 123.1,
+        "depth_km": 32.0,
+        "magnitude": 1.8,
+        "location": "005km N 58Â° W of Ayungon (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1,
+          9.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "06:00 PM",
+        "time_24": "18:00",
+        "latitude": 6.04,
+        "longitude": 125.46,
+        "depth_km": 56.0,
+        "magnitude": 1.8,
+        "location": "020km S 69Â° E of Alabel (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46,
+          6.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "05:44 PM",
+        "time_24": "17:44",
+        "latitude": 5.6,
+        "longitude": 125.34,
+        "depth_km": 28.0,
+        "magnitude": 1.5,
+        "location": "020km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "05:11 PM",
+        "time_24": "17:11",
+        "latitude": 6.41,
+        "longitude": 126.29,
+        "depth_km": 24.0,
+        "magnitude": 2.7,
+        "location": "036km S 42Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          6.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 September 2026",
+        "time": "05:09 PM",
+        "time_24": "17:09",
+        "latitude": 11.1,
+        "longitude": 124.09,
+        "depth_km": 4.0,
+        "magnitude": 3.1,
+        "location": "014km N 64Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          11.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -348,17 +848,17 @@
         "date": "29 September 2026",
         "time": "08:32 AM",
         "time_24": "08:32",
-        "latitude": 6.14,
-        "longitude": 125.76,
-        "depth_km": 141.0,
-        "magnitude": 3.0,
-        "location": "010km S 51Â° E of Don Marcelino (Davao Occidental)"
+        "latitude": 6.12,
+        "longitude": 125.73,
+        "depth_km": 137.0,
+        "magnitude": 2.7,
+        "location": "010km S 23Â° E of Don Marcelino (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.76,
-          6.14
+          125.73,
+          6.12
         ]
       }
     },
@@ -388,17 +888,17 @@
         "date": "29 September 2026",
         "time": "06:57 AM",
         "time_24": "06:57",
-        "latitude": 5.62,
-        "longitude": 125.33,
-        "depth_km": 8.0,
-        "magnitude": 2.3,
-        "location": "023km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.63,
+        "longitude": 125.32,
+        "depth_km": 9.0,
+        "magnitude": 2.4,
+        "location": "024km N 44Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.62
+          125.32,
+          5.63
         ]
       }
     },
@@ -428,17 +928,17 @@
         "date": "29 September 2026",
         "time": "06:28 AM",
         "time_24": "06:28",
-        "latitude": 9.67,
-        "longitude": 126.21,
-        "depth_km": 32.0,
+        "latitude": 9.73,
+        "longitude": 126.24,
+        "depth_km": 26.0,
         "magnitude": 2.2,
-        "location": "014km S 26Â° E of General Luna (Surigao Del Norte)"
+        "location": "011km S 56Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.21,
-          9.67
+          126.24,
+          9.73
         ]
       }
     },
@@ -468,17 +968,17 @@
         "date": "29 September 2026",
         "time": "05:31 AM",
         "time_24": "05:31",
-        "latitude": 6.53,
-        "longitude": 123.84,
-        "depth_km": 2.0,
+        "latitude": 6.44,
+        "longitude": 123.74,
+        "depth_km": 4.0,
         "magnitude": 3.0,
-        "location": "023km S 84Â° W of Kalamansig (Sultan Kudarat)"
+        "location": "037km S 69Â° W of Kalamansig (Sultan Kudarat)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.84,
-          6.53
+          123.74,
+          6.44
         ]
       }
     },
@@ -508,17 +1008,17 @@
         "date": "29 September 2026",
         "time": "05:07 AM",
         "time_24": "05:07",
-        "latitude": 5.99,
-        "longitude": 125.4,
-        "depth_km": 23.0,
-        "magnitude": 1.6,
-        "location": "012km N 80Â° E of Malapatan (Sarangani)"
+        "latitude": 5.81,
+        "longitude": 125.34,
+        "depth_km": 20.0,
+        "magnitude": 1.8,
+        "location": "015km S 84Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.4,
-          5.99
+          125.34,
+          5.81
         ]
       }
     },
@@ -548,17 +1048,17 @@
         "date": "29 September 2026",
         "time": "04:46 AM",
         "time_24": "04:46",
-        "latitude": 16.85,
-        "longitude": 122.09,
-        "depth_km": 15.0,
+        "latitude": 16.82,
+        "longitude": 122.12,
+        "depth_km": 22.0,
         "magnitude": 2.4,
-        "location": "017km S 34Â° E of San Mariano (Isabela)"
+        "location": "022km S 35Â° E of San Mariano (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.09,
-          16.85
+          122.12,
+          16.82
         ]
       }
     },
@@ -568,17 +1068,17 @@
         "date": "29 September 2026",
         "time": "04:29 AM",
         "time_24": "04:29",
-        "latitude": 11.42,
-        "longitude": 123.04,
-        "depth_km": 39.0,
+        "latitude": 11.51,
+        "longitude": 122.9,
+        "depth_km": 31.0,
         "magnitude": 2.0,
-        "location": "008km S 32Â° E of Pilar (Capiz)"
+        "location": "011km N 75Â° W of Pilar (Capiz)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.04,
-          11.42
+          122.9,
+          11.51
         ]
       }
     },
@@ -608,17 +1108,17 @@
         "date": "29 September 2026",
         "time": "03:58 AM",
         "time_24": "03:58",
-        "latitude": 7.51,
-        "longitude": 126.7,
-        "depth_km": 27.0,
-        "magnitude": 1.9,
-        "location": "016km S 65Â° E of Baganga (Davao Oriental)"
+        "latitude": 7.75,
+        "longitude": 126.62,
+        "depth_km": 16.0,
+        "magnitude": 2.0,
+        "location": "020km N 18Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.7,
-          7.51
+          126.62,
+          7.75
         ]
       }
     },
@@ -668,17 +1168,17 @@
         "date": "29 September 2026",
         "time": "03:17 AM",
         "time_24": "03:17",
-        "latitude": 9.71,
-        "longitude": 126.26,
-        "depth_km": 30.0,
-        "magnitude": 2.4,
-        "location": "014km S 57Â° E of General Luna (Surigao Del Norte)"
+        "latitude": 9.75,
+        "longitude": 126.36,
+        "depth_km": 22.0,
+        "magnitude": 2.2,
+        "location": "022km S 82Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.26,
-          9.71
+          126.36,
+          9.75
         ]
       }
     },
@@ -688,17 +1188,17 @@
         "date": "29 September 2026",
         "time": "02:51 AM",
         "time_24": "02:51",
-        "latitude": 6.76,
-        "longitude": 124.7,
-        "depth_km": 12.0,
+        "latitude": 6.74,
+        "longitude": 124.68,
+        "depth_km": 13.0,
         "magnitude": 2.4,
-        "location": "008km N 27Â° W of President Quirino (Sultan Kudarat)"
+        "location": "007km N 49Â° W of President Quirino (Sultan Kudarat)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.7,
-          6.76
+          124.68,
+          6.74
         ]
       }
     },
@@ -708,17 +1208,17 @@
         "date": "29 September 2026",
         "time": "02:50 AM",
         "time_24": "02:50",
-        "latitude": 10.27,
-        "longitude": 123.2,
-        "depth_km": 33.0,
-        "magnitude": 1.6,
-        "location": "013km S 09Â° W of City Of Canlaon (Negros Oriental)"
+        "latitude": 10.3,
+        "longitude": 123.13,
+        "depth_km": 10.0,
+        "magnitude": 1.8,
+        "location": "013km S 45Â° W of City Of Canlaon (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.2,
-          10.27
+          123.13,
+          10.3
         ]
       }
     },
@@ -748,17 +1248,17 @@
         "date": "29 September 2026",
         "time": "02:46 AM",
         "time_24": "02:46",
-        "latitude": 15.1,
-        "longitude": 122.05,
-        "depth_km": 28.0,
-        "magnitude": 2.6,
-        "location": "030km N 17Â° E of Burdeos (Quezon)"
+        "latitude": 15.18,
+        "longitude": 122.07,
+        "depth_km": 18.0,
+        "magnitude": 2.5,
+        "location": "039km N 16Â° E of Burdeos (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.05,
-          15.1
+          122.07,
+          15.18
         ]
       }
     },
@@ -768,17 +1268,17 @@
         "date": "29 September 2026",
         "time": "02:42 AM",
         "time_24": "02:42",
-        "latitude": 5.64,
-        "longitude": 125.4,
-        "depth_km": 78.0,
-        "magnitude": 2.3,
-        "location": "020km N 24Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.44,
+        "longitude": 125.28,
+        "depth_km": 43.0,
+        "magnitude": 2.2,
+        "location": "022km S 81Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.4,
-          5.64
+          125.28,
+          5.44
         ]
       }
     },
@@ -788,17 +1288,17 @@
         "date": "29 September 2026",
         "time": "02:41 AM",
         "time_24": "02:41",
-        "latitude": 9.88,
-        "longitude": 126.63,
-        "depth_km": 9.0,
+        "latitude": 9.86,
+        "longitude": 126.7,
+        "depth_km": 11.0,
         "magnitude": 3.3,
-        "location": "053km N 78Â° E of General Luna (Surigao Del Norte)"
+        "location": "061km N 82Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.63,
-          9.88
+          126.7,
+          9.86
         ]
       }
     },
@@ -828,17 +1328,17 @@
         "date": "29 September 2026",
         "time": "02:38 AM",
         "time_24": "02:38",
-        "latitude": 19.2,
-        "longitude": 121.41,
-        "depth_km": 2.0,
-        "magnitude": 3.1,
-        "location": "010km S 41Â° W of Calayan (Cagayan)"
+        "latitude": 19.46,
+        "longitude": 121.51,
+        "depth_km": 17.0,
+        "magnitude": 3.4,
+        "location": "022km N 09Â° E of Calayan (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.41,
-          19.2
+          121.51,
+          19.46
         ]
       }
     },
@@ -868,17 +1368,17 @@
         "date": "29 September 2026",
         "time": "01:54 AM",
         "time_24": "01:54",
-        "latitude": 9.65,
-        "longitude": 126.24,
-        "depth_km": 30.0,
+        "latitude": 9.79,
+        "longitude": 126.51,
+        "depth_km": 17.0,
         "magnitude": 2.4,
-        "location": "017km S 32Â° E of General Luna (Surigao Del Norte)"
+        "location": "038km N 89Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.24,
-          9.65
+          126.51,
+          9.79
         ]
       }
     },
@@ -888,17 +1388,17 @@
         "date": "29 September 2026",
         "time": "01:27 AM",
         "time_24": "01:27",
-        "latitude": 18.9,
-        "longitude": 121.14,
-        "depth_km": 8.0,
-        "magnitude": 2.7,
-        "location": "024km S 18Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 18.95,
+        "longitude": 121.04,
+        "depth_km": 6.0,
+        "magnitude": 2.8,
+        "location": "024km S 46Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.14,
-          18.9
+          121.04,
+          18.95
         ]
       }
     },
@@ -908,17 +1408,17 @@
         "date": "29 September 2026",
         "time": "01:24 AM",
         "time_24": "01:24",
-        "latitude": 4.5,
-        "longitude": 125.22,
-        "depth_km": 35.0,
-        "magnitude": 3.5,
-        "location": "104km S 13Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 4.4,
+        "longitude": 125.27,
+        "depth_km": 30.0,
+        "magnitude": 3.6,
+        "location": "114km S 09Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.22,
-          4.5
+          125.27,
+          4.4
         ]
       }
     },
@@ -928,17 +1428,17 @@
         "date": "29 September 2026",
         "time": "01:18 AM",
         "time_24": "01:18",
-        "latitude": 5.26,
-        "longitude": 125.43,
-        "depth_km": 33.0,
-        "magnitude": 2.9,
-        "location": "016km S 04Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.3,
+        "longitude": 125.47,
+        "depth_km": 45.0,
+        "magnitude": 3.0,
+        "location": "014km S 22Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.26
+          125.47,
+          5.3
         ]
       }
     },
@@ -948,17 +1448,17 @@
         "date": "29 September 2026",
         "time": "12:33 AM",
         "time_24": "00:33",
-        "latitude": 19.6,
-        "longitude": 121.52,
-        "depth_km": 5.0,
-        "magnitude": 2.6,
-        "location": "037km N 07Â° E of Calayan (Cagayan)"
+        "latitude": 19.49,
+        "longitude": 121.59,
+        "depth_km": 14.0,
+        "magnitude": 3.5,
+        "location": "028km N 25Â° E of Calayan (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.52,
-          19.6
+          121.59,
+          19.49
         ]
       }
     },
@@ -968,17 +1468,17 @@
         "date": "29 September 2026",
         "time": "12:21 AM",
         "time_24": "00:21",
-        "latitude": 5.76,
-        "longitude": 125.19,
-        "depth_km": 27.0,
-        "magnitude": 2.5,
-        "location": "007km S 09Â° W of Glan (Sarangani)"
+        "latitude": 5.77,
+        "longitude": 125.18,
+        "depth_km": 11.0,
+        "magnitude": 2.8,
+        "location": "006km S 30Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.19,
-          5.76
+          125.18,
+          5.77
         ]
       }
     },
@@ -1008,17 +1508,17 @@
         "date": "28 September 2026",
         "time": "11:56 PM",
         "time_24": "23:56",
-        "latitude": 8.02,
-        "longitude": 126.8,
-        "depth_km": 23.0,
+        "latitude": 8.08,
+        "longitude": 126.74,
+        "depth_km": 17.0,
         "magnitude": 3.5,
-        "location": "042km S 88Â° E of Lingig (Surigao Del Sur)"
+        "location": "036km N 83Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.8,
-          8.02
+          126.74,
+          8.08
         ]
       }
     },
@@ -1028,17 +1528,17 @@
         "date": "28 September 2026",
         "time": "11:52 PM",
         "time_24": "23:52",
-        "latitude": 18.65,
-        "longitude": 120.71,
-        "depth_km": 32.0,
-        "magnitude": 1.7,
-        "location": "013km N 27Â° W of Bangui (Ilocos Norte)"
+        "latitude": 18.5,
+        "longitude": 120.87,
+        "depth_km": 29.0,
+        "magnitude": 1.8,
+        "location": "005km N 35Â° W of Adams (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.71,
-          18.65
+          120.87,
+          18.5
         ]
       }
     },
@@ -1088,17 +1588,17 @@
         "date": "28 September 2026",
         "time": "11:36 PM",
         "time_24": "23:36",
-        "latitude": 15.67,
-        "longitude": 120.53,
-        "depth_km": 169.0,
+        "latitude": 15.78,
+        "longitude": 120.46,
+        "depth_km": 170.0,
         "magnitude": 2.2,
-        "location": "006km N 88Â° W of Paniqui (Tarlac)"
+        "location": "003km S 04Â° E of Bayambang (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.53,
-          15.67
+          120.46,
+          15.78
         ]
       }
     },
@@ -1109,15 +1609,15 @@
         "time": "11:16 PM",
         "time_24": "23:16",
         "latitude": 16.88,
-        "longitude": 119.85,
-        "depth_km": 12.0,
-        "magnitude": 2.6,
-        "location": "056km N 72Â° W of Bacnotan (La Union)"
+        "longitude": 119.84,
+        "depth_km": 20.0,
+        "magnitude": 3.1,
+        "location": "055km N 05Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.85,
+          119.84,
           16.88
         ]
       }
@@ -1128,17 +1628,17 @@
         "date": "28 September 2026",
         "time": "11:01 PM",
         "time_24": "23:01",
-        "latitude": 5.38,
-        "longitude": 127.09,
-        "depth_km": 70.0,
-        "magnitude": 4.4,
-        "location": "171km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.48,
+        "longitude": 127.1,
+        "depth_km": 55.0,
+        "magnitude": 4.7,
+        "location": "168km S 73Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.09,
-          5.38
+          127.1,
+          5.48
         ]
       }
     },
@@ -1146,19 +1646,19 @@
       "type": "Feature",
       "properties": {
         "date": "28 September 2026",
-        "time": "10:44 PM",
-        "time_24": "22:44",
-        "latitude": 5.14,
-        "longitude": 125.43,
-        "depth_km": 49.0,
+        "time": "10:43 PM",
+        "time_24": "22:43",
+        "latitude": 4.91,
+        "longitude": 125.4,
+        "depth_km": 15.0,
         "magnitude": 3.3,
-        "location": "030km S 01Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "056km S 02Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.43,
-          5.14
+          125.4,
+          4.91
         ]
       }
     },
@@ -1168,17 +1668,17 @@
         "date": "28 September 2026",
         "time": "10:10 PM",
         "time_24": "22:10",
-        "latitude": 6.24,
-        "longitude": 124.69,
-        "depth_km": 15.0,
+        "latitude": 6.18,
+        "longitude": 124.66,
+        "depth_km": 16.0,
         "magnitude": 2.6,
-        "location": "015km N 79Â° W of T'boli (South Cotabato)"
+        "location": "019km S 76Â° W of T'boli (South Cotabato)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.69,
-          6.24
+          124.66,
+          6.18
         ]
       }
     },
@@ -1208,17 +1708,17 @@
         "date": "28 September 2026",
         "time": "08:37 PM",
         "time_24": "20:37",
-        "latitude": 13.26,
-        "longitude": 123.84,
-        "depth_km": 30.0,
+        "latitude": 13.29,
+        "longitude": 123.96,
+        "depth_km": 34.0,
         "magnitude": 1.6,
-        "location": "007km S 52Â° E of Bacacay (Albay)"
+        "location": "019km S 89Â° E of Bacacay (Albay)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.84,
-          13.26
+          123.96,
+          13.29
         ]
       }
     },
@@ -1248,17 +1748,17 @@
         "date": "28 September 2026",
         "time": "07:35 PM",
         "time_24": "19:35",
-        "latitude": 16.55,
-        "longitude": 119.1,
-        "depth_km": 25.0,
+        "latitude": 16.56,
+        "longitude": 119.16,
+        "depth_km": 19.0,
         "magnitude": 3.0,
-        "location": "087km N 78Â° W of Bolinao (Pangasinan)"
+        "location": "081km N 77Â° W of Bolinao (Pangasinan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.1,
-          16.55
+          119.16,
+          16.56
         ]
       }
     },
@@ -1308,17 +1808,17 @@
         "date": "28 September 2026",
         "time": "06:50 PM",
         "time_24": "18:50",
-        "latitude": 19.21,
-        "longitude": 121.09,
-        "depth_km": 17.0,
-        "magnitude": 1.6,
-        "location": "016km N 49Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.51,
+        "longitude": 120.63,
+        "depth_km": 18.0,
+        "magnitude": 1.7,
+        "location": "075km N 53Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.09,
-          19.21
+          120.63,
+          19.51
         ]
       }
     },
