@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-09-29T23:46:50.666892+00:00",
+  "generated_at": "2026-09-30T02:28:26.026385+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 September 2026",
+        "time": "09:55 AM",
+        "time_24": "09:55",
+        "latitude": 13.21,
+        "longitude": 120.32,
+        "depth_km": 25.0,
+        "magnitude": 2.4,
+        "location": "027km S 34Â° W of Paluan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32,
+          13.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 September 2026",
+        "time": "09:34 AM",
+        "time_24": "09:34",
+        "latitude": 13.19,
+        "longitude": 120.38,
+        "depth_km": 10.0,
+        "magnitude": 5.0,
+        "location": "023km S 80Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38,
+          13.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 September 2026",
+        "time": "07:58 AM",
+        "time_24": "07:58",
+        "latitude": 7.68,
+        "longitude": 124.72,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "004km N 07Â° W of Wao (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72,
+          7.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 September 2026",
+        "time": "07:56 AM",
+        "time_24": "07:56",
+        "latitude": 4.83,
+        "longitude": 125.64,
+        "depth_km": 10.0,
+        "magnitude": 2.4,
+        "location": "067km S 21Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64,
+          4.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 September 2026",
+        "time": "07:55 AM",
+        "time_24": "07:55",
+        "latitude": 6.42,
+        "longitude": 124.03,
+        "depth_km": 9.0,
+        "magnitude": 1.6,
+        "location": "016km S 08Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.03,
+          6.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1368,17 +1468,17 @@
         "date": "29 September 2026",
         "time": "01:17 PM",
         "time_24": "13:17",
-        "latitude": 13.74,
-        "longitude": 120.24,
-        "depth_km": 68.0,
+        "latitude": 13.91,
+        "longitude": 120.43,
+        "depth_km": 77.0,
         "magnitude": 2.0,
-        "location": "002km N 26Â° W of Looc (Occidental Mindoro)"
+        "location": "024km N 70Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.24,
-          13.74
+          120.43,
+          13.91
         ]
       }
     },
@@ -1388,17 +1488,17 @@
         "date": "29 September 2026",
         "time": "12:54 PM",
         "time_24": "12:54",
-        "latitude": 15.53,
-        "longitude": 119.86,
-        "depth_km": 18.0,
+        "latitude": 15.58,
+        "longitude": 119.71,
+        "depth_km": 30.0,
         "magnitude": 1.5,
-        "location": "010km N 89Â° W of Masinloc (Zambales)"
+        "location": "024km S 77Â° W of Candelaria (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.86,
-          15.53
+          119.71,
+          15.58
         ]
       }
     },
@@ -1408,17 +1508,17 @@
         "date": "29 September 2026",
         "time": "11:28 AM",
         "time_24": "11:28",
-        "latitude": 5.88,
+        "latitude": 5.77,
         "longitude": 125.32,
-        "depth_km": 11.0,
-        "magnitude": 1.7,
-        "location": "011km S 19Â° E of Malapatan (Sarangani)"
+        "depth_km": 5.0,
+        "magnitude": 2.0,
+        "location": "014km S 65Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.32,
-          5.88
+          5.77
         ]
       }
     },
@@ -1448,17 +1548,17 @@
         "date": "29 September 2026",
         "time": "10:25 AM",
         "time_24": "10:25",
-        "latitude": 7.31,
-        "longitude": 121.51,
-        "depth_km": 30.0,
+        "latitude": 7.29,
+        "longitude": 121.53,
+        "depth_km": 16.0,
         "magnitude": 2.7,
-        "location": "062km N 89Â° W of Sibuco (Zamboanga Del Norte)"
+        "location": "059km S 90Â° W of Sibuco (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.51,
-          7.31
+          121.53,
+          7.29
         ]
       }
     },
@@ -1468,17 +1568,17 @@
         "date": "29 September 2026",
         "time": "10:16 AM",
         "time_24": "10:16",
-        "latitude": 12.96,
-        "longitude": 123.08,
-        "depth_km": 8.0,
-        "magnitude": 1.8,
-        "location": "019km N 70Â° W of Claveria (Masbate)"
+        "latitude": 12.88,
+        "longitude": 123.01,
+        "depth_km": 13.0,
+        "magnitude": 2.0,
+        "location": "026km S 86Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.08,
-          12.96
+          123.01,
+          12.88
         ]
       }
     },
