@@ -1,7 +1,247 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-01T17:44:28.524726+00:00",
+  "generated_at": "2026-10-01T22:00:51.262253+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "05:30 AM",
+        "time_24": "05:30",
+        "latitude": 10.46,
+        "longitude": 125.2,
+        "depth_km": 8.0,
+        "magnitude": 2.7,
+        "location": "007km N 03Â° E of Hinunangan (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          10.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "05:26 AM",
+        "time_24": "05:26",
+        "latitude": 12.71,
+        "longitude": 123.64,
+        "depth_km": 20.0,
+        "magnitude": 2.0,
+        "location": "008km N 22Â° W of Monreal (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.64,
+          12.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "04:55 AM",
+        "time_24": "04:55",
+        "latitude": 7.03,
+        "longitude": 125.91,
+        "depth_km": 9.0,
+        "magnitude": 2.7,
+        "location": "011km S 06Â° E of Pantukan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.91,
+          7.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 9.37,
+        "longitude": 126.62,
+        "depth_km": 5.0,
+        "magnitude": 2.7,
+        "location": "048km N 77Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.62,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "04:13 AM",
+        "time_24": "04:13",
+        "latitude": 15.57,
+        "longitude": 119.55,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "042km S 82Â° W of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.55,
+          15.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "04:11 AM",
+        "time_24": "04:11",
+        "latitude": 10.36,
+        "longitude": 121.97,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "010km S 32Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97,
+          10.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "04:04 AM",
+        "time_24": "04:04",
+        "latitude": 10.46,
+        "longitude": 123.1,
+        "depth_km": 3.0,
+        "magnitude": 2.6,
+        "location": "015km N 57Â° W of City Of Canlaon (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1,
+          10.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "03:16 AM",
+        "time_24": "03:16",
+        "latitude": 20.73,
+        "longitude": 121.23,
+        "depth_km": 29.0,
+        "magnitude": 2.5,
+        "location": "064km S 84Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.23,
+          20.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "02:57 AM",
+        "time_24": "02:57",
+        "latitude": 5.64,
+        "longitude": 125.31,
+        "depth_km": 20.0,
+        "magnitude": 2.7,
+        "location": "023km S 29Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "02:34 AM",
+        "time_24": "02:34",
+        "latitude": 5.52,
+        "longitude": 125.22,
+        "depth_km": 22.0,
+        "magnitude": 1.7,
+        "location": "025km N 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "02:10 AM",
+        "time_24": "02:10",
+        "latitude": 10.43,
+        "longitude": 123.02,
+        "depth_km": 4.0,
+        "magnitude": 2.9,
+        "location": "011km N 89Â° E of City Of La Carlota (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02,
+          10.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "02:07 AM",
+        "time_24": "02:07",
+        "latitude": 8.67,
+        "longitude": 126.75,
+        "depth_km": 6.0,
+        "magnitude": 2.6,
+        "location": "052km S 74Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.75,
+          8.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
