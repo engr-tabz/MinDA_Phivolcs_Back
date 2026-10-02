@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-02T01:36:50.472697+00:00",
+  "generated_at": "2026-10-02T07:31:09.559151+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "02:39 PM",
+        "time_24": "14:39",
+        "latitude": 14.68,
+        "longitude": 119.44,
+        "depth_km": 9.0,
+        "magnitude": 3.1,
+        "location": "076km S 67Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44,
+          14.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "01:43 PM",
+        "time_24": "13:43",
+        "latitude": 14.61,
+        "longitude": 119.38,
+        "depth_km": 3.0,
+        "magnitude": 3.1,
+        "location": "085km S 64Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.38,
+          14.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "01:38 PM",
+        "time_24": "13:38",
+        "latitude": 2.46,
+        "longitude": 126.61,
+        "depth_km": 19.0,
+        "magnitude": 4.2,
+        "location": "344km S 22Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61,
+          2.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "01:14 PM",
+        "time_24": "13:14",
+        "latitude": 19.28,
+        "longitude": 121.13,
+        "depth_km": 2.0,
+        "magnitude": 2.7,
+        "location": "020km N 22Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.13,
+          19.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "12:53 PM",
+        "time_24": "12:53",
+        "latitude": 15.46,
+        "longitude": 121.78,
+        "depth_km": 6.0,
+        "magnitude": 1.8,
+        "location": "040km S 44Â° E of San Luis (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.78,
+          15.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "12:44 PM",
+        "time_24": "12:44",
+        "latitude": 14.61,
+        "longitude": 119.37,
+        "depth_km": 10.0,
+        "magnitude": 2.7,
+        "location": "086km S 64Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.37,
+          14.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "12:29 PM",
+        "time_24": "12:29",
+        "latitude": 14.69,
+        "longitude": 119.5,
+        "depth_km": 16.0,
+        "magnitude": 2.1,
+        "location": "069km S 66Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5,
+          14.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "12:08 PM",
+        "time_24": "12:08",
+        "latitude": 12.82,
+        "longitude": 124.69,
+        "depth_km": 49.0,
+        "magnitude": 2.2,
+        "location": "034km N 10Â° W of Mondragon (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "11:33 AM",
+        "time_24": "11:33",
+        "latitude": 5.74,
+        "longitude": 125.25,
+        "depth_km": 17.0,
+        "magnitude": 2.0,
+        "location": "010km S 28Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "11:03 AM",
+        "time_24": "11:03",
+        "latitude": 15.42,
+        "longitude": 121.76,
+        "depth_km": 4.0,
+        "magnitude": 2.0,
+        "location": "040km N 85Â° E of Dingalan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.76,
+          15.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 October 2026",
+        "time": "09:52 AM",
+        "time_24": "09:52",
+        "latitude": 15.91,
+        "longitude": 121.81,
+        "depth_km": 2.0,
+        "magnitude": 1.8,
+        "location": "030km S 31Â° W of Dinalungan (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.81,
+          15.91
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -428,17 +648,17 @@
         "date": "01 October 2026",
         "time": "10:43 PM",
         "time_24": "22:43",
-        "latitude": 13.13,
-        "longitude": 120.4,
-        "depth_km": 33.0,
+        "latitude": 13.17,
+        "longitude": 120.44,
+        "depth_km": 36.0,
         "magnitude": 4.0,
-        "location": "024km S 63Â° W of Mamburao (Occidental Mindoro)"
+        "location": "018km S 69Â° W of Mamburao (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.4,
-          13.13
+          120.44,
+          13.17
         ]
       }
     },
@@ -668,17 +888,17 @@
         "date": "01 October 2026",
         "time": "04:29 PM",
         "time_24": "16:29",
-        "latitude": 11.21,
-        "longitude": 124.14,
-        "depth_km": 6.0,
-        "magnitude": 2.1,
-        "location": "016km S 74Â° E of Daanbantayan (Cebu)"
+        "latitude": 11.17,
+        "longitude": 124.15,
+        "depth_km": 5.0,
+        "magnitude": 2.4,
+        "location": "019km S 62Â° E of Daanbantayan (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.14,
-          11.21
+          124.15,
+          11.17
         ]
       }
     },
@@ -748,17 +968,17 @@
         "date": "01 October 2026",
         "time": "02:56 PM",
         "time_24": "14:56",
-        "latitude": 10.63,
+        "latitude": 10.67,
         "longitude": 122.53,
-        "depth_km": 20.0,
+        "depth_km": 22.0,
         "magnitude": 2.0,
-        "location": "008km S 60Â° W of Jordan (Guimaras)"
+        "location": "006km N 81Â° W of Jordan (Guimaras)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           122.53,
-          10.63
+          10.67
         ]
       }
     },
