@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-04T23:33:14.297361+00:00",
+  "generated_at": "2026-10-05T02:22:00.475179+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 October 2026",
+        "time": "10:04 AM",
+        "time_24": "10:04",
+        "latitude": 10.89,
+        "longitude": 123.98,
+        "depth_km": 10.0,
+        "magnitude": 2.3,
+        "location": "017km S 01Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98,
+          10.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 October 2026",
+        "time": "08:04 AM",
+        "time_24": "08:04",
+        "latitude": 14.37,
+        "longitude": 121.33,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "001km N 13Â° E of Jala-jala (Rizal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33,
+          14.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 October 2026",
+        "time": "07:27 AM",
+        "time_24": "07:27",
+        "latitude": 5.37,
+        "longitude": 125.4,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "005km S 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.37
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1048,17 +1108,17 @@
         "date": "04 October 2026",
         "time": "10:43 AM",
         "time_24": "10:43",
-        "latitude": 13.68,
-        "longitude": 120.44,
+        "latitude": 13.63,
+        "longitude": 120.38,
         "depth_km": 12.0,
         "magnitude": 2.5,
-        "location": "022km S 77Â° E of Looc (Occidental Mindoro)"
+        "location": "017km S 54Â° E of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.44,
-          13.68
+          120.38,
+          13.63
         ]
       }
     },
