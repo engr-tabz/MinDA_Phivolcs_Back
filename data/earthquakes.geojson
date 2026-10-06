@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-06T19:05:41.110241+00:00",
+  "generated_at": "2026-10-06T23:01:58.478723+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "06:24 AM",
+        "time_24": "06:24",
+        "latitude": 11.51,
+        "longitude": 126.27,
+        "depth_km": 2.0,
+        "magnitude": 2.9,
+        "location": "073km N 75Â° E of Hernani (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          11.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "06:16 AM",
+        "time_24": "06:16",
+        "latitude": 12.62,
+        "longitude": 121.78,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "029km N 83Â° E of Roxas (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.78,
+          12.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "05:19 AM",
+        "time_24": "05:19",
+        "latitude": 6.44,
+        "longitude": 126.34,
+        "depth_km": 53.0,
+        "magnitude": 2.3,
+        "location": "038km S 51Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          6.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "04:23 AM",
+        "time_24": "04:23",
+        "latitude": 5.61,
+        "longitude": 125.33,
+        "depth_km": 26.0,
+        "magnitude": 2.4,
+        "location": "021km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "04:16 AM",
+        "time_24": "04:16",
+        "latitude": 8.06,
+        "longitude": 124.4,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "002km S 26Â° W of Tagoloan Ii (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4,
+          8.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "04:14 AM",
+        "time_24": "04:14",
+        "latitude": 6.36,
+        "longitude": 126.97,
+        "depth_km": 188.0,
+        "magnitude": 2.8,
+        "location": "096km S 37Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97,
+          6.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:59 AM",
+        "time_24": "03:59",
+        "latitude": 3.38,
+        "longitude": 122.82,
+        "depth_km": 542.0,
+        "magnitude": 3.4,
+        "location": "319km S 21Â° E of Tongkil (Sulu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.82,
+          3.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:51 AM",
+        "time_24": "03:51",
+        "latitude": 5.31,
+        "longitude": 125.32,
+        "depth_km": 11.0,
+        "magnitude": 2.1,
+        "location": "018km S 34Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:30 AM",
+        "time_24": "03:30",
+        "latitude": 10.97,
+        "longitude": 123.89,
+        "depth_km": 18.0,
+        "magnitude": 2.3,
+        "location": "012km S 50Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.89,
+          10.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:17 AM",
+        "time_24": "03:17",
+        "latitude": 18.99,
+        "longitude": 120.91,
+        "depth_km": 37.0,
+        "magnitude": 1.8,
+        "location": "035km S 68Â° W of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91,
+          18.99
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
