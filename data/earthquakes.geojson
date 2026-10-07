@@ -1,7 +1,327 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-07T16:07:46.521209+00:00",
+  "generated_at": "2026-10-07T21:17:31.857883+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "04:55 AM",
+        "time_24": "04:55",
+        "latitude": 11.07,
+        "longitude": 124.08,
+        "depth_km": 21.0,
+        "magnitude": 1.9,
+        "location": "011km N 74Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.08,
+          11.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "04:39 AM",
+        "time_24": "04:39",
+        "latitude": 6.1,
+        "longitude": 126.36,
+        "depth_km": 52.0,
+        "magnitude": 2.7,
+        "location": "069km S 28Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          6.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 17.68,
+        "longitude": 120.79,
+        "depth_km": 9.0,
+        "magnitude": 2.5,
+        "location": "006km S 83Â° E of San Juan (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79,
+          17.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "04:14 AM",
+        "time_24": "04:14",
+        "latitude": 8.21,
+        "longitude": 122.25,
+        "depth_km": 11.0,
+        "magnitude": 2.4,
+        "location": "031km N 34Â° W of Gutalac (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.25,
+          8.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "04:01 AM",
+        "time_24": "04:01",
+        "latitude": 15.59,
+        "longitude": 120.03,
+        "depth_km": 53.0,
+        "magnitude": 1.8,
+        "location": "010km N 54Â° E of Masinloc (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.03,
+          15.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "03:31 AM",
+        "time_24": "03:31",
+        "latitude": 9.64,
+        "longitude": 126.46,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "037km S 65Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.46,
+          9.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "02:53 AM",
+        "time_24": "02:53",
+        "latitude": 19.48,
+        "longitude": 121.51,
+        "depth_km": 17.0,
+        "magnitude": 2.4,
+        "location": "025km N 09Â° E of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51,
+          19.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "02:27 AM",
+        "time_24": "02:27",
+        "latitude": 13.11,
+        "longitude": 124.19,
+        "depth_km": 24.0,
+        "magnitude": 1.6,
+        "location": "008km N 01Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.19,
+          13.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "02:08 AM",
+        "time_24": "02:08",
+        "latitude": 12.98,
+        "longitude": 120.61,
+        "depth_km": 50.0,
+        "magnitude": 2.0,
+        "location": "017km S 47Â° W of Santa Cruz (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          12.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "01:52 AM",
+        "time_24": "01:52",
+        "latitude": 5.62,
+        "longitude": 125.38,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "019km N 30Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "01:43 AM",
+        "time_24": "01:43",
+        "latitude": 7.47,
+        "longitude": 127.0,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "050km S 77Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          7.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "01:06 AM",
+        "time_24": "01:06",
+        "latitude": 6.63,
+        "longitude": 126.38,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "035km S 86Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          6.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "12:58 AM",
+        "time_24": "00:58",
+        "latitude": 16.68,
+        "longitude": 120.56,
+        "depth_km": 121.0,
+        "magnitude": 4.0,
+        "location": "010km S 79Â° W of Kibungan (Benguet)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          16.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "12:57 AM",
+        "time_24": "00:57",
+        "latitude": 7.9,
+        "longitude": 126.58,
+        "depth_km": 24.0,
+        "magnitude": 2.9,
+        "location": "018km N 51Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          7.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "12:42 AM",
+        "time_24": "00:42",
+        "latitude": 5.21,
+        "longitude": 125.89,
+        "depth_km": 115.0,
+        "magnitude": 4.9,
+        "location": "057km S 67Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.89,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "12:12 AM",
+        "time_24": "00:12",
+        "latitude": 7.7,
+        "longitude": 126.99,
+        "depth_km": 17.0,
+        "magnitude": 1.8,
+        "location": "049km N 73Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99,
+          7.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -408,17 +728,17 @@
         "date": "07 October 2026",
         "time": "11:02 AM",
         "time_24": "11:02",
-        "latitude": 11.18,
-        "longitude": 124.09,
+        "latitude": 11.19,
+        "longitude": 124.07,
         "depth_km": 8.0,
         "magnitude": 3.5,
-        "location": "019km N 38Â° E of City Of Bogo (Cebu)"
+        "location": "018km N 33Â° E of City Of Bogo (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.09,
-          11.18
+          124.07,
+          11.19
         ]
       }
     },
@@ -528,17 +848,17 @@
         "date": "07 October 2026",
         "time": "08:23 AM",
         "time_24": "08:23",
-        "latitude": 16.48,
+        "latitude": 16.45,
         "longitude": 120.56,
-        "depth_km": 17.0,
+        "depth_km": 13.0,
         "magnitude": 2.9,
-        "location": "005km N 46Â° W of La Trinidad (Benguet)"
+        "location": "003km West of La Trinidad (Benguet)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.56,
-          16.48
+          16.45
         ]
       }
     },
