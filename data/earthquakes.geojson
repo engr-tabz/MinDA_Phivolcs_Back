@@ -1,7 +1,247 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-07T02:17:44.554997+00:00",
+  "generated_at": "2026-10-07T08:53:59.123407+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:56 PM",
+        "time_24": "15:56",
+        "latitude": 17.84,
+        "longitude": 120.72,
+        "depth_km": 10.0,
+        "magnitude": 2.4,
+        "location": "009km S 34Â° E of Nueva Era (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72,
+          17.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "03:10 PM",
+        "time_24": "15:10",
+        "latitude": 5.95,
+        "longitude": 124.63,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "005km S 04Â° E of Kiamba (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63,
+          5.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "02:58 PM",
+        "time_24": "14:58",
+        "latitude": 6.83,
+        "longitude": 126.19,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "012km S 87Â° E of San Isidro (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.19,
+          6.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "02:10 PM",
+        "time_24": "14:10",
+        "latitude": 13.65,
+        "longitude": 120.83,
+        "depth_km": 4.0,
+        "magnitude": 2.2,
+        "location": "005km S 77Â° W of Tingloy (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.83,
+          13.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "01:57 PM",
+        "time_24": "13:57",
+        "latitude": 5.59,
+        "longitude": 126.72,
+        "depth_km": 53.0,
+        "magnitude": 2.9,
+        "location": "124km S 73Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.72,
+          5.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "01:53 PM",
+        "time_24": "13:53",
+        "latitude": 7.98,
+        "longitude": 126.88,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "052km N 66Â° E of Cateel (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.88,
+          7.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "01:06 PM",
+        "time_24": "13:06",
+        "latitude": 17.86,
+        "longitude": 120.7,
+        "depth_km": 7.0,
+        "magnitude": 1.7,
+        "location": "007km S 36Â° E of Nueva Era (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          17.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "12:46 PM",
+        "time_24": "12:46",
+        "latitude": 19.27,
+        "longitude": 121.47,
+        "depth_km": 17.0,
+        "magnitude": 1.6,
+        "location": "001km N 25Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          19.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "12:38 PM",
+        "time_24": "12:38",
+        "latitude": 6.56,
+        "longitude": 126.47,
+        "depth_km": 33.0,
+        "magnitude": 2.7,
+        "location": "045km S 77Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          6.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "11:16 AM",
+        "time_24": "11:16",
+        "latitude": 12.6,
+        "longitude": 121.78,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "027km N 70Â° W of San Andres (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.78,
+          12.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "11:02 AM",
+        "time_24": "11:02",
+        "latitude": 11.18,
+        "longitude": 124.09,
+        "depth_km": 8.0,
+        "magnitude": 3.5,
+        "location": "019km N 38Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09,
+          11.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "07 October 2026",
+        "time": "10:51 AM",
+        "time_24": "10:51",
+        "latitude": 9.64,
+        "longitude": 126.18,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "016km S 08Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          9.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -868,17 +1108,17 @@
         "date": "06 October 2026",
         "time": "09:11 PM",
         "time_24": "21:11",
-        "latitude": 5.3,
-        "longitude": 119.06,
-        "depth_km": 5.0,
+        "latitude": 5.01,
+        "longitude": 118.92,
+        "depth_km": 13.0,
         "magnitude": 5.0,
-        "location": "070km N 39Â° W of Sibutu (Tawi-tawi)"
+        "location": "062km N 73Â° W of Sibutu (Tawi-tawi)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.06,
-          5.3
+          118.92,
+          5.01
         ]
       }
     },
@@ -1228,17 +1468,17 @@
         "date": "06 October 2026",
         "time": "01:12 PM",
         "time_24": "13:12",
-        "latitude": 18.73,
-        "longitude": 120.77,
-        "depth_km": 28.0,
+        "latitude": 18.75,
+        "longitude": 120.72,
+        "depth_km": 16.0,
         "magnitude": 3.3,
-        "location": "019km N 05Â° W of Pagudpud (Ilocos Norte)"
+        "location": "022km N 19Â° W of Pagudpud (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.77,
-          18.73
+          120.72,
+          18.75
         ]
       }
     },
@@ -1248,17 +1488,17 @@
         "date": "06 October 2026",
         "time": "12:42 PM",
         "time_24": "12:42",
-        "latitude": 9.52,
-        "longitude": 123.07,
-        "depth_km": 4.0,
-        "magnitude": 2.1,
-        "location": "008km N 47Â° W of Pamplona (Negros Oriental)"
+        "latitude": 9.57,
+        "longitude": 123.04,
+        "depth_km": 6.0,
+        "magnitude": 2.2,
+        "location": "010km S 75Â° W of City Of Bais (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.07,
-          9.52
+          123.04,
+          9.57
         ]
       }
     },
