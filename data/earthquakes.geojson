@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-07T21:17:31.857883+00:00",
+  "generated_at": "2026-10-08T01:05:21.439999+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "08:31 AM",
+        "time_24": "08:31",
+        "latitude": 10.16,
+        "longitude": 122.18,
+        "depth_km": 11.0,
+        "magnitude": 2.6,
+        "location": "040km S 43Â° E of Anini-y (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.18,
+          10.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "07:34 AM",
+        "time_24": "07:34",
+        "latitude": 5.22,
+        "longitude": 125.38,
+        "depth_km": 30.0,
+        "magnitude": 2.4,
+        "location": "022km S 11Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "05:22 AM",
+        "time_24": "05:22",
+        "latitude": 11.42,
+        "longitude": 125.43,
+        "depth_km": 22.0,
+        "magnitude": 2.0,
+        "location": "010km S 56Â° W of Balangkayan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          11.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "08 October 2026",
+        "time": "05:17 AM",
+        "time_24": "05:17",
+        "latitude": 13.28,
+        "longitude": 121.63,
+        "depth_km": 33.0,
+        "magnitude": 1.9,
+        "location": "024km S 77Â° W of Gasan (Marinduque)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63,
+          13.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
