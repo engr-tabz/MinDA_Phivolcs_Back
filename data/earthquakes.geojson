@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-08T20:13:01.321869+00:00",
+  "generated_at": "2026-10-09T00:26:52.193182+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "07:19 AM",
+        "time_24": "07:19",
+        "latitude": 5.65,
+        "longitude": 125.3,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "022km S 29Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "06:33 AM",
+        "time_24": "06:33",
+        "latitude": 5.61,
+        "longitude": 125.3,
+        "depth_km": 25.0,
+        "magnitude": 1.7,
+        "location": "024km N 52Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "06:09 AM",
+        "time_24": "06:09",
+        "latitude": 5.43,
+        "longitude": 125.28,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "016km N 84Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "05:56 AM",
+        "time_24": "05:56",
+        "latitude": 8.63,
+        "longitude": 122.65,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "046km N 63Â° W of Jose Dalman (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.65,
+          8.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "05:29 AM",
+        "time_24": "05:29",
+        "latitude": 9.73,
+        "longitude": 126.29,
+        "depth_km": 13.0,
+        "magnitude": 2.1,
+        "location": "016km S 66Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "05:18 AM",
+        "time_24": "05:18",
+        "latitude": 5.63,
+        "longitude": 125.28,
+        "depth_km": 28.0,
+        "magnitude": 2.3,
+        "location": "022km S 23Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "04:48 AM",
+        "time_24": "04:48",
+        "latitude": 9.68,
+        "longitude": 126.05,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "008km S 05Â° W of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.05,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "04:40 AM",
+        "time_24": "04:40",
+        "latitude": 12.75,
+        "longitude": 123.24,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "017km S 02Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.24,
+          12.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "04:27 AM",
+        "time_24": "04:27",
+        "latitude": 8.26,
+        "longitude": 123.34,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "011km N 04Â° W of Dumingag (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.34,
+          8.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "04:25 AM",
+        "time_24": "04:25",
+        "latitude": 15.7,
+        "longitude": 119.97,
+        "depth_km": 23.0,
+        "magnitude": 1.6,
+        "location": "009km N 30Â° E of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97,
+          15.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 October 2026",
+        "time": "04:21 AM",
+        "time_24": "04:21",
+        "latitude": 5.67,
+        "longitude": 125.36,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "024km S 47Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
