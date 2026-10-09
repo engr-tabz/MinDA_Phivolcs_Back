@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-09T19:02:34.242678+00:00",
+  "generated_at": "2026-10-09T23:11:37.642234+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "06:13 AM",
+        "time_24": "06:13",
+        "latitude": 11.2,
+        "longitude": 124.11,
+        "depth_km": 22.0,
+        "magnitude": 1.6,
+        "location": "023km N 40Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11,
+          11.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "06:06 AM",
+        "time_24": "06:06",
+        "latitude": 11.06,
+        "longitude": 123.19,
+        "depth_km": 13.0,
+        "magnitude": 3.3,
+        "location": "013km N 31Â° E of Manapla (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.19,
+          11.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "05:40 AM",
+        "time_24": "05:40",
+        "latitude": 5.6,
+        "longitude": 125.41,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "016km N 28Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "04:52 AM",
+        "time_24": "04:52",
+        "latitude": 12.91,
+        "longitude": 122.96,
+        "depth_km": 2.0,
+        "magnitude": 1.4,
+        "location": "031km N 88Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.96,
+          12.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "04:06 AM",
+        "time_24": "04:06",
+        "latitude": 12.11,
+        "longitude": 125.07,
+        "depth_km": 41.0,
+        "magnitude": 2.3,
+        "location": "008km N 41Â° E of San Jose De Buan (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.07,
+          12.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "04:04 AM",
+        "time_24": "04:04",
+        "latitude": 5.63,
+        "longitude": 125.32,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "024km S 31Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "03:59 AM",
+        "time_24": "03:59",
+        "latitude": 5.74,
+        "longitude": 125.19,
+        "depth_km": 9.0,
+        "magnitude": 1.6,
+        "location": "009km S 07Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "02:28 AM",
+        "time_24": "02:28",
+        "latitude": 10.24,
+        "longitude": 125.68,
+        "depth_km": 56.0,
+        "magnitude": 2.7,
+        "location": "016km S 55Â° E of Tubajon (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.68,
+          10.24
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
