@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-09T23:11:37.642234+00:00",
+  "generated_at": "2026-10-10T02:23:02.793165+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "09:17 AM",
+        "time_24": "09:17",
+        "latitude": 15.41,
+        "longitude": 120.13,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "018km N 40Â° E of Botolan (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13,
+          15.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "09:07 AM",
+        "time_24": "09:07",
+        "latitude": 12.52,
+        "longitude": 125.44,
+        "depth_km": 12.0,
+        "magnitude": 3.3,
+        "location": "021km N 75Â° E of Mapanas (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          12.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "08:54 AM",
+        "time_24": "08:54",
+        "latitude": 5.63,
+        "longitude": 125.27,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "022km S 19Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "08:20 AM",
+        "time_24": "08:20",
+        "latitude": 8.52,
+        "longitude": 126.63,
+        "depth_km": 22.0,
+        "magnitude": 3.0,
+        "location": "036km N 62Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63,
+          8.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "08:08 AM",
+        "time_24": "08:08",
+        "latitude": 7.0,
+        "longitude": 126.41,
+        "depth_km": 23.0,
+        "magnitude": 2.4,
+        "location": "007km S 38Â° W of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41,
+          7.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "07:55 AM",
+        "time_24": "07:55",
+        "latitude": 2.11,
+        "longitude": 126.95,
+        "depth_km": 95.0,
+        "magnitude": 3.9,
+        "location": "402km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95,
+          2.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "07:47 AM",
+        "time_24": "07:47",
+        "latitude": 20.16,
+        "longitude": 120.77,
+        "depth_km": 24.0,
+        "magnitude": 2.2,
+        "location": "117km S 80Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77,
+          20.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "10 October 2026",
+        "time": "07:05 AM",
+        "time_24": "07:05",
+        "latitude": 5.06,
+        "longitude": 125.14,
+        "depth_km": 45.0,
+        "magnitude": 2.4,
+        "location": "050km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14,
+          5.06
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -808,17 +968,17 @@
         "date": "09 October 2026",
         "time": "01:29 PM",
         "time_24": "13:29",
-        "latitude": 12.81,
-        "longitude": 124.27,
-        "depth_km": 12.0,
-        "magnitude": 2.0,
-        "location": "014km S 67Â° E of Barcelona (Sorsogon)"
+        "latitude": 12.89,
+        "longitude": 124.58,
+        "depth_km": 10.0,
+        "magnitude": 2.1,
+        "location": "033km N 46Â° E of Biri (Northern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.27,
-          12.81
+          124.58,
+          12.89
         ]
       }
     },
@@ -868,17 +1028,17 @@
         "date": "09 October 2026",
         "time": "10:25 AM",
         "time_24": "10:25",
-        "latitude": 12.42,
-        "longitude": 123.6,
-        "depth_km": 34.0,
+        "latitude": 12.51,
+        "longitude": 123.59,
+        "depth_km": 1.0,
         "magnitude": 1.8,
-        "location": "006km N 24Â° W of City Of Masbate (Masbate)"
+        "location": "015km N 12Â° W of City Of Masbate (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.6,
-          12.42
+          123.59,
+          12.51
         ]
       }
     },
@@ -888,17 +1048,17 @@
         "date": "09 October 2026",
         "time": "10:00 AM",
         "time_24": "10:00",
-        "latitude": 12.55,
-        "longitude": 123.6,
-        "depth_km": 9.0,
-        "magnitude": 2.7,
-        "location": "012km S 32Â° W of Monreal (Masbate)"
+        "latitude": 12.57,
+        "longitude": 123.61,
+        "depth_km": 7.0,
+        "magnitude": 2.8,
+        "location": "010km S 37Â° W of Monreal (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.6,
-          12.55
+          123.61,
+          12.57
         ]
       }
     },
