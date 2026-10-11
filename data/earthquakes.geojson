@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-11T18:54:48.827368+00:00",
+  "generated_at": "2026-10-11T22:43:15.791224+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "06:24 AM",
+        "time_24": "06:24",
+        "latitude": 11.29,
+        "longitude": 125.54,
+        "depth_km": 24.0,
+        "magnitude": 3.4,
+        "location": "005km N 06Â° E of General Macarthur (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54,
+          11.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 6.54,
+        "longitude": 126.3,
+        "depth_km": 36.0,
+        "magnitude": 3.0,
+        "location": "028km S 63Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          6.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "04:41 AM",
+        "time_24": "04:41",
+        "latitude": 18.59,
+        "longitude": 120.21,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "047km N 79Â° W of Burgos (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21,
+          18.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "04:13 AM",
+        "time_24": "04:13",
+        "latitude": 5.53,
+        "longitude": 125.48,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "006km N 07Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "04:08 AM",
+        "time_24": "04:08",
+        "latitude": 5.64,
+        "longitude": 125.34,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "023km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "03:57 AM",
+        "time_24": "03:57",
+        "latitude": 12.25,
+        "longitude": 125.48,
+        "depth_km": 41.0,
+        "magnitude": 1.8,
+        "location": "008km N 20Â° W of San Policarpo (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48,
+          12.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "03:46 AM",
+        "time_24": "03:46",
+        "latitude": 5.39,
+        "longitude": 125.42,
+        "depth_km": 17.0,
+        "magnitude": 1.6,
+        "location": "003km S 05Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "03:29 AM",
+        "time_24": "03:29",
+        "latitude": 9.24,
+        "longitude": 123.16,
+        "depth_km": 13.0,
+        "magnitude": 3.1,
+        "location": "010km S 64Â° W of Valencia (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16,
+          9.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "03:26 AM",
+        "time_24": "03:26",
+        "latitude": 5.65,
+        "longitude": 125.26,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "020km S 19Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "03:12 AM",
+        "time_24": "03:12",
+        "latitude": 12.81,
+        "longitude": 123.18,
+        "depth_km": 19.0,
+        "magnitude": 1.8,
+        "location": "012km S 36Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.18,
+          12.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "02:49 AM",
+        "time_24": "02:49",
+        "latitude": 7.72,
+        "longitude": 124.47,
+        "depth_km": 28.0,
+        "magnitude": 1.9,
+        "location": "018km S 80Â° E of Butig (Lanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.47,
+          7.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
