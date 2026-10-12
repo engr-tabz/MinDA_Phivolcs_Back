@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-11T22:43:15.791224+00:00",
+  "generated_at": "2026-10-12T01:49:03.207062+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "09:23 AM",
+        "time_24": "09:23",
+        "latitude": 10.74,
+        "longitude": 124.95,
+        "depth_km": 10.0,
+        "magnitude": 3.9,
+        "location": "006km S 83Â° W of Abuyog (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.95,
+          10.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "08:35 AM",
+        "time_24": "08:35",
+        "latitude": 5.61,
+        "longitude": 125.29,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "025km N 52Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "08:22 AM",
+        "time_24": "08:22",
+        "latitude": 9.16,
+        "longitude": 126.32,
+        "depth_km": 32.0,
+        "magnitude": 2.6,
+        "location": "019km S 50Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32,
+          9.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "07:58 AM",
+        "time_24": "07:58",
+        "latitude": 10.12,
+        "longitude": 125.44,
+        "depth_km": 123.0,
+        "magnitude": 2.4,
+        "location": "013km S 50Â° W of Libjo (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          10.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "12 October 2026",
+        "time": "06:50 AM",
+        "time_24": "06:50",
+        "latitude": 10.93,
+        "longitude": 123.98,
+        "depth_km": 10.0,
+        "magnitude": 2.9,
+        "location": "013km S 01Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98,
+          10.93
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -788,17 +888,17 @@
         "date": "11 October 2026",
         "time": "10:22 AM",
         "time_24": "10:22",
-        "latitude": 11.13,
-        "longitude": 123.95,
+        "latitude": 11.14,
+        "longitude": 123.96,
         "depth_km": 7.0,
         "magnitude": 3.4,
-        "location": "001km S 85Â° W of Medellin (Cebu)"
+        "location": "001km N 12Â° E of Medellin (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.95,
-          11.13
+          123.96,
+          11.14
         ]
       }
     },
