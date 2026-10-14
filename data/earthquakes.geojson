@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-13T23:52:06.773011+00:00",
+  "generated_at": "2026-10-14T03:17:05.212627+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "10:39 AM",
+        "time_24": "10:39",
+        "latitude": 17.76,
+        "longitude": 120.26,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "020km N 64Â° W of Magsingal (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          17.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "09:27 AM",
+        "time_24": "09:27",
+        "latitude": 4.98,
+        "longitude": 125.29,
+        "depth_km": 33.0,
+        "magnitude": 2.9,
+        "location": "050km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          4.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "08:46 AM",
+        "time_24": "08:46",
+        "latitude": 10.73,
+        "longitude": 125.12,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "012km S 83Â° E of Abuyog (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          10.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "08:42 AM",
+        "time_24": "08:42",
+        "latitude": 5.89,
+        "longitude": 125.33,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "010km S 25Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "08:16 AM",
+        "time_24": "08:16",
+        "latitude": 11.43,
+        "longitude": 122.06,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "001km North of Culasi (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06,
+          11.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 October 2026",
+        "time": "08:02 AM",
+        "time_24": "08:02",
+        "latitude": 7.17,
+        "longitude": 123.59,
+        "depth_km": 28.0,
+        "magnitude": 2.6,
+        "location": "038km S 31Â° E of Tabina (Zamboanga Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.59,
+          7.17
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1068,17 +1188,17 @@
         "date": "13 October 2026",
         "time": "05:35 PM",
         "time_24": "17:35",
-        "latitude": 19.28,
-        "longitude": 121.21,
+        "latitude": 19.25,
+        "longitude": 121.17,
         "depth_km": 15.0,
-        "magnitude": 2.8,
-        "location": "019km North of Dalupiri Island (Calayan) (Cagayan)"
+        "magnitude": 2.9,
+        "location": "016km N 13Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.21,
-          19.28
+          121.17,
+          19.25
         ]
       }
     },
@@ -1088,17 +1208,17 @@
         "date": "13 October 2026",
         "time": "05:01 PM",
         "time_24": "17:01",
-        "latitude": 5.85,
-        "longitude": 125.32,
-        "depth_km": 15.0,
+        "latitude": 5.66,
+        "longitude": 125.31,
+        "depth_km": 25.0,
         "magnitude": 2.9,
-        "location": "013km N 78Â° E of Glan (Sarangani)"
+        "location": "022km S 33Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.32,
-          5.85
+          125.31,
+          5.66
         ]
       }
     },
@@ -1148,17 +1268,17 @@
         "date": "13 October 2026",
         "time": "03:39 PM",
         "time_24": "15:39",
-        "latitude": 14.17,
-        "longitude": 124.05,
-        "depth_km": 14.0,
+        "latitude": 14.15,
+        "longitude": 124.09,
+        "depth_km": 8.0,
         "magnitude": 2.3,
-        "location": "019km N 44Â° W of Pandan (Catanduanes)"
+        "location": "015km N 37Â° W of Pandan (Catanduanes)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.05,
-          14.17
+          124.09,
+          14.15
         ]
       }
     },
@@ -1168,17 +1288,17 @@
         "date": "13 October 2026",
         "time": "02:08 PM",
         "time_24": "14:08",
-        "latitude": 19.34,
-        "longitude": 120.92,
-        "depth_km": 26.0,
-        "magnitude": 1.8,
-        "location": "040km N 49Â° W of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.35,
+        "longitude": 121.03,
+        "depth_km": 36.0,
+        "magnitude": 1.9,
+        "location": "033km N 35Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.92,
-          19.34
+          121.03,
+          19.35
         ]
       }
     },
@@ -1208,17 +1328,17 @@
         "date": "13 October 2026",
         "time": "01:10 PM",
         "time_24": "13:10",
-        "latitude": 9.29,
-        "longitude": 125.56,
-        "depth_km": 20.0,
-        "magnitude": 2.0,
-        "location": "002km N 03Â° W of Santiago (Agusan Del Norte)"
+        "latitude": 9.26,
+        "longitude": 125.58,
+        "depth_km": 21.0,
+        "magnitude": 2.1,
+        "location": "002km S 85Â° E of Santiago (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.56,
-          9.29
+          125.58,
+          9.26
         ]
       }
     },
@@ -1268,17 +1388,17 @@
         "date": "13 October 2026",
         "time": "12:37 PM",
         "time_24": "12:37",
-        "latitude": 18.54,
-        "longitude": 122.23,
-        "depth_km": 16.0,
-        "magnitude": 1.5,
-        "location": "013km N 46Â° E of Santa Ana (Cagayan)"
+        "latitude": 18.49,
+        "longitude": 122.19,
+        "depth_km": 19.0,
+        "magnitude": 1.8,
+        "location": "007km N 56Â° E of Santa Ana (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.23,
-          18.54
+          122.19,
+          18.49
         ]
       }
     },
@@ -1288,17 +1408,17 @@
         "date": "13 October 2026",
         "time": "12:28 PM",
         "time_24": "12:28",
-        "latitude": 9.41,
-        "longitude": 125.5,
-        "depth_km": 17.0,
-        "magnitude": 3.4,
-        "location": "007km N 12Â° W of Jabonga (Agusan Del Norte)"
+        "latitude": 9.35,
+        "longitude": 125.43,
+        "depth_km": 2.0,
+        "magnitude": 2.8,
+        "location": "009km N 85Â° W of Jabonga (Agusan Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.5,
-          9.41
+          125.43,
+          9.35
         ]
       }
     },
@@ -1308,17 +1428,17 @@
         "date": "13 October 2026",
         "time": "11:11 AM",
         "time_24": "11:11",
-        "latitude": 9.27,
-        "longitude": 122.59,
-        "depth_km": 31.0,
+        "latitude": 9.31,
+        "longitude": 122.6,
+        "depth_km": 33.0,
         "magnitude": 2.8,
-        "location": "017km S 21Â° W of Basay (Negros Oriental)"
+        "location": "011km S 21Â° W of Basay (Negros Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.59,
-          9.27
+          122.6,
+          9.31
         ]
       }
     },
@@ -1328,17 +1448,17 @@
         "date": "13 October 2026",
         "time": "11:09 AM",
         "time_24": "11:09",
-        "latitude": 19.71,
-        "longitude": 121.15,
-        "depth_km": 10.0,
+        "latitude": 19.46,
+        "longitude": 121.2,
+        "depth_km": 7.0,
         "magnitude": 2.6,
-        "location": "060km N 35Â° W of Calayan (Cagayan)"
+        "location": "036km N 53Â° W of Calayan (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.15,
-          19.71
+          121.2,
+          19.46
         ]
       }
     },
