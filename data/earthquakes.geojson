@@ -1,24 +1,264 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-15T05:01:51.910588+00:00",
+  "generated_at": "2026-10-15T09:48:17.586027+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "05:23 PM",
+        "time_24": "17:23",
+        "latitude": 11.5,
+        "longitude": 126.29,
+        "depth_km": 18.0,
+        "magnitude": 3.2,
+        "location": "076km N 77Â° E of Hernani (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          11.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "05:00 PM",
+        "time_24": "17:00",
+        "latitude": 5.52,
+        "longitude": 125.29,
+        "depth_km": 2.0,
+        "magnitude": 1.7,
+        "location": "019km N 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "04:46 PM",
+        "time_24": "16:46",
+        "latitude": 17.86,
+        "longitude": 120.2,
+        "depth_km": 26.0,
+        "magnitude": 2.7,
+        "location": "027km S 88Â° W of Sinait (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2,
+          17.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "04:32 PM",
+        "time_24": "16:32",
+        "latitude": 5.64,
+        "longitude": 124.91,
+        "depth_km": 23.0,
+        "magnitude": 1.4,
+        "location": "026km S 22Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.91,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "04:14 PM",
+        "time_24": "16:14",
+        "latitude": 19.3,
+        "longitude": 121.32,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "017km N 77Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.32,
+          19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "03:54 PM",
+        "time_24": "15:54",
+        "latitude": 17.49,
+        "longitude": 120.42,
+        "depth_km": 5.0,
+        "magnitude": 1.8,
+        "location": "002km N 83Â° W of Santa (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42,
+          17.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "03:00 PM",
+        "time_24": "15:00",
+        "latitude": 5.42,
+        "longitude": 125.43,
+        "depth_km": 34.0,
+        "magnitude": 1.4,
+        "location": "001km N 53Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "02:43 PM",
+        "time_24": "14:43",
+        "latitude": 18.8,
+        "longitude": 121.22,
+        "depth_km": 18.0,
+        "magnitude": 1.4,
+        "location": "017km S 70Â° W of Fuga Island (Aparri) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22,
+          18.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "02:35 PM",
+        "time_24": "14:35",
+        "latitude": 16.8,
+        "longitude": 120.14,
+        "depth_km": 26.0,
+        "magnitude": 1.5,
+        "location": "025km N 68Â° W of Bacnotan (La Union)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.14,
+          16.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "02:21 PM",
+        "time_24": "14:21",
+        "latitude": 9.83,
+        "longitude": 126.55,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "044km N 82Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.55,
+          9.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "01:56 PM",
+        "time_24": "13:56",
+        "latitude": 5.73,
+        "longitude": 125.47,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "028km North of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "01:20 PM",
+        "time_24": "13:20",
+        "latitude": 19.17,
+        "longitude": 121.22,
+        "depth_km": 11.0,
+        "magnitude": 2.5,
+        "location": "007km N 15Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22,
+          19.17
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "15 October 2026",
         "time": "12:41 PM",
         "time_24": "12:41",
-        "latitude": 19.1,
-        "longitude": 121.39,
-        "depth_km": 10.0,
-        "magnitude": 4.7,
-        "location": "019km S 87Â° E of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.14,
+        "longitude": 121.35,
+        "depth_km": 26.0,
+        "magnitude": 4.5,
+        "location": "015km N 75Â° E of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.39,
-          19.1
+          121.35,
+          19.14
         ]
       }
     },
@@ -128,17 +368,17 @@
         "date": "15 October 2026",
         "time": "08:32 AM",
         "time_24": "08:32",
-        "latitude": 13.28,
-        "longitude": 120.16,
+        "latitude": 13.37,
+        "longitude": 120.01,
         "depth_km": 2.0,
-        "magnitude": 3.2,
-        "location": "036km S 67Â° W of Paluan (Occidental Mindoro)"
+        "magnitude": 3.7,
+        "location": "044km S 34Â° W of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.16,
-          13.28
+          120.01,
+          13.37
         ]
       }
     },
@@ -628,17 +868,17 @@
         "date": "14 October 2026",
         "time": "08:39 PM",
         "time_24": "20:39",
-        "latitude": 18.65,
-        "longitude": 120.76,
-        "depth_km": 4.0,
-        "magnitude": 2.7,
-        "location": "011km N 18Â° W of Pagudpud (Ilocos Norte)"
+        "latitude": 18.46,
+        "longitude": 120.79,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "011km S 03Â° E of Pagudpud (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.76,
-          18.65
+          120.79,
+          18.46
         ]
       }
     },
@@ -648,17 +888,17 @@
         "date": "14 October 2026",
         "time": "08:07 PM",
         "time_24": "20:07",
-        "latitude": 16.93,
-        "longitude": 119.83,
-        "depth_km": 13.0,
+        "latitude": 16.92,
+        "longitude": 120.02,
+        "depth_km": 14.0,
         "magnitude": 4.4,
-        "location": "059km N 82Â° W of Luna (La Union)"
+        "location": "039km N 79Â° W of Luna (La Union)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.83,
-          16.93
+          120.02,
+          16.92
         ]
       }
     },
