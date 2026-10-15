@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-15T21:45:03.850155+00:00",
+  "generated_at": "2026-10-15T23:55:11.013458+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "07:39 AM",
+        "time_24": "07:39",
+        "latitude": 5.44,
+        "longitude": 125.44,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "003km N 42Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.44
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -968,17 +988,17 @@
         "date": "15 October 2026",
         "time": "07:05 AM",
         "time_24": "07:05",
-        "latitude": 17.5,
-        "longitude": 121.57,
-        "depth_km": 108.0,
-        "magnitude": 2.3,
-        "location": "002km S 83Â° W of Rizal (Kalinga)"
+        "latitude": 17.51,
+        "longitude": 122.05,
+        "depth_km": 61.0,
+        "magnitude": 2.5,
+        "location": "024km N 54Â° W of Maconacon (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.57,
-          17.5
+          122.05,
+          17.51
         ]
       }
     },
