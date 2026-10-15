@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-15T14:28:35.154412+00:00",
+  "generated_at": "2026-10-15T18:34:42.003502+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "02:01 AM",
+        "time_24": "02:01",
+        "latitude": 10.34,
+        "longitude": 125.19,
+        "depth_km": 24.0,
+        "magnitude": 2.2,
+        "location": "006km S 11Â° W of Hinunangan (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          10.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "01:40 AM",
+        "time_24": "01:40",
+        "latitude": 19.21,
+        "longitude": 121.24,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "012km N 15Â° E of Dalupiri Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.24,
+          19.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "01:38 AM",
+        "time_24": "01:38",
+        "latitude": 5.59,
+        "longitude": 125.42,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "014km N 22Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "01:20 AM",
+        "time_24": "01:20",
+        "latitude": 18.26,
+        "longitude": 122.17,
+        "depth_km": 14.0,
+        "magnitude": 3.8,
+        "location": "018km N 89Â° E of Gonzaga (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.17,
+          18.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "01:16 AM",
+        "time_24": "01:16",
+        "latitude": 18.34,
+        "longitude": 122.31,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "022km S 55Â° E of Santa Ana (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.31,
+          18.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "01:07 AM",
+        "time_24": "01:07",
+        "latitude": 11.42,
+        "longitude": 125.44,
+        "depth_km": 30.0,
+        "magnitude": 1.7,
+        "location": "010km S 51Â° W of Balangkayan (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          11.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 October 2026",
+        "time": "12:07 AM",
+        "time_24": "00:07",
+        "latitude": 19.51,
+        "longitude": 121.22,
+        "depth_km": 15.0,
+        "magnitude": 1.5,
+        "location": "038km N 44Â° W of Calayan (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22,
+          19.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 October 2026",
+        "time": "11:13 PM",
+        "time_24": "23:13",
+        "latitude": 5.36,
+        "longitude": 125.23,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "022km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.36
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -429,7 +589,7 @@
         "time": "12:41 PM",
         "time_24": "12:41",
         "latitude": 19.14,
-        "longitude": 121.35,
+        "longitude": 121.34,
         "depth_km": 26.0,
         "magnitude": 4.5,
         "location": "015km N 75Â° E of Dalupiri Island (Calayan) (Cagayan)"
@@ -437,7 +597,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.35,
+          121.34,
           19.14
         ]
       }
@@ -528,17 +688,17 @@
         "date": "15 October 2026",
         "time": "09:14 AM",
         "time_24": "09:14",
-        "latitude": 5.61,
-        "longitude": 125.12,
-        "depth_km": 28.0,
-        "magnitude": 3.1,
-        "location": "025km S 21Â° W of Glan (Sarangani)"
+        "latitude": 5.59,
+        "longitude": 125.14,
+        "depth_km": 29.0,
+        "magnitude": 3.2,
+        "location": "026km S 16Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.12,
-          5.61
+          125.14,
+          5.59
         ]
       }
     },
@@ -608,17 +768,17 @@
         "date": "15 October 2026",
         "time": "07:49 AM",
         "time_24": "07:49",
-        "latitude": 9.16,
-        "longitude": 126.68,
-        "depth_km": 9.0,
-        "magnitude": 2.9,
-        "location": "048km N 64Â° E of Bayabas (Surigao Del Sur)"
+        "latitude": 9.15,
+        "longitude": 126.69,
+        "depth_km": 4.0,
+        "magnitude": 2.8,
+        "location": "049km N 66Â° E of Bayabas (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.68,
-          9.16
+          126.69,
+          9.15
         ]
       }
     },
@@ -648,17 +808,17 @@
         "date": "15 October 2026",
         "time": "07:02 AM",
         "time_24": "07:02",
-        "latitude": 6.65,
-        "longitude": 124.01,
-        "depth_km": 91.0,
-        "magnitude": 1.9,
-        "location": "007km N 74Â° W of Lebak (Sultan Kudarat)"
+        "latitude": 6.59,
+        "longitude": 124.62,
+        "depth_km": 53.0,
+        "magnitude": 2.1,
+        "location": "004km S 34Â° E of Isulan (Sultan Kudarat)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.01,
-          6.65
+          124.62,
+          6.59
         ]
       }
     },
@@ -768,17 +928,17 @@
         "date": "15 October 2026",
         "time": "03:43 AM",
         "time_24": "03:43",
-        "latitude": 11.51,
-        "longitude": 124.4,
-        "depth_km": 11.0,
+        "latitude": 11.47,
+        "longitude": 124.44,
+        "depth_km": 9.0,
         "magnitude": 2.7,
-        "location": "006km S 02Â° W of Naval (Biliran)"
+        "location": "003km N 23Â° E of Calubian (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.4,
-          11.51
+          124.44,
+          11.47
         ]
       }
     },
