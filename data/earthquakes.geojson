@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-16T17:39:59.485212+00:00",
+  "generated_at": "2026-10-16T20:05:44.737151+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "03:42 AM",
+        "time_24": "03:42",
+        "latitude": 6.29,
+        "longitude": 125.13,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "010km N 46Â° E of Polomolok (South Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13,
+          6.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "03:36 AM",
+        "time_24": "03:36",
+        "latitude": 5.5,
+        "longitude": 125.42,
+        "depth_km": 32.0,
+        "magnitude": 2.1,
+        "location": "006km N 63Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "02:40 AM",
+        "time_24": "02:40",
+        "latitude": 5.4,
+        "longitude": 126.37,
+        "depth_km": 1.0,
+        "magnitude": 3.7,
+        "location": "099km S 55Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.37,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "02:38 AM",
+        "time_24": "02:38",
+        "latitude": 13.17,
+        "longitude": 120.42,
+        "depth_km": 26.0,
+        "magnitude": 3.3,
+        "location": "021km S 71Â° W of Mamburao (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42,
+          13.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "02:32 AM",
+        "time_24": "02:32",
+        "latitude": 5.64,
+        "longitude": 125.12,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "022km S 25Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.12,
+          5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "02:24 AM",
+        "time_24": "02:24",
+        "latitude": 5.68,
+        "longitude": 125.32,
+        "depth_km": 25.0,
+        "magnitude": 1.9,
+        "location": "020km S 38Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 October 2026",
+        "time": "01:34 AM",
+        "time_24": "01:34",
+        "latitude": 5.72,
+        "longitude": 125.08,
+        "depth_km": 29.0,
+        "magnitude": 1.4,
+        "location": "018km S 51Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08,
+          5.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
