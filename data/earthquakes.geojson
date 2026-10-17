@@ -1,7 +1,247 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-17T18:41:57.039263+00:00",
+  "generated_at": "2026-10-17T21:00:36.228033+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:22 AM",
+        "time_24": "04:22",
+        "latitude": 20.24,
+        "longitude": 121.11,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "080km S 83Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.11,
+          20.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:05 AM",
+        "time_24": "04:05",
+        "latitude": 12.21,
+        "longitude": 121.19,
+        "depth_km": 30.0,
+        "magnitude": 1.9,
+        "location": "012km S 23Â° E of Magsaysay (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.19,
+          12.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:00 AM",
+        "time_24": "04:00",
+        "latitude": 18.26,
+        "longitude": 122.19,
+        "depth_km": 19.0,
+        "magnitude": 1.9,
+        "location": "020km S 90Â° E of Gonzaga (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.19,
+          18.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "03:54 AM",
+        "time_24": "03:54",
+        "latitude": 19.98,
+        "longitude": 121.52,
+        "depth_km": 17.0,
+        "magnitude": 2.9,
+        "location": "054km S 44Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52,
+          19.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "03:34 AM",
+        "time_24": "03:34",
+        "latitude": 5.75,
+        "longitude": 125.18,
+        "depth_km": 24.0,
+        "magnitude": 1.8,
+        "location": "009km S 16Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.18,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "03:12 AM",
+        "time_24": "03:12",
+        "latitude": 5.87,
+        "longitude": 125.29,
+        "depth_km": 20.0,
+        "magnitude": 2.3,
+        "location": "011km N 59Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:54 AM",
+        "time_24": "02:54",
+        "latitude": 5.56,
+        "longitude": 126.51,
+        "depth_km": 106.0,
+        "magnitude": 2.4,
+        "location": "104km S 68Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.51,
+          5.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:50 AM",
+        "time_24": "02:50",
+        "latitude": 15.47,
+        "longitude": 121.86,
+        "depth_km": 3.0,
+        "magnitude": 2.3,
+        "location": "045km S 45Â° E of Baler (Aurora)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.86,
+          15.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:42 AM",
+        "time_24": "02:42",
+        "latitude": 6.46,
+        "longitude": 126.43,
+        "depth_km": 52.0,
+        "magnitude": 2.4,
+        "location": "045km S 62Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.43,
+          6.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:35 AM",
+        "time_24": "02:35",
+        "latitude": 6.81,
+        "longitude": 123.8,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "035km N 57Â° W of Lebak (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8,
+          6.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:35 AM",
+        "time_24": "02:35",
+        "latitude": 13.4,
+        "longitude": 120.65,
+        "depth_km": 31.0,
+        "magnitude": 1.8,
+        "location": "009km S 58Â° W of Abra De Ilog (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65,
+          13.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:27 AM",
+        "time_24": "02:27",
+        "latitude": 13.81,
+        "longitude": 119.79,
+        "depth_km": 17.0,
+        "magnitude": 2.5,
+        "location": "036km S 82Â° W of Lubang (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.79,
+          13.81
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
