@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-17T21:00:36.228033+00:00",
+  "generated_at": "2026-10-17T23:02:21.952050+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "06:50 AM",
+        "time_24": "06:50",
+        "latitude": 17.86,
+        "longitude": 120.89,
+        "depth_km": 17.0,
+        "magnitude": 3.3,
+        "location": "016km N 24Â° E of Tineg (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89,
+          17.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "06:41 AM",
+        "time_24": "06:41",
+        "latitude": 11.17,
+        "longitude": 124.06,
+        "depth_km": 9.0,
+        "magnitude": 2.2,
+        "location": "011km S 36Â° E of Daanbantayan (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.06,
+          11.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "06:22 AM",
+        "time_24": "06:22",
+        "latitude": 11.22,
+        "longitude": 124.18,
+        "depth_km": 5.0,
+        "magnitude": 2.6,
+        "location": "020km S 80Â° E of Daanbantayan (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.18,
+          11.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:57 AM",
+        "time_24": "04:57",
+        "latitude": 13.72,
+        "longitude": 120.61,
+        "depth_km": 160.0,
+        "magnitude": 1.9,
+        "location": "013km S 12Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "05:36 AM",
+        "time_24": "05:36",
+        "latitude": 7.73,
+        "longitude": 126.78,
+        "depth_km": 34.0,
+        "magnitude": 2.0,
+        "location": "030km N 54Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.78,
+          7.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "05:28 AM",
+        "time_24": "05:28",
+        "latitude": 5.87,
+        "longitude": 125.35,
+        "depth_km": 14.0,
+        "magnitude": 2.2,
+        "location": "013km S 30Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 20.43,
+        "longitude": 120.8,
+        "depth_km": 1.0,
+        "magnitude": 2.2,
+        "location": "113km N 85Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8,
+          20.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:57 AM",
+        "time_24": "04:57",
+        "latitude": 13.72,
+        "longitude": 120.61,
+        "depth_km": 160.0,
+        "magnitude": 1.9,
+        "location": "013km S 12Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61,
+          13.72
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
