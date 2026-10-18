@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-17T23:02:21.952050+00:00",
+  "generated_at": "2026-10-18T00:56:34.911731+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "08:47 AM",
+        "time_24": "08:47",
+        "latitude": 5.47,
+        "longitude": 125.15,
+        "depth_km": 25.0,
+        "magnitude": 2.5,
+        "location": "031km N 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15,
+          5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "08:23 AM",
+        "time_24": "08:23",
+        "latitude": 14.06,
+        "longitude": 120.49,
+        "depth_km": 114.0,
+        "magnitude": 1.8,
+        "location": "016km S 82Â° W of Nasugbu (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          14.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "07:16 AM",
+        "time_24": "07:16",
+        "latitude": 5.38,
+        "longitude": 125.4,
+        "depth_km": 21.0,
+        "magnitude": 2.4,
+        "location": "005km S 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4,
+          5.38
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -59,26 +119,6 @@
         "coordinates": [
           124.18,
           11.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "18 October 2026",
-        "time": "04:57 AM",
-        "time_24": "04:57",
-        "latitude": 13.72,
-        "longitude": 120.61,
-        "depth_km": 160.0,
-        "magnitude": 1.9,
-        "location": "013km S 12Â° W of Calatagan (Batangas)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.61,
-          13.72
         ]
       }
     },
