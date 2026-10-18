@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-18T17:00:53.772224+00:00",
+  "generated_at": "2026-10-18T19:23:18.701261+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 October 2026",
+        "time": "03:08 AM",
+        "time_24": "03:08",
+        "latitude": 13.1,
+        "longitude": 123.99,
+        "depth_km": 36.0,
+        "magnitude": 2.3,
+        "location": "013km S 78Â° E of Manito (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.99,
+          13.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 October 2026",
+        "time": "02:35 AM",
+        "time_24": "02:35",
+        "latitude": 12.64,
+        "longitude": 124.66,
+        "depth_km": 38.0,
+        "magnitude": 3.3,
+        "location": "015km N 8Â° E of Catarman (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.66,
+          12.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 October 2026",
+        "time": "02:02 AM",
+        "time_24": "02:02",
+        "latitude": 9.64,
+        "longitude": 126.16,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "016km S 01Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 October 2026",
+        "time": "01:31 AM",
+        "time_24": "01:31",
+        "latitude": 6.42,
+        "longitude": 126.02,
+        "depth_km": 147.0,
+        "magnitude": 2.0,
+        "location": "027km S 13Â° W of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.02,
+          6.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "19 October 2026",
+        "time": "01:27 AM",
+        "time_24": "01:27",
+        "latitude": 9.67,
+        "longitude": 126.12,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "012km S 37Â° E of Dapa (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          9.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1006,19 +1106,19 @@
       "type": "Feature",
       "properties": {
         "date": "18 October 2026",
-        "time": "03:12 AM",
-        "time_24": "03:12",
-        "latitude": 5.87,
-        "longitude": 125.29,
-        "depth_km": 20.0,
-        "magnitude": 2.3,
-        "location": "011km N 59Â° E of Glan (Sarangani)"
+        "time": "03:09 AM",
+        "time_24": "03:09",
+        "latitude": 5.63,
+        "longitude": 125.21,
+        "depth_km": 14.0,
+        "magnitude": 2.7,
+        "location": "021km S 02Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.87
+          125.21,
+          5.63
         ]
       }
     },
