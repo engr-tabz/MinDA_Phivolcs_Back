@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-18T05:41:01.013507+00:00",
+  "generated_at": "2026-10-18T09:55:16.815213+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "05:36 PM",
+        "time_24": "17:36",
+        "latitude": 6.65,
+        "longitude": 126.36,
+        "depth_km": 26.0,
+        "magnitude": 2.1,
+        "location": "032km S 89Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          6.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "04:39 PM",
+        "time_24": "16:39",
+        "latitude": 13.14,
+        "longitude": 123.97,
+        "depth_km": 15.0,
+        "magnitude": 2.1,
+        "location": "012km N 78Â° E of Manito (Albay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.97,
+          13.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "03:20 PM",
+        "time_24": "15:20",
+        "latitude": 5.75,
+        "longitude": 125.1,
+        "depth_km": 24.0,
+        "magnitude": 2.1,
+        "location": "014km S 56Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:46 PM",
+        "time_24": "14:46",
+        "latitude": 12.88,
+        "longitude": 123.01,
+        "depth_km": 8.0,
+        "magnitude": 2.1,
+        "location": "025km S 86Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.01,
+          12.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:34 PM",
+        "time_24": "14:34",
+        "latitude": 4.97,
+        "longitude": 126.13,
+        "depth_km": 9.0,
+        "magnitude": 2.4,
+        "location": "091km S 52Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13,
+          4.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:26 PM",
+        "time_24": "14:26",
+        "latitude": 6.58,
+        "longitude": 126.47,
+        "depth_km": 30.0,
+        "magnitude": 2.4,
+        "location": "045km S 79Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47,
+          6.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "18 October 2026",
+        "time": "02:11 PM",
+        "time_24": "14:11",
+        "latitude": 9.2,
+        "longitude": 125.7,
+        "depth_km": 32.0,
+        "magnitude": 2.0,
+        "location": "018km S 65Â° E of Santiago (Agusan Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7,
+          9.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1348,17 +1488,17 @@
         "date": "17 October 2026",
         "time": "06:20 PM",
         "time_24": "18:20",
-        "latitude": 15.06,
-        "longitude": 119.94,
-        "depth_km": 32.0,
+        "latitude": 15.1,
+        "longitude": 120.12,
+        "depth_km": 7.0,
         "magnitude": 2.0,
-        "location": "014km West of San Felipe (Zambales)"
+        "location": "007km N 52Â° E of San Felipe (Zambales)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.94,
-          15.06
+          120.12,
+          15.1
         ]
       }
     },
