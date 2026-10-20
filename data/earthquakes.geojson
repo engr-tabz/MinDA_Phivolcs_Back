@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-20T21:21:02.741848+00:00",
+  "generated_at": "2026-10-20T23:59:26.864218+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "06:39 AM",
+        "time_24": "06:39",
+        "latitude": 5.77,
+        "longitude": 124.99,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "011km S 04Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.99,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "06:34 AM",
+        "time_24": "06:34",
+        "latitude": 10.58,
+        "longitude": 123.05,
+        "depth_km": 20.0,
+        "magnitude": 3.0,
+        "location": "003km S 23Â° E of Murcia (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.05,
+          10.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "06:19 AM",
+        "time_24": "06:19",
+        "latitude": 7.25,
+        "longitude": 127.08,
+        "depth_km": 5.0,
+        "magnitude": 3.1,
+        "location": "057km S 81Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.08,
+          7.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "05:59 AM",
+        "time_24": "05:59",
+        "latitude": 12.44,
+        "longitude": 121.9,
+        "depth_km": 33.0,
+        "magnitude": 2.3,
+        "location": "010km N 65Â° W of Odiongan (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9,
+          12.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "05:50 AM",
+        "time_24": "05:50",
+        "latitude": 5.62,
+        "longitude": 125.33,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "023km N 44Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "05:32 AM",
+        "time_24": "05:32",
+        "latitude": 12.43,
+        "longitude": 121.8,
+        "depth_km": 6.0,
+        "magnitude": 2.1,
+        "location": "019km N 54Â° W of Ferrol (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8,
+          12.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
