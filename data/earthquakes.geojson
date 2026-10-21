@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-21T18:56:59.052186+00:00",
+  "generated_at": "2026-10-21T22:14:02.731825+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 October 2026",
+        "time": "06:05 AM",
+        "time_24": "06:05",
+        "latitude": 5.51,
+        "longitude": 125.35,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "013km N 34Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 October 2026",
+        "time": "05:02 AM",
+        "time_24": "05:02",
+        "latitude": 5.49,
+        "longitude": 125.29,
+        "depth_km": 26.0,
+        "magnitude": 2.8,
+        "location": "017km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29,
+          5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 October 2026",
+        "time": "03:31 AM",
+        "time_24": "03:31",
+        "latitude": 5.27,
+        "longitude": 125.21,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "028km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "22 October 2026",
+        "time": "03:27 AM",
+        "time_24": "03:27",
+        "latitude": 5.5,
+        "longitude": 125.79,
+        "depth_km": 73.0,
+        "magnitude": 1.4,
+        "location": "036km N 86Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.79,
+          5.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
