@@ -1,24 +1,104 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-21T04:31:08.720557+00:00",
+  "generated_at": "2026-10-21T09:34:17.872229+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "04:55 PM",
+        "time_24": "16:55",
+        "latitude": 16.18,
+        "longitude": 120.0,
+        "depth_km": 1.0,
+        "magnitude": 2.4,
+        "location": "004km N 35Â° E of City Of Alaminos (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0,
+          16.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "04:37 PM",
+        "time_24": "16:37",
+        "latitude": 13.24,
+        "longitude": 125.68,
+        "depth_km": 31.0,
+        "magnitude": 4.8,
+        "location": "096km N 29Â° E of Mapanas (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.68,
+          13.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "02:02 PM",
+        "time_24": "14:02",
+        "latitude": 5.49,
+        "longitude": 125.38,
+        "depth_km": 29.0,
+        "magnitude": 1.4,
+        "location": "010km N 28Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 October 2026",
+        "time": "01:12 PM",
+        "time_24": "13:12",
+        "latitude": 5.47,
+        "longitude": 125.45,
+        "depth_km": 2.0,
+        "magnitude": 2.5,
+        "location": "002km N 82Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.45,
+          5.47
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "date": "21 October 2026",
         "time": "10:36 AM",
         "time_24": "10:36",
-        "latitude": 10.79,
-        "longitude": 122.0,
-        "depth_km": 9.0,
-        "magnitude": 3.3,
-        "location": "002km N 70Â° W of Sibalom (Antique)"
+        "latitude": 10.81,
+        "longitude": 121.93,
+        "depth_km": 15.0,
+        "magnitude": 3.4,
+        "location": "010km N 78Â° W of Sibalom (Antique)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.0,
-          10.79
+          121.93,
+          10.81
         ]
       }
     },
