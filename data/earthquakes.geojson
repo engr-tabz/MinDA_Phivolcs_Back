@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-23T19:38:21.414018+00:00",
+  "generated_at": "2026-10-23T22:38:49.831381+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "06:18 AM",
+        "time_24": "06:18",
+        "latitude": 17.26,
+        "longitude": 121.15,
+        "depth_km": 14.0,
+        "magnitude": 2.6,
+        "location": "000km S 71Â° W of Tinglayan (Kalinga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15,
+          17.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "05:41 AM",
+        "time_24": "05:41",
+        "latitude": 7.83,
+        "longitude": 127.07,
+        "depth_km": 10.0,
+        "magnitude": 4.5,
+        "location": "062km N 63Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07,
+          7.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "05:16 AM",
+        "time_24": "05:16",
+        "latitude": 18.5,
+        "longitude": 121.29,
+        "depth_km": 5.0,
+        "magnitude": 1.8,
+        "location": "006km N 53Â° W of Pamplona (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29,
+          18.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "04:20 AM",
+        "time_24": "04:20",
+        "latitude": 5.63,
+        "longitude": 125.38,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "020km N 29Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38,
+          5.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "03:33 AM",
+        "time_24": "03:33",
+        "latitude": 5.66,
+        "longitude": 124.81,
+        "depth_km": 30.0,
+        "magnitude": 1.8,
+        "location": "031km S 43Â° W of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.81,
+          5.66
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
