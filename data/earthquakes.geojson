@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-22T22:41:05.629329+00:00",
+  "generated_at": "2026-10-23T00:58:52.499306+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 October 2026",
+        "time": "08:25 AM",
+        "time_24": "08:25",
+        "latitude": 9.37,
+        "longitude": 125.85,
+        "depth_km": 17.0,
+        "magnitude": 3.0,
+        "location": "011km N 88Â° W of Carrascal (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 October 2026",
+        "time": "08:23 AM",
+        "time_24": "08:23",
+        "latitude": 4.64,
+        "longitude": 126.22,
+        "depth_km": 22.0,
+        "magnitude": 3.0,
+        "location": "123km S 46Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          4.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 October 2026",
+        "time": "06:39 AM",
+        "time_24": "06:39",
+        "latitude": 6.49,
+        "longitude": 125.71,
+        "depth_km": 176.0,
+        "magnitude": 2.6,
+        "location": "014km N 53Â° E of Malita (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71,
+          6.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "23 October 2026",
+        "time": "06:36 AM",
+        "time_24": "06:36",
+        "latitude": 10.45,
+        "longitude": 125.5,
+        "depth_km": 33.0,
+        "magnitude": 2.1,
+        "location": "013km N 43Â° W of Loreto (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5,
+          10.45
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +648,17 @@
         "date": "22 October 2026",
         "time": "12:38 PM",
         "time_24": "12:38",
-        "latitude": 5.6,
-        "longitude": 125.38,
-        "depth_km": 24.0,
-        "magnitude": 2.4,
-        "location": "017km N 37Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.63,
+        "longitude": 125.3,
+        "depth_km": 3.0,
+        "magnitude": 3.0,
+        "location": "026km N 47Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.38,
-          5.6
+          125.3,
+          5.63
         ]
       }
     },
