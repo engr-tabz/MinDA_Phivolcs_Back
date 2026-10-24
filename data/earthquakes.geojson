@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-24T05:52:07.960287+00:00",
+  "generated_at": "2026-10-24T10:10:03.743633+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "05:21 PM",
+        "time_24": "17:21",
+        "latitude": 10.62,
+        "longitude": 126.06,
+        "depth_km": 12.0,
+        "magnitude": 2.3,
+        "location": "039km S 69Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.06,
+          10.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "04:35 PM",
+        "time_24": "16:35",
+        "latitude": 12.78,
+        "longitude": 123.04,
+        "depth_km": 1.0,
+        "magnitude": 3.0,
+        "location": "026km S 59Â° W of Claveria (Masbate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04,
+          12.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "04:32 PM",
+        "time_24": "16:32",
+        "latitude": 5.25,
+        "longitude": 127.48,
+        "depth_km": 103.0,
+        "magnitude": 2.5,
+        "location": "216km S 70Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48,
+          5.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "03:39 PM",
+        "time_24": "15:39",
+        "latitude": 15.79,
+        "longitude": 119.76,
+        "depth_km": 22.0,
+        "magnitude": 1.9,
+        "location": "016km S 77Â° W of Infanta (Pangasinan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.76,
+          15.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "02:45 PM",
+        "time_24": "14:45",
+        "latitude": 6.8,
+        "longitude": 126.25,
+        "depth_km": 20.0,
+        "magnitude": 2.9,
+        "location": "017km S 11Â° E of City Of Mati (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          6.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "01:59 PM",
+        "time_24": "13:59",
+        "latitude": 6.32,
+        "longitude": 127.03,
+        "depth_km": 34.0,
+        "magnitude": 2.5,
+        "location": "103km S 38Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03,
+          6.32
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -348,17 +468,17 @@
         "date": "24 October 2026",
         "time": "02:01 AM",
         "time_24": "02:01",
-        "latitude": 16.55,
-        "longitude": 122.08,
-        "depth_km": 18.0,
-        "magnitude": 2.5,
-        "location": "019km N 81Â° W of Dinapigue (Isabela)"
+        "latitude": 16.59,
+        "longitude": 122.02,
+        "depth_km": 8.0,
+        "magnitude": 2.7,
+        "location": "027km N 76Â° W of Dinapigue (Isabela)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.08,
-          16.55
+          122.02,
+          16.59
         ]
       }
     },
