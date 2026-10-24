@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-23T22:38:49.831381+00:00",
+  "generated_at": "2026-10-24T01:08:02.565287+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "08:28 AM",
+        "time_24": "08:28",
+        "latitude": 5.52,
+        "longitude": 125.49,
+        "depth_km": 18.0,
+        "magnitude": 1.9,
+        "location": "006km N 18Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "07:50 AM",
+        "time_24": "07:50",
+        "latitude": 7.0,
+        "longitude": 126.65,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "023km S 77Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.65,
+          7.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "06:46 AM",
+        "time_24": "06:46",
+        "latitude": 12.59,
+        "longitude": 121.65,
+        "depth_km": 35.0,
+        "magnitude": 1.4,
+        "location": "014km S 90Â° E of Roxas (Oriental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.65,
+          12.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -28,17 +88,17 @@
         "date": "24 October 2026",
         "time": "05:41 AM",
         "time_24": "05:41",
-        "latitude": 7.83,
-        "longitude": 127.07,
-        "depth_km": 10.0,
-        "magnitude": 4.5,
-        "location": "062km N 63Â° E of Baganga (Davao Oriental)"
+        "latitude": 7.92,
+        "longitude": 127.15,
+        "depth_km": 3.0,
+        "magnitude": 4.3,
+        "location": "076km N 60Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.07,
-          7.83
+          127.15,
+          7.92
         ]
       }
     },
@@ -319,6 +379,26 @@
         "coordinates": [
           120.89,
           16.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "24 October 2026",
+        "time": "12:50 AM",
+        "time_24": "00:50",
+        "latitude": 7.37,
+        "longitude": 126.75,
+        "depth_km": 9.0,
+        "magnitude": 3.1,
+        "location": "021km N 76Â° E of Caraga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.75,
+          7.37
         ]
       }
     },
