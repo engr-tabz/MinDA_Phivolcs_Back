@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-24T17:22:40.288642+00:00",
+  "generated_at": "2026-10-24T19:38:39.601823+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "03:03 AM",
+        "time_24": "03:03",
+        "latitude": 5.77,
+        "longitude": 126.24,
+        "depth_km": 24.0,
+        "magnitude": 2.9,
+        "location": "068km S 77Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          5.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "02:26 AM",
+        "time_24": "02:26",
+        "latitude": 5.82,
+        "longitude": 126.04,
+        "depth_km": 143.0,
+        "magnitude": 2.8,
+        "location": "045km S 77Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.04,
+          5.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "02:20 AM",
+        "time_24": "02:20",
+        "latitude": 7.44,
+        "longitude": 125.44,
+        "depth_km": 12.0,
+        "magnitude": 1.5,
+        "location": "023km S 62Â° W of Santo Tomas (Davao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          7.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "02:05 AM",
+        "time_24": "02:05",
+        "latitude": 15.02,
+        "longitude": 122.52,
+        "depth_km": 2.0,
+        "magnitude": 2.1,
+        "location": "041km N 29Â° E of Jomalig (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.52,
+          15.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "01:52 AM",
+        "time_24": "01:52",
+        "latitude": 6.49,
+        "longitude": 124.14,
+        "depth_km": 20.0,
+        "magnitude": 2.3,
+        "location": "012km S 53Â° E of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.14,
+          6.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "01:39 AM",
+        "time_24": "01:39",
+        "latitude": 5.22,
+        "longitude": 125.23,
+        "depth_km": 3.0,
+        "magnitude": 2.4,
+        "location": "030km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.22
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -648,17 +768,17 @@
         "date": "24 October 2026",
         "time": "08:28 AM",
         "time_24": "08:28",
-        "latitude": 5.52,
-        "longitude": 125.49,
-        "depth_km": 18.0,
+        "latitude": 5.47,
+        "longitude": 125.5,
+        "depth_km": 23.0,
         "magnitude": 1.9,
-        "location": "006km N 18Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "003km S 86Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.49,
-          5.52
+          125.5,
+          5.47
         ]
       }
     },
@@ -728,17 +848,17 @@
         "date": "24 October 2026",
         "time": "05:41 AM",
         "time_24": "05:41",
-        "latitude": 7.92,
-        "longitude": 127.15,
-        "depth_km": 3.0,
-        "magnitude": 4.3,
-        "location": "076km N 60Â° E of Baganga (Davao Oriental)"
+        "latitude": 7.78,
+        "longitude": 126.81,
+        "depth_km": 5.0,
+        "magnitude": 4.5,
+        "location": "036km N 51Â° E of Baganga (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.15,
-          7.92
+          126.81,
+          7.78
         ]
       }
     },
