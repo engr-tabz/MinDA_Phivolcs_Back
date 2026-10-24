@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-24T19:38:39.601823+00:00",
+  "generated_at": "2026-10-24T21:54:27.322710+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "05:23 AM",
+        "time_24": "05:23",
+        "latitude": 20.66,
+        "longitude": 121.48,
+        "depth_km": 21.0,
+        "magnitude": 2.4,
+        "location": "040km S 69Â° W of Itbayat (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48,
+          20.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "05:12 AM",
+        "time_24": "05:12",
+        "latitude": 10.78,
+        "longitude": 122.89,
+        "depth_km": 27.0,
+        "magnitude": 2.2,
+        "location": "009km S 79Â° W of City Of Silay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.89,
+          10.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "05:04 AM",
+        "time_24": "05:04",
+        "latitude": 16.82,
+        "longitude": 121.54,
+        "depth_km": 12.0,
+        "magnitude": 2.4,
+        "location": "005km N 13Â° E of Ramon (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54,
+          16.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "04:52 AM",
+        "time_24": "04:52",
+        "latitude": 6.51,
+        "longitude": 126.3,
+        "depth_km": 18.0,
+        "magnitude": 2.7,
+        "location": "030km S 58Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          6.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "03:47 AM",
+        "time_24": "03:47",
+        "latitude": 15.64,
+        "longitude": 119.96,
+        "depth_km": 32.0,
+        "magnitude": 1.7,
+        "location": "004km N 64Â° E of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96,
+          15.64
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
