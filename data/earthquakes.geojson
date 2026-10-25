@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-24T21:54:27.322710+00:00",
+  "generated_at": "2026-10-25T00:03:19.626569+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "07:37 AM",
+        "time_24": "07:37",
+        "latitude": 10.93,
+        "longitude": 123.97,
+        "depth_km": 11.0,
+        "magnitude": 2.4,
+        "location": "013km S 07Â° W of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.97,
+          10.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "07:24 AM",
+        "time_24": "07:24",
+        "latitude": 13.75,
+        "longitude": 120.7,
+        "depth_km": 115.0,
+        "magnitude": 1.7,
+        "location": "012km S 36Â° E of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          13.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "07:23 AM",
+        "time_24": "07:23",
+        "latitude": 5.34,
+        "longitude": 125.11,
+        "depth_km": 32.0,
+        "magnitude": 3.1,
+        "location": "036km S 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.11,
+          5.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "06:58 AM",
+        "time_24": "06:58",
+        "latitude": 6.38,
+        "longitude": 126.63,
+        "depth_km": 16.0,
+        "magnitude": 3.2,
+        "location": "069km S 63Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63,
+          6.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "06:37 AM",
+        "time_24": "06:37",
+        "latitude": 5.69,
+        "longitude": 126.44,
+        "depth_km": 19.0,
+        "magnitude": 3.0,
+        "location": "091km S 74Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.44,
+          5.69
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
