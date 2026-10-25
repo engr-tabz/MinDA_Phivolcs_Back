@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-25T04:32:22.393481+00:00",
+  "generated_at": "2026-10-25T09:22:06.457225+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "05:11 PM",
+        "time_24": "17:11",
+        "latitude": 13.42,
+        "longitude": 120.06,
+        "depth_km": 5.0,
+        "magnitude": 2.1,
+        "location": "039km S 32Â° W of Looc (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.06,
+          13.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "05:00 PM",
+        "time_24": "17:00",
+        "latitude": 5.59,
+        "longitude": 125.49,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "013km N 08Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          5.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "04:18 PM",
+        "time_24": "16:18",
+        "latitude": 5.66,
+        "longitude": 125.36,
+        "depth_km": 4.0,
+        "magnitude": 1.9,
+        "location": "024km N 32Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "02:59 PM",
+        "time_24": "14:59",
+        "latitude": 5.69,
+        "longitude": 126.13,
+        "depth_km": 50.0,
+        "magnitude": 2.1,
+        "location": "059km S 65Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "02:15 PM",
+        "time_24": "14:15",
+        "latitude": 5.37,
+        "longitude": 125.22,
+        "depth_km": 33.0,
+        "magnitude": 2.5,
+        "location": "022km S 78Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "01:14 PM",
+        "time_24": "13:14",
+        "latitude": 8.64,
+        "longitude": 125.88,
+        "depth_km": 12.0,
+        "magnitude": 2.3,
+        "location": "006km N 39Â° W of Prosperidad (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.88,
+          8.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 October 2026",
+        "time": "01:01 PM",
+        "time_24": "13:01",
+        "latitude": 6.59,
+        "longitude": 125.26,
+        "depth_km": 34.0,
+        "magnitude": 1.9,
+        "location": "004km S 09Â° E of Kiblawan (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          6.59
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
