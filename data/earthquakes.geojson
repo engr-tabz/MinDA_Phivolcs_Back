@@ -1,7 +1,47 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-25T22:05:57.086584+00:00",
+  "generated_at": "2026-10-26T00:18:31.796625+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 October 2026",
+        "time": "07:50 AM",
+        "time_24": "07:50",
+        "latitude": 7.65,
+        "longitude": 125.93,
+        "depth_km": 116.0,
+        "magnitude": 2.2,
+        "location": "007km N 41Â° W of Nabunturan (Davao De Oro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.93,
+          7.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "26 October 2026",
+        "time": "06:58 AM",
+        "time_24": "06:58",
+        "latitude": 5.33,
+        "longitude": 125.16,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "030km S 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          5.33
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
