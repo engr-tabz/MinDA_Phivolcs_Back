@@ -1,7 +1,207 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-26T21:40:32.502845+00:00",
+  "generated_at": "2026-10-27T00:51:42.542637+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "08:15 AM",
+        "time_24": "08:15",
+        "latitude": 5.92,
+        "longitude": 125.82,
+        "depth_km": 149.0,
+        "magnitude": 2.5,
+        "location": "019km N 88Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.82,
+          5.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "08:07 AM",
+        "time_24": "08:07",
+        "latitude": 9.56,
+        "longitude": 126.2,
+        "depth_km": 31.0,
+        "magnitude": 1.4,
+        "location": "025km S 11Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "07:52 AM",
+        "time_24": "07:52",
+        "latitude": 15.65,
+        "longitude": 119.87,
+        "depth_km": 27.0,
+        "magnitude": 2.1,
+        "location": "007km N 71Â° W of Candelaria (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.87,
+          15.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "07:47 AM",
+        "time_24": "07:47",
+        "latitude": 5.21,
+        "longitude": 126.98,
+        "depth_km": 34.0,
+        "magnitude": 2.6,
+        "location": "167km S 62Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98,
+          5.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "07:35 AM",
+        "time_24": "07:35",
+        "latitude": 5.49,
+        "longitude": 125.37,
+        "depth_km": 30.0,
+        "magnitude": 2.6,
+        "location": "010km N 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "06:52 AM",
+        "time_24": "06:52",
+        "latitude": 2.4,
+        "longitude": 127.93,
+        "depth_km": 116.0,
+        "magnitude": 4.2,
+        "location": "434km S 40Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.93,
+          2.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "06:10 AM",
+        "time_24": "06:10",
+        "latitude": 9.31,
+        "longitude": 125.05,
+        "depth_km": 7.0,
+        "magnitude": 2.2,
+        "location": "033km N 60Â° E of Mahinog (Camiguin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          9.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "05:57 AM",
+        "time_24": "05:57",
+        "latitude": 16.32,
+        "longitude": 120.88,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "004km S 13Â° W of Kayapa (Nueva Vizcaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88,
+          16.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "05:51 AM",
+        "time_24": "05:51",
+        "latitude": 7.99,
+        "longitude": 122.78,
+        "depth_km": 38.0,
+        "magnitude": 1.4,
+        "location": "007km S 83Â° W of Godod (Zamboanga Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.78,
+          7.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 October 2026",
+        "time": "05:50 AM",
+        "time_24": "05:50",
+        "latitude": 7.86,
+        "longitude": 127.09,
+        "depth_km": 12.0,
+        "magnitude": 2.2,
+        "location": "066km N 61Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.09,
+          7.86
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -128,17 +328,17 @@
         "date": "27 October 2026",
         "time": "04:41 AM",
         "time_24": "04:41",
-        "latitude": 5.8,
-        "longitude": 126.9,
-        "depth_km": 10.0,
-        "magnitude": 4.7,
-        "location": "131km S 44Â° E of Governor Generoso (Davao Oriental)"
+        "latitude": 6.16,
+        "longitude": 126.45,
+        "depth_km": 2.0,
+        "magnitude": 4.6,
+        "location": "069km S 37Â° E of Governor Generoso (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9,
-          5.8
+          126.45,
+          6.16
         ]
       }
     },
