@@ -1,7 +1,227 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-27T21:03:02.944340+00:00",
+  "generated_at": "2026-10-28T00:27:50.860111+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "08:10 AM",
+        "time_24": "08:10",
+        "latitude": 4.75,
+        "longitude": 125.88,
+        "depth_km": 9.0,
+        "magnitude": 2.0,
+        "location": "089km S 34Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.88,
+          4.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "07:47 AM",
+        "time_24": "07:47",
+        "latitude": 5.65,
+        "longitude": 125.35,
+        "depth_km": 30.0,
+        "magnitude": 2.1,
+        "location": "024km N 33Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "07:43 AM",
+        "time_24": "07:43",
+        "latitude": 5.33,
+        "longitude": 125.39,
+        "depth_km": 10.0,
+        "magnitude": 5.5,
+        "location": "009km S 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "07:34 AM",
+        "time_24": "07:34",
+        "latitude": 6.33,
+        "longitude": 125.05,
+        "depth_km": 66.0,
+        "magnitude": 1.8,
+        "location": "011km N 88Â° E of Tupi (South Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.05,
+          6.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "07:15 AM",
+        "time_24": "07:15",
+        "latitude": 6.55,
+        "longitude": 126.46,
+        "depth_km": 27.0,
+        "magnitude": 3.7,
+        "location": "045km S 75Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.46,
+          6.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "06:57 AM",
+        "time_24": "06:57",
+        "latitude": 7.87,
+        "longitude": 127.01,
+        "depth_km": 7.0,
+        "magnitude": 3.3,
+        "location": "059km N 57Â° E of Baganga (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01,
+          7.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "06:44 AM",
+        "time_24": "06:44",
+        "latitude": 5.45,
+        "longitude": 125.74,
+        "depth_km": 1.0,
+        "magnitude": 2.0,
+        "location": "030km S 85Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          5.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "05:57 AM",
+        "time_24": "05:57",
+        "latitude": 10.3,
+        "longitude": 124.98,
+        "depth_km": 3.0,
+        "magnitude": 2.1,
+        "location": "000km S 26Â° W of Tomas Oppus (Southern Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.98,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "05:16 AM",
+        "time_24": "05:16",
+        "latitude": 6.38,
+        "longitude": 126.76,
+        "depth_km": 34.0,
+        "magnitude": 2.4,
+        "location": "081km S 25Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.76,
+          6.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "05:07 AM",
+        "time_24": "05:07",
+        "latitude": 14.82,
+        "longitude": 119.89,
+        "depth_km": 23.0,
+        "magnitude": 2.4,
+        "location": "026km S 56Â° W of San Antonio (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89,
+          14.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "28 October 2026",
+        "time": "05:00 AM",
+        "time_24": "05:00",
+        "latitude": 6.05,
+        "longitude": 126.35,
+        "depth_km": 117.0,
+        "magnitude": 2.2,
+        "location": "073km S 25Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.35,
+          6.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -128,17 +348,17 @@
         "date": "28 October 2026",
         "time": "02:34 AM",
         "time_24": "02:34",
-        "latitude": 12.84,
-        "longitude": 123.02,
-        "depth_km": 10.0,
+        "latitude": 12.8,
+        "longitude": 122.98,
+        "depth_km": 8.0,
         "magnitude": 3.5,
-        "location": "025km S 74Â° W of Claveria (Masbate)"
+        "location": "031km S 70Â° W of Claveria (Masbate)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.02,
-          12.84
+          122.98,
+          12.8
         ]
       }
     },
