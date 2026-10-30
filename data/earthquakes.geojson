@@ -1,7 +1,107 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-29T20:30:01.814966+00:00",
+  "generated_at": "2026-10-30T00:14:50.158034+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "07:57 AM",
+        "time_24": "07:57",
+        "latitude": 5.73,
+        "longitude": 125.3,
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "014km S 47Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "07:40 AM",
+        "time_24": "07:40",
+        "latitude": 8.62,
+        "longitude": 126.03,
+        "depth_km": 9.0,
+        "magnitude": 2.3,
+        "location": "007km S 82Â° W of Lianga (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.03,
+          8.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "05:52 AM",
+        "time_24": "05:52",
+        "latitude": 8.41,
+        "longitude": 127.36,
+        "depth_km": 33.0,
+        "magnitude": 2.6,
+        "location": "113km N 69Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.36,
+          8.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "05:11 AM",
+        "time_24": "05:11",
+        "latitude": 8.93,
+        "longitude": 126.33,
+        "depth_km": 28.0,
+        "magnitude": 1.6,
+        "location": "004km N 73Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          8.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "04:53 AM",
+        "time_24": "04:53",
+        "latitude": 9.9,
+        "longitude": 126.12,
+        "depth_km": 52.0,
+        "magnitude": 1.6,
+        "location": "013km N 17Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          9.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
