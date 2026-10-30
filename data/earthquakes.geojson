@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-30T00:14:50.158034+00:00",
+  "generated_at": "2026-10-30T06:00:06.970753+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "01:36 PM",
+        "time_24": "13:36",
+        "latitude": 9.59,
+        "longitude": 126.14,
+        "depth_km": 31.0,
+        "magnitude": 1.7,
+        "location": "019km S 80Â° E of Socorro (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          9.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "01:10 PM",
+        "time_24": "13:10",
+        "latitude": 11.43,
+        "longitude": 124.1,
+        "depth_km": 26.0,
+        "magnitude": 2.2,
+        "location": "036km N 24Â° E of Medellin (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1,
+          11.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "01:07 PM",
+        "time_24": "13:07",
+        "latitude": 8.48,
+        "longitude": 127.51,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "130km N 68Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.51,
+          8.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "12:08 PM",
+        "time_24": "12:08",
+        "latitude": 8.54,
+        "longitude": 127.55,
+        "depth_km": 36.0,
+        "magnitude": 2.1,
+        "location": "137km N 66Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.55,
+          8.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "11:59 AM",
+        "time_24": "11:59",
+        "latitude": 5.68,
+        "longitude": 125.32,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "020km S 39Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32,
+          5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "11:45 AM",
+        "time_24": "11:45",
+        "latitude": 5.42,
+        "longitude": 125.22,
+        "depth_km": 29.0,
+        "magnitude": 2.2,
+        "location": "023km N 87Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "10:17 AM",
+        "time_24": "10:17",
+        "latitude": 17.66,
+        "longitude": 120.71,
+        "depth_km": 17.0,
+        "magnitude": 1.8,
+        "location": "002km N 12Â° W of Dolores (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71,
+          17.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "10:04 AM",
+        "time_24": "10:04",
+        "latitude": 7.14,
+        "longitude": 126.98,
+        "depth_km": 14.0,
+        "magnitude": 2.9,
+        "location": "049km S 81Â° E of Manay (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98,
+          7.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "30 October 2026",
+        "time": "08:40 AM",
+        "time_24": "08:40",
+        "latitude": 9.43,
+        "longitude": 126.22,
+        "depth_km": 24.0,
+        "magnitude": 3.3,
+        "location": "017km N 10Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          9.43
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +748,17 @@
         "date": "29 October 2026",
         "time": "07:13 PM",
         "time_24": "19:13",
-        "latitude": 5.49,
-        "longitude": 125.25,
-        "depth_km": 1.0,
-        "magnitude": 3.5,
-        "location": "020km N 66Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.43,
+        "longitude": 125.34,
+        "depth_km": 3.0,
+        "magnitude": 3.6,
+        "location": "009km N 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.25,
-          5.49
+          125.34,
+          5.43
         ]
       }
     },
@@ -768,17 +948,17 @@
         "date": "29 October 2026",
         "time": "04:40 PM",
         "time_24": "16:40",
-        "latitude": 11.07,
-        "longitude": 125.75,
-        "depth_km": 10.0,
-        "magnitude": 2.3,
-        "location": "005km S 61Â° E of Mercedes (Eastern Samar)"
+        "latitude": 11.03,
+        "longitude": 125.77,
+        "depth_km": 19.0,
+        "magnitude": 2.4,
+        "location": "005km S 85Â° E of Guiuan (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.75,
-          11.07
+          125.77,
+          11.03
         ]
       }
     },
@@ -788,17 +968,17 @@
         "date": "29 October 2026",
         "time": "03:48 PM",
         "time_24": "15:48",
-        "latitude": 7.81,
-        "longitude": 126.39,
-        "depth_km": 30.0,
-        "magnitude": 2.2,
-        "location": "025km S 06Â° W of Lingig (Surigao Del Sur)"
+        "latitude": 7.88,
+        "longitude": 126.43,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "006km N 80Â° E of Boston (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.39,
-          7.81
+          126.43,
+          7.88
         ]
       }
     },
@@ -828,17 +1008,17 @@
         "date": "29 October 2026",
         "time": "03:37 PM",
         "time_24": "15:37",
-        "latitude": 5.51,
-        "longitude": 125.3,
-        "depth_km": 5.0,
-        "magnitude": 3.3,
-        "location": "018km N 52Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "latitude": 5.63,
+        "longitude": 125.26,
+        "depth_km": 11.0,
+        "magnitude": 3.7,
+        "location": "023km S 16Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3,
-          5.51
+          125.26,
+          5.63
         ]
       }
     },
@@ -868,11 +1048,91 @@
         "date": "29 October 2026",
         "time": "02:19 PM",
         "time_24": "14:19",
+        "latitude": 8.41,
+        "longitude": 127.52,
+        "depth_km": 33.0,
+        "magnitude": 2.4,
+        "location": "129km N 71Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.52,
+          8.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 October 2026",
+        "time": "02:19 PM",
+        "time_24": "14:19",
+        "latitude": 8.4,
+        "longitude": 127.65,
+        "depth_km": 32.0,
+        "magnitude": 2.1,
+        "location": "142km N 74Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.65,
+          8.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 October 2026",
+        "time": "01:49 PM",
+        "time_24": "13:49",
+        "latitude": 8.48,
+        "longitude": 127.34,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "113km N 65Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.34,
+          8.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 October 2026",
+        "time": "01:47 PM",
+        "time_24": "13:47",
+        "latitude": 8.47,
+        "longitude": 127.47,
+        "depth_km": 29.0,
+        "magnitude": 2.2,
+        "location": "126km N 68Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.47,
+          8.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "29 October 2026",
+        "time": "01:34 PM",
+        "time_24": "13:34",
         "latitude": 8.43,
         "longitude": 127.35,
-        "depth_km": 5.0,
-        "magnitude": 2.4,
-        "location": "112km N 87Â° E of Hinatuan (Surigao Del Sur)"
+        "depth_km": 39.0,
+        "magnitude": 1.9,
+        "location": "111km N 67Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
@@ -886,98 +1146,18 @@
       "type": "Feature",
       "properties": {
         "date": "29 October 2026",
-        "time": "02:19 PM",
-        "time_24": "14:19",
-        "latitude": 8.41,
-        "longitude": 127.46,
-        "depth_km": 37.0,
-        "magnitude": 1.5,
-        "location": "123km N 71Â° E of Lingig (Surigao Del Sur)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.46,
-          8.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 October 2026",
-        "time": "01:49 PM",
-        "time_24": "13:49",
-        "latitude": 8.49,
-        "longitude": 127.43,
-        "depth_km": 33.0,
-        "magnitude": 1.8,
-        "location": "123km N 66Â° E of Lingig (Surigao Del Sur)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.43,
-          8.49
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 October 2026",
-        "time": "01:47 PM",
-        "time_24": "13:47",
-        "latitude": 8.14,
-        "longitude": 127.36,
-        "depth_km": 13.0,
-        "magnitude": 2.9,
-        "location": "105km N 84Â° E of Lingig (Surigao Del Sur)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.36,
-          8.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 October 2026",
-        "time": "01:35 PM",
-        "time_24": "13:35",
-        "latitude": 8.5,
-        "longitude": 127.29,
-        "depth_km": 21.0,
-        "magnitude": 1.7,
-        "location": "109km N 62Â° E of Lingig (Surigao Del Sur)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.29,
-          8.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "29 October 2026",
         "time": "01:28 PM",
         "time_24": "13:28",
         "latitude": 8.43,
-        "longitude": 127.4,
-        "depth_km": 33.0,
-        "magnitude": 2.2,
-        "location": "117km N 69Â° E of Lingig (Surigao Del Sur)"
+        "longitude": 127.37,
+        "depth_km": 37.0,
+        "magnitude": 1.7,
+        "location": "114km N 68Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.4,
+          127.37,
           8.43
         ]
       }
@@ -988,17 +1168,17 @@
         "date": "29 October 2026",
         "time": "01:25 PM",
         "time_24": "13:25",
-        "latitude": 5.88,
-        "longitude": 125.36,
-        "depth_km": 19.0,
-        "magnitude": 1.4,
-        "location": "013km S 40Â° E of Malapatan (Sarangani)"
+        "latitude": 5.87,
+        "longitude": 125.37,
+        "depth_km": 18.0,
+        "magnitude": 1.5,
+        "location": "014km S 36Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          5.88
+          125.37,
+          5.87
         ]
       }
     },
@@ -1008,17 +1188,17 @@
         "date": "29 October 2026",
         "time": "01:12 PM",
         "time_24": "13:12",
-        "latitude": 5.82,
-        "longitude": 125.26,
-        "depth_km": 35.0,
-        "magnitude": 1.5,
-        "location": "006km S 84Â° E of Glan (Sarangani)"
+        "latitude": 5.89,
+        "longitude": 125.23,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "008km N 17Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.26,
-          5.82
+          125.23,
+          5.89
         ]
       }
     },
@@ -1028,17 +1208,17 @@
         "date": "29 October 2026",
         "time": "12:43 PM",
         "time_24": "12:43",
-        "latitude": 5.76,
+        "latitude": 5.74,
         "longitude": 125.18,
-        "depth_km": 18.0,
-        "magnitude": 1.6,
-        "location": "008km S 21Â° W of Glan (Sarangani)"
+        "depth_km": 23.0,
+        "magnitude": 1.7,
+        "location": "009km S 18Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.18,
-          5.76
+          5.74
         ]
       }
     },
@@ -1048,17 +1228,17 @@
         "date": "29 October 2026",
         "time": "12:34 PM",
         "time_24": "12:34",
-        "latitude": 8.53,
-        "longitude": 127.32,
-        "depth_km": 18.0,
+        "latitude": 8.47,
+        "longitude": 127.38,
+        "depth_km": 25.0,
         "magnitude": 3.0,
-        "location": "113km N 62Â° E of Lingig (Surigao Del Sur)"
+        "location": "116km N 66Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.32,
-          8.53
+          127.38,
+          8.47
         ]
       }
     },
@@ -1068,17 +1248,17 @@
         "date": "29 October 2026",
         "time": "12:30 PM",
         "time_24": "12:30",
-        "latitude": 8.45,
-        "longitude": 127.45,
-        "depth_km": 33.0,
-        "magnitude": 2.2,
-        "location": "123km N 68Â° E of Lingig (Surigao Del Sur)"
+        "latitude": 8.46,
+        "longitude": 127.41,
+        "depth_km": 35.0,
+        "magnitude": 2.1,
+        "location": "120km N 67Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.45,
-          8.45
+          127.41,
+          8.46
         ]
       }
     },
@@ -1088,17 +1268,17 @@
         "date": "29 October 2026",
         "time": "12:23 PM",
         "time_24": "12:23",
-        "latitude": 8.5,
-        "longitude": 127.28,
-        "depth_km": 17.0,
-        "magnitude": 2.9,
-        "location": "109km N 62Â° E of Lingig (Surigao Del Sur)"
+        "latitude": 8.53,
+        "longitude": 127.47,
+        "depth_km": 26.0,
+        "magnitude": 2.8,
+        "location": "127km N 65Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.28,
-          8.5
+          127.47,
+          8.53
         ]
       }
     },
@@ -1109,15 +1289,15 @@
         "time": "12:02 PM",
         "time_24": "12:02",
         "latitude": 8.54,
-        "longitude": 127.38,
-        "depth_km": 36.0,
-        "magnitude": 2.2,
-        "location": "117km N 81Â° E of Hinatuan (Surigao Del Sur)"
+        "longitude": 127.39,
+        "depth_km": 32.0,
+        "magnitude": 2.3,
+        "location": "121km N 63Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.38,
+          127.39,
           8.54
         ]
       }
@@ -1128,17 +1308,17 @@
         "date": "29 October 2026",
         "time": "12:01 PM",
         "time_24": "12:01",
-        "latitude": 8.49,
-        "longitude": 127.48,
-        "depth_km": 33.0,
+        "latitude": 8.53,
+        "longitude": 127.42,
+        "depth_km": 36.0,
         "magnitude": 2.1,
-        "location": "128km N 67Â° E of Lingig (Surigao Del Sur)"
+        "location": "118km N 63Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.48,
-          8.49
+          127.42,
+          8.53
         ]
       }
     },
@@ -1149,15 +1329,15 @@
         "time": "11:40 AM",
         "time_24": "11:40",
         "latitude": 8.45,
-        "longitude": 127.39,
-        "depth_km": 33.0,
-        "magnitude": 2.8,
-        "location": "117km N 67Â° E of Lingig (Surigao Del Sur)"
+        "longitude": 127.34,
+        "depth_km": 32.0,
+        "magnitude": 2.7,
+        "location": "113km N 66Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.39,
+          127.34,
           8.45
         ]
       }
@@ -1168,17 +1348,17 @@
         "date": "29 October 2026",
         "time": "11:33 AM",
         "time_24": "11:33",
-        "latitude": 8.56,
-        "longitude": 127.46,
-        "depth_km": 33.0,
+        "latitude": 8.61,
+        "longitude": 127.23,
+        "depth_km": 15.0,
         "magnitude": 4.3,
-        "location": "129km N 64Â° E of Lingig (Surigao Del Sur)"
+        "location": "110km N 55Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.46,
-          8.56
+          127.23,
+          8.61
         ]
       }
     },
