@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-10-30T22:28:43.743498+00:00",
+  "generated_at": "2026-10-31T01:45:37.236699+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "08:48 AM",
+        "time_24": "08:48",
+        "latitude": 4.91,
+        "longitude": 126.42,
+        "depth_km": 26.0,
+        "magnitude": 3.4,
+        "location": "122km S 59Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42,
+          4.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "08:44 AM",
+        "time_24": "08:44",
+        "latitude": 9.66,
+        "longitude": 126.19,
+        "depth_km": 32.0,
+        "magnitude": 1.4,
+        "location": "014km S 13Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.19,
+          9.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "08:37 AM",
+        "time_24": "08:37",
+        "latitude": 5.88,
+        "longitude": 125.42,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "018km S 56Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "08:07 AM",
+        "time_24": "08:07",
+        "latitude": 12.54,
+        "longitude": 124.82,
+        "depth_km": 41.0,
+        "magnitude": 2.6,
+        "location": "008km N 70Â° E of Mondragon (Northern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82,
+          12.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "07:56 AM",
+        "time_24": "07:56",
+        "latitude": 5.66,
+        "longitude": 125.22,
+        "depth_km": 19.0,
+        "magnitude": 2.3,
+        "location": "018km S 06Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "07:37 AM",
+        "time_24": "07:37",
+        "latitude": 11.02,
+        "longitude": 124.65,
+        "depth_km": 1.0,
+        "magnitude": 2.4,
+        "location": "005km N 83Â° E of Ormoc City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.65,
+          11.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "31 October 2026",
+        "time": "06:23 AM",
+        "time_24": "06:23",
+        "latitude": 9.75,
+        "longitude": 126.18,
+        "depth_km": 17.0,
+        "magnitude": 2.7,
+        "location": "004km S 29Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          9.75
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -48,17 +188,17 @@
         "date": "31 October 2026",
         "time": "05:48 AM",
         "time_24": "05:48",
-        "latitude": 11.29,
-        "longitude": 124.6,
-        "depth_km": 10.0,
+        "latitude": 11.24,
+        "longitude": 124.62,
+        "depth_km": 9.0,
         "magnitude": 4.2,
-        "location": "004km S 85Â° W of Capoocan (Leyte)"
+        "location": "006km S 24Â° W of Capoocan (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.6,
-          11.29
+          124.62,
+          11.24
         ]
       }
     },
