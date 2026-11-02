@@ -1,7 +1,67 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-01T22:26:04.419939+00:00",
+  "generated_at": "2026-11-02T01:43:50.277999+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 November 2026",
+        "time": "08:49 AM",
+        "time_24": "08:49",
+        "latitude": 8.56,
+        "longitude": 126.66,
+        "depth_km": 12.0,
+        "magnitude": 2.2,
+        "location": "041km N 59Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66,
+          8.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 November 2026",
+        "time": "06:58 AM",
+        "time_24": "06:58",
+        "latitude": 18.0,
+        "longitude": 122.09,
+        "depth_km": 23.0,
+        "magnitude": 2.2,
+        "location": "026km N 62Â° E of Baggao (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.09,
+          18.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "02 November 2026",
+        "time": "06:35 AM",
+        "time_24": "06:35",
+        "latitude": 8.89,
+        "longitude": 126.58,
+        "depth_km": 31.0,
+        "magnitude": 2.1,
+        "location": "030km S 84Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          8.89
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -988,17 +1048,17 @@
         "date": "01 November 2026",
         "time": "11:05 AM",
         "time_24": "11:05",
-        "latitude": 9.6,
-        "longitude": 124.15,
-        "depth_km": 35.0,
+        "latitude": 9.62,
+        "longitude": 124.1,
+        "depth_km": 32.0,
         "magnitude": 1.7,
-        "location": "002km S 69Â° W of Dimiao (Bohol)"
+        "location": "007km N 75Â° W of Dimiao (Bohol)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.15,
-          9.6
+          124.1,
+          9.62
         ]
       }
     },
