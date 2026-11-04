@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-03T21:45:15.518375+00:00",
+  "generated_at": "2026-11-04T01:43:06.919854+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "08:42 AM",
+        "time_24": "08:42",
+        "latitude": 8.41,
+        "longitude": 127.44,
+        "depth_km": 29.0,
+        "magnitude": 3.0,
+        "location": "120km N 70Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.44,
+          8.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "08:10 AM",
+        "time_24": "08:10",
+        "latitude": 5.72,
+        "longitude": 125.31,
+        "depth_km": 24.0,
+        "magnitude": 2.4,
+        "location": "016km S 46Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "07:40 AM",
+        "time_24": "07:40",
+        "latitude": 10.6,
+        "longitude": 122.32,
+        "depth_km": 2.0,
+        "magnitude": 2.2,
+        "location": "006km S 08Â° W of Guimbal (Iloilo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32,
+          10.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "07:02 AM",
+        "time_24": "07:02",
+        "latitude": 10.55,
+        "longitude": 122.26,
+        "depth_km": 20.0,
+        "magnitude": 1.7,
+        "location": "010km S 17Â° E of Miagao (Iloilo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.26,
+          10.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "06:29 AM",
+        "time_24": "06:29",
+        "latitude": 5.4,
+        "longitude": 125.36,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "007km S 79Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "05:55 AM",
+        "time_24": "05:55",
+        "latitude": 11.27,
+        "longitude": 124.61,
+        "depth_km": 6.0,
+        "magnitude": 3.1,
+        "location": "005km S 51Â° W of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.61,
+          11.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 10.55,
+        "longitude": 122.28,
+        "depth_km": 7.0,
+        "magnitude": 2.7,
+        "location": "011km S 27Â° E of Miagao (Iloilo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.28,
+          10.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "05:41 AM",
+        "time_24": "05:41",
+        "latitude": 10.47,
+        "longitude": 125.97,
+        "depth_km": 18.0,
+        "magnitude": 2.4,
+        "location": "041km S 42Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.97,
+          10.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "04 November 2026",
+        "time": "05:39 AM",
+        "time_24": "05:39",
+        "latitude": 18.97,
+        "longitude": 122.13,
+        "depth_km": 11.0,
+        "magnitude": 3.7,
+        "location": "029km N 76Â° E of Camiguin Island (Calayan) (Cagayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13,
+          18.97
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1028,17 +1208,17 @@
         "date": "03 November 2026",
         "time": "03:40 PM",
         "time_24": "15:40",
-        "latitude": 17.86,
+        "latitude": 17.83,
         "longitude": 120.75,
-        "depth_km": 7.0,
-        "magnitude": 2.2,
-        "location": "011km S 56Â° E of Nueva Era (Ilocos Norte)"
+        "depth_km": 13.0,
+        "magnitude": 2.1,
+        "location": "013km S 44Â° E of Nueva Era (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.75,
-          17.86
+          17.83
         ]
       }
     },
@@ -1088,17 +1268,17 @@
         "date": "03 November 2026",
         "time": "03:24 PM",
         "time_24": "15:24",
-        "latitude": 5.62,
+        "latitude": 5.63,
         "longitude": 125.28,
-        "depth_km": 27.0,
-        "magnitude": 2.6,
-        "location": "024km S 21Â° E of Glan (Sarangani)"
+        "depth_km": 26.0,
+        "magnitude": 2.5,
+        "location": "023km S 21Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.28,
-          5.62
+          5.63
         ]
       }
     },
