@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-04T21:57:45.906004+00:00",
+  "generated_at": "2026-11-05T02:12:50.013670+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "09:22 AM",
+        "time_24": "09:22",
+        "latitude": 10.23,
+        "longitude": 126.17,
+        "depth_km": 12.0,
+        "magnitude": 2.4,
+        "location": "025km N 24Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.17,
+          10.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "08:16 AM",
+        "time_24": "08:16",
+        "latitude": 13.82,
+        "longitude": 120.97,
+        "depth_km": 32.0,
+        "magnitude": 1.9,
+        "location": "005km N 57Â° W of Bauan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          13.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "07:42 AM",
+        "time_24": "07:42",
+        "latitude": 6.63,
+        "longitude": 126.23,
+        "depth_km": 14.0,
+        "magnitude": 2.2,
+        "location": "018km S 81Â° E of Governor Generoso (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          6.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "07:14 AM",
+        "time_24": "07:14",
+        "latitude": 6.58,
+        "longitude": 127.1,
+        "depth_km": 2.0,
+        "magnitude": 2.8,
+        "location": "088km S 54Â° E of Tarragona (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1,
+          6.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "06:16 AM",
+        "time_24": "06:16",
+        "latitude": 5.6,
+        "longitude": 125.34,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "020km N 47Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "05 November 2026",
+        "time": "05:58 AM",
+        "time_24": "05:58",
+        "latitude": 8.58,
+        "longitude": 127.64,
+        "depth_km": 25.0,
+        "magnitude": 3.7,
+        "location": "147km N 66Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.64,
+          8.58
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1108,17 +1228,17 @@
         "date": "04 November 2026",
         "time": "11:11 AM",
         "time_24": "11:11",
-        "latitude": 10.27,
-        "longitude": 126.21,
-        "depth_km": 15.0,
+        "latitude": 10.33,
+        "longitude": 126.23,
+        "depth_km": 11.0,
         "magnitude": 3.5,
-        "location": "031km N 28Â° E of Burgos (Surigao Del Norte)"
+        "location": "038km N 27Â° E of Burgos (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.21,
-          10.27
+          126.23,
+          10.33
         ]
       }
     },
@@ -1148,17 +1268,17 @@
         "date": "04 November 2026",
         "time": "10:18 AM",
         "time_24": "10:18",
-        "latitude": 19.12,
-        "longitude": 121.28,
-        "depth_km": 19.0,
-        "magnitude": 2.7,
-        "location": "008km N 77Â° E of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.15,
+        "longitude": 121.0,
+        "depth_km": 15.0,
+        "magnitude": 2.6,
+        "location": "022km N 78Â° W of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.28,
-          19.12
+          121.0,
+          19.15
         ]
       }
     },
