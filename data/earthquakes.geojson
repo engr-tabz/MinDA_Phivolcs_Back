@@ -1,7 +1,87 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-05T22:52:02.255977+00:00",
+  "generated_at": "2026-11-06T03:03:17.125183+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 November 2026",
+        "time": "10:52 AM",
+        "time_24": "10:52",
+        "latitude": 9.75,
+        "longitude": 122.49,
+        "depth_km": 27.0,
+        "magnitude": 1.8,
+        "location": "006km S 75Â° E of City Of Sipalay (Negros Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.49,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 November 2026",
+        "time": "10:15 AM",
+        "time_24": "10:15",
+        "latitude": 16.13,
+        "longitude": 121.71,
+        "depth_km": 25.0,
+        "magnitude": 1.8,
+        "location": "015km S 48Â° E of Nagtipunan (Quirino)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.71,
+          16.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 November 2026",
+        "time": "09:56 AM",
+        "time_24": "09:56",
+        "latitude": 5.97,
+        "longitude": 125.47,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "020km S 90Â° E of Malapatan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          5.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "06 November 2026",
+        "time": "08:23 AM",
+        "time_24": "08:23",
+        "latitude": 13.67,
+        "longitude": 120.49,
+        "depth_km": 97.0,
+        "magnitude": 3.3,
+        "location": "024km S 41Â° W of Calatagan (Batangas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49,
+          13.67
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1268,17 +1348,17 @@
         "date": "05 November 2026",
         "time": "11:48 AM",
         "time_24": "11:48",
-        "latitude": 8.5,
-        "longitude": 127.65,
-        "depth_km": 21.0,
-        "magnitude": 3.1,
-        "location": "145km N 69Â° E of Lingig (Surigao Del Sur)"
+        "latitude": 8.41,
+        "longitude": 127.35,
+        "depth_km": 34.0,
+        "magnitude": 3.4,
+        "location": "111km N 69Â° E of Lingig (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.65,
-          8.5
+          127.35,
+          8.41
         ]
       }
     },
@@ -1328,17 +1408,17 @@
         "date": "05 November 2026",
         "time": "10:49 AM",
         "time_24": "10:49",
-        "latitude": 11.25,
-        "longitude": 124.56,
-        "depth_km": 29.0,
-        "magnitude": 1.5,
-        "location": "007km N 20Â° W of Kananga (Leyte)"
+        "latitude": 11.29,
+        "longitude": 124.62,
+        "depth_km": 20.0,
+        "magnitude": 1.6,
+        "location": "002km S 69Â° W of Capoocan (Leyte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.56,
-          11.25
+          124.62,
+          11.29
         ]
       }
     },
