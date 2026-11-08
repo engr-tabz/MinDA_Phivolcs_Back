@@ -1,7 +1,267 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-08T16:03:38.697438+00:00",
+  "generated_at": "2026-11-08T20:25:17.818824+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "03:40 AM",
+        "time_24": "03:40",
+        "latitude": 5.46,
+        "longitude": 125.41,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "006km N 09Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41,
+          5.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "03:18 AM",
+        "time_24": "03:18",
+        "latitude": 5.36,
+        "longitude": 125.21,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "025km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21,
+          5.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "03:08 AM",
+        "time_24": "03:08",
+        "latitude": 5.35,
+        "longitude": 125.24,
+        "depth_km": 32.0,
+        "magnitude": 2.4,
+        "location": "022km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.24,
+          5.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "02:38 AM",
+        "time_24": "02:38",
+        "latitude": 10.05,
+        "longitude": 126.22,
+        "depth_km": 33.0,
+        "magnitude": 1.4,
+        "location": "015km N 76Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          10.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "02:34 AM",
+        "time_24": "02:34",
+        "latitude": 5.65,
+        "longitude": 125.26,
+        "depth_km": 32.0,
+        "magnitude": 2.3,
+        "location": "020km S 18Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26,
+          5.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "02:31 AM",
+        "time_24": "02:31",
+        "latitude": 5.61,
+        "longitude": 125.03,
+        "depth_km": 27.0,
+        "magnitude": 2.4,
+        "location": "028km S 09Â° E of Maasim (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.03,
+          5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "02:16 AM",
+        "time_24": "02:16",
+        "latitude": 13.71,
+        "longitude": 123.33,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "011km S 03Â° W of Tinambac (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.33,
+          13.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "01:52 AM",
+        "time_24": "01:52",
+        "latitude": 7.9,
+        "longitude": 126.38,
+        "depth_km": 23.0,
+        "magnitude": 2.0,
+        "location": "004km N 13Â° E of Boston (Davao Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          7.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "01:30 AM",
+        "time_24": "01:30",
+        "latitude": 8.11,
+        "longitude": 126.58,
+        "depth_km": 7.0,
+        "magnitude": 1.4,
+        "location": "021km N 66Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58,
+          8.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "01:25 AM",
+        "time_24": "01:25",
+        "latitude": 5.33,
+        "longitude": 125.73,
+        "depth_km": 170.0,
+        "magnitude": 2.8,
+        "location": "032km S 61Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.73,
+          5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "01:08 AM",
+        "time_24": "01:08",
+        "latitude": 5.71,
+        "longitude": 125.3,
+        "depth_km": 11.0,
+        "magnitude": 2.0,
+        "location": "016km S 42Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3,
+          5.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "12:33 AM",
+        "time_24": "00:33",
+        "latitude": 13.56,
+        "longitude": 124.18,
+        "depth_km": 22.0,
+        "magnitude": 1.9,
+        "location": "006km S 64Â° W of Virac (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.18,
+          13.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "12:02 AM",
+        "time_24": "00:02",
+        "latitude": 14.77,
+        "longitude": 121.88,
+        "depth_km": 32.0,
+        "magnitude": 1.3,
+        "location": "009km N 49Â° W of Polillo (Quezon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.88,
+          14.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
