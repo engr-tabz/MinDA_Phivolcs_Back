@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-08T20:25:17.818824+00:00",
+  "generated_at": "2026-11-08T23:55:17.269060+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "06:56 AM",
+        "time_24": "06:56",
+        "latitude": 5.71,
+        "longitude": 125.35,
+        "depth_km": 32.0,
+        "magnitude": 2.6,
+        "location": "020km S 54Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          5.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "06:56 AM",
+        "time_24": "06:56",
+        "latitude": 16.5,
+        "longitude": 122.47,
+        "depth_km": 6.0,
+        "magnitude": 2.3,
+        "location": "023km S 82Â° E of Dinapigue (Isabela)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.47,
+          16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "06:51 AM",
+        "time_24": "06:51",
+        "latitude": 12.08,
+        "longitude": 124.36,
+        "depth_km": 7.0,
+        "magnitude": 2.5,
+        "location": "020km N 23Â° E of Almagro (Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.36,
+          12.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "06:34 AM",
+        "time_24": "06:34",
+        "latitude": 5.58,
+        "longitude": 126.14,
+        "depth_km": 104.0,
+        "magnitude": 1.6,
+        "location": "066km S 56Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.14,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "05:00 AM",
+        "time_24": "05:00",
+        "latitude": 11.09,
+        "longitude": 124.12,
+        "depth_km": 6.0,
+        "magnitude": 2.2,
+        "location": "016km N 71Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.12,
+          11.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "04:39 AM",
+        "time_24": "04:39",
+        "latitude": 5.55,
+        "longitude": 125.25,
+        "depth_km": 33.0,
+        "magnitude": 2.2,
+        "location": "025km N 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "04:27 AM",
+        "time_24": "04:27",
+        "latitude": 8.77,
+        "longitude": 126.04,
+        "depth_km": 34.0,
+        "magnitude": 2.3,
+        "location": "016km N 21Â° W of Lianga (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.04,
+          8.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "04:20 AM",
+        "time_24": "04:20",
+        "latitude": 11.16,
+        "longitude": 124.1,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "018km N 47Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1,
+          11.16
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
