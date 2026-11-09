@@ -1,7 +1,187 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-08T23:55:17.269060+00:00",
+  "generated_at": "2026-11-09T05:29:42.824941+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "12:46 PM",
+        "time_24": "12:46",
+        "latitude": 8.03,
+        "longitude": 126.23,
+        "depth_km": 5.0,
+        "magnitude": 2.0,
+        "location": "018km S 88Â° E of Trento (Agusan Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          8.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "11:51 AM",
+        "time_24": "11:51",
+        "latitude": 6.51,
+        "longitude": 123.69,
+        "depth_km": 10.0,
+        "magnitude": 2.6,
+        "location": "041km S 83Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.69,
+          6.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "11:26 AM",
+        "time_24": "11:26",
+        "latitude": 10.38,
+        "longitude": 125.89,
+        "depth_km": 34.0,
+        "magnitude": 1.8,
+        "location": "034km N 86Â° E of Loreto (Dinagat Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.89,
+          10.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "11:13 AM",
+        "time_24": "11:13",
+        "latitude": 6.5,
+        "longitude": 123.87,
+        "depth_km": 3.0,
+        "magnitude": 2.5,
+        "location": "021km S 73Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.87,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "09:38 AM",
+        "time_24": "09:38",
+        "latitude": 17.24,
+        "longitude": 119.7,
+        "depth_km": 4.0,
+        "magnitude": 2.4,
+        "location": "079km N 84Â° W of City Of Candon (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7,
+          17.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "09:20 AM",
+        "time_24": "09:20",
+        "latitude": 7.73,
+        "longitude": 122.45,
+        "depth_km": 31.0,
+        "magnitude": 1.6,
+        "location": "009km N 11Â° W of Roseller Lim (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.45,
+          7.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "08:55 AM",
+        "time_24": "08:55",
+        "latitude": 7.37,
+        "longitude": 124.73,
+        "depth_km": 29.0,
+        "magnitude": 2.0,
+        "location": "016km S 13Â° E of Banisilan (Cotabato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.73,
+          7.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "08:53 AM",
+        "time_24": "08:53",
+        "latitude": 6.34,
+        "longitude": 123.67,
+        "depth_km": 3.0,
+        "magnitude": 2.6,
+        "location": "048km S 60Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.67,
+          6.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "09 November 2026",
+        "time": "08:51 AM",
+        "time_24": "08:51",
+        "latitude": 10.87,
+        "longitude": 124.34,
+        "depth_km": 28.0,
+        "magnitude": 1.7,
+        "location": "012km S 62Â° W of Isabel (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.34,
+          10.87
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -448,17 +628,17 @@
         "date": "08 November 2026",
         "time": "10:54 PM",
         "time_24": "22:54",
-        "latitude": 11.43,
-        "longitude": 124.53,
-        "depth_km": 9.0,
+        "latitude": 11.42,
+        "longitude": 124.49,
+        "depth_km": 7.0,
         "magnitude": 2.7,
-        "location": "007km S 56Â° E of Biliran (Biliran)"
+        "location": "006km S 19Â° E of Biliran (Biliran)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.53,
-          11.43
+          124.49,
+          11.42
         ]
       }
     },
@@ -988,17 +1168,17 @@
         "date": "08 November 2026",
         "time": "12:23 PM",
         "time_24": "12:23",
-        "latitude": 11.38,
-        "longitude": 125.36,
-        "depth_km": 29.0,
-        "magnitude": 1.6,
-        "location": "020km S 56Â° W of Balangkayan (Eastern Samar)"
+        "latitude": 11.34,
+        "longitude": 125.47,
+        "depth_km": 23.0,
+        "magnitude": 1.8,
+        "location": "012km S 48Â° W of Llorente (Eastern Samar)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.36,
-          11.38
+          125.47,
+          11.34
         ]
       }
     },
