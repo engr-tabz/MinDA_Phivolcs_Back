@@ -1,7 +1,27 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-14T23:16:41.022630+00:00",
+  "generated_at": "2026-11-15T02:50:43.063822+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:24 AM",
+        "time_24": "09:24",
+        "latitude": 5.96,
+        "longitude": 124.41,
+        "depth_km": 9.0,
+        "magnitude": 2.0,
+        "location": "015km S 40Â° W of Maitum (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.41,
+          5.96
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -48,17 +68,17 @@
         "date": "15 November 2026",
         "time": "05:08 AM",
         "time_24": "05:08",
-        "latitude": 13.67,
-        "longitude": 120.56,
-        "depth_km": 95.0,
-        "magnitude": 3.2,
-        "location": "019km S 23Â° W of Calatagan (Batangas)"
+        "latitude": 13.65,
+        "longitude": 120.52,
+        "depth_km": 111.0,
+        "magnitude": 3.0,
+        "location": "023km S 30Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.56,
-          13.67
+          120.52,
+          13.65
         ]
       }
     },
@@ -208,17 +228,17 @@
         "date": "15 November 2026",
         "time": "12:56 AM",
         "time_24": "00:56",
-        "latitude": 5.27,
-        "longitude": 126.78,
-        "depth_km": 10.0,
-        "magnitude": 4.8,
-        "location": "144km S 60Â° E of Jose Abad Santos (Davao Occidental)"
+        "latitude": 5.57,
+        "longitude": 126.55,
+        "depth_km": 64.0,
+        "magnitude": 4.6,
+        "location": "108km S 69Â° E of Jose Abad Santos (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.78,
-          5.27
+          126.55,
+          5.57
         ]
       }
     },
@@ -288,17 +308,37 @@
         "date": "15 November 2026",
         "time": "12:04 AM",
         "time_24": "00:04",
-        "latitude": 8.31,
-        "longitude": 126.43,
-        "depth_km": 165.0,
-        "magnitude": 4.8,
-        "location": "011km S 58Â° E of Hinatuan (Surigao Del Sur)"
+        "latitude": 8.3,
+        "longitude": 126.26,
+        "depth_km": 162.0,
+        "magnitude": 4.9,
+        "location": "011km S 51Â° W of Hinatuan (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.43,
-          8.31
+          126.26,
+          8.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "14 November 2026",
+        "time": "11:41 PM",
+        "time_24": "23:41",
+        "latitude": 6.73,
+        "longitude": 125.11,
+        "depth_km": 10.0,
+        "magnitude": 2.1,
+        "location": "006km S 60Â° W of Magsaysay (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.11,
+          6.73
         ]
       }
     },
@@ -628,17 +668,17 @@
         "date": "14 November 2026",
         "time": "01:56 PM",
         "time_24": "13:56",
-        "latitude": 9.25,
-        "longitude": 126.27,
-        "depth_km": 18.0,
-        "magnitude": 2.0,
-        "location": "009km S 72Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.28,
+        "longitude": 126.28,
+        "depth_km": 12.0,
+        "magnitude": 2.4,
+        "location": "010km N 85Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.27,
-          9.25
+          126.28,
+          9.28
         ]
       }
     },
@@ -868,17 +908,17 @@
         "date": "14 November 2026",
         "time": "08:51 AM",
         "time_24": "08:51",
-        "latitude": 9.12,
-        "longitude": 126.72,
-        "depth_km": 33.0,
-        "magnitude": 1.7,
-        "location": "051km N 63Â° E of Cagwait (Surigao Del Sur)"
+        "latitude": 9.15,
+        "longitude": 126.68,
+        "depth_km": 31.0,
+        "magnitude": 2.6,
+        "location": "049km N 58Â° E of Cagwait (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.72,
-          9.12
+          126.68,
+          9.15
         ]
       }
     },
