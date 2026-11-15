@@ -1,7 +1,1247 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-15T10:12:05.122937+00:00",
+  "generated_at": "2026-11-15T17:14:13.592120+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:55 AM",
+        "time_24": "00:55",
+        "latitude": 9.18,
+        "longitude": 126.53,
+        "depth_km": 25.0,
+        "magnitude": 2.1,
+        "location": "036km N 50Â° E of Bayabas (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53,
+          9.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:36 AM",
+        "time_24": "00:36",
+        "latitude": 18.77,
+        "longitude": 120.79,
+        "depth_km": 29.0,
+        "magnitude": 2.8,
+        "location": "023km N 01Â° E of Pagudpud (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79,
+          18.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:31 AM",
+        "time_24": "00:31",
+        "latitude": 9.74,
+        "longitude": 126.2,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "007km S 42Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:30 AM",
+        "time_24": "00:30",
+        "latitude": 9.67,
+        "longitude": 126.31,
+        "depth_km": 35.0,
+        "magnitude": 1.5,
+        "location": "021km S 54Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.31,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:09 AM",
+        "time_24": "00:09",
+        "latitude": 9.75,
+        "longitude": 126.28,
+        "depth_km": 44.0,
+        "magnitude": 1.7,
+        "location": "014km S 75Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "12:02 AM",
+        "time_24": "00:02",
+        "latitude": 5.53,
+        "longitude": 125.34,
+        "depth_km": 25.0,
+        "magnitude": 1.6,
+        "location": "016km N 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:52 PM",
+        "time_24": "23:52",
+        "latitude": 13.37,
+        "longitude": 123.14,
+        "depth_km": 4.0,
+        "magnitude": 2.2,
+        "location": "012km N 59Â° W of Balatan (Camarines Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.14,
+          13.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:50 PM",
+        "time_24": "23:50",
+        "latitude": 5.57,
+        "longitude": 125.19,
+        "depth_km": 26.0,
+        "magnitude": 2.3,
+        "location": "028km S 03Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.19,
+          5.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:46 PM",
+        "time_24": "23:46",
+        "latitude": 9.67,
+        "longitude": 126.22,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "015km S 30Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:41 PM",
+        "time_24": "23:41",
+        "latitude": 9.73,
+        "longitude": 126.16,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "006km S 02Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:38 PM",
+        "time_24": "23:38",
+        "latitude": 9.59,
+        "longitude": 126.43,
+        "depth_km": 23.0,
+        "magnitude": 1.5,
+        "location": "036km S 55Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.43,
+          9.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:36 PM",
+        "time_24": "23:36",
+        "latitude": 9.73,
+        "longitude": 126.26,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "012km S 62Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:29 PM",
+        "time_24": "23:29",
+        "latitude": 9.73,
+        "longitude": 126.4,
+        "depth_km": 37.0,
+        "magnitude": 1.6,
+        "location": "028km S 77Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:26 PM",
+        "time_24": "23:26",
+        "latitude": 9.75,
+        "longitude": 126.25,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "011km S 70Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:23 PM",
+        "time_24": "23:23",
+        "latitude": 9.68,
+        "longitude": 126.25,
+        "depth_km": 35.0,
+        "magnitude": 1.9,
+        "location": "016km S 42Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:21 PM",
+        "time_24": "23:21",
+        "latitude": 5.89,
+        "longitude": 124.76,
+        "depth_km": 8.0,
+        "magnitude": 2.0,
+        "location": "041km N 87Â° W of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.76,
+          5.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:19 PM",
+        "time_24": "23:19",
+        "latitude": 9.73,
+        "longitude": 126.36,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "023km S 76Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:17 PM",
+        "time_24": "23:17",
+        "latitude": 9.6,
+        "longitude": 126.25,
+        "depth_km": 25.0,
+        "magnitude": 1.4,
+        "location": "023km S 27Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:13 PM",
+        "time_24": "23:13",
+        "latitude": 9.59,
+        "longitude": 126.6,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "053km S 67Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6,
+          9.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:12 PM",
+        "time_24": "23:12",
+        "latitude": 9.71,
+        "longitude": 126.23,
+        "depth_km": 32.0,
+        "magnitude": 1.6,
+        "location": "011km S 46Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:02 PM",
+        "time_24": "23:02",
+        "latitude": 9.68,
+        "longitude": 126.34,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "024km S 60Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:59 PM",
+        "time_24": "22:59",
+        "latitude": 9.57,
+        "longitude": 126.16,
+        "depth_km": 21.0,
+        "magnitude": 1.8,
+        "location": "023km S 01Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:57 PM",
+        "time_24": "22:57",
+        "latitude": 9.69,
+        "longitude": 126.25,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "015km S 45Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.25,
+          9.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:55 PM",
+        "time_24": "22:55",
+        "latitude": 9.76,
+        "longitude": 126.4,
+        "depth_km": 20.0,
+        "magnitude": 1.5,
+        "location": "027km S 84Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          9.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:54 PM",
+        "time_24": "22:54",
+        "latitude": 9.67,
+        "longitude": 126.11,
+        "depth_km": 20.0,
+        "magnitude": 2.2,
+        "location": "013km S 21Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:53 PM",
+        "time_24": "22:53",
+        "latitude": 9.71,
+        "longitude": 126.27,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "015km S 57Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:51 PM",
+        "time_24": "22:51",
+        "latitude": 9.63,
+        "longitude": 126.26,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "020km S 35Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:50 PM",
+        "time_24": "22:50",
+        "latitude": 9.68,
+        "longitude": 126.29,
+        "depth_km": 27.0,
+        "magnitude": 1.6,
+        "location": "018km S 53Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:50 PM",
+        "time_24": "22:50",
+        "latitude": 19.95,
+        "longitude": 121.69,
+        "depth_km": 9.0,
+        "magnitude": 2.1,
+        "location": "047km S 25Â° W of Sabtang (Batanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.69,
+          19.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:49 PM",
+        "time_24": "22:49",
+        "latitude": 9.68,
+        "longitude": 126.28,
+        "depth_km": 35.0,
+        "magnitude": 1.6,
+        "location": "017km S 50Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:47 PM",
+        "time_24": "22:47",
+        "latitude": 9.72,
+        "longitude": 126.27,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "014km S 60Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          9.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:43 PM",
+        "time_24": "22:43",
+        "latitude": 9.71,
+        "longitude": 126.19,
+        "depth_km": 31.0,
+        "magnitude": 1.5,
+        "location": "009km S 24Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.19,
+          9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:41 PM",
+        "time_24": "22:41",
+        "latitude": 9.7,
+        "longitude": 126.31,
+        "depth_km": 34.0,
+        "magnitude": 1.7,
+        "location": "019km S 62Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.31,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:40 PM",
+        "time_24": "22:40",
+        "latitude": 9.62,
+        "longitude": 126.2,
+        "depth_km": 30.0,
+        "magnitude": 1.5,
+        "location": "018km S 15Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:37 PM",
+        "time_24": "22:37",
+        "latitude": 9.73,
+        "longitude": 126.26,
+        "depth_km": 32.0,
+        "magnitude": 2.2,
+        "location": "013km S 62Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:21 PM",
+        "time_24": "22:21",
+        "latitude": 9.68,
+        "longitude": 126.2,
+        "depth_km": 36.0,
+        "magnitude": 1.6,
+        "location": "012km S 23Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:20 PM",
+        "time_24": "22:20",
+        "latitude": 9.74,
+        "longitude": 126.28,
+        "depth_km": 34.0,
+        "magnitude": 1.5,
+        "location": "014km S 71Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:17 PM",
+        "time_24": "22:17",
+        "latitude": 9.76,
+        "longitude": 126.38,
+        "depth_km": 10.0,
+        "magnitude": 4.5,
+        "location": "025km S 84Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          9.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:15 PM",
+        "time_24": "22:15",
+        "latitude": 9.67,
+        "longitude": 126.23,
+        "depth_km": 32.0,
+        "magnitude": 1.8,
+        "location": "015km S 33Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:14 PM",
+        "time_24": "22:14",
+        "latitude": 9.7,
+        "longitude": 126.27,
+        "depth_km": 31.0,
+        "magnitude": 1.8,
+        "location": "015km S 53Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:09 PM",
+        "time_24": "22:09",
+        "latitude": 9.75,
+        "longitude": 126.38,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "024km S 82Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:06 PM",
+        "time_24": "22:06",
+        "latitude": 9.48,
+        "longitude": 126.16,
+        "depth_km": 10.0,
+        "magnitude": 1.9,
+        "location": "033km S 02Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          9.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:04 PM",
+        "time_24": "22:04",
+        "latitude": 9.59,
+        "longitude": 126.22,
+        "depth_km": 20.0,
+        "magnitude": 1.6,
+        "location": "022km S 18Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.22,
+          9.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:02 PM",
+        "time_24": "22:02",
+        "latitude": 9.88,
+        "longitude": 126.08,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "013km N 38Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.08,
+          9.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "10:01 PM",
+        "time_24": "22:01",
+        "latitude": 9.67,
+        "longitude": 126.28,
+        "depth_km": 33.0,
+        "magnitude": 1.5,
+        "location": "019km S 48Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:59 PM",
+        "time_24": "21:59",
+        "latitude": 9.69,
+        "longitude": 126.21,
+        "depth_km": 35.0,
+        "magnitude": 1.5,
+        "location": "012km S 33Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.21,
+          9.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:57 PM",
+        "time_24": "21:57",
+        "latitude": 9.69,
+        "longitude": 126.12,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "010km S 20Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          9.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:54 PM",
+        "time_24": "21:54",
+        "latitude": 9.77,
+        "longitude": 126.36,
+        "depth_km": 26.0,
+        "magnitude": 2.4,
+        "location": "023km S 86Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.36,
+          9.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:52 PM",
+        "time_24": "21:52",
+        "latitude": 9.68,
+        "longitude": 126.28,
+        "depth_km": 28.0,
+        "magnitude": 2.1,
+        "location": "018km S 51Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:51 PM",
+        "time_24": "21:51",
+        "latitude": 9.66,
+        "longitude": 126.27,
+        "depth_km": 37.0,
+        "magnitude": 1.8,
+        "location": "018km S 42Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27,
+          9.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:49 PM",
+        "time_24": "21:49",
+        "latitude": 10.59,
+        "longitude": 127.54,
+        "depth_km": 59.0,
+        "magnitude": 1.6,
+        "location": "176km N 60Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.54,
+          10.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:49 PM",
+        "time_24": "21:49",
+        "latitude": 9.69,
+        "longitude": 126.3,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "019km S 55Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3,
+          9.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:47 PM",
+        "time_24": "21:47",
+        "latitude": 9.75,
+        "longitude": 126.44,
+        "depth_km": 10.0,
+        "magnitude": 2.9,
+        "location": "032km S 83Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.44,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:42 PM",
+        "time_24": "21:42",
+        "latitude": 9.57,
+        "longitude": 126.18,
+        "depth_km": 2.0,
+        "magnitude": 4.1,
+        "location": "023km S 05Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          9.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:41 PM",
+        "time_24": "21:41",
+        "latitude": 9.67,
+        "longitude": 126.5,
+        "depth_km": 16.0,
+        "magnitude": 5.4,
+        "location": "040km S 72Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5,
+          9.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:12 PM",
+        "time_24": "21:12",
+        "latitude": 12.86,
+        "longitude": 120.95,
+        "depth_km": 7.0,
+        "magnitude": 2.0,
+        "location": "019km N 86Â° E of Sablayan (Occidental Mindoro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95,
+          12.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:01 PM",
+        "time_24": "21:01",
+        "latitude": 9.83,
+        "longitude": 126.04,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "008km S 63Â° W of Pilar (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.04,
+          9.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "08:57 PM",
+        "time_24": "20:57",
+        "latitude": 9.89,
+        "longitude": 126.37,
+        "depth_km": 53.0,
+        "magnitude": 1.7,
+        "location": "026km N 64Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.37,
+          9.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "08:36 PM",
+        "time_24": "20:36",
+        "latitude": 8.04,
+        "longitude": 127.0,
+        "depth_km": 12.0,
+        "magnitude": 1.7,
+        "location": "064km S 90Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          8.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "08:35 PM",
+        "time_24": "20:35",
+        "latitude": 7.75,
+        "longitude": 122.44,
+        "depth_km": 30.0,
+        "magnitude": 1.5,
+        "location": "011km N 15Â° W of Roseller Lim (Zamboanga Sibugay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.44,
+          7.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "06:40 PM",
+        "time_24": "18:40",
+        "latitude": 12.99,
+        "longitude": 124.53,
+        "depth_km": 9.0,
+        "magnitude": 2.6,
+        "location": "037km S 82Â° E of Prieto Diaz (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.53,
+          12.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "06:14 PM",
+        "time_24": "18:14",
+        "latitude": 17.02,
+        "longitude": 120.31,
+        "depth_km": 59.0,
+        "magnitude": 1.8,
+        "location": "017km S 63Â° W of Santa Cruz (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31,
+          17.02
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -226,19 +1466,39 @@
       "type": "Feature",
       "properties": {
         "date": "15 November 2026",
-        "time": "09:24 AM",
-        "time_24": "09:24",
-        "latitude": 5.96,
-        "longitude": 124.41,
-        "depth_km": 9.0,
-        "magnitude": 2.0,
-        "location": "015km S 40Â° W of Maitum (Sarangani)"
+        "time": "10:29 AM",
+        "time_24": "10:29",
+        "latitude": 8.21,
+        "longitude": 124.6,
+        "depth_km": 4.0,
+        "magnitude": 2.4,
+        "location": "003km S 07Â° W of Talakag (Bukidnon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.41,
-          5.96
+          124.6,
+          8.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "09:24 AM",
+        "time_24": "09:24",
+        "latitude": 5.97,
+        "longitude": 124.5,
+        "depth_km": 11.0,
+        "magnitude": 2.0,
+        "location": "010km S 01Â° E of Maitum (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5,
+          5.97
         ]
       }
     },
@@ -248,17 +1508,17 @@
         "date": "15 November 2026",
         "time": "05:29 AM",
         "time_24": "05:29",
-        "latitude": 14.01,
-        "longitude": 120.48,
-        "depth_km": 103.0,
-        "magnitude": 2.0,
-        "location": "017km S 67Â° W of Nasugbu (Batangas)"
+        "latitude": 13.85,
+        "longitude": 120.41,
+        "depth_km": 88.0,
+        "magnitude": 2.1,
+        "location": "022km N 48Â° E of Looc (Occidental Mindoro)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.48,
-          14.01
+          120.41,
+          13.85
         ]
       }
     },
@@ -288,17 +1548,17 @@
         "date": "15 November 2026",
         "time": "05:08 AM",
         "time_24": "05:08",
-        "latitude": 13.65,
-        "longitude": 120.52,
+        "latitude": 13.67,
+        "longitude": 120.5,
         "depth_km": 111.0,
         "magnitude": 3.0,
-        "location": "023km S 30Â° W of Calatagan (Batangas)"
+        "location": "023km S 38Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.52,
-          13.65
+          120.5,
+          13.67
         ]
       }
     },
@@ -308,17 +1568,17 @@
         "date": "15 November 2026",
         "time": "05:04 AM",
         "time_24": "05:04",
-        "latitude": 4.94,
-        "longitude": 126.13,
-        "depth_km": 60.0,
+        "latitude": 4.97,
+        "longitude": 126.32,
+        "depth_km": 28.0,
         "magnitude": 3.6,
-        "location": "094km S 57Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "109km S 59Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.13,
-          4.94
+          126.32,
+          4.97
         ]
       }
     },
@@ -348,17 +1608,17 @@
         "date": "15 November 2026",
         "time": "04:38 AM",
         "time_24": "04:38",
-        "latitude": 9.64,
+        "latitude": 9.62,
         "longitude": 126.06,
         "depth_km": 18.0,
-        "magnitude": 2.2,
-        "location": "010km N 78Â° E of Socorro (Surigao Del Norte)"
+        "magnitude": 3.1,
+        "location": "010km N 88Â° E of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.06,
-          9.64
+          9.62
         ]
       }
     },
@@ -368,17 +1628,17 @@
         "date": "15 November 2026",
         "time": "03:47 AM",
         "time_24": "03:47",
-        "latitude": 9.52,
-        "longitude": 126.19,
-        "depth_km": 7.0,
-        "magnitude": 2.9,
-        "location": "027km S 65Â° E of Socorro (Surigao Del Norte)"
+        "latitude": 9.57,
+        "longitude": 126.1,
+        "depth_km": 17.0,
+        "magnitude": 3.0,
+        "location": "016km S 72Â° E of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.19,
-          9.52
+          126.1,
+          9.57
         ]
       }
     },
@@ -408,17 +1668,17 @@
         "date": "15 November 2026",
         "time": "03:40 AM",
         "time_24": "03:40",
-        "latitude": 9.22,
-        "longitude": 126.51,
-        "depth_km": 23.0,
-        "magnitude": 2.2,
-        "location": "035km S 81Â° E of Cortes (Surigao Del Sur)"
+        "latitude": 9.27,
+        "longitude": 126.45,
+        "depth_km": 7.0,
+        "magnitude": 2.5,
+        "location": "028km S 89Â° E of Cortes (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.51,
-          9.22
+          126.45,
+          9.27
         ]
       }
     },
@@ -488,17 +1748,17 @@
         "date": "15 November 2026",
         "time": "12:32 AM",
         "time_24": "00:32",
-        "latitude": 13.66,
-        "longitude": 120.59,
-        "depth_km": 83.0,
-        "magnitude": 2.0,
-        "location": "020km S 14Â° W of Calatagan (Batangas)"
+        "latitude": 13.64,
+        "longitude": 120.58,
+        "depth_km": 82.0,
+        "magnitude": 2.1,
+        "location": "023km S 16Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.59,
-          13.66
+          120.58,
+          13.64
         ]
       }
     },
@@ -508,17 +1768,17 @@
         "date": "15 November 2026",
         "time": "12:17 AM",
         "time_24": "00:17",
-        "latitude": 6.61,
-        "longitude": 125.14,
-        "depth_km": 23.0,
+        "latitude": 6.72,
+        "longitude": 125.13,
+        "depth_km": 32.0,
         "magnitude": 2.1,
-        "location": "013km S 82Â° W of Kiblawan (Davao Del Sur)"
+        "location": "004km S 35Â° W of Magsaysay (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.14,
-          6.61
+          125.13,
+          6.72
         ]
       }
     },
@@ -549,15 +1809,15 @@
         "time": "11:41 PM",
         "time_24": "23:41",
         "latitude": 6.73,
-        "longitude": 125.11,
-        "depth_km": 10.0,
-        "magnitude": 2.1,
-        "location": "006km S 60Â° W of Magsaysay (Davao Del Sur)"
+        "longitude": 125.16,
+        "depth_km": 4.0,
+        "magnitude": 2.6,
+        "location": "003km S 14Â° E of Magsaysay (Davao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.11,
+          125.16,
           6.73
         ]
       }
@@ -588,17 +1848,17 @@
         "date": "14 November 2026",
         "time": "10:00 PM",
         "time_24": "22:00",
-        "latitude": 9.56,
-        "longitude": 126.09,
-        "depth_km": 12.0,
-        "magnitude": 2.1,
-        "location": "016km S 64Â° E of Socorro (Surigao Del Norte)"
+        "latitude": 9.55,
+        "longitude": 126.08,
+        "depth_km": 25.0,
+        "magnitude": 2.2,
+        "location": "015km S 59Â° E of Socorro (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.09,
-          9.56
+          126.08,
+          9.55
         ]
       }
     },
@@ -608,17 +1868,17 @@
         "date": "14 November 2026",
         "time": "09:14 PM",
         "time_24": "21:14",
-        "latitude": 14.16,
-        "longitude": 120.29,
-        "depth_km": 1.0,
-        "magnitude": 1.6,
-        "location": "037km S 35Â° W of Mariveles (Bataan)"
+        "latitude": 14.05,
+        "longitude": 120.43,
+        "depth_km": 119.0,
+        "magnitude": 1.8,
+        "location": "022km S 83Â° W of Nasugbu (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.29,
-          14.16
+          120.43,
+          14.05
         ]
       }
     },
@@ -668,17 +1928,17 @@
         "date": "14 November 2026",
         "time": "06:31 PM",
         "time_24": "18:31",
-        "latitude": 5.74,
+        "latitude": 5.71,
         "longitude": 125.19,
-        "depth_km": 25.0,
+        "depth_km": 24.0,
         "magnitude": 2.1,
-        "location": "009km S 11Â° W of Glan (Sarangani)"
+        "location": "012km S 09Â° W of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           125.19,
-          5.74
+          5.71
         ]
       }
     },
