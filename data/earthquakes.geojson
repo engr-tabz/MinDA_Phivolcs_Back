@@ -1,7 +1,167 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-15T21:52:57.821704+00:00",
+  "generated_at": "2026-11-16T01:33:53.928257+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "09:24 AM",
+        "time_24": "09:24",
+        "latitude": 9.75,
+        "longitude": 126.26,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "012km S 71Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.26,
+          9.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "09:09 AM",
+        "time_24": "09:09",
+        "latitude": 12.85,
+        "longitude": 123.51,
+        "depth_km": 37.0,
+        "magnitude": 2.8,
+        "location": "012km S 56Â° W of Donsol (Sorsogon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.51,
+          12.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "08:51 AM",
+        "time_24": "08:51",
+        "latitude": 5.47,
+        "longitude": 125.44,
+        "depth_km": 32.0,
+        "magnitude": 1.8,
+        "location": "003km S 84Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "08:43 AM",
+        "time_24": "08:43",
+        "latitude": 6.0,
+        "longitude": 125.74,
+        "depth_km": 135.0,
+        "magnitude": 2.1,
+        "location": "014km N 54Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74,
+          6.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "07:30 AM",
+        "time_24": "07:30",
+        "latitude": 9.68,
+        "longitude": 126.24,
+        "depth_km": 33.0,
+        "magnitude": 1.8,
+        "location": "015km S 38Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.24,
+          9.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "07:19 AM",
+        "time_24": "07:19",
+        "latitude": 5.43,
+        "longitude": 125.44,
+        "depth_km": 9.0,
+        "magnitude": 1.8,
+        "location": "003km N 38Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.44,
+          5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "06:08 AM",
+        "time_24": "06:08",
+        "latitude": 9.65,
+        "longitude": 126.2,
+        "depth_km": 30.0,
+        "magnitude": 2.7,
+        "location": "016km S 16Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "16 November 2026",
+        "time": "06:05 AM",
+        "time_24": "06:05",
+        "latitude": 6.56,
+        "longitude": 123.8,
+        "depth_km": 28.0,
+        "magnitude": 2.7,
+        "location": "027km N 89Â° W of Kalamansig (Sultan Kudarat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8,
+          6.56
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1099,6 +1259,26 @@
         "coordinates": [
           126.23,
           9.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "15 November 2026",
+        "time": "11:07 PM",
+        "time_24": "23:07",
+        "latitude": 9.68,
+        "longitude": 126.28,
+        "depth_km": 35.0,
+        "magnitude": 2.6,
+        "location": "017km S 51Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.28,
+          9.68
         ]
       }
     },
