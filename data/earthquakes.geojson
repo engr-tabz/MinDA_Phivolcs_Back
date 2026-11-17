@@ -1,7 +1,267 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-17T02:17:55.023441+00:00",
+  "generated_at": "2026-11-17T10:51:30.282775+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "06:38 PM",
+        "time_24": "18:38",
+        "latitude": 11.26,
+        "longitude": 124.62,
+        "depth_km": 10.0,
+        "magnitude": 3.8,
+        "location": "004km S 34Â° W of Capoocan (Leyte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62,
+          11.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "05:29 PM",
+        "time_24": "17:29",
+        "latitude": 9.58,
+        "longitude": 122.92,
+        "depth_km": 15.0,
+        "magnitude": 1.9,
+        "location": "017km S 02Â° W of Mabinay (Negros Oriental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.92,
+          9.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "05:19 PM",
+        "time_24": "17:19",
+        "latitude": 11.49,
+        "longitude": 123.69,
+        "depth_km": 5.0,
+        "magnitude": 2.5,
+        "location": "021km N 13Â° W of Madridejos (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.69,
+          11.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "04:20 PM",
+        "time_24": "16:20",
+        "latitude": 16.87,
+        "longitude": 120.56,
+        "depth_km": 85.0,
+        "magnitude": 1.9,
+        "location": "004km S 59Â° E of Alilem (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56,
+          16.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "03:58 PM",
+        "time_24": "15:58",
+        "latitude": 5.4,
+        "longitude": 125.34,
+        "depth_km": 33.0,
+        "magnitude": 1.6,
+        "location": "009km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "02:56 PM",
+        "time_24": "14:56",
+        "latitude": 8.17,
+        "longitude": 126.66,
+        "depth_km": 45.0,
+        "magnitude": 2.5,
+        "location": "031km N 63Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66,
+          8.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "01:59 PM",
+        "time_24": "13:59",
+        "latitude": 5.88,
+        "longitude": 126.33,
+        "depth_km": 119.0,
+        "magnitude": 1.8,
+        "location": "076km S 87Â° E of Jose Abad Santos (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          5.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "01:55 PM",
+        "time_24": "13:55",
+        "latitude": 11.47,
+        "longitude": 123.69,
+        "depth_km": 2.0,
+        "magnitude": 4.1,
+        "location": "019km N 13Â° W of Madridejos (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.69,
+          11.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "12:33 PM",
+        "time_24": "12:33",
+        "latitude": 9.65,
+        "longitude": 126.13,
+        "depth_km": 37.0,
+        "magnitude": 1.4,
+        "location": "015km S 10Â° W of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13,
+          9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "11:43 AM",
+        "time_24": "11:43",
+        "latitude": 13.98,
+        "longitude": 125.33,
+        "depth_km": 72.0,
+        "magnitude": 2.5,
+        "location": "103km N 78Â° E of Gigmoto (Catanduanes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          13.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "11:28 AM",
+        "time_24": "11:28",
+        "latitude": 17.76,
+        "longitude": 120.39,
+        "depth_km": 26.0,
+        "magnitude": 1.8,
+        "location": "007km S 62Â° W of Cabugao (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39,
+          17.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "11:10 AM",
+        "time_24": "11:10",
+        "latitude": 18.63,
+        "longitude": 120.69,
+        "depth_km": 1.0,
+        "magnitude": 2.0,
+        "location": "013km N 36Â° W of Bangui (Ilocos Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69,
+          18.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "17 November 2026",
+        "time": "10:52 AM",
+        "time_24": "10:52",
+        "latitude": 9.74,
+        "longitude": 126.4,
+        "depth_km": 11.0,
+        "magnitude": 4.2,
+        "location": "027km S 81Â° E of General Luna (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4,
+          9.74
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,19 +286,19 @@
       "type": "Feature",
       "properties": {
         "date": "17 November 2026",
-        "time": "10:01 AM",
-        "time_24": "10:01",
-        "latitude": 9.73,
-        "longitude": 126.41,
-        "depth_km": 10.0,
-        "magnitude": 4.4,
-        "location": "028km S 78Â° E of General Luna (Surigao Del Norte)"
+        "time": "10:00 AM",
+        "time_24": "10:00",
+        "latitude": 9.71,
+        "longitude": 126.42,
+        "depth_km": 18.0,
+        "magnitude": 4.3,
+        "location": "030km S 75Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.41,
-          9.73
+          126.42,
+          9.71
         ]
       }
     },
@@ -168,17 +428,17 @@
         "date": "17 November 2026",
         "time": "05:04 AM",
         "time_24": "05:04",
-        "latitude": 14.97,
+        "latitude": 14.98,
         "longitude": 121.5,
-        "depth_km": 2.0,
+        "depth_km": 4.0,
         "magnitude": 3.4,
-        "location": "027km N 30Â° W of General Nakar (Quezon)"
+        "location": "028km N 28Â° W of General Nakar (Quezon)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           121.5,
-          14.97
+          14.98
         ]
       }
     },
@@ -1108,17 +1368,17 @@
         "date": "16 November 2026",
         "time": "05:52 PM",
         "time_24": "17:52",
-        "latitude": 8.6,
-        "longitude": 123.13,
-        "depth_km": 24.0,
-        "magnitude": 2.3,
-        "location": "010km N 24Â° E of Manukan (Zamboanga Del Norte)"
+        "latitude": 8.53,
+        "longitude": 123.16,
+        "depth_km": 13.0,
+        "magnitude": 2.4,
+        "location": "008km N 83Â° E of Manukan (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.13,
-          8.6
+          123.16,
+          8.53
         ]
       }
     },
@@ -1128,17 +1388,17 @@
         "date": "16 November 2026",
         "time": "05:47 PM",
         "time_24": "17:47",
-        "latitude": 17.23,
-        "longitude": 120.0,
-        "depth_km": 3.0,
+        "latitude": 17.43,
+        "longitude": 119.93,
+        "depth_km": 8.0,
         "magnitude": 2.3,
-        "location": "047km N 82Â° W of City Of Candon (Ilocos Sur)"
+        "location": "050km S 74Â° W of Caoayan (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.0,
-          17.23
+          119.93,
+          17.43
         ]
       }
     },
@@ -1168,17 +1428,17 @@
         "date": "16 November 2026",
         "time": "05:40 PM",
         "time_24": "17:40",
-        "latitude": 17.56,
-        "longitude": 120.87,
-        "depth_km": 25.0,
-        "magnitude": 1.6,
-        "location": "003km S 66Â° W of Licuan"
+        "latitude": 17.53,
+        "longitude": 120.88,
+        "depth_km": 18.0,
+        "magnitude": 1.8,
+        "location": "006km S 29Â° W of Licuan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.87,
-          17.56
+          120.88,
+          17.53
         ]
       }
     },
@@ -1188,17 +1448,17 @@
         "date": "16 November 2026",
         "time": "05:35 PM",
         "time_24": "17:35",
-        "latitude": 5.63,
-        "longitude": 125.31,
+        "latitude": 5.7,
+        "longitude": 125.3,
         "depth_km": 22.0,
-        "magnitude": 1.6,
-        "location": "024km S 29Â° E of Glan (Sarangani)"
+        "magnitude": 1.8,
+        "location": "018km S 39Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.31,
-          5.63
+          125.3,
+          5.7
         ]
       }
     },
@@ -1288,17 +1548,17 @@
         "date": "16 November 2026",
         "time": "04:00 PM",
         "time_24": "16:00",
-        "latitude": 9.65,
-        "longitude": 126.06,
-        "depth_km": 35.0,
+        "latitude": 9.73,
+        "longitude": 126.29,
+        "depth_km": 34.0,
         "magnitude": 1.7,
-        "location": "018km S 36Â° W of General Luna (Surigao Del Norte)"
+        "location": "016km S 68Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.06,
-          9.65
+          126.29,
+          9.73
         ]
       }
     },
@@ -1308,17 +1568,17 @@
         "date": "16 November 2026",
         "time": "03:31 PM",
         "time_24": "15:31",
-        "latitude": 9.7,
-        "longitude": 126.33,
-        "depth_km": 35.0,
+        "latitude": 9.58,
+        "longitude": 126.19,
+        "depth_km": 23.0,
         "magnitude": 1.7,
-        "location": "021km S 66Â° E of General Luna (Surigao Del Norte)"
+        "location": "023km S 09Â° E of General Luna (Surigao Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.33,
-          9.7
+          126.19,
+          9.58
         ]
       }
     },
@@ -1388,17 +1648,17 @@
         "date": "16 November 2026",
         "time": "01:55 PM",
         "time_24": "13:55",
-        "latitude": 11.44,
-        "longitude": 123.73,
-        "depth_km": 3.0,
+        "latitude": 11.47,
+        "longitude": 123.69,
+        "depth_km": 2.0,
         "magnitude": 3.6,
-        "location": "016km N 02Â° W of Madridejos (Cebu)"
+        "location": "019km N 13Â° W of Madridejos (Cebu)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.73,
-          11.44
+          123.69,
+          11.47
         ]
       }
     },
