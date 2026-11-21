@@ -1,7 +1,147 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-20T21:11:01.825771+00:00",
+  "generated_at": "2026-11-21T02:20:22.334512+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "10:10 AM",
+        "time_24": "10:10",
+        "latitude": 4.89,
+        "longitude": 125.2,
+        "depth_km": 18.0,
+        "magnitude": 2.4,
+        "location": "063km S 22Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2,
+          4.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "09:03 AM",
+        "time_24": "09:03",
+        "latitude": 6.69,
+        "longitude": 124.38,
+        "depth_km": 4.0,
+        "magnitude": 2.4,
+        "location": "014km S 63Â° W of Datu Abdullah Sangki (Maguindanao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.38,
+          6.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "07:27 AM",
+        "time_24": "07:27",
+        "latitude": 8.38,
+        "longitude": 126.67,
+        "depth_km": 34.0,
+        "magnitude": 2.1,
+        "location": "037km N 88Â° E of Hinatuan (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.67,
+          8.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "06:51 AM",
+        "time_24": "06:51",
+        "latitude": 9.35,
+        "longitude": 126.17,
+        "depth_km": 33.0,
+        "magnitude": 2.0,
+        "location": "009km N 16Â° W of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.17,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "05:56 AM",
+        "time_24": "05:56",
+        "latitude": 17.71,
+        "longitude": 120.25,
+        "depth_km": 31.0,
+        "magnitude": 2.4,
+        "location": "018km N 58Â° W of San Ildefonso (Ilocos Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25,
+          17.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "05:45 AM",
+        "time_24": "05:45",
+        "latitude": 9.0,
+        "longitude": 126.51,
+        "depth_km": 33.0,
+        "magnitude": 1.9,
+        "location": "024km N 69Â° E of Cagwait (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.51,
+          9.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "21 November 2026",
+        "time": "05:29 AM",
+        "time_24": "05:29",
+        "latitude": 17.42,
+        "longitude": 120.7,
+        "depth_km": 6.0,
+        "magnitude": 1.7,
+        "location": "002km S 15Â° W of Manabo (Abra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          17.42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -568,17 +708,17 @@
         "date": "20 November 2026",
         "time": "03:16 PM",
         "time_24": "15:16",
-        "latitude": 16.25,
-        "longitude": 121.39,
-        "depth_km": 23.0,
-        "magnitude": 1.7,
-        "location": "012km S 54Â° E of Kasibu (Nueva Vizcaya)"
+        "latitude": 16.26,
+        "longitude": 121.41,
+        "depth_km": 29.0,
+        "magnitude": 1.9,
+        "location": "014km S 62Â° E of Kasibu (Nueva Vizcaya)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.39,
-          16.25
+          121.41,
+          16.26
         ]
       }
     },
@@ -728,17 +868,17 @@
         "date": "20 November 2026",
         "time": "12:00 PM",
         "time_24": "12:00",
-        "latitude": 5.55,
-        "longitude": 125.23,
-        "depth_km": 16.0,
+        "latitude": 5.56,
+        "longitude": 125.22,
+        "depth_km": 5.0,
         "magnitude": 2.5,
-        "location": "026km N 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "location": "028km N 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.23,
-          5.55
+          125.22,
+          5.56
         ]
       }
     },
@@ -750,9 +890,9 @@
         "time_24": "11:23",
         "latitude": 5.55,
         "longitude": 125.24,
-        "depth_km": 17.0,
-        "magnitude": 2.1,
-        "location": "025km N 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+        "depth_km": 16.0,
+        "magnitude": 2.2,
+        "location": "026km N 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
       },
       "geometry": {
         "type": "Point",
@@ -768,17 +908,17 @@
         "date": "20 November 2026",
         "time": "11:22 AM",
         "time_24": "11:22",
-        "latitude": 8.42,
-        "longitude": 126.9,
-        "depth_km": 10.0,
+        "latitude": 8.43,
+        "longitude": 127.13,
+        "depth_km": 23.0,
         "magnitude": 2.1,
-        "location": "062km N 84Â° E of Hinatuan (Surigao Del Sur)"
+        "location": "088km N 86Â° E of Hinatuan (Surigao Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9,
-          8.42
+          127.13,
+          8.43
         ]
       }
     },
