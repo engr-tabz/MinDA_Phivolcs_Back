@@ -1,7 +1,247 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-24T21:03:18.498519+00:00",
+  "generated_at": "2026-11-25T04:06:55.910573+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "11:41 AM",
+        "time_24": "11:41",
+        "latitude": 5.75,
+        "longitude": 125.33,
+        "depth_km": 28.0,
+        "magnitude": 1.8,
+        "location": "016km S 62Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33,
+          5.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "10:06 AM",
+        "time_24": "10:06",
+        "latitude": 10.92,
+        "longitude": 122.23,
+        "depth_km": 19.0,
+        "magnitude": 2.3,
+        "location": "015km S 49Â° E of Valderrama (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23,
+          10.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "09:21 AM",
+        "time_24": "09:21",
+        "latitude": 6.47,
+        "longitude": 125.27,
+        "depth_km": 27.0,
+        "magnitude": 2.3,
+        "location": "010km North of Malungon (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27,
+          6.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "09:13 AM",
+        "time_24": "09:13",
+        "latitude": 15.21,
+        "longitude": 120.26,
+        "depth_km": 23.0,
+        "magnitude": 2.2,
+        "location": "023km N 75Â° E of Cabangan (Zambales)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          15.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "08:56 AM",
+        "time_24": "08:56",
+        "latitude": 9.49,
+        "longitude": 126.23,
+        "depth_km": 33.0,
+        "magnitude": 1.7,
+        "location": "024km N 09Â° E of Cortes (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          9.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "08:36 AM",
+        "time_24": "08:36",
+        "latitude": 10.97,
+        "longitude": 122.27,
+        "depth_km": 21.0,
+        "magnitude": 2.5,
+        "location": "016km S 78Â° E of Valderrama (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27,
+          10.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "08:29 AM",
+        "time_24": "08:29",
+        "latitude": 7.94,
+        "longitude": 126.53,
+        "depth_km": 28.0,
+        "magnitude": 2.4,
+        "location": "017km S 51Â° E of Lingig (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53,
+          7.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "07:46 AM",
+        "time_24": "07:46",
+        "latitude": 10.02,
+        "longitude": 126.34,
+        "depth_km": 19.0,
+        "magnitude": 2.5,
+        "location": "029km N 89Â° E of Burgos (Surigao Del Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34,
+          10.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "07:29 AM",
+        "time_24": "07:29",
+        "latitude": 10.93,
+        "longitude": 122.21,
+        "depth_km": 19.0,
+        "magnitude": 5.1,
+        "location": "012km S 49Â° E of Valderrama (Antique)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21,
+          10.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "05:49 AM",
+        "time_24": "05:49",
+        "latitude": 12.4,
+        "longitude": 121.89,
+        "depth_km": 79.0,
+        "magnitude": 1.3,
+        "location": "009km N 33Â° W of Ferrol (Romblon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.89,
+          12.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "05:46 AM",
+        "time_24": "05:46",
+        "latitude": 5.69,
+        "longitude": 125.25,
+        "depth_km": 31.0,
+        "magnitude": 2.0,
+        "location": "015km S 18Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "25 November 2026",
+        "time": "05:25 AM",
+        "time_24": "05:25",
+        "latitude": 8.73,
+        "longitude": 126.59,
+        "depth_km": 15.0,
+        "magnitude": 2.5,
+        "location": "033km S 76Â° E of Marihatag (Surigao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59,
+          8.73
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -208,17 +448,17 @@
         "date": "25 November 2026",
         "time": "01:01 AM",
         "time_24": "01:01",
-        "latitude": 8.51,
-        "longitude": 122.54,
-        "depth_km": 10.0,
-        "magnitude": 4.4,
-        "location": "045km N 18Â° W of Liloy (Zamboanga Del Norte)"
+        "latitude": 8.47,
+        "longitude": 122.52,
+        "depth_km": 38.0,
+        "magnitude": 4.6,
+        "location": "042km N 23Â° W of Liloy (Zamboanga Del Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.54,
-          8.51
+          122.52,
+          8.47
         ]
       }
     },
@@ -588,17 +828,17 @@
         "date": "24 November 2026",
         "time": "05:33 PM",
         "time_24": "17:33",
-        "latitude": 17.67,
-        "longitude": 120.89,
-        "depth_km": 8.0,
-        "magnitude": 2.0,
-        "location": "006km N 83Â° W of Lacub (Abra)"
+        "latitude": 18.15,
+        "longitude": 120.84,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "004km S 77Â° E of Carasi (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.89,
-          17.67
+          120.84,
+          18.15
         ]
       }
     },
@@ -608,17 +848,17 @@
         "date": "24 November 2026",
         "time": "04:48 PM",
         "time_24": "16:48",
-        "latitude": 5.87,
-        "longitude": 125.33,
-        "depth_km": 18.0,
-        "magnitude": 1.5,
-        "location": "012km S 19Â° E of Malapatan (Sarangani)"
+        "latitude": 5.88,
+        "longitude": 125.34,
+        "depth_km": 21.0,
+        "magnitude": 1.7,
+        "location": "011km S 31Â° E of Malapatan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.33,
-          5.87
+          125.34,
+          5.88
         ]
       }
     },
@@ -688,17 +928,17 @@
         "date": "24 November 2026",
         "time": "03:56 PM",
         "time_24": "15:56",
-        "latitude": 17.91,
-        "longitude": 120.61,
-        "depth_km": 20.0,
-        "magnitude": 2.3,
-        "location": "005km S 88Â° W of Nueva Era (Ilocos Norte)"
+        "latitude": 17.96,
+        "longitude": 120.6,
+        "depth_km": 17.0,
+        "magnitude": 2.2,
+        "location": "006km S 72Â° W of Banna (Ilocos Norte)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.61,
-          17.91
+          120.6,
+          17.96
         ]
       }
     },
@@ -728,17 +968,17 @@
         "date": "24 November 2026",
         "time": "01:56 PM",
         "time_24": "13:56",
-        "latitude": 5.64,
-        "longitude": 125.29,
-        "depth_km": 35.0,
-        "magnitude": 2.0,
-        "location": "022km S 25Â° E of Glan (Sarangani)"
+        "latitude": 5.84,
+        "longitude": 125.34,
+        "depth_km": 22.0,
+        "magnitude": 2.1,
+        "location": "015km N 82Â° E of Glan (Sarangani)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29,
-          5.64
+          125.34,
+          5.84
         ]
       }
     },
@@ -768,17 +1008,17 @@
         "date": "24 November 2026",
         "time": "01:26 PM",
         "time_24": "13:26",
-        "latitude": 17.66,
-        "longitude": 120.72,
-        "depth_km": 17.0,
+        "latitude": 17.74,
+        "longitude": 120.64,
+        "depth_km": 11.0,
         "magnitude": 1.9,
-        "location": "002km N 48Â° E of Dolores (Abra)"
+        "location": "006km N 31Â° W of Danglas (Abra)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.72,
-          17.66
+          120.64,
+          17.74
         ]
       }
     },
@@ -788,17 +1028,17 @@
         "date": "24 November 2026",
         "time": "01:04 PM",
         "time_24": "13:04",
-        "latitude": 19.17,
-        "longitude": 121.28,
-        "depth_km": 14.0,
-        "magnitude": 2.5,
-        "location": "011km N 48Â° E of Dalupiri Island (Calayan) (Cagayan)"
+        "latitude": 19.36,
+        "longitude": 121.23,
+        "depth_km": 30.0,
+        "magnitude": 2.3,
+        "location": "028km N 06Â° E of Dalupiri Island (Calayan) (Cagayan)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.28,
-          19.17
+          121.23,
+          19.36
         ]
       }
     },
@@ -808,17 +1048,17 @@
         "date": "24 November 2026",
         "time": "12:42 PM",
         "time_24": "12:42",
-        "latitude": 17.03,
-        "longitude": 121.49,
-        "depth_km": 10.0,
-        "magnitude": 2.3,
-        "location": "012km N 01Â° W of Alfonso Lista (Ifugao)"
+        "latitude": 17.02,
+        "longitude": 121.48,
+        "depth_km": 17.0,
+        "magnitude": 2.4,
+        "location": "011km N 03Â° W of Alfonso Lista (Ifugao)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.49,
-          17.03
+          121.48,
+          17.02
         ]
       }
     },
@@ -828,17 +1068,17 @@
         "date": "24 November 2026",
         "time": "12:41 PM",
         "time_24": "12:41",
-        "latitude": 7.2,
-        "longitude": 123.65,
+        "latitude": 7.27,
+        "longitude": 123.63,
         "depth_km": 31.0,
         "magnitude": 1.8,
-        "location": "039km S 42Â° E of Tabina (Zamboanga Del Sur)"
+        "location": "032km S 49Â° E of Tabina (Zamboanga Del Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.65,
-          7.2
+          123.63,
+          7.27
         ]
       }
     },
