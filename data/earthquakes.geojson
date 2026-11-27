@@ -1,7 +1,127 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-11-26T23:48:26.902033+00:00",
+  "generated_at": "2026-11-27T05:26:09.401737+00:00",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "12:50 PM",
+        "time_24": "12:50",
+        "latitude": 10.57,
+        "longitude": 126.12,
+        "depth_km": 14.0,
+        "magnitude": 3.0,
+        "location": "048km S 66Â° E of Homonhon Island (Guiuan) (Eastern Samar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.12,
+          10.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "12:17 PM",
+        "time_24": "12:17",
+        "latitude": 2.43,
+        "longitude": 127.37,
+        "depth_km": 164.0,
+        "magnitude": 3.4,
+        "location": "394km S 33Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.37,
+          2.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "11:35 AM",
+        "time_24": "11:35",
+        "latitude": 6.75,
+        "longitude": 125.37,
+        "depth_km": 4.0,
+        "magnitude": 1.9,
+        "location": "002km N 79Â° E of City Of Digos (Davao Del Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37,
+          6.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "11:17 AM",
+        "time_24": "11:17",
+        "latitude": 3.1,
+        "longitude": 126.23,
+        "depth_km": 115.0,
+        "magnitude": 3.4,
+        "location": "271km S 19Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.23,
+          3.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "10:37 AM",
+        "time_24": "10:37",
+        "latitude": 11.04,
+        "longitude": 123.98,
+        "depth_km": 8.0,
+        "magnitude": 2.1,
+        "location": "001km S 05Â° E of City Of Bogo (Cebu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98,
+          11.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "27 November 2026",
+        "time": "08:21 AM",
+        "time_24": "08:21",
+        "latitude": 5.77,
+        "longitude": 125.23,
+        "depth_km": 32.0,
+        "magnitude": 1.5,
+        "location": "006km S 25Â° E of Glan (Sarangani)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.23,
+          5.77
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -569,15 +689,15 @@
         "time": "05:09 PM",
         "time_24": "17:09",
         "latitude": 13.86,
-        "longitude": 122.58,
+        "longitude": 122.56,
         "depth_km": 3.0,
-        "magnitude": 1.6,
-        "location": "007km S 16Â° W of Del Gallego (Camarines Sur)"
+        "magnitude": 1.9,
+        "location": "008km S 34Â° W of Del Gallego (Camarines Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.58,
+          122.56,
           13.86
         ]
       }
@@ -606,19 +726,19 @@
       "type": "Feature",
       "properties": {
         "date": "26 November 2026",
-        "time": "03:23 PM",
-        "time_24": "15:23",
-        "latitude": 6.95,
-        "longitude": 127.23,
-        "depth_km": 37.0,
-        "magnitude": 2.5,
-        "location": "081km S 69Â° E of Manay (Davao Oriental)"
+        "time": "03:22 PM",
+        "time_24": "15:22",
+        "latitude": 6.83,
+        "longitude": 127.64,
+        "depth_km": 84.0,
+        "magnitude": 2.8,
+        "location": "128km S 71Â° E of Manay (Davao Oriental)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.23,
-          6.95
+          127.64,
+          6.83
         ]
       }
     },
@@ -628,17 +748,17 @@
         "date": "26 November 2026",
         "time": "03:20 PM",
         "time_24": "15:20",
-        "latitude": 17.43,
-        "longitude": 120.26,
-        "depth_km": 33.0,
+        "latitude": 17.51,
+        "longitude": 120.23,
+        "depth_km": 3.0,
         "magnitude": 1.5,
-        "location": "019km S 45Â° W of Caoayan (Ilocos Sur)"
+        "location": "016km S 77Â° W of Caoayan (Ilocos Sur)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.26,
-          17.43
+          120.23,
+          17.51
         ]
       }
     },
@@ -648,17 +768,17 @@
         "date": "26 November 2026",
         "time": "03:11 PM",
         "time_24": "15:11",
-        "latitude": 13.71,
-        "longitude": 120.6,
-        "depth_km": 93.0,
-        "magnitude": 1.6,
-        "location": "014km S 16Â° W of Calatagan (Batangas)"
+        "latitude": 13.69,
+        "longitude": 120.59,
+        "depth_km": 92.0,
+        "magnitude": 2.2,
+        "location": "017km S 16Â° W of Calatagan (Batangas)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.6,
-          13.71
+          120.59,
+          13.69
         ]
       }
     },
